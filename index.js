@@ -6,24 +6,29 @@ const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
 
 async function main() {
-    async function getHeros() {
-        let heros = [];
+    async function getHeroes() {
+        let heroes = [];
         try {
             const response = await axios.get(`https://sheets.googleapis.com/v4/spreadsheets/1PYlfnHxUJFc_GYtFCpcvAIb3QbxYtBGQq9Ra2eltT3g/values/[MM]Detail%20Cases?key=${SPREADSHEET_SECRETKEY}`);
-            heros = response.data;
+            heroes = response.data;
         } catch (error) {
             console.error(error);
         }
-        return heros;
+        return heroes;
     }
 
     function writeJsonToFile(jsonObj = {}, fileName = '') {
         // fileName မှာ / ပါခဲ့ရင် directory ကိုမရှိသေးရင် တည်ဆောက်ပေး
+        // console.log(`writeJsonToFile`, fileName);
         if (fileName.indexOf('/') > -1) {
             let fileNameArr = fileName.split('/');
-            fileNameArr = fileNameArr.splice(0, 1);
+            fileNameArr.length = fileNameArr.length - 1;
+            let dirName = `${VERSION_NO}/`;
+            if (!fs.existsSync(dirName)) {
+                fs.mkdirSync(dirName);
+            }
             fileNameArr.forEach((e) => {
-                let dirName = `${VERSION_NO}/${e}`;
+                dirName += `${e}/`;
                 if (!fs.existsSync(dirName)) {
                     fs.mkdirSync(dirName);
                 }
@@ -50,20 +55,135 @@ async function main() {
         if (isOnlyDigit) {
             d = d.replace(/-/g, '');
         }
+        // date ဟုတ်မဟုတ် သေချာအောင်ထပ်ပြန်စစ်ပေးပြီး မဟုတ်ရင် '' ကိုပဲ return ပြန်ပေးလိုက်မယ်
+        if (!d.match(/^[0-9\-]+$/i)) {
+            return '';
+        }
         return d;
     }
 
-    function createJSON(todayJSON) {
-        const heros = JSON.parse(fs.readFileSync(`${VERSION_NO}/${todayJSON}.json`));
+    function pushToJSON(pushJSON, jsonKey, hero) {
+        if (jsonKey) {
+            if (!pushJSON[jsonKey]) {
+                pushJSON[jsonKey] = [];
+            }
+            pushJSON[jsonKey].push(hero);
+        } else {
+            if (!pushJSON[UNKNOWN_NAME]) {
+                pushJSON[UNKNOWN_NAME] = [];
+            }
+            pushJSON[UNKNOWN_NAME].push(hero);
+        }
+    }
+
+    function createRecursiveJsonFiles(recJSON, fileName, summaryJSON) {
+        writeJsonToFile(recJSON, fileName);
+        for (const key in recJSON) {
+            writeJsonToFile(recJSON[key], `${fileName}/${key}`);
+            summaryJSON[fileName][key] = recJSON[key].length;
+        }
+    }
+
+    function heroAgeHumanReadable(ageJSON, heroAge, hero) {
+        if (heroAge) {
+            let ageName = '';
+            if (heroAge < 10) {
+                ageName = 'under10';
+                pushToJSON(ageJSON, ageName, hero);
+            } 
+            
+            if (heroAge < 16) {
+                ageName = 'under16';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge < 20) {
+                ageName = 'under20';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+            
+            if (heroAge >= 0 && heroAge <= 9) {
+                ageName = '0th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 10 && heroAge <= 19) {
+                ageName = '10th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 20 && heroAge <= 29) {
+                ageName = '20th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 30 && heroAge <= 39) {
+                ageName = '30th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 40 && heroAge <= 49) {
+                ageName = '40th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 50 && heroAge <= 59) {
+                ageName = '50th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 60 && heroAge <= 69) {
+                ageName = '60th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 70 && heroAge <= 79) {
+                ageName = '70th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 80 && heroAge <= 89) {
+                ageName = '80th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+
+            if (heroAge >= 90 && heroAge <= 99) {
+                ageName = '90th';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+        }
+    }
+
+    function createJSON(heroes) {
+        let todayDate = `backup/${getFormattedDate(new Date(), true)}/raw`;
+        let heroesFromBackup = [];
+
+        try {
+            heroesFromBackup = JSON.parse(fs.readFileSync(`${VERSION_NO}/${todayDate}.json`));
+            console.log(`file reading finished`);
+        } catch (e) {
+            console.log(`file for ${todayDate} not exist yet`);
+        }
+
+        isHeroesNotChanging = JSON.stringify(heroes) === JSON.stringify(heroesFromBackup);
+        console.log(`isHeroesNotChanging`, isHeroesNotChanging);
+        
+        // အပြောင်းအလဲမရှိသေးတာမို့လို့ ဆက်လုပ်ဖို့မလိုအပ်
+        if (isHeroesNotChanging) return;
+
+        console.log(`createJSON`);
+        writeJsonToFile(heroes, todayDate);
 
         let summaryJSON = {
             total: 0,
-            gender: {}
+            gender: {},
+            age: {}
         };
         let heroJSON = [];
         let genderJSON = {};
-        for (let i = 1; i < heros.values.length; i++) {
-            let heroVal = heros.values[i];
+        let ageJSON = {};
+        for (let i = 1; i < heroes.values.length; i++) {
+            let heroVal = heroes.values[i];
 
             let heroName = heroVal[0];
             let fallenDay = getFormattedDate(heroVal[1]);
@@ -92,39 +212,26 @@ async function main() {
                 // heroJSON
                 heroJSON.push(hero);
 
-                // genderJSON
-                if (heroGender) {
-                    if (!genderJSON[heroGender]) {
-                        genderJSON[heroGender] = [];
-                    }
-                    genderJSON[heroGender].push(hero);
-                } else {
-                    if (!genderJSON[UNKNOWN_NAME]) {
-                        genderJSON[UNKNOWN_NAME] = [];
-                    }
-                    genderJSON[UNKNOWN_NAME].push(hero);
-                }
+                pushToJSON(genderJSON, heroGender, hero);
+                pushToJSON(ageJSON, heroAge, hero);
+                // အသက်နဲ့ပတ်သတ်ပြီး ၁၆နှစ်အောက် ၁၀နှစ်အောက် ၂၀နှစ်အောက်နဲ့ ၂၀-၂၉ကြား ၃၀-၃၉ကြား စသဖြင့်လည်း ခွဲခြားချင်
+                heroAgeHumanReadable(ageJSON, heroAge, hero);
             }
         } // end for
 
         writeJsonToFile(heroJSON, 'hero');
+        summaryJSON['total'] = heroJSON.length;
 
-        writeJsonToFile(genderJSON, 'gender');
-        for (const gender in genderJSON) {
-            writeJsonToFile(genderJSON[gender], `gender/${gender}`);
-            summaryJSON['gender'][gender] = genderJSON[gender].length;
-            summaryJSON['total'] += genderJSON[gender].length;
-        }
+        createRecursiveJsonFiles(genderJSON, 'gender', summaryJSON);
+        createRecursiveJsonFiles(ageJSON, 'age', summaryJSON);
 
         // summary
         writeJsonToFile(summaryJSON, 'summary');
     }
 
-    let todayDate = getFormattedDate(new Date(), true);
-    // const heros = await getHeros();
-    // writeJsonToFile(heros, `${todayDate}/raw`);
+    const heroes = await getHeroes();
 
-    createJSON(`${todayDate}/raw`);
+    createJSON(heroes);
 }
 
 main();
