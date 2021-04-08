@@ -4,6 +4,7 @@ const fs = require('fs');
 const SPREADSHEET_SECRETKEY = process.env.SPREADSHEET_SECRETKEY;
 const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
+let CITY_STATE = {};
 
 async function main() {
     async function getHeroes() {
@@ -15,6 +16,10 @@ async function main() {
             console.error(error);
         }
         return heroes;
+    }
+
+    function readJsonFromFile(fileName) {
+        return JSON.parse(fs.readFileSync(fileName))
     }
 
     function writeJsonToFile(jsonObj = {}, fileName = '') {
@@ -63,6 +68,14 @@ async function main() {
             return '';
         }
         return d;
+    }
+
+    function replaceMyanmarZeroWithWaLone(myanmarText) {
+        return myanmarText.replace(/၀/g, 'ဝ');
+    }
+
+    function fixStateNameForWrongCityName(cityName) {
+        return CITY_STATE[cityName] ? CITY_STATE[cityName] : cityName;
     }
 
     function camelCaseToDash(myStr) {
@@ -169,7 +182,7 @@ async function main() {
         let heroesFromBackup = [];
 
         try {
-            heroesFromBackup = JSON.parse(fs.readFileSync(`${VERSION_NO}/${todayDate}.json`));
+            heroesFromBackup = readJsonFromFile(`${VERSION_NO}/${todayDate}.json`);
             console.log(`file reading finished`);
         } catch (e) {
             console.log(`file for ${todayDate} not exist yet`);
@@ -191,18 +204,22 @@ async function main() {
         let genderJSON = {};
         let ageJSON = {};
         let fallenDayJSON = {};
+        let fallenCityJSON = {};
+        let fallenStateJSON = {};
         for (let i = 1; i < heroes.values.length; i++) {
             let heroVal = heroes.values[i];
 
-            let heroName = heroVal[0] ? heroVal[0] : '';
             let fallenDay = getFormattedDate(heroVal[1]);
-            let heroAge = heroVal[2] ? heroVal[2] : '';
-            let heroGender = heroVal[3].toLowerCase();
-            let fallenCity = heroVal[4] ? heroVal[4] : '';
-            let fallenState = heroVal[5] ? heroVal[5] : '';
-            let fallenPlace = heroVal[6] ? heroVal[6] : '';
-            let heroPlace = heroVal[7] ? heroVal[7] : '';
-            let fallenCause = heroVal[8] ? heroVal[8] : '';
+            let heroName = heroVal[0] ? heroVal[0].trim() : '';
+            let heroAge = heroVal[2] ? heroVal[2].trim() : '';
+            let heroGender = heroVal[3] ? heroVal[3].toLowerCase().trim() : '';
+            let fallenCity = heroVal[4] ? heroVal[4].trim() : '';
+            let fallenState = heroVal[5] ? replaceMyanmarZeroWithWaLone(heroVal[5].trim()) : '';
+            let fallenPlace = heroVal[6] ? replaceMyanmarZeroWithWaLone(heroVal[6].trim()) : '';
+            let heroPlace = heroVal[7] ? heroVal[7].trim() : '';
+            let fallenCause = heroVal[8] ? heroVal[8].trim() : '';
+
+            fallenState = fixStateNameForWrongCityName(fallenState);
 
             let hero = {
                 heroName,
@@ -216,16 +233,35 @@ async function main() {
                 fallenCause
             };
 
-            // ကျဆုံးတဲ့ရက်ပါတာပေါ်မူတည်ပြီး မှတ်စုသက်သက် or ကျဆုံးသူကိုခွဲခြား
-            if (fallenDay) {
+            // ကျဆုံးတဲ့တိုင်းဒေသကြီးပါတာပေါ်မူတည်ပြီး မှတ်စုသက်သက် or ကျဆုံးသူကိုခွဲခြား
+            if (fallenState) {
                 // heroJSON
                 heroJSON.push(hero);
 
                 pushToJSON(genderJSON, heroGender, hero);
                 pushToJSON(ageJSON, heroAge, hero);
                 pushToJSON(fallenDayJSON, fallenDay, hero);
+                pushToJSON(fallenCityJSON, fallenCity, hero);
+                pushToJSON(fallenStateJSON, fallenState, hero);
                 // အသက်နဲ့ပတ်သတ်ပြီး ၁၆နှစ်အောက် ၁၀နှစ်အောက် ၂၀နှစ်အောက်နဲ့ ၂၀-၂၉ကြား ၃၀-၃၉ကြား စသဖြင့်လည်း ခွဲခြားချင်
                 heroAgeHumanReadable(ageJSON, heroAge, hero);
+
+                if (fallenState && fallenCity) {
+                    if (!summaryJSON['fallenStateCity']) {
+                        summaryJSON['fallenStateCity'] = {};
+                    }
+                    if (!summaryJSON['fallenStateCity'][fallenState]) {
+                        summaryJSON['fallenStateCity'][fallenState] = {
+                            total: 0,
+                            city: {}
+                        };
+                    }
+                    summaryJSON['fallenStateCity'][fallenState]['total']++;
+                    if (!summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity]) {
+                        summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity] = 0;
+                    }
+                    summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity]++;
+                }                
             }
         } // end for
 
@@ -235,11 +271,14 @@ async function main() {
         createRecursiveJsonFiles(genderJSON, 'gender', summaryJSON);
         createRecursiveJsonFiles(ageJSON, 'age', summaryJSON);
         createRecursiveJsonFiles(fallenDayJSON, 'fallenDay', summaryJSON);
+        createRecursiveJsonFiles(fallenCityJSON, 'fallenCity', summaryJSON);
+        createRecursiveJsonFiles(fallenStateJSON, 'fallenState', summaryJSON);
 
         // summary
         writeJsonToFile(summaryJSON, 'summary');
     }
 
+    CITY_STATE = readJsonFromFile(`state-city.json`);
     const heroes = await getHeroes();
 
     createJSON(heroes);
