@@ -18,6 +18,9 @@ async function main() {
     }
 
     function writeJsonToFile(jsonObj = {}, fileName = '') {
+        // fileName or folderName ကို camelCase မလိုချင်
+        fileName = camelCaseToDash(fileName);
+
         // fileName မှာ / ပါခဲ့ရင် directory ကိုမရှိသေးရင် တည်ဆောက်ပေး
         // console.log(`writeJsonToFile`, fileName);
         if (fileName.indexOf('/') > -1) {
@@ -62,6 +65,10 @@ async function main() {
         return d;
     }
 
+    function camelCaseToDash(myStr) {
+        return myStr.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase();
+    }
+
     function pushToJSON(pushJSON, jsonKey, hero) {
         if (jsonKey) {
             if (!pushJSON[jsonKey]) {
@@ -76,11 +83,14 @@ async function main() {
         }
     }
 
-    function createRecursiveJsonFiles(recJSON, fileName, summaryJSON) {
-        writeJsonToFile(recJSON, fileName);
+    function createRecursiveJsonFiles(recJSON, jsonKeyName, summaryJSON) {
+        writeJsonToFile(recJSON, jsonKeyName);
         for (const key in recJSON) {
-            writeJsonToFile(recJSON[key], `${fileName}/${key}`);
-            summaryJSON[fileName][key] = recJSON[key].length;
+            writeJsonToFile(recJSON[key], `${jsonKeyName}/${key}`);
+            if (!summaryJSON[jsonKeyName]) {
+                summaryJSON[jsonKeyName] = {};
+            }
+            summaryJSON[jsonKeyName][key] = recJSON[key].length;
         }
     }
 
@@ -90,8 +100,8 @@ async function main() {
             if (heroAge < 10) {
                 ageName = 'under10';
                 pushToJSON(ageJSON, ageName, hero);
-            } 
-            
+            }
+
             if (heroAge < 16) {
                 ageName = 'under16';
                 pushToJSON(ageJSON, ageName, hero);
@@ -101,7 +111,7 @@ async function main() {
                 ageName = 'under20';
                 pushToJSON(ageJSON, ageName, hero);
             }
-            
+
             if (heroAge >= 0 && heroAge <= 9) {
                 ageName = '0th';
                 pushToJSON(ageJSON, ageName, hero);
@@ -167,7 +177,7 @@ async function main() {
 
         isHeroesNotChanging = JSON.stringify(heroes) === JSON.stringify(heroesFromBackup);
         console.log(`isHeroesNotChanging`, isHeroesNotChanging);
-        
+
         // အပြောင်းအလဲမရှိသေးတာမို့လို့ ဆက်လုပ်ဖို့မလိုအပ်
         if (isHeroesNotChanging) return;
 
@@ -175,25 +185,24 @@ async function main() {
         writeJsonToFile(heroes, todayDate);
 
         let summaryJSON = {
-            total: 0,
-            gender: {},
-            age: {}
+            total: 0
         };
         let heroJSON = [];
         let genderJSON = {};
         let ageJSON = {};
+        let fallenDayJSON = {};
         for (let i = 1; i < heroes.values.length; i++) {
             let heroVal = heroes.values[i];
 
-            let heroName = heroVal[0];
+            let heroName = heroVal[0] ? heroVal[0] : '';
             let fallenDay = getFormattedDate(heroVal[1]);
-            let heroAge = heroVal[2];
+            let heroAge = heroVal[2] ? heroVal[2] : '';
             let heroGender = heroVal[3].toLowerCase();
-            let fallenCity = heroVal[4];
-            let fallenState = heroVal[5];
-            let fallenPlace = heroVal[6];
-            let heroPlace = heroVal[7];
-            let fallenCause = heroVal[8];
+            let fallenCity = heroVal[4] ? heroVal[4] : '';
+            let fallenState = heroVal[5] ? heroVal[5] : '';
+            let fallenPlace = heroVal[6] ? heroVal[6] : '';
+            let heroPlace = heroVal[7] ? heroVal[7] : '';
+            let fallenCause = heroVal[8] ? heroVal[8] : '';
 
             let hero = {
                 heroName,
@@ -214,6 +223,7 @@ async function main() {
 
                 pushToJSON(genderJSON, heroGender, hero);
                 pushToJSON(ageJSON, heroAge, hero);
+                pushToJSON(fallenDayJSON, fallenDay, hero);
                 // အသက်နဲ့ပတ်သတ်ပြီး ၁၆နှစ်အောက် ၁၀နှစ်အောက် ၂၀နှစ်အောက်နဲ့ ၂၀-၂၉ကြား ၃၀-၃၉ကြား စသဖြင့်လည်း ခွဲခြားချင်
                 heroAgeHumanReadable(ageJSON, heroAge, hero);
             }
@@ -224,6 +234,7 @@ async function main() {
 
         createRecursiveJsonFiles(genderJSON, 'gender', summaryJSON);
         createRecursiveJsonFiles(ageJSON, 'age', summaryJSON);
+        createRecursiveJsonFiles(fallenDayJSON, 'fallenDay', summaryJSON);
 
         // summary
         writeJsonToFile(summaryJSON, 'summary');
