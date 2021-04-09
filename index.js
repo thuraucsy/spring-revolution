@@ -2,6 +2,7 @@ const axios = require('axios').default;
 const fs = require('fs');
 
 const SPREADSHEET_SECRETKEY = process.env.SPREADSHEET_SECRETKEY;
+const BUILD_FOLDER = 'build';
 const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
 let CITY_STATE = {};
@@ -31,7 +32,7 @@ async function main() {
         if (fileName.indexOf('/') > -1) {
             let fileNameArr = fileName.split('/');
             fileNameArr.length = fileNameArr.length - 1;
-            let dirName = `${VERSION_NO}/`;
+            let dirName = `${BUILD_FOLDER}/${VERSION_NO}/`;
             if (!fs.existsSync(dirName)) {
                 fs.mkdirSync(dirName);
             }
@@ -50,7 +51,7 @@ async function main() {
         }
 
         let jsonString = JSON.stringify(jsonObj, null, 4);
-        fs.writeFileSync(`${VERSION_NO}/${fileName}.json`, jsonString);
+        fs.writeFileSync(`${BUILD_FOLDER}/${VERSION_NO}/${fileName}.json`, jsonString);
     }
 
     function getFormattedDate(date, isOnlyDigit = false) {
@@ -182,7 +183,7 @@ async function main() {
         let heroesFromBackup = [];
 
         try {
-            heroesFromBackup = readJsonFromFile(`${VERSION_NO}/${todayDate}.json`);
+            heroesFromBackup = readJsonFromFile(`${BUILD_FOLDER}/${VERSION_NO}/${todayDate}.json`);
             console.log(`file reading finished`);
         } catch (e) {
             console.log(`file for ${todayDate} not exist yet`);
