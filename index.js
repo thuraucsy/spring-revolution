@@ -246,30 +246,29 @@ async function main() {
                 // အသက်နဲ့ပတ်သတ်ပြီး ၁၆နှစ်အောက် ၁၀နှစ်အောက် ၂၀နှစ်အောက်နဲ့ ၂၀-၂၉ကြား ၃၀-၃၉ကြား စသဖြင့်လည်း ခွဲခြားချင်
                 heroAgeHumanReadable(ageJSON, heroAge, hero);
 
-                if (fallenState && fallenCity) {
-                    if (!summaryJSON['fallenStateCity']) {
-                        summaryJSON['fallenStateCity'] = {};
-                    }
-                    if (!summaryJSON['fallenStateCity'][fallenState]) {
-                        summaryJSON['fallenStateCity'][fallenState] = {
-                            total: 0,
-                            city: {}
-                        };
-                    }
-                    summaryJSON['fallenStateCity'][fallenState]['total']++;
-                    if (!summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity]) {
-                        summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity] = 0;
-                    }
-                    summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity]++;
+                if (!summaryJSON['fallenStateCity']) {
+                    summaryJSON['fallenStateCity'] = {};
+                }
+                if (!summaryJSON['fallenStateCity'][fallenState]) {
+                    summaryJSON['fallenStateCity'][fallenState] = {
+                        total: 0,
+                        city: {}
+                    };
+                }
+                let fallenCityKeyName = fallenCity ? fallenCity : UNKNOWN_NAME;
+                summaryJSON['fallenStateCity'][fallenState]['total']++;
+                if (!summaryJSON['fallenStateCity'][fallenState]['city'][fallenCityKeyName]) {
+                    summaryJSON['fallenStateCity'][fallenState]['city'][fallenCityKeyName] = 0;
+                }
+                summaryJSON['fallenStateCity'][fallenState]['city'][fallenCityKeyName]++;
 
-                    if (!fallenStateCityJSON[fallenState]) {
-                        fallenStateCityJSON[fallenState] = {};
-                    }                    
-                    if (!fallenStateCityJSON[fallenState][fallenCity]) {
-                        fallenStateCityJSON[fallenState][fallenCity] = [];    
-                    }
-                    fallenStateCityJSON[fallenState][fallenCity].push(hero);
-                }                
+                if (!fallenStateCityJSON[fallenState]) {
+                    fallenStateCityJSON[fallenState] = {};
+                }                    
+                if (!fallenStateCityJSON[fallenState][fallenCityKeyName]) {
+                    fallenStateCityJSON[fallenState][fallenCityKeyName] = [];    
+                }
+                fallenStateCityJSON[fallenState][fallenCityKeyName].push(hero);        
             }
         } // end for
 
@@ -282,9 +281,10 @@ async function main() {
         createRecursiveJsonFiles(fallenStateJSON, 'fallenState', summaryJSON);
         
         // fallenCity က same city ရှိနိုင်တာမို့လို့ state အောက်မှာ တည်ဆောက်ပေးဖို့လိုအပ်
+        writeJsonToFile(fallenStateCityJSON, `fallenStateCity`);
         for (const fallenState in fallenStateCityJSON) {
             for (const fallenCity in fallenStateCityJSON[fallenState]) {
-                writeJsonToFile(fallenStateCityJSON[fallenState][fallenCity], `fallenCity/${fallenState}/${fallenCity}`);
+                writeJsonToFile(fallenStateCityJSON[fallenState][fallenCity], `fallenState/${fallenState}/${fallenCity}`);
             }
         }
 
