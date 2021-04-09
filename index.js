@@ -204,8 +204,8 @@ async function main() {
         let genderJSON = {};
         let ageJSON = {};
         let fallenDayJSON = {};
-        let fallenCityJSON = {};
         let fallenStateJSON = {};
+        let fallenStateCityJSON = {};
         for (let i = 1; i < heroes.values.length; i++) {
             let heroVal = heroes.values[i];
 
@@ -241,7 +241,6 @@ async function main() {
                 pushToJSON(genderJSON, heroGender, hero);
                 pushToJSON(ageJSON, heroAge, hero);
                 pushToJSON(fallenDayJSON, fallenDay, hero);
-                pushToJSON(fallenCityJSON, fallenCity, hero);
                 pushToJSON(fallenStateJSON, fallenState, hero);
                 // အသက်နဲ့ပတ်သတ်ပြီး ၁၆နှစ်အောက် ၁၀နှစ်အောက် ၂၀နှစ်အောက်နဲ့ ၂၀-၂၉ကြား ၃၀-၃၉ကြား စသဖြင့်လည်း ခွဲခြားချင်
                 heroAgeHumanReadable(ageJSON, heroAge, hero);
@@ -261,6 +260,14 @@ async function main() {
                         summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity] = 0;
                     }
                     summaryJSON['fallenStateCity'][fallenState]['city'][fallenCity]++;
+
+                    if (!fallenStateCityJSON[fallenState]) {
+                        fallenStateCityJSON[fallenState] = {};
+                    }                    
+                    if (!fallenStateCityJSON[fallenState][fallenCity]) {
+                        fallenStateCityJSON[fallenState][fallenCity] = [];    
+                    }
+                    fallenStateCityJSON[fallenState][fallenCity].push(hero);
                 }                
             }
         } // end for
@@ -271,8 +278,14 @@ async function main() {
         createRecursiveJsonFiles(genderJSON, 'gender', summaryJSON);
         createRecursiveJsonFiles(ageJSON, 'age', summaryJSON);
         createRecursiveJsonFiles(fallenDayJSON, 'fallenDay', summaryJSON);
-        createRecursiveJsonFiles(fallenCityJSON, 'fallenCity', summaryJSON);
         createRecursiveJsonFiles(fallenStateJSON, 'fallenState', summaryJSON);
+        
+        // fallenCity က same city ရှိနိုင်တာမို့လို့ state အောက်မှာ တည်ဆောက်ပေးဖို့လိုအပ်
+        for (const fallenState in fallenStateCityJSON) {
+            for (const fallenCity in fallenStateCityJSON[fallenState]) {
+                writeJsonToFile(fallenStateCityJSON[fallenState][fallenCity], `fallenCity/${fallenState}/${fallenCity}`);
+            }
+        }
 
         // summary
         writeJsonToFile(summaryJSON, 'summary');
