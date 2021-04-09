@@ -20,6 +20,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: node .
+      env:
+          SPREADSHEET_SECRETKEY: ${{ secrets.SPREADSHEET_SECRETKEY }}
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1
