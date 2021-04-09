@@ -23,6 +23,13 @@ jobs:
       env:
           SPREADSHEET_SECRETKEY: ${{ secrets.SPREADSHEET_SECRETKEY }}
 
+    - run: bash ./bin/commit.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_EMAIL: thura.ucsy@gmail.com
+        GITHUB_USERNAME: Thura Aung
+        GITHUB_REFERENCE: ${{ secrets.GIT_LOCATION }}
+
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
