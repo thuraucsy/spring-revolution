@@ -193,7 +193,7 @@ async function main() {
         console.log(`isHeroesNotChanging`, isHeroesNotChanging);
 
         // အပြောင်းအလဲမရှိသေးတာမို့လို့ ဆက်လုပ်ဖို့မလိုအပ်
-        if (isHeroesNotChanging) return;
+        // if (isHeroesNotChanging) return;
 
         console.log(`createJSON`);
         writeJsonToFile(heroes, todayDate);
