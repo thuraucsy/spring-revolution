@@ -2324,6 +2324,17 @@
             "fallenPlace": "",
             "heroPlace": "ကော့သောင်းမြို့၊ ရွှေပြည်သာရပ်ကွက်",
             "fallenCause": "Apr-1 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-5 တွင် အလောင်းလာယူရန်ပြော"
+        },
+        {
+            "heroName": "စောထက်နေမှူး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ရန်ကုန်": [
@@ -4885,7 +4896,7 @@
             "heroName": "ကိုသီဟ",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -4896,7 +4907,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -4907,7 +4918,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -4918,7 +4929,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -6283,6 +6294,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ရှမ်း": [
@@ -6971,7 +6993,18 @@
             "heroName": "",
             "fallenDay": "2021-04-10",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "ချင်း",
             "fallenPlace": "",

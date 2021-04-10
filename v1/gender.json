@@ -6225,6 +6225,94 @@
             "fallenPlace": "ကျောက်ပန်းတောင်းမြို့၊ စံပြရပ်ကွက်",
             "heroPlace": "ကျောက်ပန်းတောင်းမြို့၊ စံပြရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုသီဟ",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "စောထက်နေမှူး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [
@@ -6900,61 +6988,6 @@
             "fallenPlace": "",
             "heroPlace": "ဖာပွန်ခရိုင် လူသောမြို့နယ် ယဲမူပလောအုပ်စု မေဖွဲထာကျေးရွ",
             "fallenCause": "လက်နက်ကြီးဖြင့်ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
-        },
-        {
-            "heroName": "ကိုသီဟ",
-            "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-10",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

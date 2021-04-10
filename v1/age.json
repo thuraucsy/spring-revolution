@@ -4193,6 +4193,17 @@
             "fallenPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ယုဇနဥယျာဉ်မြို့တော်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ Mar-27 တွင်ကျည်မှန်ကာ စစ်တပ်မှ တရွတ်တိုက်ဖမ်းဆီးသွား၊ ယနေ့မနက်သေဆုံး"
+        },
+        {
+            "heroName": "စောထက်နေမှူး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "40": [
@@ -6540,6 +6551,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စောထက်နေမှူး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "unknown": [
@@ -8274,7 +8296,7 @@
             "heroName": "ကိုသီဟ",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -8285,7 +8307,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -8296,7 +8318,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -8307,7 +8329,7 @@
             "heroName": "",
             "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
@@ -8318,9 +8340,31 @@
             "heroName": "",
             "fallenDay": "2021-04-10",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""

@@ -1264,6 +1264,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စောထက်နေမှူး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
