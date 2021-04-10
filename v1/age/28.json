@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုကျော်ထက်ခေါင် (ခ) ကုလားလေး",
+            "fallenDay": "2021-02-28",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၆၈ လမ်းနှင့် ၃၄/၃၅ လမ်းကြား",
+            "heroPlace": "မန္တလေးမြို့ မဟာအောင်မြေမြို့နယ်ကျောက်ဝိုင်းနား",
+            "fallenCause": "ကျည်မှန်၊ ရင်ညွန့်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ရဲကျော်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ဝင်းကို (ခ) တရုတ်ကြီး",
+            "fallenDay": "2021-03-14",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "heroPlace": "အရှ့ဒဂုံမြို့နယ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆွာလေ့ဘ်ဘိုင်(ခ) ကိုဘေတား",
+            "fallenDay": "2021-03-17",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ကန်တော်လေးရပ်ကွက်",
+            "heroPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ကန်တော်လေးရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနေလင်းထွေး (ခ) M.ဆွာဒစ်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (မျက်လုံး) သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ရဲလင်း",
+            "fallenDay": "2021-03-25",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တောင်ဒဂုံမြို့နယ် ၁ဝ၇ ရပ်ကွက်ဂိတ်ဟောင်းမှတ်တိုင်",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ် ၁၀၇ရပ်ကွက် မြသီရီလမ်း",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းအောင်",
+            "fallenDay": "2021-03-29",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးသန့်",
+            "fallenDay": "2021-03-29",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်း မင်ဆီမင်းနိုကျင်ထန်",
+            "fallenDay": "2021-04-01",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ ချောင်းခွကျေးရွာ",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ဝေဘူလမြို့",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

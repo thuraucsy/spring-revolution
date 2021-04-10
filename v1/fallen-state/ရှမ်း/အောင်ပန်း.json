@@ -1,0 +1,125 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုကျော်သူဝင်း",
+            "fallenDay": "2021-03-19",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "အောင်ပန်းမြို့၊ ၂ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မြတ်ကို (ခ) ဖိုးဇော်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "အောင်ပန်းမြို့၊ မြို့ဟောင်း ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြတ်စိုး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုရဲထက်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုထွန်းအောင်ကျော်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုချမ်းလေး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုမင်းထက်နိုင် (ခ) ရှမ်းလေး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုဖိုးသာဦး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ဦးဝင်းမြင့် (တောင်ကြီး)ဖြစ်ဖွယ်ရှိ",
+            "fallenDay": "",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        }
+    ]
+}

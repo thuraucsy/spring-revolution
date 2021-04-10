@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုတင်ထွဋ်ဟိန်း",
+            "fallenDay": "2021-02-20",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ညကင်းစောင့်ရင်း ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဝေယံထွန်း",
+            "fallenDay": "2021-02-20",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကမ်းနားလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း (ခ) သက်နိုင်ဝင်း",
+            "fallenDay": "2021-02-20",
+            "heroAge": "37",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကမ်းနားလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကြည်စိုး",
+            "fallenDay": "2021-02-20",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကမ်းနားလမ်း",
+            "heroPlace": "",
+            "fallenCause": "အရိုက်ခံရကာ၊ ဒဏ်ရာများဖြင့် အိမ်တွင်သေဆုံး"
+        }
+    ]
+}

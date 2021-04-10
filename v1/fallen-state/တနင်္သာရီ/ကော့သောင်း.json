@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "heroName": "ဦးဇော်မင်းဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ရင်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲထက် (ခ) လှိုင်ဝင်းထက်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ တစ်မိုင်တောင်ကုန်းရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မခိုင်ဇင်ထွန်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "21",
+            "heroGender": "f",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရန်ပိုင်ဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ကော့သောင်းမြို့၊ ရွှေပြည်သာရပ်",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေပြည်သာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတင်ထွန်းဝင်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထက် (ခ) သံချောင်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူရ",
+            "fallenDay": "2021-03-30",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစုကမ်း (ခ) ကိုမျိုးဇင်",
+            "fallenDay": "2021-03-30",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2021-03-30",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲမင်းထွန်း",
+            "fallenDay": "2021-04-05",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေပြည်သာရပ်ကွက်",
+            "fallenCause": "Apr-1 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-5 တွင် အလောင်းလာယူရန်ပြော"
+        }
+    ]
+}

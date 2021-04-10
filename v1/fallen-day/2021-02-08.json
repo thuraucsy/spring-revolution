@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုနပွား (ခ) ကိုကိုဦး",
+            "fallenDay": "2021-02-08",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မန္တလေးမြို့၊ စင်္ကြာနွယ်ဝင်း",
+            "fallenCause": "ညတွင် ကားဖြင့်တိုက်ခံရ"
+        },
+        {
+            "heroName": "ကိုတူးအောင်(ခ)ကိုမာတူး",
+            "fallenDay": "2021-02-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ညတွင် ကားဖြင့်တိုက်ခံရ"
+        }
+    ]
+}

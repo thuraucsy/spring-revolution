@@ -1,0 +1,290 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုအာကာသူအောင် (ခ) Lian te",
+            "fallenDay": "2021-04-07",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရှာမာ",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်က လက်တဖက်ပြတ်ကာသေဆုံး"
+        },
+        {
+            "heroName": "ဦးဗန်ထာထန် (Van Tha Thang)",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "ကလေးမြို့နယ်ဟားခါးလေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးငုလ်ရှန်းပေါင် (Pa Ngul Sian Pau)",
+            "fallenDay": "2021-04-07",
+            "heroAge": "64",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "ကလေးမြို့ မွန်းလိုင်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့",
+            "fallenDay": "2021-04-07",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်",
+            "heroPlace": "ပဲခူးမြို့ ကျောက်ကြီးစုရပ်ကွက် တိုးချဲ့လမ်းမ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-04-07",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်",
+            "heroPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်၊  စီမံကိန်း(၂)လမ်",
+            "fallenCause": "အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဦးပေါ်ကောက်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မိုးကောင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးကောင်းမြို့နယ် လွယ်လီယန်ကျေးရွာ",
+            "heroPlace": "မိုးကောင်းမြို့နယ် လွယ်လီယန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မျိုးအောင်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆန်းလင်း",
+            "fallenDay": "2021-04-07",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ဆန်း",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုချစ်ဖောင်း",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်း",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုရှည်ကြီး",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဖိုးလပြည့်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်ဆန်းလင်း",
+            "fallenDay": "2021-04-07",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုနောင်ခန့်အောင်",
+            "fallenDay": "2021-04-07",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

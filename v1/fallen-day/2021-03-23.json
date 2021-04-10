@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုဌေးလွင် (ခ) မှုန်ကြီး",
+            "fallenDay": "2021-03-23",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၁၁၇ လမ်း၊ ၅၉/၆၂​လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းသာထွေး",
+            "fallenDay": "2021-03-23",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ မနော်ဟရီလမ်းနှင့် ၅၉/၆ဝ လမ်း သံလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုဝင်းထွန်းဦး",
+            "fallenDay": "2021-03-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၄၉လမ်း၊ ခေတ္တာထောင့်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုဝေယံထက်နိုင်",
+            "fallenDay": "2021-03-23",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ အောင်ပင်လယ်ရပ်၊ ၅၆/၁ဝ၆ လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုမိုးထက်ဝိုင်း",
+            "fallenDay": "2021-03-23",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မခင်မျိုးချစ်",
+            "fallenDay": "2021-03-23",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၅၂C လမ်း၊ ၁ဝ၅/၁ဝ၆ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ အောင်ပင်လယ်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုဇင်",
+            "fallenDay": "2021-03-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့ ၊ ကျောက်မော်ရပ်ကွက် ၊ ထောင်လမ်းဆုံ",
+            "heroPlace": "ထားဝယ်မြို့ ကြက်စားပြင်ရပ်ကွက်",
+            "fallenCause": "လမ်းဖြတ်ကူးနေစဉ် စစ်ကားဖြင့် တိုက်ကြိတ်ခံရကာ ဦးခေါင်းပွင့်ထွက်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုရှိုန်းနောင်နောင်",
+            "fallenDay": "2021-03-23",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ယုဇနဥယျာဥ်မြို့တော်၊ ပုဏ္ဏမီလမ်းမကြီး (အိုးအိမ်)အနီး",
+            "heroPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ၉၄ ရပ်ကွက်၊ B block ၁၂လမ်း၊ တိုက်(၂၁)၊အခန်း(၃၀၃)",
+            "fallenCause": "ကျည်မှန်၊ Mar-14 တွင် ကျောရိုးသို့ ကျည်မှန်၊ Mar-24  တွင် ယင်းဒဏ်ရာဖြင့်ကျဆုံး"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "heroName": "ဒေါ်တင်နွဲ့ရီ",
+            "fallenDay": "2021-02-28",
+            "heroAge": "59",
+            "heroGender": "f",
+            "fallenCity": "ကြည့်မြင်တိုင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တိုင်းပညာရေးဦးစီးရုံး၊ အောက်ကြည့်မြင်တိုင်လမ်း",
+            "heroPlace": "အ.လ.က (၁၀) လှိုင်သာယာ",
+            "fallenCause": "အသံဗုံးဖောက်သည့်အသံ၊ လက်ကို ကျည်ဆန်ထိ နှလုံးရောဂါအခံ ဖြင့်ဆုံး"
+        },
+        {
+            "heroName": "ဦးတင်ဝင်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "59",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "items": [
+        {
+            "heroName": "ဦးဝင်းဆွေ",
+            "fallenDay": "2021-03-25",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့၊ မြို့မရဲစခန်းအနီး",
+            "heroPlace": "မိုးညှင်းမြို့၊ အောင်သပြေ (၃) ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုးနိုင်ထွန်း",
+            "fallenDay": "2021-03-25",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့၊ မိုးဒါးစုရပ်၊ ရွှေသာလျောင်းအနီးရှိ တံတားအောက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုနေလင်းထွေး (ခ) M.ဆွာဒစ်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (မျက်လုံး) သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းတိုး",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှ သိမ်းသွား၊ Mar-30 တွင် မိသားစုသို့ သေဆုံးကြောင်းအကြောင်းကြား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုရန်အောင် (ခ) ဖိုးပြည့်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဖြူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖြူးမြို့၊ ဘူတာမြောက်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ တင်ပါးမှ ဆီးခုံသို့ဖောက်ကာ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတိုးဇော်အောင်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်ဦးမြို့၊ ကံသစ်ရွာ",
+            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
+        },
+        {
+            "heroName": "ကိုဇော်ဝင်းမောင်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်ဦးမြို့၊ မြကန်သာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းအောင် (ခ) ဖိုးကုလား",
+            "fallenDay": "2021-03-25",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တမူးမြို့ ၊ မြို့လယ်ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ရဲလင်း",
+            "fallenDay": "2021-03-25",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တောင်ဒဂုံမြို့နယ် ၁ဝ၇ ရပ်ကွက်ဂိတ်ဟောင်းမှတ်တိုင်",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ် ၁၀၇ရပ်ကွက် မြသီရီလမ်း",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        }
+    ]
+}

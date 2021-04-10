@@ -1,0 +1,92 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုဝေယံမင်းထင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ မလိခလမ်းမကြီး၊ တပင်ရွှေထီးရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းမြင့်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ကျန်စစ်သားရပ်ကွက်၊ နတ်မောက်လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲမြတ်သူ (ခ) ရေချမ်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ကမာကသွယ်ရပ်ကွက်၊ GEC သမဝန်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဇင်မြင့်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ခိုင်သဇင်လမ်း၊ ၁၁/၁၄ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်နဲ့လက်မောင်း ကျည်နှစ်ချက်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ထက်အောင် (ခ) ဖိုးဓမ္မ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ကျန်စစ်သားရပ်ကွက်၊ နတ်မောက်လမ်း",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်ဇောမင်း (ခ) မိုဟာမက်နအီးမ်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ညောင်တုန်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

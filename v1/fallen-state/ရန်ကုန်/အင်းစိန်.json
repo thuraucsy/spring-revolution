@@ -1,0 +1,81 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုစောလဲပွဲ (ခ) စောပြည့်စုံ",
+            "fallenDay": "2021-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်မြို့နယ်၊ အထက-၁ ရှေ့",
+            "heroPlace": "အင်းစိန်မြို့နယ်၊ နံ့သာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်ဘိုဘိုငြိမ်း (ခ) အာရားရား",
+            "fallenDay": "2021-03-27",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်မြို့နယ် ရွာမအနောက်လမ်း",
+            "heroPlace": "အင်းစိန်မြို့နယ်၊ ရွာမအနောက်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက် ချိုင်းအောက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတေဇထွန်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်မြို့နယ် ရွာမအနောက်လမ်း၊ ပေါက်တောဝ",
+            "heroPlace": "အင်းစိန်မြို့နယ်၊ ခ၈လမ်း မြို့သစ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်လင်းသူ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်မြို့နယ်၊ ကျောင်းဂိတ်အနီး",
+            "heroPlace": "အင်းစိန်မြို့နယ်၊ ကျောင်းကုန်း သင်္ကန်းချောင်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းဝင်းထိုက်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

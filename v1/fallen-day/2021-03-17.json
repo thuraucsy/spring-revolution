@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "heroName": "ဆလိုင်းကျုံးလျန်ကျဲအို",
+            "fallenDay": "2021-03-17",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "ကလေးမြို့၊ တောင်ဖီလာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒိုးဆွင်းကိမ်",
+            "fallenDay": "2021-03-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "တီးတိန်မြိုု့၊ ထီးဇန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကျင်ခန့်မာန်",
+            "fallenDay": "2021-03-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ စန်းမြို့ရပ်ကွက်၊ ဘရဏီလမ်း၊ KBZ bank အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်မြင့်ဝင်း (ခ)ညီလေး",
+            "fallenDay": "2021-03-17",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "ကလေးမြို့၊ တောင်ဖီလာရပ်ကွက် နယ်မြေ (၈)",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆွာလေ့ဘ်ဘိုင်(ခ) ကိုဘေတား",
+            "fallenDay": "2021-03-17",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ကန်တော်လေးရပ်ကွက်",
+            "heroPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ကန်တော်လေးရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖေသိန်းကျော် (ခ) မိုက်ကယ်",
+            "fallenDay": "2021-03-17",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်မြို့နယ်၊ ဘူတာရုံလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မင်းထွန်း",
+            "fallenDay": "2021-03-17",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအေးကျော်",
+            "fallenDay": "2021-03-17",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဥက္ကလာပ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "တောင်ဥက္ကလာပမြို့နယ်၊ ၁၃ ရပ်ကွက် (၁၈) လမ်း",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        }
+    ]
+}

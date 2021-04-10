@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုဖေသန်း (ခ) နော်ငို",
+            "fallenDay": "2021-02-28",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "စျေးတောင်ဘက်လမ်းနှင့် ဗိုလ်ချုပ်လမ်းထောင့်အနီး",
+            "heroPlace": "ရေဖြူမြို့နယ်၊ ပုဂေါဇွန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလွင်လွင်ဦး",
+            "fallenDay": "2021-02-28",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ဥတ္တတားကြီးလမ်းဆုံနဲ့ ကရပ်ပြင်လမ်းဆုံ",
+            "heroPlace": "ထားဝယ်မြို့၊ ပုံကျွန်းရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-02-28",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ဥတ္တတားကြီးလမ်းဆုံနဲ့ ကရပ်ပြင်လမ်းဆုံ",
+            "heroPlace": "လောင်းလုံးမြို့နယ်၊ ကျောက်ဆင် ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းဝင်း (ခ) ဂျွန်မာခမ်",
+            "fallenDay": "2021-02-28",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "စျေးတောင်ဘက်လမ်းနှင့် ဗိုလ်ချုပ်လမ်းထောင့်အနီး",
+            "heroPlace": "ထားဝယ်မြို့၊ ဇော်ကလေးလမ်း၊ ကရပ်ပြင် မြောက်ရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကရင်တိုင်းရင်းသားတစ်ဦး",
+            "fallenDay": "2021-02-28",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ဥတ္တတားကြီးလမ်းဆုံနဲ့ ကရပ်ပြင်လမ်းဆုံ",
+            "heroPlace": "မေတ္တာမြို့၊ ဖောင်းတောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းလှိုင်",
+            "fallenDay": "2021-03-11",
+            "heroAge": "51",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့၊ ကြက်စားပင်ရပ်",
+            "heroPlace": "ထားဝယ်မြို့၊ ကြက်စားပင်ရပ်",
+            "fallenCause": "ကျည်မှန်၊ ချိုင်းအောက်အတွင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇင်",
+            "fallenDay": "2021-03-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့ ၊ ကျောက်မော်ရပ်ကွက် ၊ ထောင်လမ်းဆုံ",
+            "heroPlace": "ထားဝယ်မြို့ ကြက်စားပြင်ရပ်ကွက်",
+            "fallenCause": "လမ်းဖြတ်ကူးနေစဉ် စစ်ကားဖြင့် တိုက်ကြိတ်ခံရကာ ဦးခေါင်းပွင့်ထွက်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်​ဌေး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့သစ် ၁ လမ်းသွယ်",
+            "heroPlace": "ထားဝယ်မြို့၊ ကျွန်းမွှေးရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ကျော်မင်းလတ်",
+            "fallenDay": "2021-03-30",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့၊ အာဇာနည်လမ်း၊ ထ-၃ အနီး",
+            "heroPlace": "ထားဝယ်မြို့၊ ပိန္နဲကောရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ Mar-27 တွင် ဆိုင်ကယ်စီးရင်း ကျည်မှန်ဒဏ်ရာရကာ စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-30 တွင်စစ်တပ်မှ အလောင်းလာထုတ်ရန်ပြော"
+        }
+    ]
+}

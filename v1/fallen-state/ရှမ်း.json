@@ -1,0 +1,312 @@
+{
+    "items": [
+        {
+            "heroName": "ဦးသိန်းလွင်",
+            "fallenDay": "2021-03-05",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြိုု့၊ ရှမ်း​ပြည်နယ် မြောက်ပိုင်း",
+            "heroPlace": "မူဆယ်မြိုု့၊ ရှမ်း​ပြည်နယ် မြောက်ပိုင်း",
+            "fallenCause": "Feb-28 တွင်ဆန္ဒထုတ်ဖော်နေစဉ် ရဲတပ်ဖွဲ့မှ ဖမ်းဆီးသွားခဲ့ပြီး ရိုက်နှက်ခံထားရသည့် ဒဏ်ရာများဖြင့် မတ်-၅တွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်သူဝင်း",
+            "fallenDay": "2021-03-19",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "အောင်ပန်းမြို့၊ ၂ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မြတ်ကို (ခ) ဖိုးဇော်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "အောင်ပန်းမြို့၊ မြို့ဟောင်း ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြတ်စိုး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုရဲထက်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုထွန်းအောင်ကျော်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုချမ်းလေး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုမင်းထက်နိုင် (ခ) ရှမ်းလေး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုဖိုးသာဦး",
+            "fallenDay": "2021-03-19",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွားကာ စစ်တပ်မှ သဂြိုဟ်"
+        },
+        {
+            "heroName": "ကိုနေလင်းထွေး (ခ) M.ဆွာဒစ်",
+            "fallenDay": "2021-03-25",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (မျက်လုံး) သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းတိုး",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှ သိမ်းသွား၊ Mar-30 တွင် မိသားစုသို့ သေဆုံးကြောင်းအကြောင်းကြား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-25",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ကံသာရပ်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုထွန်းတင့်ခိုင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မိုင်းမင်းနောင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလှထွန်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရဲရင့်နိုင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားကာ မီးရှို့သဂြိုဟ်"
+        },
+        {
+            "heroName": "ဦးဝင်းမြင့်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့၊ ရတနာသီရိရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုဝေယံမိုး",
+            "fallenDay": "2021-03-28",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့ ရတနာသီရိရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းမြင့် (တောင်ကြီး)ဖြစ်ဖွယ်ရှိ",
+            "fallenDay": "",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသ​ဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "ကိုညိုမင်းသူ",
+            "fallenDay": "2021-03-30",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့၊ ဟိုမုန်းရပ်၊ ထ-၂ ကျောင်းရှေ့",
+            "heroPlace": "မူဆယ်မြို့၊ ဟိုမုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတည်မြဲလွန်း",
+            "fallenDay": "2021-04-04",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Mar-28 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-4 တွင် ကျဆုံးကြောင်းမိသားစုအားအသိပေး"
+        },
+        {
+            "heroName": "ကိုအောင်ပိုင်",
+            "fallenDay": "2021-04-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ညောင်ဖြူရဲစခန်းအနီးတွင် စစ်တပ်မှဖမ်းဆီးသွား၊ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        }
+    ]
+}

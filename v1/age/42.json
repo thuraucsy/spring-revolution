@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "heroName": "ဦး​ကျော်ဇင်လတ် (ခ) ဦးရှည်ကြီး",
+            "fallenDay": "2021-03-12",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာဒုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာဒုံမြို့နယ် ၊ မြသီတာ ရပ်ကွက်",
+            "heroPlace": "မင်္ဂလာဒုံမြို့နယ် ၊ မြသီတာ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းဦး (ခ) မာမွတ်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ 62လမ်း 112 လမ်း အနီး",
+            "heroPlace": "မန္တလေးမြို့၊ (ဃ) သိုးခြံ မီးရထားလိုင်း",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်မြင့်ဝင်း (ခ)ညီလေး",
+            "fallenDay": "2021-03-17",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "ကလေးမြို့၊ တောင်ဖီလာရပ်ကွက် နယ်မြေ (၈)",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်​ဌေး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့သစ် ၁ လမ်းသွယ်",
+            "heroPlace": "ထားဝယ်မြို့၊ ကျွန်းမွှေးရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမိုးမိုးလှိုင်(ခ) မဘုတ်ဆုံ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ ပန်းမရွာသစ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (မျက်နှာ)သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်မင်းဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ရင်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝင်းမင်းဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအေးကိုကို",
+            "fallenDay": "2021-03-28",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မင်းတဲအီကင်းရပ်ကွက်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်ကာ မီးရှို့ပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုစောထွန်း",
+            "fallenDay": "2021-03-28",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ခြေ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြစ်ခြေမြို့ အမှတ် (၈) ရပ်ကွက်",
+            "heroPlace": "မြစ်ခြေမြို့ အမှတ် (၈) ရပ်ကွက်",
+            "fallenCause": "Mar-28 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ နောက်တနေ့တွင် အလောင်းလာထုတ်ခိုင်း"
+        },
+        {
+            "heroName": "ကိုဇော်ဇော်မြင့်",
+            "fallenDay": "2021-03-30",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်​ဂေါမြို့နယ်၊ ကြိုးကြာစက်ကွင်းအနီီး",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊"
+        }
+    ]
+}

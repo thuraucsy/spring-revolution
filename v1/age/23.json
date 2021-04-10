@@ -1,0 +1,224 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုဟိန်းထွဋ်အောင်",
+            "fallenDay": "2021-02-28",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ကန်းကျွန်းမြို့နယ်၊ ဘဝမြင့်မှတ်တိုင်အနီး",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၇၁ ရပ်ကွက် ကနောင်မင်းကြီး ၁ လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုညီညီအောင်ထက်နိုင်",
+            "fallenDay": "2021-02-28",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အ.ထ.က(၅) ကျောင်းရှေ့၊ လှည်းတန်းလမ်း၊ လှိုင်",
+            "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ ၂၇ရပ်ကွက်၊ လှော်ကားစျေးပိုင်း၊ သုဇနာရုံကျောင်းလမ်း",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်အောက် ဝမ်းဗိုက်အစပ်နား ထုတ်ချင်းပေါက်။"
+        },
+        {
+            "heroName": "ကိုမိုးအောင်",
+            "fallenDay": "2021-03-03",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "heroPlace": "မြ၀တီရပ်ကွက်၊ မုံရွာမြို့",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မြတ်လင်း",
+            "fallenDay": "2021-03-07",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထီးလင်း",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ထီးလင်းမြို့တောင်ဘက်ရဲစခန်း​ရှေ့",
+            "heroPlace": "ထန်းပင်ကုန်းရွာ၊ ထီးလင်းမြိုု့၊ မကွေးတိုင်း",
+            "fallenCause": "ကျည်မှန်၊ နှလုံးသို့ ကျည်မှန်၊ ည ၈နာရီတွင် ဖမ်းဆီးသွားသည့် အောင်ကောင်းမြတ်အား လွှတ်ပေးရန် လူထုမှတောင်းဆိုခဲ့ရာ အကြမ်းဖက်ဖြိုခွင်းခဲ့"
+        },
+        {
+            "heroName": "ကိုဇင်မင်းထက် (ခ) ဖိုးလုံး",
+            "fallenDay": "2021-03-08",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ အောင်နန်းရပ်၊ St Columba's Church အနီး",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ ရှမ်းစုမြောက်ရပ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးသန့်စိုး",
+            "fallenDay": "2021-03-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ စိန်ပန်းရပ်၊ ၄၁လမ်း နှင့် ၈၉/၉ဝ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ညာဘက်မျက်လုံးသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ မျက်လုံးသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲကိုကို (ခ) မိုးဒီ",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟကိုကိုနိုင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ရဲအောင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကောင်းမိုး",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "heroPlace": "အရှ့ဒဂုံမြို့နယ်၊ ဗိုလ်ချိန်လမ်း၊ အမှတ် (၃/၇၀၇)",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ကျော်လင်းဝေ (ခ) ကျန်ကျောင်း",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တောင်ဒဂုံမြို့နယ်၊ ဧရာဝဏ်လမ်း၊ သစ်ဆိုင်ကွေ့မှတ်တိုင်အနီး",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ဗန္ဓုလလမ်း ၊ ၅၅ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟဖြိုး (ခ) ကုလားလေး",
+            "fallenDay": "2021-03-18",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ အုတ်စက်ရပ်ကွက်၊ ကုသိုလ်တော်အရှေ့ဘက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ညွှန့်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကြည်စက်လှိုင်",
+            "fallenDay": "2021-03-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ပန်းတောင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ပန်းတောင်းမြို့၊  စံပြရပ်ကွက်အနောက်ခြမ်း",
+            "heroPlace": "ကျောက်ပန်းတောင်းမြို့၊  စံပြရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ပေါင်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းထက်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ပြင်ဦးလွင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုးကိုးမေ",
+            "fallenDay": "2021-03-28",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်ကွက်",
+            "heroPlace": "မုံရွာမြို့၊ မြဝတီရပ်",
+            "fallenCause": "ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ဖိုးလပြည့်",
+            "fallenDay": "2021-03-29",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းသူ",
+            "fallenDay": "2021-03-30",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ ရမ်ပူရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမော်ထွန်း",
+            "fallenDay": "2021-03-31",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဟံသာဝတီကျေးရွာ ရဲကင်းစခန်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

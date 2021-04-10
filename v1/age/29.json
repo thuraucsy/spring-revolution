@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုရဲဆွေဦး",
+            "fallenDay": "2021-03-13",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ စိန်ပန်းရပ်၊ ၄၁လမ်း နှင့် မဟာစည်နှင့် စိန်ပန်လမ်းကြား၊ အထက-၂၄ ကျောင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ နှလုံးသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းကိုကိုလွင် (ခ) စိုင်းကို",
+            "fallenDay": "2021-03-14",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနေလင်းထက်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တောင်ဒဂုံမြို့နယ်၊ ဧရာဝဏ်လမ်း၊ သစ်ဆိုင်ကွေ့မှတ်တိုင်အနီး",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ No -545 ၊ ပုလဲကန်လမ်း၊၆၅ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟကျော် (ခ) ကျော်ကြီး",
+            "fallenDay": "2021-03-15",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ ချမ်းမြသာစည်မြို့နယ် မြရည်နန္ဒာရပ်ကွက် ၅၅ လမ်း၊ ၁ဝ၈ လမ်းနဲ့ ၁ဝ၉ လမ်းကြား",
+            "heroPlace": "မန္တလေးမြို့၊ ၅၆ လမ်း",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ဇော",
+            "fallenDay": "2021-03-15",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ သုဓမ္မာအနီး",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ၂ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ဖြိုးထက်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ယုဇနဥယျာဥ်မြို့တော်၊ ပုဏ္ဏမီလမ်းမကြီး (အိုးအိမ်)အနီး",
+            "heroPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ၉၄ ရပ်ကွက်၊ A Block ၆ လမ်း၊ တိုက်(၅)၊ အခန်း ၄၀၄",
+            "fallenCause": "Mar-14 တွင် ပျောက်ဆုံး၊ Mar-15 တွင် အလောင်းလာယူခိုင်း"
+        },
+        {
+            "heroName": "ကိုရဲမျိုးအောင်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကူး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "စဉ့်ကူးမြို့နယ်၊ ကျည်တောက်ပေါက်ကျေးရွာ",
+            "heroPlace": "မန္တလေးတိုင်းဒေသကြီး၊ စဉ့်ကူးမြို့နယ်၊ ကျည်တောက်ပေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ မြို့ပေါ်မှ သပိတ်အပြန် ကျေးရွာအထိလိုက်ပစ်သတ်ခံရကာ ကျဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်ကျော်အောင်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ဒေါပုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒေါပုံမြို့နယ်၊ ဝါဆိုမှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်လင်းအောင်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့၊ လယ်ဦးရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝင်းကျော်စိုး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ဟိုပင်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဟိုပင်မြို့၊ နန့်ရင်းရပ်၊ ဂါတ်ကုန်းလမ်းဆုံ",
+            "heroPlace": "ဟိုပင်မြို့၊ ဂါတ်ကုန်းရပ်",
+            "fallenCause": "ကျည်မှန်၊ နောက်ကျောသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မိုးဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့အောင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့ ချင်းတွင်းတံတားထိပ် အောင်ဇေယျ မြို့သစ် မုံရွာ-ပုသိမ်-ယာကြီးလမ်းဆုံ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ် ရွာသာရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "သန်လျင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်သူ",
+            "fallenDay": "2021-03-29",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
+    ]
+}

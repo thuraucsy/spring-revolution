@@ -1,0 +1,268 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုမျိုးမင်းထွန်း",
+            "fallenDay": "",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဆန္ဒပြပွဲတွင် မူးလဲကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်ကြည်လှိုင်မင်း (ခ) ခေါင်းကြီး",
+            "fallenDay": "2021-02-28",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ဘူတာကုန်းကျော်တံတားနဲ့ မြစ်ကူးတံတားအနီး",
+            "heroPlace": "ပဲခူးမြို့၊ မဇင်း ၁ လမ်း၊ အိုးလေးစုပိုင်းရပ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း"
+        },
+        {
+            "heroName": "မောင်စည်သူစိုး (ခ) ကိုစိုး",
+            "fallenDay": "2021-02-28",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ဘူတာကုန်းကျော်တံတားနဲ့ မြစ်ကူးတံတားအနီး",
+            "heroPlace": "ပဲခူးမြို့၊ ဇိုင်းဂနိုင်းမြောက်ပိုင်းရပ်၊ မနောသုခ ၁လမ်း",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်း"
+        },
+        {
+            "heroName": "ကိုဇော်အောင်လေး (ခ) ရွှေအ",
+            "fallenDay": "2021-03-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့ မဇင်းလမ်းဆုံ၊ ဘူတာကုန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထက်နိုင်ရှိန်း",
+            "fallenDay": "2021-03-14",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့ ပုဏ္ဏစု ၁ဝ လမ်းထိပ်",
+            "heroPlace": "မကွေးတိုင်း၊ ကုလားဟောင်းရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်တင်တင်ဝင်း (ခ) မစန်းသီး",
+            "fallenDay": "2021-03-14",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်၊ ပဲခူးရှိ မြောင်းတခုတွင် ပြစ်သွား"
+        },
+        {
+            "heroName": "မောင်သူရကျော်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-15",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသူရနိုင်",
+            "fallenDay": "2021-03-15",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ လိပ်ပြာကန်ထိပ် မြကန်သာ လက်ဖက်ရည်ဆိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ Mar-14 တွင် ကျည်မှန်၊ Mar-15 ရန်ကုန်တွင် ကျဆုံး"
+        },
+        {
+            "heroName": "ဦးတင့်နိုင်",
+            "fallenDay": "2021-03-18",
+            "heroAge": "52",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ နာရီစင်အနီး၊ AYA bank  ရှေ့",
+            "heroPlace": "ဝေါမြို့နယ်၊ ကြာလဟာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ Mar-15 တွင် ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းဌေး",
+            "fallenDay": "2021-03-20",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ဆံ‌တော်တွင်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ခါးသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ဥသာသရိ ၄ လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းသန့်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသဲမောင်မောင်",
+            "fallenDay": "2021-03-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ Mar-27 တွင် အဆုတ်သို့ကျည်မှန်၊ Mar-28 တွင်ကျဆုံး"
+        },
+        {
+            "heroName": "ကိုရှိန်းသီဟန်လင်း (ခ) ကိုဖြိုး",
+            "fallenDay": "2021-03-29",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ဗဟိုစည် ၇လမ်း",
+            "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်ကွက်၊ ရွှေအောင်ရွေး ၃လမ်း",
+            "fallenCause": "ခြေထောက်သို့ကျည်မှန် စစ်တပ်မှ ဖမ်းဆီးသွား၊ ညနေတွင် မိသားစုအား အလောင်းလာထုတ်ခိုင်း"
+        },
+        {
+            "heroName": "ကိုဇေယျာလင်း",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ဘိုဘိုသိန်း",
+            "fallenDay": "2021-04-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ စံတော်တွင်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့",
+            "fallenDay": "2021-04-07",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်",
+            "heroPlace": "ပဲခူးမြို့ ကျောက်ကြီးစုရပ်ကွက် တိုးချဲ့လမ်းမ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-04-07",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်",
+            "heroPlace": "ပဲခူးမြို့၊ ကျောက်ကြီးစုရပ်၊  စီမံကိန်း(၂)လမ်",
+            "fallenCause": "အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
+    ]
+}

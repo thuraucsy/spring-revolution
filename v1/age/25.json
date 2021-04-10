@@ -1,0 +1,169 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုအာကာမိုး",
+            "fallenDay": "2021-03-03",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဥက္ကလာပ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဥက္ကလာ အဝိုင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန် (ကျည်မှန်သည့် ၎င်း၏သူငယ်ချင်းအားသွားကူရာမှ ကျည်မှန်ခြင်းဖြစ်)"
+        },
+        {
+            "heroName": "ကိုလှမင်းသူ",
+            "fallenDay": "2021-03-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "တွံတေး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုချစ်ဖြိုး",
+            "fallenDay": "2021-03-14",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
+            "heroPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ (က) ရပ်ကွက် (နှင်းဆီကုန်း)၊ တိုးချဲ့ ၃လမ်း၊ ၈၅",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကျုံးလျန်ကျဲအို",
+            "fallenDay": "2021-03-17",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "ကလေးမြို့၊ တောင်ဖီလာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြင့်သိန်း",
+            "fallenDay": "2021-03-22",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝင်းထွန်းအောင်",
+            "fallenDay": "2021-03-22",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ မြရည်နန္ဒာအိမ်ရာဝင်း",
+            "heroPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ မြရည်နန္ဒာအိမ်ရာဝင်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝင်းထွန်းဦး",
+            "fallenDay": "2021-03-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၄၉လမ်း၊ ခေတ္တာထောင့်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုရဲမြတ်သူ (ခ) ရေချမ်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ဒလမြို့၊ ကမာကသွယ်ရပ်ကွက်၊ GEC သမဝန်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမောင်မောင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ ၃၈လမ်း ၇ဝx၇၁ လမ်းကြား",
+            "heroPlace": "ကန့်ဘလူမြို့နယ် သရက်တာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟကျော်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ တမ္ပဝတီရပ်ကွက်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ဇော (ခ) ကောင်းကောင်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (ပါးစပ်) သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းသန့်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်သားချစ်",
+            "fallenDay": "2021-03-28",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်ဘက်၊ တာဟန်းရပ်၊ ဗိုလ်ချုပ်လမ်းမ",
+            "heroPlace": "ကလေးမြို့၊ ချမ်းမြေ့အောင်စည်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုကျော်သူရ",
+            "fallenDay": "2021-03-30",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတည်မြဲလွန်း",
+            "fallenDay": "2021-04-04",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Mar-28 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-4 တွင် ကျဆုံးကြောင်းမိသားစုအားအသိပေး"
+        }
+    ]
+}

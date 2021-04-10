@@ -1,0 +1,92 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုနိုင်လင်းအောင်",
+            "fallenDay": "2021-03-19",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့၊ လယ်ဦးရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲရင့်အောင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့၊ မြို့မရပ်၊ CB Bank အနီး",
+            "heroPlace": "မိုးကုတ်မြို့၊ ရွှေဘုံသာရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစည်သူ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "48",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့၊ အောင်နန်းမီးပြတိုက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းတိုးဝေ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ အောင်သုခရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမိုးမိုးလှိုင်(ခ) မဘုတ်ဆုံ",
+            "fallenDay": "2021-03-27",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ ပန်းမရွာသစ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (မျက်နှာ)သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ထွန်းအောင် (ခ) ကျွဲကြီး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ ဂေါင်းဦးဘာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ပိုင်စိုး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ ရန်ကြီးအောင်ရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစောကြိုင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မိုးကုတ်မြို့၊ အောင်သစ်လွင်ရပ်",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}

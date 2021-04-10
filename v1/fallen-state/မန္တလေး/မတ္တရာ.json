@@ -1,0 +1,70 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုမျိုးနိုင်ဝင်း (ခ) ကြက်မျိုး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကံဖြူကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ညာဘက်ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအောင်ခိုင်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟဇော်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကြပ်ပြင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်နိုင်စိုး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကံဖြူကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ မျက်နှာ(မေရိုး)သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ဇော်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ အောက်တောင်ကိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ တင်ပါးသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်စိုးမြတ်မင်း",
+            "fallenDay": "2021-03-27",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ အမှတ်(၄)ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက်ရင်ဘတ်သို့ကျည်မှန်"
+        }
+    ]
+}

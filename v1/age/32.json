@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုနပွား (ခ) ကိုကိုဦး",
+            "fallenDay": "2021-02-08",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မန္တလေးမြို့၊ စင်္ကြာနွယ်ဝင်း",
+            "fallenCause": "ညတွင် ကားဖြင့်တိုက်ခံရ"
+        },
+        {
+            "heroName": "အပု (ခ) ဒေစီ",
+            "fallenDay": "2021-02-28",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၃၅ လမ်းနှင့် ၇၆ လမ်းကြား",
+            "heroPlace": "မန္တလေးမြို့၊ အမြောက်တန်းရပ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလင်းအောင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ပေါင်သို့ကျည်မှန်၊ ဦးခေါင်းသို့အနီးကပ်ပြန်ပစ်သွား"
+        },
+        {
+            "heroName": "ကိုရန်ပိုင် (ခ) ချစ်အောင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်မင်းသူ",
+            "fallenDay": "2021-03-14",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
+            "heroPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဆ/က ရပ်ကွက် ရတနာဒီပလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်လင်းထိုက်",
+            "fallenDay": "2021-03-22",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ မြရည်နန္ဒာအိမ်ရာဝင်း",
+            "heroPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ မြရည်နန္ဒာအိမ်ရာဝင်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခင်ခင်စိုး (ခ) လာအီစာ",
+            "fallenDay": "2021-03-26",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "မြိတ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "မြိတ်မြို့ ၊ တိုးချဲ့မြို့သစ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ဇော်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ အောက်တောင်ကိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ တင်ပါးသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်လင်းထွန်း(ခ) ဇော်ကြီး",
+            "fallenDay": "2021-03-29",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ Mar-29 တွင် ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲမင်းထွန်း",
+            "fallenDay": "2021-04-05",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေပြည်သာရပ်ကွက်",
+            "fallenCause": "Apr-1 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-5 တွင် အလောင်းလာယူရန်ပြော"
+        }
+    ]
+}

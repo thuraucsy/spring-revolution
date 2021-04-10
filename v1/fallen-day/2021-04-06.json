@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "heroName": "ဦးမျိုးလွင်ဦး",
+            "fallenDay": "2021-04-06",
+            "heroAge": "48",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ဒေါဥခူရပ်ကွက် ၊ အုန်းတောလမ်းနဲ့စနေသင်းဘုးရားကျောင်းအနီး",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုအောင်ပိုင်",
+            "fallenDay": "2021-04-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ညောင်ဖြူရဲစခန်းအနီးတွင် စစ်တပ်မှဖမ်းဆီးသွား၊ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "1 casualty",
+            "fallenDay": "2021-04-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေး",
+            "fallenState": "မွန်",
+            "fallenPlace": "ရေးမြို့နယ် မာန်အောင်ရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ]
+}
