@@ -6458,19 +6458,6 @@
                 "heroPlace": "",
                 "fallenCause": ""
             }
-        ],
-        "အရာတော်": [
-            {
-                "heroName": "",
-                "fallenDay": "2021-04-10",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "အရာတော်",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
-            }
         ]
     },
     "ရှမ်း": {
@@ -7188,17 +7175,6 @@
     },
     "ချင်း": {
         "တမူး": [
-            {
-                "heroName": "",
-                "fallenDay": "2021-04-10",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "တမူး",
-                "fallenState": "ချင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
-            },
             {
                 "heroName": "",
                 "fallenDay": "2021-04-10",
