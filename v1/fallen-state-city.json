@@ -6458,6 +6458,19 @@
                 "heroPlace": "",
                 "fallenCause": ""
             }
+        ],
+        "အရာတော်": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-04-10",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "အရာတော်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+                "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+                "fallenCause": ""
+            }
         ]
     },
     "ရှမ်း": {
