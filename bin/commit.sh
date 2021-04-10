@@ -21,11 +21,6 @@ git add build/v1/backup/
 
 GIT_COMMIT_MSG="auto commit by using github actions"
 echo "$GIT_COMMIT_MSG"
-if [[ $GIT_PREV_COMMIT_MSG == *"$GIT_COMMIT_MSG" ]]; then
-	echo "git history ရှင်းနေစေဖို့ commit အသစ်မဖန်တီးဘဲ အဟောင်းကို replace လုပ်ပစ်ပါမယ်"
-	git commit --amend --no-edit
-else
-	git commit -m "$GIT_COMMIT_MSG"
-fi
+git commit -m "$GIT_COMMIT_MSG"
 
 git push --force "https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@${GITHUB_REFERENCE}" HEAD:master
