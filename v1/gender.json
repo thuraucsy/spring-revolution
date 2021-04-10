@@ -5969,7 +5969,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -5980,7 +5980,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -5991,7 +5991,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်က လက်တဖက်ပြတ်ကာသေဆုံး"
         },
@@ -6002,7 +6002,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "ကလေးမြို့နယ်ဟားခါးလေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6013,18 +6013,29 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "ကလေးမြို့ မွန်းလိုင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "Biaklawmcuang",
+            "fallenDay": "2021-04-07",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
+            "heroPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
+            "fallenCause": "Apr-10 တွင် အလောင်းလာသယ်ရန်ပြော"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6035,18 +6046,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6864,7 +6864,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6875,7 +6875,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6886,7 +6886,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },

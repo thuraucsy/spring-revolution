@@ -1558,7 +1558,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1569,7 +1569,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "ကလေးမြို့နယ်ဟားခါးလေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1580,7 +1580,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1591,18 +1591,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1613,7 +1602,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1624,7 +1613,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1635,7 +1624,7 @@
             "heroGender": "",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့၊ တာဟန်ရပ်",
+            "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
