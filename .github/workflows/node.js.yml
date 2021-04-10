@@ -29,11 +29,11 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages # The branch the action should deploy to.
         FOLDER: build # The folder the action should deploy.
-        CLEAN: true # Automatically remove deleted files from the deploy branch
+        CLEAN: false # Automatically remove deleted files from the deploy branch, Dont't make this true, bcos we want to backup build files in gh-pages branch
 
-    - run: bash ./bin/commit.sh
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_EMAIL: thura.ucsy@gmail.com
-        GITHUB_USERNAME: Thura Aung
-        GITHUB_REFERENCE: ${{ secrets.GIT_LOCATION }}
+    # - run: bash ./bin/commit.sh
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #     GITHUB_EMAIL: thura.ucsy@gmail.com
+    #     GITHUB_USERNAME: Thura Aung
+    #     GITHUB_REFERENCE: ${{ secrets.GIT_LOCATION }}
