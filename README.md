@@ -60,7 +60,7 @@ https://thuraucsy.github.io/spring-revolution/v1/summary.json
 }
 ```
 
-Summary API သည် သိသင့်သည်ဟုယူဆသော အချက်အလက်များကို အကျဥ်းချုပ်စုစည်းပေးထားသော json file ဖြစ်ပါသည်။  
+Summary API သည် သိသင့်သည်ဟုယူဆသော အချက်အလက်များကို အကျဥ်းချုပ်စုစည်းပေးထားသော json file ဖြစ်ပါသည်။
 JSON value နေရာတွင်ရှိသော Number တန်ဖိုးများမှာ သက်ဆိုင်ရာ JSON key ၏ အရေအတွက်ကို ဆိုလိုပါသည်။  
 ဥပမာ ```"တနင်္သာရီ": 29``` ဟုတွေ့ရှိပါက တနင်္သာရီတိုင်းတွင် ကျဆုံးသူ 29ယောက်ဟု နားလည်နိုင်ပါသည်။
 - total ကျဆုံးရသော စုစုပေါင်းသူရဲကောင်းအရေအတွက်
@@ -184,4 +184,4 @@ https://thuraucsy.github.io/spring-revolution/v1/fallen-state/တနင်္သ
 
 ## raw backup file
 နေ့စဥ် backup file များအား **backup/{date}/raw.json** မှတစ်ဆင့်ရယူနိုင်ပါသည်။  
-Example => https://thuraucsy.github.io/spring-revolution/v1/backup/20210409/raw.json
+Example => https://thuraucsy.github.io/spring-revolution/v1/backup/20210410/raw.json
