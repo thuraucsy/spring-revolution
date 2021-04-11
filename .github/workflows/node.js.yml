@@ -22,7 +22,7 @@ jobs:
     - run: node .
       env:
           SPREADSHEET_SECRETKEY: ${{ secrets.SPREADSHEET_SECRETKEY }}
-          GITHUB_CONTEXT: ${{ tojson(github) }}
+          GITHUB_CONTEXT_PAYLOAD: ${{ tojson(github.event.deployment.payload) }}
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1

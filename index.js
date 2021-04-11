@@ -2,7 +2,7 @@ const axios = require('axios').default;
 const fs = require('fs');
 
 const SPREADSHEET_SECRETKEY = process.env.SPREADSHEET_SECRETKEY;
-const GITHUB_CONTEXT = process.env.GITHUB_CONTEXT;
+const GITHUB_CONTEXT_PAYLOAD = process.env.GITHUB_CONTEXT_PAYLOAD ? JSON.parse(process.env.GITHUB_CONTEXT_PAYLOAD) : '';
 const BUILD_FOLDER = 'build';
 const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
@@ -180,15 +180,21 @@ async function main() {
     }
 
     function createJSON(heroes) {
-        console.log(`GITHUB_CONTEXT`, GITHUB_CONTEXT);
-        let todayDate = `backup/${getFormattedDate(new Date(), true)}/raw`;
+        console.log(`GITHUB_CONTEXT_PAYLOAD`, GITHUB_CONTEXT_PAYLOAD);
+        const serverTodayDate = (GITHUB_CONTEXT_PAYLOAD && GITHUB_CONTEXT_PAYLOAD.todayDate) ? GITHUB_CONTEXT_PAYLOAD.todayDate : '';
+        console.log(`serverTodayDate`, serverTodayDate);
+        let todayDateString = getFormattedDate(new Date(), true);
+        if (serverTodayDate) {
+            todayDateString = serverTodayDate;
+        }
+        let todayDateRawPath = `backup/${todayDateString}/raw`;
         let heroesFromBackup = [];
 
         try {
-            heroesFromBackup = readJsonFromFile(`${BUILD_FOLDER}/${VERSION_NO}/${todayDate}.json`);
+            heroesFromBackup = readJsonFromFile(`${BUILD_FOLDER}/${VERSION_NO}/${todayDateRawPath}.json`);
             console.log(`file reading finished`);
         } catch (e) {
-            console.log(`file for ${todayDate} not exist yet`);
+            console.log(`file for ${todayDateRawPath} not exist yet`);
         }
 
         isHeroesNotChanging = JSON.stringify(heroes) === JSON.stringify(heroesFromBackup);
@@ -198,7 +204,7 @@ async function main() {
         // if (isHeroesNotChanging) return;
 
         console.log(`createJSON`);
-        writeJsonToFile(heroes, todayDate);
+        writeJsonToFile(heroes, todayDateRawPath);
 
         let summaryJSON = {
             total: 0
