@@ -6384,6 +6384,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုရှိုင်းဝေဖြိုး",
             "fallenDay": "2021-04-10",
             "heroAge": "21",
@@ -6392,6 +6403,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": ""
         }
     ],
@@ -7065,7 +7087,7 @@
             "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "1 casualty",
             "fallenDay": "2021-04-08",
             "heroAge": "60",
             "heroGender": "",
@@ -7074,30 +7096,6 @@
             "fallenPlace": "",
             "heroPlace": "ဖာပွန်ခရိုင် လူသောမြို့နယ် ယဲမူပလောအုပ်စု မေဖွဲထာကျေးရွ",
             "fallenCause": "လက်နက်ကြီးဖြင့်ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
-        }
-    ],
-    "ချင်း": [
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-10",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

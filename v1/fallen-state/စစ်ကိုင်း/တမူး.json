@@ -21,6 +21,28 @@
             "fallenPlace": "တမူးမြို့၊ နန်းဖာလုံ ရဲကင်းစခန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ စက်သေနတ်မှန်၊ အလောင်းအား  စစ်တပ်မှ သိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

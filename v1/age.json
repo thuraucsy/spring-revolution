@@ -5267,7 +5267,7 @@
             "fallenCause": "ကျည်မှန်၊ တင်ပါးမှ ဗိုက် ကျည်ဆံထိမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "1 casualty",
             "fallenDay": "2021-04-08",
             "heroAge": "60",
             "heroGender": "",
@@ -8441,7 +8441,7 @@
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -8452,7 +8452,7 @@
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -13409,7 +13409,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "1 casualty",
             "fallenDay": "2021-04-08",
             "heroAge": "60",
             "heroGender": "",
