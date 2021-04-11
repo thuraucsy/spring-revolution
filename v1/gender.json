@@ -6282,6 +6282,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုရှိုင်းဝေဖြိုး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
             "heroName": "စောဆဲနေမူး",
             "fallenDay": "2021-04-10",
             "heroAge": "39",
@@ -6969,13 +6980,79 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-04-10",
+            "fallenDay": "2021-04-09",
             "heroAge": "",
             "heroGender": "",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": ""
         }
     ]

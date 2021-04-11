@@ -1583,6 +1583,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လမ်းမတော်ရပ် \"ဇော်\" အိမ်ဆောက်ပစ္စည်းဆိုင်အနီး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ Mar-29 တွင် ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရှိုင်းဝေဖြိုး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "22": [
@@ -8338,11 +8349,77 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-04-10",
+            "fallenDay": "2021-04-09",
             "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -8351,11 +8428,11 @@
             "heroName": "",
             "fallenDay": "2021-04-10",
             "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": ""
         }
     ],
@@ -13006,6 +13083,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုရှိုင်းဝေဖြိုး",
+            "fallenDay": "2021-04-10",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
             "fallenCause": ""
         }
     ],
