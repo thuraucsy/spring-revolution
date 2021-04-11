@@ -2,6 +2,7 @@ const axios = require('axios').default;
 const fs = require('fs');
 
 const SPREADSHEET_SECRETKEY = process.env.SPREADSHEET_SECRETKEY;
+const GITHUB_CONTEXT = process.env.GITHUB_CONTEXT;
 const BUILD_FOLDER = 'build';
 const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
@@ -179,6 +180,7 @@ async function main() {
     }
 
     function createJSON(heroes) {
+        console.log(`GITHUB_CONTEXT`, GITHUB_CONTEXT);
         let todayDate = `backup/${getFormattedDate(new Date(), true)}/raw`;
         let heroesFromBackup = [];
 
