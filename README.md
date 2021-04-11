@@ -184,4 +184,5 @@ https://thuraucsy.github.io/spring-revolution/v1/fallen-state/တနင်္သ
 
 ## raw backup file
 နေ့စဥ် backup file များအား **backup/{date}/raw.json** မှတစ်ဆင့်ရယူနိုင်ပါသည်။  
-Example => https://thuraucsy.github.io/spring-revolution/v1/backup/20210410/raw.json
+Example => https://thuraucsy.github.io/spring-revolution/v1/backup/20210410/raw.json  
+※ backup file အချိန်မှာ ရန်ကုန်အချိန်ဖြစ်ပြီး ည၂၄နာရီတွင် ဖန်တီးပေးပါသည်။
