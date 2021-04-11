@@ -6251,7 +6251,7 @@
         {
             "heroName": "ကိုဘိုဘိုနိုင်",
             "fallenDay": "2021-04-09",
-            "heroAge": "17",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
@@ -6269,6 +6269,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းကျော်ထွန်း",
+            "fallenDay": "2021-04-09",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",

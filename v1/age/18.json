@@ -153,6 +153,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၃၈ လမ်း နဲ့ ကမ်းနားလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဘိုဘိုနိုင်",
+            "fallenDay": "2021-04-09",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
