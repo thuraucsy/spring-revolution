@@ -1275,6 +1275,17 @@
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကသန်းကျေးရွာ",
             "heroPlace": "ထားဝယ်မြို့၊  ရှမ္မလည်ဆွဲရပ်",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးဝင်းလှိုင်",
+            "fallenDay": "2021-04-12",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ မှော်ကန်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "Apr-9 တွင် ကျည်မှန်ကာ စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-12 တွင် သေဆုံးကြောင်းပြော"
         }
     ]
 }
