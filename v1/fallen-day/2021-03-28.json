@@ -67,12 +67,12 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကို၀သုန်စိုး",
+            "heroName": "ကိုဝသုန်စိုး",
             "fallenDay": "2021-03-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာ၀တီ",
+            "fallenState": "ဧရာဝတီ",
             "fallenPlace": "ပုသိမ်မြို့ ဘူတာလမ်းထိပ်",
             "heroPlace": "ပုသိမ်မြို့၊ ဘူတာ အောင်သပြေလမ်း",
             "fallenCause": "ကျည်မှန်"
@@ -347,7 +347,7 @@
             "heroAge": "27",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာ၀တီ",
+            "fallenState": "ဧရာဝတီ",
             "fallenPlace": "ပုသိမ်မြို့၊ ဘန့်ဘွေးကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
