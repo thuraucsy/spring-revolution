@@ -1,5 +1,6 @@
 const axios = require('axios').default;
 const fs = require('fs');
+const knayi = require('knayi-myscript');
 
 const SPREADSHEET_SECRETKEY = process.env.SPREADSHEET_SECRETKEY;
 const GITHUB_CONTEXT_PAYLOAD = process.env.GITHUB_CONTEXT_PAYLOAD ? JSON.parse(process.env.GITHUB_CONTEXT_PAYLOAD) : '';
@@ -72,8 +73,16 @@ async function main() {
         return d;
     }
 
-    function replaceMyanmarZeroWithWaLone(myanmarText) {
-        return myanmarText.replace(/၀/g, 'ဝ');
+    // စာရိုက်အမှားများကို ပြင်ဆင်ပေးသည့် function ဖြစ်ပါသည်။ 
+    // ဥပမာ 
+    // "မင်္ဂလာတောင်ညွန့်" ကဲ့သို့ နောက်ဆုံး "ညွှန့်" မှာ "အောက်မြစ်" ဖြင့်အဆုံးသတ်ရမည့်အစား "အသတ်" ဖြင့်အဆုံးသတ်ထားသော စာရိုက်အမှား
+    // "ဧရာ၀တီ" ကဲ့သို့သော ဝလုံး "ဝ" အစား မြန်မာစာလုံး သုည "၀" ဖြင့် သုံးထားခြင်းများ
+    function normalizeMyanmarText(myanmarText, isMyanmarZeroFixWithWaLone = true) {
+        myanmarText = knayi.normalize(myanmarText);
+        if (isMyanmarZeroFixWithWaLone) {
+            myanmarText = myanmarText.replace(/၀/g, 'ဝ');
+        }
+        return myanmarText;
     }
 
     function fixStateNameForWrongCityName(cityName) {
@@ -219,14 +228,14 @@ async function main() {
             let heroVal = heroes.values[i];
 
             let fallenDay = getFormattedDate(heroVal[1]);
-            let heroName = heroVal[0] ? heroVal[0].trim() : '';
+            let heroName = heroVal[0] ? normalizeMyanmarText(heroVal[0].trim()) : '';
             let heroAge = heroVal[2] ? heroVal[2].trim() : '';
-            let heroGender = heroVal[3] ? heroVal[3].toLowerCase().trim() : '';
-            let fallenCity = heroVal[4] ? heroVal[4].trim() : '';
-            let fallenState = heroVal[5] ? replaceMyanmarZeroWithWaLone(heroVal[5].trim()) : '';
-            let fallenPlace = heroVal[6] ? replaceMyanmarZeroWithWaLone(heroVal[6].trim()) : '';
-            let heroPlace = heroVal[7] ? heroVal[7].trim() : '';
-            let fallenCause = heroVal[8] ? heroVal[8].trim() : '';
+            let heroGender = heroVal[3] ? heroVal[3].trim().toLowerCase() : '';
+            let fallenCity = heroVal[4] ? normalizeMyanmarText(heroVal[4].trim()) : '';
+            let fallenState = heroVal[5] ? normalizeMyanmarText(heroVal[5].trim()) : '';
+            let fallenPlace = heroVal[6] ? normalizeMyanmarText(heroVal[6].trim(), false) : '';
+            let heroPlace = heroVal[7] ? normalizeMyanmarText(heroVal[7].trim(), false) : '';
+            let fallenCause = heroVal[8] ? normalizeMyanmarText(heroVal[8].trim(), false) : '';
 
             fallenState = fixStateNameForWrongCityName(fallenState);
 
