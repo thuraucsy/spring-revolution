@@ -5,10 +5,10 @@
             "fallenDay": "2021-03-14",
             "heroAge": "30",
             "heroGender": "m",
-            "fallenCity": "ဖားကန့်",
+            "fallenCity": "ဖားကန့်",
             "fallenState": "ကချင်",
-            "fallenPlace": "ဖားကန့်မြို့၊ မရှီကထောင်ရပ်",
-            "heroPlace": "ဖားကန့်မြို့၊ ဆိပ်မူကျေးရွာ၊ ဆိုင်းတောင် ရပ်ကွက် (၄)",
+            "fallenPlace": "ဖားကန့်မြို့၊ မရှီကထောင်ရပ်",
+            "heroPlace": "ဖားကန့်မြို့၊ ဆိပ်မူကျေးရွာ၊ ဆိုင်းတောင် ရပ်ကွက် (၄)",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
         },
         {
@@ -18,7 +18,7 @@
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပဲခူးမြို့ ပုဏ္ဏစု ၁ဝ လမ်းထိပ်",
+            "fallenPlace": "ပဲခူးမြို့ ပုဏ္ဏစု ၁၀ လမ်းထိပ်",
             "heroPlace": "မကွေးတိုင်း၊ ကုလားဟောင်းရွာ",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
         },
@@ -40,7 +40,7 @@
             "heroGender": "m",
             "fallenCity": "လှိုင်သာယာ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ လှိုင်မြစ်လမ်းနှင့် ပီမိုးနင်းလမ်းထောင့်၊ ၅ထိပ်မှတ်တိုင်အနီး",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ လှိုင်မြစ်လမ်းနှင့် ပီမိုးနင်းလမ်းထောင့်၊ ၅ထိပ်မှတ်တိုင်အနီး",
             "heroPlace": "လှိုင်သာယာမြို့နယ်၊ ကစင်ကျေးရွာ၊ အင်ကြင်း ၁ လမ်း",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -199,7 +199,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုမြဌေး (ခ) အညာ​သား",
+            "heroName": "ကိုမြဌေး (ခ) အညာသား",
             "fallenDay": "2021-03-14",
             "heroAge": "39",
             "heroGender": "m",
@@ -287,7 +287,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကောင်းခန့်",
+            "heroName": "မောင်ကောင်းခန့်",
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
@@ -386,7 +386,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအောင်မြင့် (ခ) အောင်ဇော်",
+            "heroName": "ကိုအောင်မြင့် (ခ) အောင်ဇော်",
             "fallenDay": "2021-03-14",
             "heroAge": "37",
             "heroGender": "m",
@@ -397,7 +397,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်သန့်ဇင်ဦး",
+            "heroName": "မောင်သန့်ဇင်ဦး",
             "fallenDay": "2021-03-14",
             "heroAge": "17",
             "heroGender": "m",
@@ -460,7 +460,7 @@
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "",
             "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ အမှတ်(၁) ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်၊ မျက်လုံးနှင့် ပေါင်သို့ ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ မျက်လုံးနှင့် ပေါင်သို့ ကျည်မှန်"
         },
         {
             "heroName": "မောင်လှိုင်းဂျက်မောင်",
@@ -518,14 +518,14 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်မင်းခန့်စိုး",
+            "heroName": "မောင်မင်းခန့်စိုး",
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
             "fallenCity": "တောင်ဥက္ကလာပ",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "",
-            "heroPlace": "တောင်ဥက္ကလာပမြိုု့နယ်၊ ၁၂ ရပ်ကွက်",
+            "heroPlace": "တောင်ဥက္ကလာပမြို့နယ်၊ ၁၂ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -617,13 +617,13 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ခန့်ညားဟိန်း",
+            "heroName": "မောင်ခန့်ညားဟိန်း",
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
             "fallenCity": "တာမွေ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "တာမွေမြို့နယ်၊ ရဲစခန်းအမှတ်(၄ဝ)ရှေ့",
+            "fallenPlace": "တာမွေမြို့နယ်၊ ရဲစခန်းအမှတ်(၄၀)ရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -634,12 +634,12 @@
             "heroGender": "m",
             "fallenCity": "လှိုင်",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "လှိုင်မြို့နယ်၊ ပါရမီ၊ မာလာမြိုင် ၅လမ်း",
+            "fallenPlace": "လှိုင်မြို့နယ်၊ ပါ၇မီ၊ မာလာမြိုင် ၅လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကောင်းပြည့်ကျော်",
+            "heroName": "ကိုကောင်းပြည့်ကျော်",
             "fallenDay": "2021-03-14",
             "heroAge": "21",
             "heroGender": "m",
@@ -650,13 +650,13 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကို၀ဏ္ဏအောင်",
+            "heroName": "ကိုဝဏ္ဏအောင်",
             "fallenDay": "2021-03-14",
             "heroAge": "26",
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -667,7 +667,7 @@
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -678,7 +678,7 @@
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -689,8 +689,8 @@
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
-            "heroPlace": "အရှ့ဒဂုံမြို့နယ်၊ ဗိုလ်ချိန်လမ်း၊ အမှတ် (၃/၇၀၇)",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
+            "heroPlace": "အရှ့ဒဂုံမြို့နယ်၊ ဗိုလ်ချိန်လမ်း၊ အမှတ် (၃/၇၀ရ)",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -700,7 +700,7 @@
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -711,7 +711,7 @@
             "heroGender": "m",
             "fallenCity": "မြောက်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မဝတလမ်းဆုံ",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ မ၀တလမ်းဆုံ",
             "heroPlace": "အရှ့ဒဂုံမြို့နယ်၊",
             "fallenCause": "ကျည်မှန်"
         },
@@ -793,7 +793,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုစောလဲပွဲ (ခ) စောပြည့်စုံ",
+            "heroName": "ကိုစောလဲပွဲ (ခ) စောပြည့်စုံ",
             "fallenDay": "2021-03-14",
             "heroAge": "",
             "heroGender": "m",
@@ -808,20 +808,20 @@
             "fallenDay": "2021-03-14",
             "heroAge": "18",
             "heroGender": "m",
-            "fallenCity": "ကြည့်မြင်တိုင်",
+            "fallenCity": "ကြည့်မြင်တိုင်",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ကြည့်မြင်တိုင်မြိုု့နယ်၊ ဗားကရာချိုင့်အနီး",
+            "fallenPlace": "ကြည့်မြင်တိုင်မြို့နယ်၊ ဗားကရာချိုင့်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မရှယ်ရီ၀င်း",
+            "heroName": "မရှယ်ရီဝင်း",
             "fallenDay": "2021-03-14",
             "heroAge": "24",
             "heroGender": "f",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ မဟာအောင်မြေမြို့နယ်၊ ၄၂ လမ်းနှင့် ၈၆လမ်း အနီး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာအောင်မြေမြို့နယ်၊ ၄၂ လမ်းနှင့် ၈၆လမ်း အနီး",
             "heroPlace": "ကသာမြို့နယ်၊ ငါးတဲကြီးအုပ်စု၊ အလယ်ကျွန်းရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -842,9 +842,9 @@
             "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
-            "heroPlace": "ပုသိမ်မြိုု့၊ အမှတ် ၁၄ ရပ်ကွက်",
+            "heroPlace": "ပုသိမ်မြို့၊ အမှတ် ၁၄ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -853,9 +853,9 @@
             "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
-            "heroPlace": "ပုသိမ်မြိုု့၊ ဘုရားကြီးကုန်းရပ်",
+            "heroPlace": "ပုသိမ်မြို့၊ ဘုရားကြီးကုန်းရပ်",
             "fallenCause": "ကျည်မှန်"
         }
     ]

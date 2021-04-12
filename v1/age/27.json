@@ -7,12 +7,12 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၄၉ လမ်း၊ နှင်းဆီလမ်းထောင့်",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၄၉ လမ်း၊ နှင်းဆီလမ်းထောင့်",
             "heroPlace": "ပရိဘောဂလုပ်ငန်းလုပ်ကိုင်သူ",
             "fallenCause": "လည်ပင်ကျည်မှန်တဲ့ဒဏ်ရာနဲ့ ကျဆုံး"
         },
         {
-            "heroName": "ကျင်ခန့်မာန်",
+            "heroName": "ကျင်ခန့်မာန်",
             "fallenDay": "2021-03-17",
             "heroAge": "27",
             "heroGender": "m",
@@ -23,7 +23,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအောင်ကိုကိုခန့်",
+            "heroName": "ကိုအောင်ကိုကိုခန့်",
             "fallenDay": "2021-03-19",
             "heroAge": "27",
             "heroGender": "m",
@@ -40,7 +40,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ အောင်ပင်လယ်ရပ်၊ ၅၆/၁ဝ၆ လမ်း",
+            "fallenPlace": "မန္တလေးမြို့၊ အောင်ပင်လယ်ရပ်၊ ၅၆/၁၀၆ လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊"
         },
@@ -56,7 +56,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှ သိမ်းသွား"
         },
         {
-            "heroName": "ကိုထွန်းတင့်ခိုင်",
+            "heroName": "ကိုထွန်းတင့်ခိုင်",
             "fallenDay": "2021-03-27",
             "heroAge": "27",
             "heroGender": "m",
@@ -116,13 +116,13 @@
             "heroAge": "27",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
-            "fallenPlace": "ပုသိမ်မြို့၊ ဘန့်ဘွေးကုန်း",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ ဘန့်ဘွေးကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "ကိုစန်းတင့်နိုင်",
+            "heroName": "ကိုစန်းတင့်နိုင်",
             "fallenDay": "2021-03-29",
             "heroAge": "27",
             "heroGender": "m",

@@ -12,7 +12,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "ဦးဝင်းမြင့်",
+            "heroName": "ဦးဝင်းမြင့်",
             "fallenDay": "2021-03-27",
             "heroAge": "46",
             "heroGender": "m",
@@ -128,7 +128,7 @@
             "heroGender": "m",
             "fallenCity": "အင်းစိန်",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "အင်းစိန်မြို့နယ် ရွာမအနောက်လမ်း၊ ပေါက်တောဝ",
+            "fallenPlace": "အင်းစိန်မြို့နယ် ရွာမအနောက်လမ်း၊ ပေါက်တော၀",
             "heroPlace": "အင်းစိန်မြို့နယ်၊ ခ၈လမ်း မြို့သစ်",
             "fallenCause": "ကျည်မှန်"
         },
@@ -210,7 +210,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှ သိမ်းသွား"
         },
         {
-            "heroName": "ကိုထွန်းတင့်ခိုင်",
+            "heroName": "ကိုထွန်းတင့်ခိုင်",
             "fallenDay": "2021-03-27",
             "heroAge": "27",
             "heroGender": "m",
@@ -282,8 +282,8 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့ ၃၈လမ်း ၇ဝx၇၁ လမ်းကြား",
-            "heroPlace": "ကန့်ဘလူမြို့နယ် သရက်တာကျေးရွာ",
+            "fallenPlace": "မန္တလေးမြို့ ၃၈လမ်း ၇၀x၇၁ လမ်းကြား",
+            "heroPlace": "ကန့်ဘလူမြို့နယ် သရက်တာကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -293,7 +293,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့ ၉လမ်း ၇၈x၈ဝ လမ်းကြား၊ အရိပ်မထွက်ဘုရား မီးသတ်ရုံး​ရှေ့",
+            "fallenPlace": "မန္တလေးမြို့ ၉လမ်း ၇၈x၈၀ လမ်းကြား၊ အရိပ်မထွက်ဘုရား မီးသတ်ရုံးရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
         },
@@ -304,7 +304,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ တမ္ပဝတီရပ်ကွက်ရုံးအနီး",
+            "fallenPlace": "မန္တလေးမြို့၊ တမ္ပ၀တီရပ်ကွက်ရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
         },
@@ -315,7 +315,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ ၄၁ လမ်း(၉ဝ×၉၁ ကြား)",
+            "fallenPlace": "မန္တလေးမြို့၊ ၄၁ လမ်း(၉၀×၉၁ ကြား)",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
         },
@@ -419,7 +419,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအောင်ကျော်မြင့် (ခ) ကျော်ကြီး",
+            "heroName": "ကိုအောင်ကျော်မြင့် (ခ) ကျော်ကြီး",
             "fallenDay": "2021-03-27",
             "heroAge": "35",
             "heroGender": "m",
@@ -441,7 +441,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုပြည့်ဖြိုးသန့် (ခ) ကျန်ကျောင်း",
+            "heroName": "ကိုပြည့်ဖြိုးသန့် (ခ) ကျန်ကျောင်း",
             "fallenDay": "2021-03-27",
             "heroAge": "24",
             "heroGender": "m",
@@ -485,7 +485,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုဟိန်းမင်းသန့်",
+            "heroName": "ကိုဟိန်းမင်းသန့်",
             "fallenDay": "2021-03-27",
             "heroAge": "17",
             "heroGender": "m",
@@ -507,7 +507,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုပြည့်ဖြိုးအောင်",
+            "heroName": "ကိုပြည့်ဖြိုးအောင်",
             "fallenDay": "2021-03-27",
             "heroAge": "26",
             "heroGender": "m",
@@ -524,7 +524,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ ၄၁ လမ်း နှင့် ၈၈ လမ်းထောင့်",
+            "fallenPlace": "မန္တလေးမြို့၊ ၄၁ လမ်း နှင့် ၈၈ လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -540,7 +540,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးစိုးမိုး",
+            "heroName": "ဦးစိုးမိုး",
             "fallenDay": "2021-03-27",
             "heroAge": "",
             "heroGender": "m",
@@ -579,7 +579,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၈A/ ၁၃၄ လမ်းထောင့်",
+            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၈A/ ၁၃၄ လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -590,7 +590,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၉A/ ၁၃၄ လမ်းထောင့်",
+            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၉A/ ၁၃၄ လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -601,7 +601,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၉A/ ၁၃၄ လမ်းထောင့်",
+            "fallenPlace": "မန္တလေးမြို့၊ စက်မှုဇုန်-၂၊ ၅၉A/ ၁၃၄ လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -628,7 +628,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဒေါက်တာဖြိုးသန့်ဝေ",
+            "heroName": "ဒေါက်တာဖြိုးသန့်ဝေ",
             "fallenDay": "2021-03-27",
             "heroAge": "30",
             "heroGender": "m",
@@ -694,7 +694,7 @@
             "fallenCause": "ကျည်မှန်၊ နှလုံးရင်ဘတ်သို့ ကျည်မှန်"
         },
         {
-            "heroName": "ကိုဖိုးလပြည့်",
+            "heroName": "ကိုဖိုးလပြည့်",
             "fallenDay": "2021-03-27",
             "heroAge": "20",
             "heroGender": "m",
@@ -735,7 +735,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "ကျောက်ပန်းတောင်းမြို့ဘူတာရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားက ချက်ချင်းမီးသ​ဂြိုဟ်ခဲ့၊ မိသားစုအလောင်းမရ"
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားက ချက်ချင်းမီးသဂြိုဟ်ခဲ့၊ မိသားစုအလောင်းမရ"
         },
         {
             "heroName": "ကိုဝင်းမျိုးဦး",
@@ -746,7 +746,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားက ချက်ချင်းမီးသ​ဂြိုဟ်ခဲ့၊ မိသားစုအလောင်းမရ"
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားက ချက်ချင်းမီးသဂြိုဟ်ခဲ့၊ မိသားစုအလောင်းမရ"
         },
         {
             "heroName": "",
@@ -788,7 +788,7 @@
             "heroGender": "m",
             "fallenCity": "ပြင်ဦးလွင်",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "ပြင်ဦးလွင်မြို့၊ သထုံ​ကျောင်းအနီး",
+            "fallenPlace": "ပြင်ဦးလွင်မြို့၊ သထုံကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -848,7 +848,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုထွန်းမြင့်အောင်",
+            "heroName": "ကိုထွန်းမြင့်အောင်",
             "fallenDay": "2021-03-27",
             "heroAge": "47",
             "heroGender": "m",
@@ -859,7 +859,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကျော်​ဌေး",
+            "heroName": "ကိုကျော်ဌေး",
             "fallenDay": "2021-03-27",
             "heroAge": "42",
             "heroGender": "m",
@@ -930,7 +930,7 @@
             "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
@@ -941,7 +941,7 @@
             "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
@@ -952,7 +952,7 @@
             "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
             "heroPlace": "ပုသိမ်မြို့၊ ရာမညရပ်",
             "fallenCause": "ကျည်မှန်"
@@ -963,7 +963,7 @@
             "heroAge": "31",
             "heroGender": "m",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
             "heroPlace": "ပုသိမ်မြို့၊ စကားဝါလမ်း",
             "fallenCause": "ကျည်မှန်"
@@ -974,7 +974,7 @@
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "ပုသိမ်",
-            "fallenState": "ဧရာဝတီ",
+            "fallenState": "ဧရာ၀တီ",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊  အလောင်းအားစစ်တပ်မှ သိမ်သွား"
@@ -1039,10 +1039,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "24",
             "heroGender": "m",
-            "fallenCity": "စဉ့်ကိုင်",
+            "fallenCity": "စဉ့်ကိုင်",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
-            "heroPlace": "စဉ့်ကိုင်မြို့၊ မုန်ပင်ကျေးရွာ",
+            "heroPlace": "စဉ့်ကိုင်မြို့၊ မုန်ပင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -1050,21 +1050,21 @@
             "fallenDay": "2021-03-27",
             "heroAge": "59",
             "heroGender": "m",
-            "fallenCity": "စဉ့်ကိုင်",
+            "fallenCity": "စဉ့်ကိုင်",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးမြင့်ခိုင်",
+            "heroName": "ဦးမြင့်ခိုင်",
             "fallenDay": "2021-03-27",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "သာကေတ",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "သာကေတမြို့နယ်၊ ကမာကြည်၊ KBZ Bank အနီး",
-            "heroPlace": "သာကေတ (၉)ရပ်ကွက် ရတနာပုံ(၈)လမ်း၊",
+            "heroPlace": "သာကေတ (၉)ရပ်ကွက် ၇တနာပုံ(၈)လမ်း၊",
             "fallenCause": "ကျည်မှန်၊ ကျည် ၃ချက်မှန်"
         },
         {
@@ -1079,7 +1079,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုရဲရင့်အောင်",
+            "heroName": "ကိုရဲရင့်အောင်",
             "fallenDay": "2021-03-27",
             "heroAge": "26",
             "heroGender": "m",
@@ -1156,14 +1156,14 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးဘဲအီ (ခ)မိုဟာမက် အီဘရာဟင်",
+            "heroName": "ဦးဘဲအီ (ခ)မိုဟာမက် အီဘရာဟင်",
             "fallenDay": "2021-03-27",
             "heroAge": "31",
             "heroGender": "m",
             "fallenCity": "မြိတ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "မြိတ်မြို့၊ ဘုရားကိုင်အနီး  ပေ ၆ဝ လမ်း",
-            "heroPlace": "မြိတ်မြို့၊ ထားဝယ်ကမ်းရပ်၊ ပါရမီ ၆လမ်း",
+            "fallenPlace": "မြိတ်မြို့၊ ဘုရားကိုင်အနီး  ပေ ၆၀ လမ်း",
+            "heroPlace": "မြိတ်မြို့၊ ထားဝယ်ကမ်းရပ်၊ ပါ၇မီ ၆လမ်း",
             "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှ သိမ်သွား"
         },
         {
@@ -1182,10 +1182,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "38",
             "heroGender": "m",
-            "fallenCity": "ပွင့်ဖြူ",
+            "fallenCity": "ပွင့်ဖြူ",
             "fallenState": "မကွေး",
             "fallenPlace": "",
-            "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းကုန်းကြီး ရွာ",
+            "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းကုန်းကြီး ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -1193,14 +1193,14 @@
             "fallenDay": "2021-03-27",
             "heroAge": "40",
             "heroGender": "m",
-            "fallenCity": "ပွင့်ဖြူ",
+            "fallenCity": "ပွင့်ဖြူ",
             "fallenState": "မကွေး",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ရဲရင့်နိုင်",
+            "heroName": "မောင်ရဲရင့်နိုင်",
             "fallenDay": "2021-03-27",
             "heroAge": "15",
             "heroGender": "m",
@@ -1211,7 +1211,7 @@
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွားကာ မီးရှို့သဂြိုဟ်"
         },
         {
-            "heroName": "ဦးဝင်းမြင့်",
+            "heroName": "ဦးဝင်းမြင့်",
             "fallenDay": "2021-03-27",
             "heroAge": "",
             "heroGender": "m",
@@ -1251,7 +1251,7 @@
             "fallenCity": "ကော့သောင်း",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်ယော်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ရင်သို့ကျည်မှန်"
         },
         {
@@ -1273,7 +1273,7 @@
             "fallenCity": "ကော့သောင်း",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်ယော်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -1295,7 +1295,7 @@
             "fallenCity": "ကော့သောင်း",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်‌ယော်ရပ်ကွက်",
+            "heroPlace": "ကော့သောင်းမြို့၊ ရွှေဇင်ယော်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -1365,7 +1365,7 @@
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         },
         {
-            "heroName": "ဗိုလ်ကြီးသက်နိုင်ဦး(ငြိမ်း)",
+            "heroName": "ဗိုလ်ကြီးသက်နိုင်ဦး(ငြိမ်း)",
             "fallenDay": "2021-03-27",
             "heroAge": "35",
             "heroGender": "m",
@@ -1376,13 +1376,13 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုသန့်ဇော်",
+            "heroName": "ကိုသန့်ဇော်",
             "fallenDay": "2021-03-27",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "ဖားကန့်",
+            "fallenCity": "ဖားကန့်",
             "fallenState": "ကချင်",
-            "fallenPlace": "ဖားကန့်မြို့၊ အေးမြသာယာရပ်",
+            "fallenPlace": "ဖားကန့်မြို့၊ အေးမြသာယာရပ်",
             "heroPlace": "ပဲခူးတိုင်းဒေသကြီး ၊ ဒိုက်ဦးမြို့နယ် ၊ မအူရိုးကျေးရွ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1391,7 +1391,7 @@
             "fallenDay": "2021-03-27",
             "heroAge": "20",
             "heroGender": "m",
-            "fallenCity": "ဖားကန့်",
+            "fallenCity": "ဖားကန့်",
             "fallenState": "ကချင်",
             "fallenPlace": "",
             "heroPlace": "",
@@ -1402,10 +1402,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "13",
             "heroGender": "m",
-            "fallenCity": "မင်္ဂလာတောင်ညွန့််",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ် မီးရထားဝန်း",
-            "heroPlace": "မင်္ဂလာတောင်ညွန့်မီးရထားဝင်း၊ နယ်မြေ ၅",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ် မီးရထားဝန်း",
+            "heroPlace": "မင်္ဂလာတောင်ညွန့်မီး၇ထားဝင်း၊ နယ်မြေ ၅",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှ သိမ်းသွား"
         },
         {
@@ -1420,7 +1420,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မရွှေမြင့်",
+            "heroName": "မရွှေမြင့်",
             "fallenDay": "2021-03-27",
             "heroAge": "36",
             "heroGender": "f",
@@ -1437,18 +1437,18 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈ဝ လမ်းဆုံအနီး",
+            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈၀ လမ်းဆုံအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုထွန်းဦး",
+            "heroName": "ကိုထွန်းဦး",
             "fallenDay": "2021-03-27",
             "heroAge": "33",
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈ဝ လမ်းဆုံအနီး",
+            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈၀ လမ်းဆုံအနီး",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊အိုးဘိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -1552,7 +1552,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုမင်းသန့်",
+            "heroName": "ကိုမင်းသန့်",
             "fallenDay": "2021-03-27",
             "heroAge": "25",
             "heroGender": "m",
@@ -1604,7 +1604,7 @@
             "fallenState": "ကရင်",
             "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
-            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         },
         {
             "heroName": "",
@@ -1615,7 +1615,7 @@
             "fallenState": "ကရင်",
             "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
-            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         },
         {
             "heroName": "",
@@ -1626,7 +1626,7 @@
             "fallenState": "ကရင်",
             "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
-            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         },
         {
             "heroName": "ကိုမျိုးနိုင်ဝင်း (ခ) ကြက်မျိုး",

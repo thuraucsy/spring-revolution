@@ -1,13 +1,13 @@
 {
     "items": [
         {
-            "heroName": "ကို၀င်းဖြိုးအောင်",
+            "heroName": "ကိုဝင်းဖြိုးအောင်",
             "fallenDay": "2021-03-13",
             "heroAge": "43",
             "heroGender": "m",
             "fallenCity": "ချောက်",
             "fallenState": "မကွေး",
-            "fallenPlace": "ချောက်မြို့ အမှတ် ၁၅၊ ရတနာအိုင့်ရပ်",
+            "fallenPlace": "ချောက်မြို့ အမှတ် ၁၅၊ ရတနာအိုင့်ရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }

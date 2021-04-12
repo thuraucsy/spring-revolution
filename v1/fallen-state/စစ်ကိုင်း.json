@@ -1,13 +1,13 @@
 {
     "items": [
         {
-            "heroName": "မောင်မင်းခန့်ကျော်(ခ)ဖိုးသဲ",
+            "heroName": "မောင်မင်းခန့်ကျော်(ခ)ဖိုးသဲ",
             "fallenDay": "2021-03-03",
             "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "နန္ဒဝန်ရပ်ကွက်၊ မုံရွာမြို့",
             "fallenCause": "ကျည်မှန်"
         },
@@ -18,7 +18,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "မြ၀တီရပ်ကွက်၊ မုံရွာမြို့",
             "fallenCause": "ကျည်မှန်"
         },
@@ -29,18 +29,18 @@
             "heroGender": "f",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "မြ၀တီရပ်ကွက်၊ မုံရွာမြို့",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဆရာမဒေါ်မြင့်မြင့်ဇင်",
+            "heroName": "ဆရာမဒေါ်မြင့်မြင့်ဇင်",
             "fallenDay": "2021-03-03",
             "heroAge": "36",
             "heroGender": "f",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "အောင်ချမ်းသာရပ်၊ မုံရွာမြို့",
             "fallenCause": "ကျည်မှန်"
         },
@@ -51,18 +51,18 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "နန္ဒဝန်ရပ်ကွက်၊ မုံရွာမြို့",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ဇော်သိန်း​အောင်",
+            "heroName": "မောင်ဇော်သိန်းအောင်",
             "fallenDay": "2021-03-03",
             "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "မုံရွာမြို့မှ Foodpanda rider",
             "fallenCause": "ကျည်မှန်"
         },
@@ -73,7 +73,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှ သိမ်းသွား"
         },
@@ -84,7 +84,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှ သိမ်းသွား"
         },
@@ -97,18 +97,18 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့ ဗိုလ်ချုပ်လမ်း",
             "heroPlace": "ကလေးမြို့၊ စက်မှုဇုန် လှိုင်သာယာရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်၊ မတ်-၂ ရက်နေ့တွင်  အဆုတ်နှင့် ပေါင်ကျည်ထိ"
+            "fallenCause": "ကျည်မှန်၊ မတ်-၂ ရက်နေ့တွင်  အဆုတ်နှင့် ပေါင်ကျည်ထိ"
         },
         {
-            "heroName": "ကိုအောင်ဆန်းဦး (ခ) ချစ်စန်းအောင်",
+            "heroName": "ကိုအောင်ဆန်းဦး (ခ) ချစ်စန်းအောင်",
             "fallenDay": "2021-03-11",
             "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့ ပြည်​ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
+            "fallenPlace": "မုံရွာမြို့ ပြည်ထောင်စုလမ်း၊ ဘုရားနီဘုရားအနီး",
             "heroPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်",
-            "fallenCause": "ကျည်မှန်၊ Mar-3 တွင် အဆုတ်သို့ ကျည်မှန်ဒဏ်ရာရက မန္တလေးသို့ ပို့ဆောင်ကုသသော်လည်း Mar-11 တွင် ကျဆုံး"
+            "fallenCause": "ကျည်မှန်၊ Mar-3 တွင် အဆုတ်သို့ ကျည်မှန်ဒဏ်ရာ၇က မန္တလေးသို့ ပို့ဆောင်ကုသသော်လည်း Mar-11 တွင် ကျဆုံး"
         },
         {
             "heroName": "ကိုမောင်ဇော်",
@@ -162,11 +162,11 @@
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်ကွက်၊ ဗိုလ်ချုပ်လမ်းမ၊ AG ဘုရားကျောင်းအနီး",
-            "heroPlace": "တီးတိန်မြိုု့၊ ထီးဇန်ကျေးရွာ",
+            "heroPlace": "တီးတိန်မြို့၊ ထီးဇန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကျင်ခန့်မာန်",
+            "heroName": "ကျင်ခန့်မာန်",
             "fallenDay": "2021-03-17",
             "heroAge": "27",
             "heroGender": "m",
@@ -177,7 +177,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးကျော်မြင့်ဝင်း (ခ)ညီလေး",
+            "heroName": "ဦးကျော်မြင့်ဝင်း (ခ)ညီလေး",
             "fallenDay": "2021-03-17",
             "heroAge": "42",
             "heroGender": "m",
@@ -196,7 +196,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "နှိပ်စက်ခံရကာ ဒဏ်ရာကြောင့် ကျဆုံး"
+            "fallenCause": "နှိပ်စက်ခံရကာ ဒဏ်ရာကြောင့် ကျဆုံး"
         },
         {
             "heroName": "ကိုမင်းမင်းဇော်",
@@ -218,7 +218,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့၊ ကံသစ်ရွာ",
-            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
+            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
         },
         {
             "heroName": "ကိုဇော်ဝင်းမောင်",
@@ -229,7 +229,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့၊ မြကန်သာရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
+            "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
         },
         {
             "heroName": "ကိုမျိုးမင်းအောင် (ခ) ဖိုးကုလား",
@@ -304,18 +304,18 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈ဝ လမ်းဆုံအနီး",
+            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈၀ လမ်းဆုံအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုထွန်းဦး",
+            "heroName": "ကိုထွန်းဦး",
             "fallenDay": "2021-03-27",
             "heroAge": "33",
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈ဝ လမ်းဆုံအနီး",
+            "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်၊ သာစည်လမ်းနဲ့ ပေ ၈၀ လမ်းဆုံအနီး",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊အိုးဘိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -331,7 +331,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအောင်ဆန်းဦး (ခ) ကိုငယ်လေး",
+            "heroName": "ကိုအောင်ဆန်းဦး (ခ) ကိုငယ်လေး",
             "fallenDay": "2021-03-28",
             "heroAge": "19",
             "heroGender": "m",
@@ -349,7 +349,7 @@
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မုံရွာမြို့၊ ရတနာပုံရပ်ကွက်",
-            "heroPlace": "မုံရွာမြို့၊ မြဝတီရပ်",
+            "heroPlace": "မုံရွာမြို့၊ မြ၀တီရပ်",
             "fallenCause": "ကျည်မှန်၊"
         },
         {
@@ -408,7 +408,7 @@
             "fallenCause": "ကျည်မှန်၊"
         },
         {
-            "heroName": "ဦးထန်ဟောမ်လျန်း",
+            "heroName": "ဦးထန်ဟောမ်လျန်း",
             "fallenDay": "2021-03-28",
             "heroAge": "26",
             "heroGender": "m",
@@ -458,7 +458,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ မြဝတီရပ်ကွက်၊ သီတာလမ်း",
+            "fallenPlace": "မုံရွာမြို့၊ မြ၀တီရပ်ကွက်၊ သီတာလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
         },
@@ -557,7 +557,7 @@
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းစျေးအနီး",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းဈေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ နယ်မြေ ၂",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         },
@@ -568,7 +568,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
+            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
         },
@@ -579,7 +579,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
+            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
         },
@@ -590,7 +590,7 @@
             "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
+            "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -614,10 +614,10 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးကျေးရွာ",
-            "fallenCause": "Apr-2 တွင်စစ်တပ်မှဖမ်းဆီးသွား နှိပ်စက်ခံရကာ Apr-4 တွင် ကျဆုံး"
+            "fallenCause": "Apr-2 တွင်စစ်တပ်မှဖမ်းဆီးသွား နှိပ်စက်ခံ၇ကာ Apr-4 တွင် ကျဆုံး"
         },
         {
-            "heroName": "ကိုတင်မောင်မြင့်",
+            "heroName": "ကိုတင်မောင်မြင့်",
             "fallenDay": "2021-04-04",
             "heroAge": "",
             "heroGender": "m",
@@ -625,7 +625,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးကျေးရွာ",
-            "fallenCause": "Apr-2 တွင်စစ်တပ်မှဖမ်းဆီးသွား နှိပ်စက်ခံရကာ Apr-4 တွင် ကျဆုံး"
+            "fallenCause": "Apr-2 တွင်စစ်တပ်မှဖမ်းဆီးသွား နှိပ်စက်ခံ၇ကာ Apr-4 တွင် ကျဆုံး"
         },
         {
             "heroName": "ကိုအောင်နိုင်ဝင်း",
@@ -694,7 +694,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်က လက်တဖက်ပြတ်ကာသေဆုံး"
         },
         {
-            "heroName": "ဦးဗန်ထာထန် (Pu Van Tha Thang)",
+            "heroName": "ဦးဗန်ထာထန် (Pu Van Tha Thang)",
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
@@ -786,10 +786,10 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -797,7 +797,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -808,7 +808,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -819,7 +819,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -830,7 +830,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -841,7 +841,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -852,7 +852,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -863,18 +863,18 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         },
         {
-            "heroName": "ဖိုးလပြည့်",
+            "heroName": "ဖိုးလပြည့်",
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -885,7 +885,7 @@
             "fallenDay": "2021-04-07",
             "heroAge": "20",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
@@ -896,14 +896,14 @@
             "fallenDay": "2021-04-07",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
+            "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုနောင်ခန့်အောင်",
+            "heroName": "ကိုနောင်ခန့်အောင်",
             "fallenDay": "2021-04-07",
             "heroAge": "30",
             "heroGender": "m",

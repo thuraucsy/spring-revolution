@@ -5,10 +5,10 @@
             "fallenDay": "2021-03-31",
             "heroAge": "20",
             "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
+            "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ တောင်ခင်ရမ်းရွာအနီး၊ နမခ စိုက်ကွင်းရှေ့",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ တောင်ခင်ရမ်းရွာအနီး၊ နမခ စိုက်ကွင်းရှေ့",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -16,9 +16,9 @@
             "fallenDay": "2021-03-31",
             "heroAge": "23",
             "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
+            "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဟံသာဝတီကျေးရွာ ရဲကင်းစခန်းရှေ့",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဟံသာ၀တီကျေးရွာ ရဲကင်းစခန်းရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -27,10 +27,10 @@
             "fallenDay": "2021-03-31",
             "heroAge": "33",
             "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
+            "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
             "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ အလယ်ရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ အလယ်ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -38,10 +38,10 @@
             "fallenDay": "2021-03-31",
             "heroAge": "49",
             "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
+            "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
             "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်ခင်ရမ်းရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်ခင်ရမ်းရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -86,10 +86,10 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "ရွှေကျင်မြို့နယ်၊ တပ်မဟာ (၃)",
             "heroPlace": "ရွှေကျင်မြို့နယ်၊ တပ်မဟာ (၃) နယ်မြေ",
-            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+            "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         },
         {
-            "heroName": "ကိုမျိုးသန့်ကျော်",
+            "heroName": "ကိုမျိုးသန့်ကျော်",
             "fallenDay": "2021-03-31",
             "heroAge": "",
             "heroGender": "m",

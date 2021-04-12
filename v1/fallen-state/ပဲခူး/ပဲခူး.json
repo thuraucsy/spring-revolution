@@ -51,7 +51,7 @@
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပဲခူးမြို့ ပုဏ္ဏစု ၁ဝ လမ်းထိပ်",
+            "fallenPlace": "ပဲခူးမြို့ ပုဏ္ဏစု ၁၀ လမ်းထိပ်",
             "heroPlace": "မကွေးတိုင်း၊ ကုလားဟောင်းရွာ",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ ကျည်မှန်"
         },
@@ -100,7 +100,7 @@
             "fallenCause": "ကျည်မှန်၊ Mar-14 တွင် ကျည်မှန်၊ Mar-15 ရန်ကုန်တွင် ကျဆုံး"
         },
         {
-            "heroName": "ဦးတင့်နိုင်",
+            "heroName": "ဦးတင့်နိုင်",
             "fallenDay": "2021-03-18",
             "heroAge": "52",
             "heroGender": "m",
@@ -117,7 +117,7 @@
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပဲခူးမြို့၊ ဆံ‌တော်တွင်းလမ်း",
+            "fallenPlace": "ပဲခူးမြို့၊ ဆံတော်တွင်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ခါးသို့ကျည်မှန်"
         },
@@ -133,7 +133,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုမင်းသန့်",
+            "heroName": "ကိုမင်းသန့်",
             "fallenDay": "2021-03-27",
             "heroAge": "25",
             "heroGender": "m",
@@ -172,7 +172,7 @@
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပဲခူးမြို့၊ ဗဟိုစည် ၇လမ်း",
+            "fallenPlace": "ပဲခူးမြို့၊ ဗဟိုစည် ရလမ်း",
             "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်ကွက်၊ ရွှေအောင်ရွေး ၃လမ်း",
             "fallenCause": "ခြေထောက်သို့ကျည်မှန် စစ်တပ်မှ ဖမ်းဆီးသွား၊ ညနေတွင် မိသားစုအား အလောင်းလာထုတ်ခိုင်း"
         },
@@ -232,7 +232,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအာကာမင်းခန့်",
+            "heroName": "ကိုအာကာမင်းခန့်",
             "fallenDay": "2021-04-09",
             "heroAge": "19",
             "heroGender": "m",
@@ -276,7 +276,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုဟန်သွင်ခန့်",
+            "heroName": "ကိုဟန်သွင်ခန့်",
             "fallenDay": "2021-04-09",
             "heroAge": "",
             "heroGender": "m",

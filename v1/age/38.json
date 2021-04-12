@@ -9,7 +9,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "ကမ်းနားလမ်း",
             "heroPlace": "",
-            "fallenCause": "အရိုက်ခံရကာ၊ ဒဏ်ရာများဖြင့် အိမ်တွင်သေဆုံး"
+            "fallenCause": "အရိုက်ခံရကာ၊ ဒဏ်ရာများဖြင့် အိမ်တွင်သေဆုံး"
         },
         {
             "heroName": "ကိုမျိုးကျော်",
@@ -45,7 +45,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မမာလာ၀င်း",
+            "heroName": "မမာလာဝင်း",
             "fallenDay": "2021-03-20",
             "heroAge": "38",
             "heroGender": "f",
@@ -84,7 +84,7 @@
             "heroGender": "m",
             "fallenCity": "ပြင်ဦးလွင်",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "ပြင်ဦးလွင်မြို့၊ သထုံ​ကျောင်းအနီး",
+            "fallenPlace": "ပြင်ဦးလွင်မြို့၊ သထုံကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -93,10 +93,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "38",
             "heroGender": "m",
-            "fallenCity": "ပွင့်ဖြူ",
+            "fallenCity": "ပွင့်ဖြူ",
             "fallenState": "မကွေး",
             "fallenPlace": "",
-            "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းကုန်းကြီး ရွာ",
+            "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းကုန်းကြီး ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

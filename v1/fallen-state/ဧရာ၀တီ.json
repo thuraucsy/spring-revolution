@@ -1,0 +1,147 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုသီဟဦး",
+            "fallenDay": "2021-03-08",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဖျာပုံ",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ဖျာပုံမြို့ ရဲစခန်းအနီး",
+            "heroPlace": "ဖျာပုံမြို့၊ ၁၅ ရပ်ကွက်၊ အောင်သပြေ ၄လမ်း",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဟိန်းထက်အောင်(ခ) ကိုအူဝဲ",
+            "fallenDay": "2021-03-14",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "ပုသိမ်မြို့၊ အမှတ် ၁၄ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထိုက်ထိုက်(ခ) မင်းသက်ထိုက်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "ပုသိမ်မြို့၊ ဘုရားကြီးကုန်းရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ ဥမ္မာဒန္တီရပ်ကွက်",
+            "heroPlace": "ပုသိမ်မြို့၊ ဥမ္မာဒန္တီရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ ဘုရားကြီးကုန်းရပ်ကွက်",
+            "heroPlace": "ပုသိမ်မြို့၊ ဘုရားကြီးကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထက်မြတ်သွင် (ခ)  မိုဟာမက်သွလ်ဟား",
+            "fallenDay": "2021-03-27",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်လွင်ကို",
+            "fallenDay": "2021-03-27",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေလင်းဦး",
+            "fallenDay": "2021-03-27",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "ပုသိမ်မြို့၊ ရာမညရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဟန်",
+            "fallenDay": "2021-03-27",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "ပုသိမ်မြို့၊ စကားဝါလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-27",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊  အလောင်းအားစစ်တပ်မှ သိမ်သွား"
+        },
+        {
+            "heroName": "ကို၀သုန်စိုး",
+            "fallenDay": "2021-03-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ပုသိမ်မြို့ ဘူတာလမ်းထိပ်",
+            "heroPlace": "ပုသိမ်မြို့၊ ဘူတာ အောင်သပြေလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇင်လင်းအောင်",
+            "fallenDay": "2021-03-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ ဘန့်ဘွေးကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရာဇာထွေး",
+            "fallenDay": "2021-03-30",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာ၀တီ",
+            "fallenPlace": "",
+            "heroPlace": "ပုသိမ်မြို့၊ အမှတ် ရ နယ်မြေ၊ ရာမညလမ်းမကြီး (၄/၅) ကြား၊ လမ်းသွယ် ၁၂",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊ Mar-29 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-30 တွင်မိသားစုအား အလောင်းလာထုတ်ခိုင်း"
+        }
+    ]
+}

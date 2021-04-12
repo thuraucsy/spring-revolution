@@ -18,7 +18,7 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "လမ်း ၃ဝ နှင့် ၈၄ လမ်းထောင့်",
+            "fallenPlace": "လမ်း ၃၀ နှင့် ၈၄ လမ်းထောင့်",
             "heroPlace": "၁၅/၁၆လမ်း၊ နန်းရှေ့၊ ပြည်တော်သာဝန်ထမ်းအိမ်ယာ၊ မန္တလေး၊ ဇာတိ- ဆုံတားရွာ၊ ဆားလင်းကြီးမြို့",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ ကျည်မှန်"
         },
@@ -40,12 +40,12 @@
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့၊ (36)လမ်း-(89)လမ်းထောင့်",
+            "fallenPlace": "မန္တလေးမြို့၊ (36)လမ်း-(89)လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအောင်မြင့် (ခ) အောင်ဇော်",
+            "heroName": "ကိုအောင်မြင့် (ခ) အောင်ဇော်",
             "fallenDay": "2021-03-14",
             "heroAge": "37",
             "heroGender": "m",
@@ -117,7 +117,7 @@
             "heroGender": "m",
             "fallenCity": "တောင်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "တောင်ဒဂုံ၊ ၁ဝ၇ ရပ်ကွက်",
+            "fallenPlace": "တောင်ဒဂုံ၊ ၁၀၇ ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": ""
         }
