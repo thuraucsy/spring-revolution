@@ -7173,6 +7173,28 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
             "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးအေးမင်း",
+            "fallenDay": "2021-04-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ နေအိမ်အတွင်းသို့ စစ်တပ်မှ ဝင်ရောက်ကာသေနတ်ဖြင့် ပစ်သတ်"
         }
     ]
 }
