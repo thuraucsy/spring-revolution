@@ -1,5 +1,5 @@
 {
-    "range": "'[MM]Detail Cases'!A1:AB1316",
+    "range": "'[MM]Detail Cases'!A1:AB1317",
     "majorDimension": "ROWS",
     "values": [
         [
@@ -8225,6 +8225,14 @@
             "",
             "",
             "Link"
+        ],
+        [
+            "ကိုချစ်မင်းသူ",
+            "",
+            "19",
+            "M",
+            "ဒေါပုံ",
+            "ရန်ကုန်"
         ],
         [
             "ဦးတင်မိုး",

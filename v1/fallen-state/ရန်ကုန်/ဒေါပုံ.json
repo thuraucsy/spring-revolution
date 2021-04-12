@@ -21,6 +21,17 @@
             "fallenPlace": "ဒေါပုံမြို့နယ်၊ ဝါဆိုမှတ်တိုင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုချစ်မင်းသူ",
+            "fallenDay": "",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒေါပုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

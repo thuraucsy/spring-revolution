@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ မီးသဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "ကိုချစ်မင်းသူ",
+            "fallenDay": "",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒေါပုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
