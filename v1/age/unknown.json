@@ -1902,6 +1902,17 @@
             "fallenPlace": "တမူးမြို့၊  မြို့မ ၁၂ ရပ်ကွက် ပါဟဲ တံတားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငြိမ်းထက်",
+            "fallenDay": "2021-04-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဗဟန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဗဟန်းမြို့နယ်၊ မင်းလမ်းမှတ်တိုင်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ]
 }
