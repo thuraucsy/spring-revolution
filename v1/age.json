@@ -1624,8 +1624,8 @@
             "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
-            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
-            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
+            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
@@ -8505,23 +8505,23 @@
             "heroName": "",
             "fallenDay": "2021-04-12",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "",
             "fallenDay": "2021-04-12",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "ဦးအေးမင်း",
@@ -13290,8 +13290,8 @@
             "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
-            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
-            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကုန်းလော",
+            "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
+            "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်- ကုန်းလော ကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
