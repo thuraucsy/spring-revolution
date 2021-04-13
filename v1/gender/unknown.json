@@ -252,17 +252,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

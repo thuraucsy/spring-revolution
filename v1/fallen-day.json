@@ -7059,15 +7059,15 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမောင်သက်",
             "fallenDay": "2021-04-09",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "40",
+            "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ပဲခူးမြို့၊ ကျိုက္ကဒန်ရွာ",
+            "heroPlace": "ပဲခူးမြို့၊ ဆိုရှယ်လစ် ၁၅ လမ်း",
+            "fallenCause": "ကျိုက္ကဒန်ရွာသို့ပြေးစဉ်စစ်တပ်မှဖမ်းပြီး ရိုက်နှက်ကာသေဆုံး"
         },
         {
             "heroName": "",
