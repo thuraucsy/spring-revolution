@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၂ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်းနိုင်",
+            "fallenDay": "2021-04-13",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ငယ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
