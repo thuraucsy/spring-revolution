@@ -1972,6 +1972,30 @@
                 "heroPlace": "မတ္တရာမြို့နယ်၊ အမှတ်(၄)ရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက်ရင်ဘတ်သို့ကျည်မှန်"
             }
+        ],
+        "မြစ်ငယ်": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-04-13",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "မြစ်ငယ်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-04-13",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "မြစ်ငယ်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "နေပြည်တော်": {
