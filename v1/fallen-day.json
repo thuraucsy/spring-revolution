@@ -7123,6 +7123,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့၊  တန် ၄၀၀၀ ဘိလပ်မြေစက်ရုံအနီးရှိ ရပ်ကွက်",
+            "heroPlace": "ဘားအံမြို့၊ မြိုင်ကလေး၊ ဘားအံ-သထုံလမ်းမအနီး",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့၊  တန် ၄၀၀၀ ဘိလပ်မြေစက်ရုံအနီးရှိ ရပ်ကွက်",
+            "heroPlace": "ဘားအံမြို့၊ မြိုင်ကလေး၊ ဘားအံ-သထုံလမ်းမအနီး",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-10": [
