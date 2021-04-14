@@ -43,6 +43,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၁၂၀ လမ်း၊ ၅၀/၅၁ လမ်းကြား၊ မင်းကြီးရန်နောင်လမ်း အမှတ် ၁၀ မူလတန်းလွန်ကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်မောင်စန်း",
+            "fallenDay": "2021-04-14",
+            "heroAge": "53",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }

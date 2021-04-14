@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဦးတင်မောင်စန်း",
+            "fallenDay": "2021-04-14",
+            "heroAge": "53",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }
