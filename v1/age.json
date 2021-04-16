@@ -8786,6 +8786,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ၇၆လမ်းနှင့် ၁၂လမ်းထောင့်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [
