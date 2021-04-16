@@ -6577,6 +6577,28 @@
             "fallenPlace": "ကနီမြို့နယ်အနီး မိုင်တိုင် ၁၂",
             "heroPlace": "ကနီမြို့နယ်၊ သမင်ရပ်ကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုကတုံး",
+            "fallenDay": "2021-04-15",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [
