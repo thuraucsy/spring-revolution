@@ -32,6 +32,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဒေါ်ရာဟောင်းကို",
+            "fallenDay": "2021-04-17",
+            "heroAge": "83",
+            "heroGender": "f",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ရွှေမြောင်းကျေးရွာ",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ရွှေမြောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
