@@ -1685,7 +1685,7 @@
                 "heroName": "",
                 "fallenDay": "2021-04-17",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "မိုးကုတ်",
                 "fallenState": "မန္တလေး",
                 "fallenPlace": "",
@@ -1696,7 +1696,18 @@
                 "heroName": "",
                 "fallenDay": "2021-04-17",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးကုတ်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-04-17",
+                "heroAge": "",
+                "heroGender": "m",
                 "fallenCity": "မိုးကုတ်",
                 "fallenState": "မန္တလေး",
                 "fallenPlace": "",
@@ -5795,6 +5806,19 @@
                 "fallenPlace": "ရေးမြို့နယ် မာန်အောင်ရွာ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "ဘီးလင်း": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-04-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဘီးလင်း",
+                "fallenState": "မွန်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     },

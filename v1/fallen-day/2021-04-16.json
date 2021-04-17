@@ -10,6 +10,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၇၆လမ်းနှင့် ၁၂လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

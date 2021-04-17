@@ -109,6 +109,17 @@
             "fallenPlace": "ရေးမြို့နယ် မာန်အောင်ရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
