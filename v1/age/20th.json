@@ -1935,6 +1935,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစိုးသက်",
+            "fallenDay": "2021-04-17",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
