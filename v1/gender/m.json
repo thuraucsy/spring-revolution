@@ -6643,6 +6643,28 @@
             "fallenPlace": "ကျောက်မဲမြို့၊ ဝေဠုဝန်ကျောင်းအနောက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

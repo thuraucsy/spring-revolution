@@ -65,6 +65,28 @@
             "fallenPlace": "ကနီမြို့နယ်အနီး မိုင်တိုင် ၁၂",
             "heroPlace": "ကနီမြို့နယ်၊ သမင်ရပ်ကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
