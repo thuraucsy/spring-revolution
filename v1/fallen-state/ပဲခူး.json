@@ -344,7 +344,7 @@
         {
             "heroName": "ကိုကျော်ဘိုဘိုသိန်း",
             "fallenDay": "2021-04-01",
-            "heroAge": "",
+            "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
@@ -364,7 +364,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "ကိုငယ်လေး",
+            "heroName": "ဦးငယ်လေး",
             "fallenDay": "2021-04-07",
             "heroAge": "43",
             "heroGender": "m",
@@ -375,7 +375,7 @@
             "fallenCause": "အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         },
         {
-            "heroName": "ကိုသီဟ",
+            "heroName": "ကိုသီဟ (ခ) ကိုသက်ဦး",
             "fallenDay": "2021-04-09",
             "heroAge": "",
             "heroGender": "m",
@@ -441,9 +441,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုမောင်သက်",
+            "heroName": "ဦးမောင်သက်",
             "fallenDay": "2021-04-09",
-            "heroAge": "40",
+            "heroAge": "44",
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",

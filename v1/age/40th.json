@@ -727,7 +727,7 @@
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
         },
         {
-            "heroName": "ကိုငယ်လေး",
+            "heroName": "ဦးငယ်လေး",
             "fallenDay": "2021-04-07",
             "heroAge": "43",
             "heroGender": "m",
@@ -749,9 +749,9 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "ကိုမောင်သက်",
+            "heroName": "ဦးမောင်သက်",
             "fallenDay": "2021-04-09",
-            "heroAge": "40",
+            "heroAge": "44",
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",

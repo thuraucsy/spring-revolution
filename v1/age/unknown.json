@@ -1376,17 +1376,6 @@
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကျော်ဘိုဘိုသိန်း",
-            "fallenDay": "2021-04-01",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "ပဲခူးမြို့၊ စံတော်တွင်းလမ်း",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
-        },
-        {
             "heroName": "မစုစုကြည်",
             "fallenDay": "2021-04-02",
             "heroAge": "",
@@ -1728,7 +1717,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုသီဟ",
+            "heroName": "ကိုသီဟ (ခ) ကိုသက်ဦး",
             "fallenDay": "2021-04-09",
             "heroAge": "",
             "heroGender": "m",

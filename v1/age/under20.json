@@ -969,6 +969,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (ညာဘက်ပါး)သို့ကျည်မှန်"
         },
         {
+            "heroName": "ကိုကျော်ဘိုဘိုသိန်း",
+            "fallenDay": "2021-04-01",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ စံတော်တွင်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်ညီနိုင်ဖြိုး",
             "fallenDay": "2021-04-02",
             "heroAge": "13",

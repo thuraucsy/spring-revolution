@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "heroName": "ကိုသီဟ",
+            "heroName": "ကိုသီဟ (ခ) ကိုသက်ဦး",
             "fallenDay": "2021-04-09",
             "heroAge": "",
             "heroGender": "m",
@@ -67,9 +67,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုမောင်သက်",
+            "heroName": "ဦးမောင်သက်",
             "fallenDay": "2021-04-09",
-            "heroAge": "40",
+            "heroAge": "44",
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
