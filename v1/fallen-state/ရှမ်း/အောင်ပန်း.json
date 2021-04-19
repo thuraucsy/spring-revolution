@@ -120,6 +120,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ မီးသဂြိုဟ်ကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
