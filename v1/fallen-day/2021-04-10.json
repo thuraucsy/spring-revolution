@@ -20,7 +20,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "စောဆဲနေမူး",
@@ -31,7 +31,7 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကသန်းကျေးရွာ",
             "heroPlace": "ထားဝယ်မြို့၊  ရှမ္မလည်ဆွဲရပ်",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

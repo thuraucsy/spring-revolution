@@ -9,7 +9,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့ အရှေ့ပိုင်း၊ အောင်ချမ်းသာရပ်၊",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုစိုးသက်",
@@ -20,7 +20,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့ အရှေ့ပိုင်း၊ အောင်မင်္ဂလာရပ်၊",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဒေါ်ရာဟောင်းကို",
@@ -53,7 +53,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -64,7 +64,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

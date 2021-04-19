@@ -6843,7 +6843,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ဆန်း",
@@ -6854,7 +6854,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုအောင်ကျော်",
@@ -6865,7 +6865,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်နိုင်",
@@ -6876,7 +6876,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုချစ်ဖောင်း",
@@ -6887,7 +6887,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုမျိုးဝင်း",
@@ -6898,7 +6898,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုရှည်ကြီး",
@@ -6909,7 +6909,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဖိုးလပြည့်",
@@ -6920,7 +6920,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုအောင်ဆန်းလင်း",
@@ -6931,7 +6931,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -6942,7 +6942,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုနောင်ခန့်အောင်",
@@ -7168,7 +7168,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "စောဆဲနေမူး",
@@ -7179,7 +7179,7 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကသန်းကျေးရွာ",
             "heroPlace": "ထားဝယ်မြို့၊  ရှမ္မလည်ဆွဲရပ်",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-11": [
@@ -7192,7 +7192,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -7203,7 +7203,7 @@
             "fallenState": "ရှမ်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-12": [
@@ -7475,7 +7475,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -7486,7 +7486,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-16": [
@@ -7499,7 +7499,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "မန္တလေးမြို့၊ ၇၆လမ်းနှင့် ၁၂လမ်းထောင့်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -7510,7 +7510,7 @@
             "fallenState": "မွန်",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-17": [
@@ -7523,7 +7523,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့ အရှေ့ပိုင်း၊ အောင်ချမ်းသာရပ်၊",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုစိုးသက်",
@@ -7534,7 +7534,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့ အရှေ့ပိုင်း၊ အောင်မင်္ဂလာရပ်၊",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဒေါ်ရာဟောင်းကို",
@@ -7567,7 +7567,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -7578,7 +7578,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-04-18": [

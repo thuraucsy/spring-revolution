@@ -801,7 +801,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ဆန်း",
@@ -812,7 +812,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုအောင်ကျော်",
@@ -823,7 +823,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်နိုင်",
@@ -834,7 +834,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုချစ်ဖောင်း",
@@ -845,7 +845,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုမျိုးဝင်း",
@@ -856,7 +856,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုရှည်ကြီး",
@@ -867,7 +867,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဖိုးလပြည့်",
@@ -878,7 +878,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုအောင်ဆန်းလင်း",
@@ -889,7 +889,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -900,7 +900,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုနောင်ခန့်အောင်",
@@ -933,7 +933,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -944,7 +944,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "Kishan Gtm",
@@ -1043,7 +1043,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -1054,7 +1054,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
