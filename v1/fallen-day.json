@@ -7721,6 +7721,17 @@
             "fallenPlace": "ပျဉ်းမနားမြို့",
             "heroPlace": "ပျဉ်းမနားမြို့၊ ရွာကောက်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၆၄ လမ်း/ ၁၀၇ လမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
