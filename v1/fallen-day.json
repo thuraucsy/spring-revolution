@@ -7710,6 +7710,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ ဘီလူးချောင်း",
             "heroPlace": "",
             "fallenCause": "ဆန္ဒပြပွဲတွင် ရဲများဖမ်းဆီးသဖြင့် ချောင်းထဲခုန်ချကာ \bကျဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပျဉ်းမနား",
+            "fallenState": "နေပြည်တော်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
