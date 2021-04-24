@@ -2177,17 +2177,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-24",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ပျဉ်းမနား",
-            "fallenState": "နေပြည်တော်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

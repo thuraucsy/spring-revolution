@@ -6801,13 +6801,13 @@
         {
             "heroName": "",
             "fallenDay": "2021-04-24",
-            "heroAge": "",
+            "heroAge": "56",
             "heroGender": "m",
             "fallenCity": "ပျဉ်းမနား",
             "fallenState": "နေပြည်တော်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "fallenPlace": "ပျဉ်းမနားမြို့",
+            "heroPlace": "ပျဉ်းမနားမြို့၊ ရွာကောက်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
