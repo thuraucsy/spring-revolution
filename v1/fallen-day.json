@@ -117,17 +117,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဆန္ဒပြပွဲတွင် မူးလဲကာ ကွယ်လွန်"
-        },
-        {
-            "heroName": "ဦးဝင်းမြင့် (တောင်ကြီး)ဖြစ်ဖွယ်ရှိ",
-            "fallenDay": "",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "အောင်ပန်း",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "စစ်တပ်မှ မီးသဂြိုဟ်ကာ အလောင်းဖျောက်"
         }
     ],
     "2021-02-24": [
@@ -5970,6 +5959,17 @@
             "fallenPlace": "တောင်ဒဂုံ ၅၆ ရပ်ကွက် လမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-03-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ မီးသဂြိုဟ်ကာ အလောင်းဖျောက်"
         },
         {
             "heroName": "",
