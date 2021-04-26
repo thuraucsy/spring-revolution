@@ -1265,6 +1265,17 @@
                 "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၆၅ လမ်း/ ၁၀၇ လမ်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+            },
+            {
+                "heroName": "ကိုအီကြာကွေး",
+                "fallenDay": "2021-04-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မန္တလေး",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မန္တလေးမြို့၊ စိန်ပန်းရပ်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
             }
         ],
         "မြင်းခြံ": [
@@ -2192,7 +2203,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုနှင်းဦး",
                 "fallenDay": "2021-04-24",
                 "heroAge": "56",
                 "heroGender": "m",
