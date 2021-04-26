@@ -7360,6 +7360,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ ရွှေမြောင်းကျေးရွာ",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ ရွှေမြောင်းကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-04-26",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
