@@ -7688,6 +7688,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးပေါလူ",
+            "fallenDay": "2021-04-27",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
+            "heroPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်အချက်ပေါင်းများစွာမှန်"
         }
     ]
 }
