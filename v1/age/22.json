@@ -219,6 +219,17 @@
             "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၆၅ လမ်း/ ၁၀၇ လမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ထန်မွန်းလျန် (Thang Muan Lian)",
+            "fallenDay": "2021-04-27",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

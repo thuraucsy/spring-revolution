@@ -296,17 +296,6 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကျေးရွာ",
             "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "Thang Muan Lian",
-            "fallenDay": "2021-04-27",
-            "heroAge": "21",
-            "heroGender": "m",
-            "fallenCity": "တီးတီန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
