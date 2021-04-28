@@ -1638,6 +1638,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကျေးရွာ",
             "heroPlace": "မိုးမောက်မြို့နယ်ရှိ မြို့သစ်ကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Thang Muan Lian",
+            "fallenDay": "2021-04-27",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "22": [
@@ -9120,17 +9131,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "Thang Muan Lian",
-            "fallenDay": "2021-04-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တီးတီန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ],
     "under20": [
@@ -13990,6 +13990,17 @@
             "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၆၅ လမ်း/ ၁၀၇ လမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "Thang Muan Lian",
+            "fallenDay": "2021-04-27",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [
