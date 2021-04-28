@@ -7735,5 +7735,18 @@
             "heroPlace": "ဘားအံမြို့၊ မြိုင်ကလေး၊ ဘားအံ-သထုံလမ်းမအနီး",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "ချင်း": [
+        {
+            "heroName": "Thang Muan Lian",
+            "fallenDay": "2021-04-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }

@@ -2254,6 +2254,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Thang Muan Lian",
+            "fallenDay": "2021-04-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
