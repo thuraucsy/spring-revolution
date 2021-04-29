@@ -7736,11 +7736,11 @@
         {
             "heroName": "ကိုကျော်နိုင်",
             "fallenDay": "2021-04-28",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ကနီရဲစခန်း",
             "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
             "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         },
@@ -7767,7 +7767,7 @@
             "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         },
         {
-            "heroName": "ဦးဂျန်မာထွက်ဝါ",
+            "heroName": "ဦးဂျန်မာထွယ်ဝါ",
             "fallenDay": "2021-04-29",
             "heroAge": "72",
             "heroGender": "m",

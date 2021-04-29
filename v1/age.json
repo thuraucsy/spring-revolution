@@ -3295,6 +3295,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်",
+            "fallenDay": "2021-04-28",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီရဲစခန်း",
+            "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
+            "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "31": [
@@ -5563,7 +5574,7 @@
     ],
     "72": [
         {
-            "heroName": "ဦးဂျန်မာထွက်ဝါ",
+            "heroName": "ဦးဂျန်မာထွယ်ဝါ",
             "fallenDay": "2021-04-29",
             "heroAge": "72",
             "heroGender": "m",
@@ -6909,6 +6920,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၈၄ လမ်း ဈေးချိုနာရီစင်အနီး",
             "heroPlace": "အောင်မြေသာဇံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်ကွက် (အကွက် ၂၀၈)",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်",
+            "fallenDay": "2021-04-28",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီရဲစခန်း",
+            "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
+            "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "unknown": [
@@ -9166,17 +9188,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုကျော်နိုင်",
-            "fallenDay": "2021-04-28",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကနီ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
-            "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         },
         {
             "heroName": "",
@@ -14585,7 +14596,7 @@
             "fallenCause": "ကျည်မှန်၊ တပင်ရွှေထီးလမ်းမပေါ်မှ အိမ်အတွင်းသို့ ပစ်ခတ်"
         },
         {
-            "heroName": "ဦးဂျန်မာထွက်ဝါ",
+            "heroName": "ဦးဂျန်မာထွယ်ဝါ",
             "fallenDay": "2021-04-29",
             "heroAge": "72",
             "heroGender": "m",
