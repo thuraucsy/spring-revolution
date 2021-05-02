@@ -7139,6 +7139,30 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ဝက်လက်": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-02",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ဝက်လက်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-02",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ဝက်လက်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "ရှမ်း": {
@@ -7494,6 +7518,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             }
+        ],
+        "သီပေါ": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-02",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "သီပေါ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+            }
         ]
     },
     "ကချင်": {
@@ -7576,6 +7613,17 @@
                 "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းရွာ၊ ကုဋေမှော်ရပ်၊ မြဥယျာဉ်ကုမ္ပဏီ",
                 "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းရွာ၊ ကုဋေမှော်ရပ်၊ မြဥယျာဉ်ကုမ္ပဏီ",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-02",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ဖားကန့်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+                "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မိုးညှင်း": [
