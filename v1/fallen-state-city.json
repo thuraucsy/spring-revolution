@@ -7142,26 +7142,26 @@
         ],
         "ဝက်လက်": [
             {
-                "heroName": "",
+                "heroName": "ကိုမင်းဇင်",
                 "fallenDay": "2021-05-02",
-                "heroAge": "",
-                "heroGender": "",
+                "heroAge": "22",
+                "heroGender": "m",
                 "fallenCity": "ဝက်လက်",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "",
                 "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
+                "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးဇော်ဦး",
                 "fallenDay": "2021-05-02",
-                "heroAge": "",
-                "heroGender": "",
+                "heroAge": "42",
+                "heroGender": "m",
                 "fallenCity": "ဝက်လက်",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "",
                 "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
+                "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊"
             }
         ]
     },
@@ -7537,7 +7537,7 @@
                 "heroName": "",
                 "fallenDay": "2021-05-02",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "နောင်ချို",
                 "fallenState": "ရှမ်း",
                 "fallenPlace": "",

@@ -109,6 +109,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ကြိုးကြာစက်ကွင်းအနီး",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ဦးဇော်ဦး",
+            "fallenDay": "2021-05-02",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊"
         }
     ]
 }
