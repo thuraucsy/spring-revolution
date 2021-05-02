@@ -219,6 +219,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဟံသာ၀တီကျေးရွာ ရဲကင်းစခန်းရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးကိုကိုဦး (ခ) နူးရ်အစ္စလာမ်",
+            "fallenDay": "2021-05-02",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "သီပေါ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
