@@ -98,6 +98,17 @@
             "fallenPlace": "",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ အလယ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေဖြိုး",
+            "fallenDay": "2021-05-02",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

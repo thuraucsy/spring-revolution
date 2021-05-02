@@ -3675,6 +3675,17 @@
             "fallenPlace": "",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ အလယ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေဖြိုး",
+            "fallenDay": "2021-05-02",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "34": [
@@ -6931,6 +6942,17 @@
             "fallenPlace": "ကနီရဲစခန်း",
             "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
             "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုဝေဖြိုး",
+            "fallenDay": "2021-05-02",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -9215,23 +9237,12 @@
             "heroName": "",
             "fallenDay": "2021-05-02",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "သီပေါ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-02",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဖားကန့်",
-            "fallenState": "ကချင်",
-            "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
-            "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",

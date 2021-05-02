@@ -7524,7 +7524,7 @@
                 "heroName": "",
                 "fallenDay": "2021-05-02",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "သီပေါ",
                 "fallenState": "ရှမ်း",
                 "fallenPlace": "",
@@ -7628,13 +7628,13 @@
                 "fallenCause": "လက်နက်ကြီးမှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုဝေဖြိုး",
                 "fallenDay": "2021-05-02",
-                "heroAge": "",
-                "heroGender": "",
+                "heroAge": "33",
+                "heroGender": "m",
                 "fallenCity": "ဖားကန့်",
                 "fallenState": "ကချင်",
-                "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
+                "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
                 "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
             }
