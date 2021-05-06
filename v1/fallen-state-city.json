@@ -2150,6 +2150,19 @@
                 "heroPlace": "",
                 "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
             }
+        ],
+        "မိထီလာ": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိထီလာ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
         ]
     },
     "နေပြည်တော်": {
@@ -2449,6 +2462,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထားဝယ်",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ပြည်ကြီးမဏ္ဍိုင်": [
@@ -7779,6 +7803,39 @@
                 "fallenPlace": "မိုးမောက်မြို့၊ နွမ်လျန်းကျေးရွာ",
                 "heroPlace": "မိုးမောက်မြို့၊ နွမ်လျန်းကျေးရွာ",
                 "fallenCause": "တိုက်လေယာဉ်လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဒေါ်ခမ်းလွန်း",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "မိုးမောက်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဦးလောဆမ်",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးမောက်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဆရာတော် ဦးကေသရာ",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးမောက်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ]
     },

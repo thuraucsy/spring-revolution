@@ -2122,6 +2122,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၈၄ လမ်း ဈေးချိုနာရီစင်အနီး",
             "heroPlace": "အောင်မြေသာဇံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်ကွက် (အကွက် ၂၀၈)",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိထီလာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "နေပြည်တော်": [
@@ -2533,6 +2544,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ရန်ကုန်": [
@@ -7574,6 +7596,39 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ ရပ်ကွက် (၁)",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခမ်းလွန်း",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးလောဆမ်",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဆရာတော် ဦးကေသရာ",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "ဧရာဝတီ": [
