@@ -8007,7 +8007,7 @@
             "heroGender": "m",
             "fallenCity": "မိတ္ထီလာ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "မိတ္ထီလာ",
+            "fallenPlace": "မိတ္ထီလာမြို့ ဘုရင့်နောင်လမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -8023,7 +8023,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကျေး",
             "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "m",

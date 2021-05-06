@@ -1903,7 +1903,7 @@
                 "heroGender": "m",
                 "fallenCity": "မိတ္ထီလာ",
                 "fallenState": "မန္တလေး",
-                "fallenPlace": "မိတ္ထီလာ",
+                "fallenPlace": "မိတ္ထီလာမြို့ ဘုရင့်နောင်လမ်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
@@ -5292,7 +5292,7 @@
                 "fallenCause": "Mar-13 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-19 တွင် အလောင်းလာယူရန်ပြောဆို"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုကျေး",
                 "fallenDay": "2021-05-05",
                 "heroAge": "",
                 "heroGender": "m",
