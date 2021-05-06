@@ -7041,26 +7041,37 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်သူ",
             "fallenDay": "2021-05-03",
-            "heroAge": "",
+            "heroAge": "28",
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         },
         {
             "heroName": "",
             "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မိထီလာ",
+            "fallenCity": "မိတ္ထီလာ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မိတ္ထီလာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "f": [
@@ -7602,6 +7613,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခမ်းလွန်း",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-05",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ အလုပ်သမားဆေရုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -7879,17 +7912,6 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၇၆လမ်းနှင့် ၁၂လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ဒေါ်ခမ်းလွန်း",
-            "fallenDay": "2021-05-03",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မိုးမောက်",
-            "fallenState": "ကချင်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

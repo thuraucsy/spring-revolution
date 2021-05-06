@@ -2950,6 +2950,17 @@
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့ အရှေ့ပိုင်း၊ အောင်မင်္ဂလာရပ်၊",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်သူ",
+            "fallenDay": "2021-05-03",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "29": [
@@ -9281,7 +9292,7 @@
             "heroName": "ဒေါ်ခမ်းလွန်း",
             "fallenDay": "2021-05-03",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
             "fallenPlace": "",
@@ -9312,25 +9323,36 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-05-03",
+            "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ထားဝယ်",
-            "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenCity": "မိတ္ထီလာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိတ္ထီလာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-05",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ အလုပ်သမားဆေရုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
             "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မိထီလာ",
-            "fallenState": "မန္တလေး",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "under20": [
@@ -14720,6 +14742,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုအောင်သူ",
+            "fallenDay": "2021-05-03",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "50th": [

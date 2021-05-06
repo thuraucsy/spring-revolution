@@ -4,7 +4,7 @@
             "heroName": "ဒေါ်ခမ်းလွန်း",
             "fallenDay": "2021-05-03",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
             "fallenPlace": "",
@@ -34,15 +34,15 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်သူ",
             "fallenDay": "2021-05-03",
-            "heroAge": "",
+            "heroAge": "28",
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }

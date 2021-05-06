@@ -1287,6 +1287,17 @@
                 "fallenPlace": "မန္တလေးမြို့၊ ၈၄ လမ်း ဈေးချိုနာရီစင်အနီး",
                 "heroPlace": "အောင်မြေသာဇံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်ကွက် (အကွက် ၂၀၈)",
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-05",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "မန္တလေး",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မန္တလေးမြို့ အလုပ်သမားဆေရုံအနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မြင်းခြံ": [
@@ -1884,6 +1895,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိတ္ထီလာ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မိတ္ထီလာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ပြင်ဦးလွင်": [
@@ -2149,19 +2171,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
-            }
-        ],
-        "မိထီလာ": [
-            {
-                "heroName": "",
-                "fallenDay": "2021-05-05",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မိထီလာ",
-                "fallenState": "မန္တလေး",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ]
     },
@@ -2464,15 +2473,15 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုအောင်သူ",
                 "fallenDay": "2021-05-03",
-                "heroAge": "",
+                "heroAge": "28",
                 "heroGender": "m",
                 "fallenCity": "ထားဝယ်",
                 "fallenState": "တနင်္သာရီ",
                 "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
+                "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
+                "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
             }
         ],
         "ပြည်ကြီးမဏ္ဍိုင်": [
@@ -5281,6 +5290,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ပြည်မြို့၊ ခရမ်းကုန်းရပ်ကွက်",
                 "fallenCause": "Mar-13 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-19 တွင် အလောင်းလာယူရန်ပြောဆို"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြည်",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
+                "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
             }
         ],
         "ကြို့ပင်ကောက်": [
@@ -7808,7 +7828,7 @@
                 "heroName": "ဒေါ်ခမ်းလွန်း",
                 "fallenDay": "2021-05-03",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "f",
                 "fallenCity": "မိုးမောက်",
                 "fallenState": "ကချင်",
                 "fallenPlace": "",
