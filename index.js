@@ -121,13 +121,14 @@ async function main() {
     function heroAgeHumanReadable(ageJSON, heroAge, hero) {
         if (heroAge) {
             let ageName = '';
-            if (heroAge < 10) {
-                ageName = 'under10';
-                pushToJSON(ageJSON, ageName, hero);
-            }
 
             if (heroAge < 16) {
                 ageName = 'under16';
+                pushToJSON(ageJSON, ageName, hero);
+            }
+            
+            if (heroAge < 18) {
+                ageName = 'under18';
                 pushToJSON(ageJSON, ageName, hero);
             }
 
