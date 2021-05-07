@@ -1220,6 +1220,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊"
+        },
+        {
+            "heroName": "ကိုကျော်စွာဖြိုး",
+            "fallenDay": "2021-05-06",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

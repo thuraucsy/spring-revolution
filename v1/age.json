@@ -2493,6 +2493,17 @@
             "fallenPlace": "ကျောက်မဲမြို့၊ ဝေဠုဝန်ကျောင်းအနောက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်စွာဖြိုး",
+            "fallenDay": "2021-05-06",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "26": [
@@ -14808,6 +14819,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်စွာဖြိုး",
+            "fallenDay": "2021-05-06",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "50th": [

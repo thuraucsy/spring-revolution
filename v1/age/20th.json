@@ -2045,6 +2045,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်စွာဖြိုး",
+            "fallenDay": "2021-05-06",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

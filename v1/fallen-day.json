@@ -8066,5 +8066,18 @@
             "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
+    ],
+    "2021-05-06": [
+        {
+            "heroName": "ကိုကျော်စွာဖြိုး",
+            "fallenDay": "2021-05-06",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }
