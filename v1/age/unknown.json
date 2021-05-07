@@ -2342,17 +2342,6 @@
             "fallenPlace": "မန္တလေးမြို့ အလုပ်သမားဆေရုံအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုကျေး",
-            "fallenDay": "2021-05-05",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ပြည်",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
-            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }
