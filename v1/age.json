@@ -3732,7 +3732,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကျေး  (ခ)  ကိုအောင်ခိုင်မြင့်",
+            "heroName": "ကိုကျေး(ခ)ကိုအောင်ခိုင်မြင့်",
             "fallenDay": "2021-05-05",
             "heroAge": "33",
             "heroGender": "m",
@@ -7021,7 +7021,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကျေး  (ခ)  ကိုအောင်ခိုင်မြင့်",
+            "heroName": "ကိုကျေး(ခ)ကိုအောင်ခိုင်မြင့်",
             "fallenDay": "2021-05-05",
             "heroAge": "33",
             "heroGender": "m",
@@ -9356,6 +9356,28 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးလင်း",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးလင်း",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "m",
@@ -9366,7 +9388,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မနီနီဝ◌င်း",
+            "heroName": "မနီနီဝင်း",
             "fallenDay": "2021-05-05",
             "heroAge": "",
             "heroGender": "f",

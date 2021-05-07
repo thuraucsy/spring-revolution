@@ -1289,7 +1289,7 @@
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
             },
             {
-                "heroName": "မနီနီဝ◌င်း",
+                "heroName": "မနီနီဝင်း",
                 "fallenDay": "2021-05-05",
                 "heroAge": "",
                 "heroGender": "f",
@@ -5303,7 +5303,7 @@
                 "fallenCause": "Mar-13 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-19 တွင် အလောင်းလာယူရန်ပြောဆို"
             },
             {
-                "heroName": "ကိုကျေး  (ခ)  ကိုအောင်ခိုင်မြင့်",
+                "heroName": "ကိုကျေး(ခ)ကိုအောင်ခိုင်မြင့်",
                 "fallenDay": "2021-05-05",
                 "heroAge": "33",
                 "heroGender": "m",
@@ -5595,6 +5595,28 @@
                 "fallenPlace": "ထီးလင်းမြို့တောင်ဘက်ရဲစခန်းရှေ့",
                 "heroPlace": "ထန်းပင်ကုန်းရွာ၊ ထီးလင်းမြို့၊ မကွေးတိုင်း",
                 "fallenCause": "ကျည်မှန်၊ နှလုံးသို့ ကျည်မှန်၊ ည ၈နာရီတွင် ဖမ်းဆီးသွားသည့် အောင်ကောင်းမြတ်အား လွှတ်ပေးရန် လူထုမှတောင်းဆိုခဲ့ရာ အကြမ်းဖက်ဖြိုခွင်းခဲ့"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထီးလင်း",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထီးလင်း",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မြိုင်": [
