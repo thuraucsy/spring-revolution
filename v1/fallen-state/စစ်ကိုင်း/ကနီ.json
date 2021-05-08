@@ -109,6 +109,17 @@
             "fallenPlace": "ကနီမြို့၊ ချင်းတွင်းမြစ်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမုန်း",
+            "fallenDay": "2021-05-06",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
