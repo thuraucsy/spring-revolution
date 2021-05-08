@@ -196,6 +196,17 @@
             "fallenPlace": "",
             "heroPlace": "ပုသိမ်မြို့၊ အမှတ် ရ နယ်မြေ၊ ရာမညလမ်းမကြီး (၄/၅) ကြား၊ လမ်းသွယ် ၁၂",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊ Mar-29 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-30 တွင်မိသားစုအား အလောင်းလာထုတ်ခိုင်း"
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "16": [
@@ -10466,6 +10477,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "10th": [
@@ -11502,6 +11524,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "under18": [
@@ -11988,6 +12021,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းဈေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ နယ်မြေ ၂",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "40th": [
@@ -15331,6 +15375,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းဈေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ နယ်မြေ ၂",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "70th": [

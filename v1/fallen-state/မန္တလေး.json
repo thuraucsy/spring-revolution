@@ -2144,6 +2144,17 @@
             "fallenPlace": "မန္တလေးမြို့ အလုပ်သမားဆေရုံအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-05-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
