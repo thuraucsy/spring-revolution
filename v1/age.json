@@ -1084,6 +1084,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစိုးလင်းကျော်",
+            "fallenDay": "2021-05-06",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဆုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "ချောင်းဆုံမြို့နယ်၊ ကုလားဘီကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ],
     "20": [
@@ -9441,6 +9452,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ထွန်း (ခ) ခက်သီ",
+            "fallenDay": "2021-05-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "under20": [
@@ -10501,6 +10523,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုစိုးလင်းကျော်",
+            "fallenDay": "2021-05-06",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဆုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "ချောင်းဆုံမြို့နယ်၊ ကုလားဘီကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
             "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
             "fallenDay": "2021-05-07",
             "heroAge": "15",
@@ -11546,6 +11579,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစိုးလင်းကျော်",
+            "fallenDay": "2021-05-06",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဆုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "ချောင်းဆုံမြို့နယ်၊ ကုလားဘီကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         },
         {
             "heroName": "မောင်ထက်အောင် (ခ) ဖိုးချစ်",
