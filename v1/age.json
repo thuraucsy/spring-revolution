@@ -5554,6 +5554,17 @@
             "fallenPlace": "ပျဉ်းမနားမြို့",
             "heroPlace": "ပျဉ်းမနားမြို့၊ ရွာကောက်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "57": [
@@ -15250,6 +15261,17 @@
             "fallenPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
             "heroPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်အချက်ပေါင်းများစွာမှန်"
+        },
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "60th": [

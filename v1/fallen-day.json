@@ -8184,5 +8184,18 @@
             "heroPlace": "",
             "fallenCause": "ဦးခေါင်းသို့ကျည်မှန်ကာ နှိပ်စက်ခံရကာကျဆုံး"
         }
+    ],
+    "2021-05-11": [
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        }
     ]
 }

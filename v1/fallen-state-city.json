@@ -8301,6 +8301,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ဟားခါး": [
+            {
+                "heroName": "Pu Tler Ling",
+                "fallenDay": "2021-05-11",
+                "heroAge": "56",
+                "heroGender": "m",
+                "fallenCity": "ဟားခါး",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+            }
         ]
     }
 }
