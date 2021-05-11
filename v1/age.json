@@ -9474,6 +9474,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးကောင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးကောင်းမြို့နယ်၊ နမ္မတီးမြို့၊ မြို့မချယ်ရီခေါက်ဆွဲဆိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စိုင်းကွမ်းဆိုင်",
+            "fallenDay": "2021-05-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟိုပင်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဟိုပင်မြို့၊ တကွင်းရွာ၊ ကန်သာယာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ဦးခေါင်းသို့ကျည်မှန်ကာ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "under20": [
