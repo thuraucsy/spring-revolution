@@ -3998,6 +3998,17 @@
             "fallenPlace": "ကလေးမြို့၊ တာဟန်းရပ်",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်က လက်တဖက်ပြတ်ကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်မြင့်",
+            "fallenDay": "2021-05-11",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "36": [
@@ -5554,17 +5565,6 @@
             "fallenPlace": "ပျဉ်းမနားမြို့",
             "heroPlace": "ပျဉ်းမနားမြို့၊ ရွာကောက်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "Pu Tler Ling",
-            "fallenDay": "2021-05-11",
-            "heroAge": "56",
-            "heroGender": "m",
-            "fallenCity": "ဟားခါး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "57": [
@@ -5650,6 +5650,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖာပွန်ခရိုင် လူသောမြို့နယ် ယဲမူပလောအုပ်စု မေဖွဲထာကျေးရွ",
             "fallenCause": "လက်နက်ကြီးဖြင့်ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "62": [
@@ -7085,6 +7096,17 @@
             "fallenPlace": "",
             "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်မြင့်",
+            "fallenDay": "2021-05-11",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -15261,17 +15283,6 @@
             "fallenPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
             "heroPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်အချက်ပေါင်းများစွာမှန်"
-        },
-        {
-            "heroName": "Pu Tler Ling",
-            "fallenDay": "2021-05-11",
-            "heroAge": "56",
-            "heroGender": "m",
-            "fallenCity": "ဟားခါး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "60th": [
@@ -15329,6 +15340,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖာပွန်ခရိုင် လူသောမြို့နယ် ယဲမူပလောအုပ်စု မေဖွဲထာကျေးရွ",
             "fallenCause": "လက်နက်ကြီးဖြင့်ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
     "under16": [

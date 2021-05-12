@@ -54,6 +54,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖာပွန်ခရိုင် လူသောမြို့နယ် ယဲမူပလောအုပ်စု မေဖွဲထာကျေးရွ",
             "fallenCause": "လက်နက်ကြီးဖြင့်ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "Pu Tler Ling",
+            "fallenDay": "2021-05-11",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }

@@ -131,6 +131,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မြင့်",
+            "fallenDay": "2021-05-11",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
