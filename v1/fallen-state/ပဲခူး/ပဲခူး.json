@@ -384,6 +384,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ မှော်ကန်လမ်း",
             "heroPlace": "",
             "fallenCause": "Apr-9 တွင် ကျည်မှန်ကာ စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-12 တွင် သေဆုံးကြောင်းပြော"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ]
 }

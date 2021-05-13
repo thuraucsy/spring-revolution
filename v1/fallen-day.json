@@ -8198,6 +8198,17 @@
             "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         },
         {
+            "heroName": "Pu Khamh Bawi",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
             "heroName": "ကိုကျော်မြင့်",
             "fallenDay": "2021-05-11",
             "heroAge": "35",
@@ -8207,6 +8218,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ],
     "2021-05-12": [

@@ -5288,6 +5288,17 @@
                 "fallenPlace": "ပဲခူးမြို့၊ မှော်ကန်လမ်း",
                 "heroPlace": "",
                 "fallenCause": "Apr-9 တွင် ကျည်မှန်ကာ စစ်တပ်မှဖမ်းဆီးသွား၊ Apr-12 တွင် သေဆုံးကြောင်းပြော"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-11",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "ပဲခူး",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
             }
         ],
         "ပြည်": [
@@ -8329,6 +8340,17 @@
                 "heroName": "Pu Tler Ling",
                 "fallenDay": "2021-05-11",
                 "heroAge": "60",
+                "heroGender": "m",
+                "fallenCity": "ဟားခါး",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+                "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+            },
+            {
+                "heroName": "Pu Khamh Bawi",
+                "fallenDay": "2021-05-11",
+                "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "ဟားခါး",
                 "fallenState": "ချင်း",

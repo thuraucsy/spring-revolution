@@ -549,6 +549,17 @@
             "fallenPlace": "",
             "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ]
 }

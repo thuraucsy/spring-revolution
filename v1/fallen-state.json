@@ -5364,6 +5364,17 @@
             "fallenPlace": "",
             "heroPlace": "ပြည်မြို့ နဝင်းကွက်သစ် ၁၂ လမ်း",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ],
     "မကွေး": [
@@ -8104,6 +8115,17 @@
             "heroName": "Pu Tler Ling",
             "fallenDay": "2021-05-11",
             "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
+            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "Pu Khamh Bawi",
+            "fallenDay": "2021-05-11",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဟားခါး",
             "fallenState": "ချင်း",
