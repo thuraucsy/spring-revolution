@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇင်ကိုထွန်း",
+            "fallenDay": "2021-05-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ခြေထောက်သို့ကျည်မှန်ကာ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }
