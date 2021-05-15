@@ -5825,6 +5825,17 @@
                 "fallenPlace": "",
                 "heroPlace": "မကွေးမြို့၊ နံကပ်ကျွန်းအုပ်စု၊ အေးမြသာယာ(မ)ရပ်",
                 "fallenCause": "ကျည်မှန်၊ Mar-29 တွင် စစ်တပ်မှ ဖမ်းဆီးသွား၊ Mar-30 တွင်မိသားစုအား အလောင်းလာထုတ်ခိုင်း"
+            },
+            {
+                "heroName": "ကိုအောင်ဖေ",
+                "fallenDay": "2021-05-15",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မကွေး",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "မကွေးမြို့၊ ကန်သာကန်အနီး",
+                "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
             }
         ],
         "ဂန့်ဂေါ": [
@@ -6320,6 +6331,17 @@
                 "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးစိန်ဝင်း",
+                "fallenDay": "2021-05-14",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "ကလေး": [

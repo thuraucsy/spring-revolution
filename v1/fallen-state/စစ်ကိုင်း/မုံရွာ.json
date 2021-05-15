@@ -263,6 +263,17 @@
             "fallenPlace": "မုံရွာမြို့၊ နန္ဒဝန်ရပ်ကွက်၊ အေးရိပ်သာလမ်းနှင့် အာဇာနည်လမ်းထောင့်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးစိန်ဝင်း",
+            "fallenDay": "2021-05-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }
