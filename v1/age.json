@@ -508,6 +508,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ စံတော်တွင်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "18": [
@@ -675,6 +686,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "19": [
@@ -2159,6 +2181,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမာကီးထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "24": [
@@ -2535,6 +2568,17 @@
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့၊ ချင်းတွင်းမြစ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကီးတမ်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
@@ -3016,6 +3060,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "29": [
@@ -3394,6 +3449,17 @@
             "fallenPlace": "ကနီရဲစခန်း",
             "heroPlace": "ကနီမြို့နယ်၊ ချောင်းမကျေးရွာ",
             "fallenCause": "စစ်တပ်မှ ကနီရဲစခန်းသို့ဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဟာခွီရှိန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -7140,6 +7206,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဟာခွီရှိန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -10719,6 +10796,28 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -11777,6 +11876,28 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -12274,6 +12395,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -15159,6 +15291,39 @@
             "fallenState": "ကချင်",
             "fallenPlace": "မိုးကောင်းမြို့နယ်၊ နမ္မတီးမြို့၊ မြို့မချယ်ရီခေါက်ဆွဲဆိုင်အနီး",
             "heroPlace": "မြစ်ကြီးနားမြို့၊ ကြာရာပါတီရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကီးတမ်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမာကီးထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

@@ -2067,6 +2067,39 @@
             "fallenPlace": "မိုးကောင်းမြို့နယ်၊ နမ္မတီးမြို့၊ မြို့မချယ်ရီခေါက်ဆွဲဆိုင်အနီး",
             "heroPlace": "မြစ်ကြီးနားမြို့၊ ကြာရာပါတီရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကီးတမ်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမာကီးထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

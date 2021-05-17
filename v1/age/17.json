@@ -175,6 +175,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ စံတော်တွင်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

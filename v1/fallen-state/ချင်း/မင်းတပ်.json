@@ -1,39 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ထန်မွန်းလျန် (Thang Muan Lian)",
-            "fallenDay": "2021-04-27",
-            "heroAge": "22",
-            "heroGender": "m",
-            "fallenCity": "တီးတီန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "Pu Tler Ling",
-            "fallenDay": "2021-05-11",
-            "heroAge": "60",
-            "heroGender": "m",
-            "fallenCity": "ဟားခါး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
-            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
-        },
-        {
-            "heroName": "Pu Khamh Bawi",
-            "fallenDay": "2021-05-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဟားခါး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
-            "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
-        },
-        {
             "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
             "fallenDay": "2021-05-13",
             "heroAge": "17",
@@ -97,17 +64,6 @@
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုဂိုရှမ်မုန်",
-            "fallenDay": "2021-05-16",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တီးတီန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ]

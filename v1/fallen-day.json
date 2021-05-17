@@ -8255,6 +8255,72 @@
             "fallenPlace": "",
             "heroPlace": "မြင်းခြံမြို့နယ် တလုပ်မြို့ကျေးရွာ",
             "fallenCause": "ခြေထောက်သို့ကျည်မှန်ကာ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကီးတမ်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းမာကီးထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဟာခွီရှိန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-05-14": [

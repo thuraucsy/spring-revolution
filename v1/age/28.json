@@ -142,6 +142,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့ စစ်ပြဲရွာ",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

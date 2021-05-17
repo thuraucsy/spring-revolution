@@ -1077,6 +1077,28 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+            "fallenDay": "2021-05-13",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+            "fallenDay": "2021-05-13",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
