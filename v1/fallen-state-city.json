@@ -4474,6 +4474,17 @@
                 "fallenPlace": "တောင်ဒဂုံမြို့နယ်၊ ၆၅ ရပ်ကွက်",
                 "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၆၅ ရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုကျော်ကျော်",
+                "fallenDay": "2021-05-16",
+                "heroAge": "42",
+                "heroGender": "m",
+                "fallenCity": "တောင်ဒဂုံ",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၅၆ ရပ်ကွက်",
+                "fallenCause": "May 14 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
             }
         ],
         "အင်းစိန်": [
@@ -7979,9 +7990,9 @@
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             },
             {
-                "heroName": "လဂျူဂျာကွန်း",
+                "heroName": "လဂျူဂျာဂွန်းတန်",
                 "fallenDay": "2021-05-10",
-                "heroAge": "",
+                "heroAge": "22",
                 "heroGender": "m",
                 "fallenCity": "မိုးကောင်း",
                 "fallenState": "ကချင်",
@@ -8376,6 +8387,17 @@
                 "fallenState": "ချင်း",
                 "fallenPlace": "",
                 "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဂိုရှမ်မုန်",
+                "fallenDay": "2021-05-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တီးတီန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
             }
         ],

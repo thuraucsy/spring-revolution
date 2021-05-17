@@ -2221,6 +2221,17 @@
             "fallenPlace": "သန်လျင်မြို့နယ်၊ Star City အိမ်ယာ၊ Building B5",
             "heroPlace": "သန်လျင်မြို့နယ်၊ Star City အိမ်ယာ၊ Building B6",
             "fallenCause": "နေထိုင်ရာတိုက်ခန်းအား ဝင်ရောက်စီးနင်းစဉ် တိုက်ပေါ်မှ ပြုတ်ကျကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်ကျော်",
+            "fallenDay": "2021-05-16",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၅၆ ရပ်ကွက်",
+            "fallenCause": "May 14 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }

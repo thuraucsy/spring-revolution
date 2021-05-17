@@ -7195,9 +7195,9 @@
             "fallenCause": "နေထိုင်ရာတိုက်ခန်းအား ဝင်ရောက်စီးနင်းစဉ် တိုက်ပေါ်မှ ပြုတ်ကျကာ သေဆုံး"
         },
         {
-            "heroName": "လဂျူဂျာကွန်း",
+            "heroName": "လဂျူဂျာဂွန်းတန်",
             "fallenDay": "2021-05-10",
-            "heroAge": "",
+            "heroAge": "22",
             "heroGender": "m",
             "fallenCity": "မိုးကောင်း",
             "fallenState": "ကချင်",
@@ -7303,6 +7303,28 @@
             "fallenPlace": "",
             "heroPlace": "မကွေးမြို့၊ ကန်သာကန်အနီး",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်ကျော်",
+            "fallenDay": "2021-05-16",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၅၆ ရပ်ကွက်",
+            "fallenCause": "May 14 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ကိုဂိုရှမ်မုန်",
+            "fallenDay": "2021-05-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတီန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
