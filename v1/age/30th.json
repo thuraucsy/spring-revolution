@@ -1363,6 +1363,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအဲစု",
+            "fallenDay": "2021-05-17",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တောင်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၇၀ ရပ်ကွက်",
+            "fallenCause": "May 4တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ]
 }
