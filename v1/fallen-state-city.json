@@ -7799,6 +7799,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "တန့်ယန်း": [
+            {
+                "heroName": "စိုင်းကံညွန့်",
+                "fallenDay": "2021-05-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တန့်ယန်း",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "တန့်ယန်းမြို့နယ်၊ ခိုရောင်ကျေးရွာ",
+                "heroPlace": "သီပေါမြို့",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
+            }
         ]
     },
     "ကချင်": {
