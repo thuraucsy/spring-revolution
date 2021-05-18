@@ -8434,17 +8434,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "ကိုဂိုရှမ်မုန်",
-                "fallenDay": "2021-05-16",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "တီးတီန်",
-                "fallenState": "ချင်း",
-                "fallenPlace": "",
-                "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
-                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဟားခါး": [
@@ -8591,6 +8580,19 @@
                 "fallenState": "ချင်း",
                 "fallenPlace": "",
                 "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "တီးတိန်": [
+            {
+                "heroName": "ကိုဂိုရှမ်မုန်",
+                "fallenDay": "2021-05-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တီးတိန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
             }
         ]
