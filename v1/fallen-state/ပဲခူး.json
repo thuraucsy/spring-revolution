@@ -560,6 +560,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ မြို့ရှောင်လမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးကျော်မိုး",
+            "fallenDay": "2021-05-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒိုက်ဦး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ဒိုက်ဦးမြို့၊ မြို့သစ် ခ ရပ်ကွက်၊ ၅လမ်း",
+            "heroPlace": "ဒိုက်ဦးမြို့၊ မြို့သစ် ခ ရပ်ကွက်၊ ၅လမ်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

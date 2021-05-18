@@ -8404,8 +8404,30 @@
             "fallenCity": "တောင်ဒဂုံ",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "",
-            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၇၀ ရပ်ကွက်",
+            "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၇၀ ရပ်ကွက်၊ ရွှေပြည်အေးလမ်း",
             "fallenCause": "May 4တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဦးကျော်မိုး",
+            "fallenDay": "2021-05-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒိုက်ဦး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ဒိုက်ဦးမြို့၊ မြို့သစ် ခ ရပ်ကွက်၊ ၅လမ်း",
+            "heroPlace": "ဒိုက်ဦးမြို့၊ မြို့သစ် ခ ရပ်ကွက်၊ ၅လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးထွန်းဦး",
+            "fallenDay": "2021-05-17",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Apr-18 တွင် ဦးခေါင်းသို့ကျည်မှန်၊ May-17  တွင် ကျဆုံး"
         }
     ]
 }
