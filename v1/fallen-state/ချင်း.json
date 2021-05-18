@@ -56,7 +56,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "heroName": "ဆလိုင်းမိန်းထန်း (Salai Min Thang)",
             "fallenDay": "2021-05-13",
             "heroAge": "28",
             "heroGender": "m",
@@ -89,9 +89,20 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဟာခွီရှိန်း",
+            "heroName": "ဟာခွီရှိန်း (Salai Ha Khui Shing)",
             "fallenDay": "2021-05-13",
             "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဖဲ(Salai Thang Phep)",
+            "fallenDay": "2021-05-13",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
@@ -116,6 +127,39 @@
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလင်းကီ (Salai Ling Ki)",
+            "fallenDay": "2021-05-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကီးရှင်း (Salai Kee Shing)",
+            "fallenDay": "2021-05-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းခွေရှင်းနင်(Salai Khui Shing Ning)",
+            "fallenDay": "2021-05-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",

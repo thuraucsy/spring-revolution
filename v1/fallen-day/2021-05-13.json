@@ -34,7 +34,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဆလိုင်းမိန်းထန်း",
+            "heroName": "ဆလိုင်းမိန်းထန်း (Salai Min Thang)",
             "fallenDay": "2021-05-13",
             "heroAge": "28",
             "heroGender": "m",
@@ -67,9 +67,20 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဟာခွီရှိန်း",
+            "heroName": "ဟာခွီရှိန်း (Salai Ha Khui Shing)",
             "fallenDay": "2021-05-13",
             "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်ဖဲ(Salai Thang Phep)",
+            "fallenDay": "2021-05-13",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
