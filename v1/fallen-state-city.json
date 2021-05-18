@@ -8469,11 +8469,22 @@
                 "fallenPlace": "",
                 "heroPlace": "ဟားခါးမြို့၊ ဈေးသစ်ရပ်ကွက်",
                 "fallenCause": "May-9 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+            },
+            {
+                "heroName": "ဆလိုင်းဗန်ဘျက်လင်း (Salai Van Biak Ling)",
+                "fallenDay": "2021-05-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဟားခါး",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မင်းတပ်": [
             {
-                "heroName": "ဆလိုင်းထန်ဟုန်းထန်",
+                "heroName": "ဆလိုင်းထန်ဟုန်းထန် (Salai Thang Hung Thang)",
                 "fallenDay": "2021-05-13",
                 "heroAge": "17",
                 "heroGender": "m",
@@ -8484,7 +8495,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ဆလိုင်းကီးတမ်",
+                "heroName": "ဆလိုင်းကီးတမ် (Salai Kee Tam)",
                 "fallenDay": "2021-05-13",
                 "heroAge": "25",
                 "heroGender": "m",
@@ -8506,7 +8517,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း",
+                "heroName": "ဆလိုင်းဟုန်းအွမ်ဟုန်း (Salai Hung Awn Hung)",
                 "fallenDay": "2021-05-13",
                 "heroAge": "18",
                 "heroGender": "m",
@@ -8517,7 +8528,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ဆလိုင်းမာကီးထန်း",
+                "heroName": "ဆလိုင်းမာကီးထန်း (Salai Mang Kee Thang)",
                 "fallenDay": "2021-05-13",
                 "heroAge": "23",
                 "heroGender": "m",

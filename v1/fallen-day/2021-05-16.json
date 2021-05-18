@@ -32,6 +32,17 @@
             "fallenPlace": "တန့်ယန်းမြို့နယ်၊ ခိုရောင်ကျေးရွာ",
             "heroPlace": "သီပေါမြို့",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းဗန်ဘျက်လင်း (Salai Van Biak Ling)",
+            "fallenDay": "2021-05-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
