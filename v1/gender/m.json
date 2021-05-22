@@ -7526,8 +7526,19 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-05-22",
+            "fallenDay": "2021-05-21",
             "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မောင်ဦး",
+            "fallenDay": "2021-05-22",
+            "heroAge": "19",
             "heroGender": "m",
             "fallenCity": "ဒီမောဆို",
             "fallenState": "ကယား",
@@ -7536,9 +7547,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဘူးရီ",
             "fallenDay": "2021-05-22",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ဒီမောဆို",
             "fallenState": "ကယား",

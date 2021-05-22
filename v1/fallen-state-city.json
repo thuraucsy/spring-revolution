@@ -8380,9 +8380,9 @@
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်အချက်ပေါင်းများစွာမှန်"
             },
             {
-                "heroName": "",
+                "heroName": "မောင်မောင်ဦး",
                 "fallenDay": "2021-05-22",
-                "heroAge": "",
+                "heroAge": "19",
                 "heroGender": "m",
                 "fallenCity": "ဒီမောဆို",
                 "fallenState": "ကယား",
@@ -8391,9 +8391,9 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ဘူးရီ",
                 "fallenDay": "2021-05-22",
-                "heroAge": "",
+                "heroAge": "20",
                 "heroGender": "m",
                 "fallenCity": "ဒီမောဆို",
                 "fallenState": "ကယား",
@@ -8642,6 +8642,17 @@
             {
                 "heroName": "ဆလိုင်းခွေရှင်းနင်(Salai Khui Shing Ning)",
                 "fallenDay": "2021-05-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မင်းတပ်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-21",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မင်းတပ်",

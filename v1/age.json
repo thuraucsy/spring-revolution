@@ -1128,6 +1128,17 @@
             "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မောင်ဦး",
+            "fallenDay": "2021-05-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20": [
@@ -1404,6 +1415,17 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့၊ လောင်းလုံးမြို့နယ်၊ မင်းရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဘူးရီ",
+            "fallenDay": "2021-05-22",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -9873,24 +9895,13 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-05-22",
+            "fallenDay": "2021-05-21",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ဒီမောဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
-            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-22",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဒီမောဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
-            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -11005,6 +11016,17 @@
             "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မောင်ဦး",
+            "fallenDay": "2021-05-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -12096,6 +12118,17 @@
             "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မောင်ဦး",
+            "fallenDay": "2021-05-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -15555,6 +15588,17 @@
             "fallenState": "ကရင်",
             "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဘူးရီ",
+            "fallenDay": "2021-05-22",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],

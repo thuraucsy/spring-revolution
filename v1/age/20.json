@@ -274,6 +274,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့၊ လောင်းလုံးမြို့နယ်၊ မင်းရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဘူးရီ",
+            "fallenDay": "2021-05-22",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီမောဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
