@@ -2111,6 +2111,17 @@
             "fallenPlace": "",
             "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဇင်မာဖြူ",
+            "fallenDay": "2021-05-20",
+            "heroAge": "27",
+            "heroGender": "f",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

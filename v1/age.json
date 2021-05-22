@@ -1117,6 +1117,17 @@
             "fallenPlace": "ချောင်းဆုံမြို့နယ်၊ ကုလားဘီကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဆွေလှိုင်ထွန်း",
+            "fallenDay": "2021-05-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "သပိတ်ကျင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "20": [
@@ -2925,6 +2936,17 @@
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဇင်မာဖြူ",
+            "fallenDay": "2021-05-20",
+            "heroAge": "27",
+            "heroGender": "f",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -10961,6 +10983,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆွေလှိုင်ထွန်း",
+            "fallenDay": "2021-05-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "သပိတ်ကျင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "10th": [
@@ -12041,6 +12074,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆွေလှိုင်ထွန်း",
+            "fallenDay": "2021-05-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "သပိတ်ကျင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "under18": [
@@ -15489,6 +15533,17 @@
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "တီးတိန်မြို့၊ မြို့မရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဇင်မာဖြူ",
+            "fallenDay": "2021-05-20",
+            "heroAge": "27",
+            "heroGender": "f",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

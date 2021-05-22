@@ -571,6 +571,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ မြို့ရှောင်လမ်းဆုံ",
             "heroPlace": "",
             "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "မဇင်မာဖြူ",
+            "fallenDay": "2021-05-20",
+            "heroAge": "27",
+            "heroGender": "f",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
