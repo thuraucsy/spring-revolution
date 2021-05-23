@@ -379,11 +379,22 @@
             "fallenDay": "2021-05-23",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မိုးဗြဲ",
+            "fallenCity": "ဖယ်ခုံ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအောင်မြိုင်",
+            "fallenDay": "2021-05-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ မိုးဗြဲကျေးရွာအုပ်စု ကန်းကျိုင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
