@@ -76,6 +76,17 @@
             "fallenPlace": "",
             "heroPlace": "ကနီမြို့နယ်၊ ကင်းအုပ်စု နံစုရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇေယျာဝင်း",
+            "fallenDay": "2021-05-23",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "တောင်တွင်းကြီး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "မြို့သစ်မြို့နယ်၊ ဘုရားငါးဆူကံကြီး(တောင်)ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

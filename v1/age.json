@@ -4297,6 +4297,17 @@
             "fallenPlace": "စစ်ကိုင်းမြို့၊စီတီးရပ်ကွက်၊ဆွမ်းချက်ရပ်",
             "heroPlace": "စစ်ကိုင်းမြို့၊စီတီးရပ်ကွက်၊ဆွမ်းချက်ရပ်",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘက်နှင့် ဆီးခုံအား ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇေယျာဝင်း",
+            "fallenDay": "2021-05-23",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "တောင်တွင်းကြီး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "မြို့သစ်မြို့နယ်၊ ဘုရားငါးဆူကံကြီး(တောင်)ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "37": [
@@ -7338,6 +7349,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ သင်္ဂတုံချောင်းအနီး",
             "heroPlace": "ကနီမြို့နယ်၊ မြောင်းကုန်းရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇေယျာဝင်း",
+            "fallenDay": "2021-05-23",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "တောင်တွင်းကြီး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "မြို့သစ်မြို့နယ်၊ ဘုရားငါးဆူကံကြီး(တောင်)ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -10024,6 +10046,50 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ နိုကိုးနှင့်ရေယိုလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [
