@@ -8480,6 +8480,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ နိုကိုးနှင့်ရေယိုလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
