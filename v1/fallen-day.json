@@ -8628,5 +8628,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-05-24": [
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        }
     ]
 }

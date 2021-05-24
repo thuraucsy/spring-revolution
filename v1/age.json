@@ -82,6 +82,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းဈေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ နယ်မြေ ၂",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "14": [
@@ -11082,6 +11093,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -12184,6 +12206,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [
@@ -12692,6 +12725,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "40th": [
@@ -16178,6 +16222,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "70th": [
