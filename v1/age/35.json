@@ -175,6 +175,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးဆွေ",
+            "fallenDay": "2021-05-24",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ သင်္ဂတုံချောင်းအနီး",
+            "heroPlace": "ကနီမြို့နယ်၊ မြောင်းကုန်းရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }

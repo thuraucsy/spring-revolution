@@ -2661,6 +2661,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ နိုကိုးနှင့်ရေယိုလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ခုံကြီးအုပ်စု ပါဟဲရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းအုပ်စု နံစုရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
