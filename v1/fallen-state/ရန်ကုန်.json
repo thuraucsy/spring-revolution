@@ -2254,6 +2254,17 @@
             "fallenPlace": "မြောက်ဒဂုံမြို့နယ် (၄၄) ရပ်ကွက်ရှိ ဖူဆယ်ဘောလုံးကွင်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သာကေတ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သာကေတမြို့နယ်၊ ၅ရပ်ကွက်၊ သိင်္ဂီ၂လမ်းမြောက်၊ ထွေအုပ်ရုံးရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
