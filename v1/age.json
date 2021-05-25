@@ -82,17 +82,6 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းဈေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ နယ်မြေ ၂",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်အောင်ဒီး",
-            "fallenDay": "2021-05-24",
-            "heroAge": "13",
-            "heroGender": "m",
-            "fallenCity": "မိုးမောက်",
-            "fallenState": "ကချင်",
-            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
-            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "14": [
@@ -139,6 +128,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ အထက-၁ ကျောင်းနှင့် လွတ်လပ်ရေးပန်းခြံအနီး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ရှားတောကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဖော်ခီအောင်ဒီး",
+            "fallenDay": "2021-05-24",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "15": [
@@ -2239,7 +2239,7 @@
         },
         {
             "heroName": "ကိုစိုးလှိုင်ဖြိုး",
-            "fallenDay": "2021-05-23",
+            "fallenDay": "2021-05-22",
             "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ကနီ",
@@ -4177,7 +4177,7 @@
         },
         {
             "heroName": "ကိုဖိုးဆွေ",
-            "fallenDay": "2021-05-23",
+            "fallenDay": "2021-05-22",
             "heroAge": "35",
             "heroGender": "m",
             "fallenCity": "ကနီ",
@@ -7352,7 +7352,7 @@
         },
         {
             "heroName": "ကိုဖိုးဆွေ",
-            "fallenDay": "2021-05-23",
+            "fallenDay": "2021-05-22",
             "heroAge": "35",
             "heroGender": "m",
             "fallenCity": "ကနီ",
@@ -9983,6 +9983,61 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-05-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းအုပ်စု နံစုရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီ-မင်းကင်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီ-မင်းကင်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနဲ-သခွတ္တနယ်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-05-23",
             "heroAge": "",
             "heroGender": "m",
@@ -10023,17 +10078,6 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကနီ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "ကနီမြို့နယ်၊ ကင်းအုပ်စု နံစုရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -11227,9 +11271,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်အောင်ဒီး",
+            "heroName": "မောင်ဖော်ခီအောင်ဒီး",
             "fallenDay": "2021-05-24",
-            "heroAge": "13",
+            "heroAge": "14",
             "heroGender": "m",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
@@ -12340,9 +12384,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်အောင်ဒီး",
+            "heroName": "မောင်ဖော်ခီအောင်ဒီး",
             "fallenDay": "2021-05-24",
-            "heroAge": "13",
+            "heroAge": "14",
             "heroGender": "m",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
@@ -12859,9 +12903,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်အောင်ဒီး",
+            "heroName": "မောင်ဖော်ခီအောင်ဒီး",
             "fallenDay": "2021-05-24",
-            "heroAge": "13",
+            "heroAge": "14",
             "heroGender": "m",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
@@ -15834,7 +15878,7 @@
         },
         {
             "heroName": "ကိုစိုးလှိုင်ဖြိုး",
-            "fallenDay": "2021-05-23",
+            "fallenDay": "2021-05-22",
             "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ကနီ",
@@ -16367,9 +16411,9 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "မောင်အောင်ဒီး",
+            "heroName": "မောင်ဖော်ခီအောင်ဒီး",
             "fallenDay": "2021-05-24",
-            "heroAge": "13",
+            "heroAge": "14",
             "heroGender": "m",
             "fallenCity": "မိုးမောက်",
             "fallenState": "ကချင်",
