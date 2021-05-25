@@ -8600,15 +8600,15 @@
                 "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
-        "ဒီမောဆို": [
+        "ဒီးမော့ဆို": [
             {
                 "heroName": "ဦးပေါလူ",
                 "fallenDay": "2021-04-27",
                 "heroAge": "50",
                 "heroGender": "m",
-                "fallenCity": "ဒီမောဆို",
+                "fallenCity": "ဒီးမော့ဆို",
                 "fallenState": "ကယား",
-                "fallenPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
                 "heroPlace": "ဒီမော့ဆိုမြို့နယ် ၆မိုင်စံပြကျေးရွာ",
                 "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်အချက်ပေါင်းများစွာမှန်"
             },
@@ -8617,7 +8617,7 @@
                 "fallenDay": "2021-05-22",
                 "heroAge": "19",
                 "heroGender": "m",
-                "fallenCity": "ဒီမောဆို",
+                "fallenCity": "ဒီးမော့ဆို",
                 "fallenState": "ကယား",
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
                 "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
@@ -8628,10 +8628,43 @@
                 "fallenDay": "2021-05-22",
                 "heroAge": "20",
                 "heroGender": "m",
-                "fallenCity": "ဒီမောဆို",
+                "fallenCity": "ဒီးမော့ဆို",
                 "fallenState": "ကယား",
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
                 "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါတဝီရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါးရပ်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါးရပ်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါးရပ်",
+                "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
         ],
