@@ -32,6 +32,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "တမ်လိန်း",
+            "fallenDay": "2021-05-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ",
+            "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
+        },
+        {
+            "heroName": "ဒါဝိတ်",
+            "fallenDay": "2021-05-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ",
+            "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
         }
     ]
 }
