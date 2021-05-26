@@ -8807,6 +8807,41 @@
             "fallenCause": "May 22 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
         }
     ],
+    "2021-05-26": [
+        {
+            "heroName": "မောင်ဇော်မင်းထွန်း",
+            "fallenDay": "2021-05-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ မုံယိုကျေးရွာ၊ ဘုတလင်-ကနဲလမ်းမကြီးအနီး",
+            "heroPlace": "ကနီမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-26",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-26",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
     "2021-05-25": [
         {
             "heroName": "ကိုရဲလင်းထိုက်",
@@ -8906,30 +8941,6 @@
             "fallenPlace": "",
             "heroPlace": "စလင်းမြို့နယ်၊ တောစိမ့်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        }
-    ],
-    "2021-05-26": [
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-26",
-            "heroAge": "24",
-            "heroGender": "m",
-            "fallenCity": "ရွှေပြည်သာ",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-26",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "ဒီးမော့ဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
