@@ -2144,6 +2144,17 @@
             "fallenPlace": "",
             "heroPlace": "ကနီမြို့နယ်၊ ခုံကြီးအုပ်စု ပါဟဲရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-26",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ]
 }

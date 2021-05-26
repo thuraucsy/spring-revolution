@@ -2425,6 +2425,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လမ်းမတော်ရပ် \"ဇော်\" အိမ်ဆောက်ပစ္စည်းဆိုင်အနီး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၁၆ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-26",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ],
     "25": [
@@ -10273,17 +10284,6 @@
             "heroName": "",
             "fallenDay": "2021-05-26",
             "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေပြည်သာ",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-05-26",
-            "heroAge": "",
             "heroGender": "f",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
@@ -16031,6 +16031,17 @@
             "fallenPlace": "",
             "heroPlace": "ကနီမြို့နယ်၊ ခုံကြီးအုပ်စု ပါဟဲရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-26",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ],
     "50th": [
