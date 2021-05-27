@@ -8987,6 +8987,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်ရှိ ငုပလော့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဆန်းဒေးအေး",
+            "fallenDay": "2021-05-27",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကယန်းသာယာ၊ သပြေကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒေါငံခါး လမ်းခွဲ တံတားဖြူ အနီ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
