@@ -7919,6 +7919,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး လမ်းခွဲ တံတားဖြူ အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
+            "heroPlace": "ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံရောက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ May-25 တွင် ဝမ်းဗိုက်သို့ကျည်မှန်၊ May-28 တွင်ကျဆုံး"
         }
     ],
     "f": [
