@@ -43,6 +43,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ရဲလှရွာ",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထက်အောင်",
+            "fallenDay": "2021-05-28",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

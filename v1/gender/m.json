@@ -7974,6 +7974,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ရဲလှရွာ",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထက်အောင်",
+            "fallenDay": "2021-05-28",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဖရေရယ်",
+            "fallenDay": "2021-05-29",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုကျေးရွာ၊ စိန်ပီတာဘုရားကျောင်း",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ နာနတ်တောရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
