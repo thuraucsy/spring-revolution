@@ -1490,10 +1490,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "35",
             "heroGender": "m",
-            "fallenCity": "ညောင်ဦး",
+            "fallenCity": "ပုဂံ",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
-            "heroPlace": "",
+            "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -1501,10 +1501,10 @@
             "fallenDay": "2021-03-27",
             "heroAge": "47",
             "heroGender": "m",
-            "fallenCity": "ညောင်ဦး",
+            "fallenCity": "ပုဂံ",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
-            "heroPlace": "",
+            "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -2198,6 +2198,17 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးမြင့်အောင်",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုဂံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
+            "heroPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ]
