@@ -285,6 +285,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ ခါနန်ရပ်ကွက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးတင်စိုး",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

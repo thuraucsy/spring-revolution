@@ -3002,6 +3002,17 @@
             "fallenPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "heroPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်စိုး",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

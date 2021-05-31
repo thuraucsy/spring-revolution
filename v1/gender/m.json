@@ -8035,11 +8035,22 @@
             "fallenDay": "2021-05-30",
             "heroAge": "29",
             "heroGender": "m",
-            "fallenCity": "ကျောက်ပန်းတောင်း",
-            "fallenState": "မန္တလေး",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်စိုး",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

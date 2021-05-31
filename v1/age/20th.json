@@ -2172,11 +2172,11 @@
             "fallenDay": "2021-05-30",
             "heroAge": "29",
             "heroGender": "m",
-            "fallenCity": "ကျောက်ပန်းတောင်း",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

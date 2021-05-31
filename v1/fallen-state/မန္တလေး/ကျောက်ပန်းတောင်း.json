@@ -54,17 +54,6 @@
             "fallenPlace": "ကျောက်ပန်းတောင်းမြို့၊ စံပြရပ်ကွက်",
             "heroPlace": "ကျောက်ပန်းတောင်းမြို့၊ စံပြရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
-        },
-        {
-            "heroName": "ကိုဝေလင်းအောင်",
-            "fallenDay": "2021-05-30",
-            "heroAge": "29",
-            "heroGender": "m",
-            "fallenCity": "ကျောက်ပန်းတောင်း",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

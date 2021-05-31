@@ -54,6 +54,17 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာမှော်ဝမ်း စီးပွားရေးဘဏ်ရှေ့",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ လုံးခင်းကျေးရွာ ရပ်ကွက် (၁)",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်စိုး",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
