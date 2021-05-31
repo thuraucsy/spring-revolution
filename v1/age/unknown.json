@@ -2894,29 +2894,29 @@
             "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
         },
         {
-            "heroName": "",
+            "heroName": "လုဒူ",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငုပလော့ကျေးရွာ",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငူးပလော့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "Patrick ဘိုးရယ်",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငုပလော့ကျေးရွာ",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငူးပလော့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "အောလုစိန်",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
@@ -3013,6 +3013,28 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ မနကျေးရွာ ရှိ ၎င်း၏နေအိမ်",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ မနကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်/ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
         }
     ]
 }

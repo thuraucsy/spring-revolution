@@ -210,24 +210,24 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "လုဒူ",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငုပလော့ကျေးရွာ",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငူးပလော့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "Patrick ဘိုးရယ်",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငုပလော့ကျေးရွာ",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငူးပလော့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -243,7 +243,7 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "အောလုစိန်",
             "fallenDay": "2021-05-27",
             "heroAge": "",
             "heroGender": "m",
@@ -258,10 +258,10 @@
             "fallenDay": "2021-05-27",
             "heroAge": "40",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
+            "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
-            "heroPlace": "ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငွေတောင်ကျေးရွာ၊ အောင်မင်္ဂလာရပ်ကွက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
@@ -296,6 +296,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
         }
     ]
 }
