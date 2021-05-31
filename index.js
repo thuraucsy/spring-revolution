@@ -8,6 +8,7 @@ const BUILD_FOLDER = 'build';
 const VERSION_NO = 'v1';
 const UNKNOWN_NAME = 'unknown';
 let CITY_STATE = {};
+let HERO_TMP_FIX = {};
 
 async function main() {
     async function getHeroes() {
@@ -87,6 +88,14 @@ async function main() {
 
     function fixStateNameForWrongCityName(cityName) {
         return CITY_STATE[cityName] ? CITY_STATE[cityName] : cityName;
+    }
+
+    function fixHeroInfo(hero) {
+        const foundFixHeroes = HERO_TMP_FIX.items.filter(x => JSON.stringify(x.from) == JSON.stringify(hero));
+        if (foundFixHeroes.length > 0) {
+            return foundFixHeroes[0].to;
+        }
+        return hero;
     }
 
     function camelCaseToDash(myStr) {
@@ -252,6 +261,8 @@ async function main() {
                 fallenCause
             };
 
+            hero = fixHeroInfo(hero);
+
             // ကျဆုံးတဲ့တိုင်းဒေသကြီးပါတာပေါ်မူတည်ပြီး မှတ်စုသက်သက် or ကျဆုံးသူကိုခွဲခြား
             if (fallenState) {
                 // heroJSON
@@ -311,6 +322,7 @@ async function main() {
     }
 
     CITY_STATE = readJsonFromFile(`state-city.json`);
+    HERO_TMP_FIX = readJsonFromFile(`hero-tmp-fix.json`);
     const heroes = await getHeroes();
 
     createJSON(heroes);
