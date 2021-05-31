@@ -8123,18 +8123,42 @@
                 "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
-        "ဖယ်ခုံ": [
+        "မိုးဗြဲ": [
             {
                 "heroName": "ကိုမင်းအောင်",
                 "fallenDay": "2021-05-23",
                 "heroAge": "",
                 "heroGender": "m",
-                "fallenCity": "ဖယ်ခုံ",
+                "fallenCity": "မိုးဗြဲ",
                 "fallenState": "ရှမ်း",
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးဗြဲ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-05-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးဗြဲ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "ဖယ်ခုံ": [
             {
                 "heroName": "ဦးအောင်မြိုင်",
                 "fallenDay": "2021-05-23",
@@ -8145,30 +8169,6 @@
                 "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ မိုးဗြဲကျေးရွာအုပ်စု ကန်းကျိုင်းကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
-            }
-        ],
-        "မိုးဗြဲ": [
-            {
-                "heroName": "",
-                "fallenDay": "",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မိုးဗြဲ",
-                "fallenState": "ရှမ်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
-            },
-            {
-                "heroName": "",
-                "fallenDay": "",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မိုးဗြဲ",
-                "fallenState": "ရှမ်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ]
     },
@@ -8971,7 +8971,7 @@
         ],
         "ဘော်လခဲ": [
             {
-                "heroName": "",
+                "heroName": "ကိုအောင်သန်းဦး",
                 "fallenDay": "2021-05-23",
                 "heroAge": "",
                 "heroGender": "m",

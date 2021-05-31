@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကိုမင်းအောင်",
-            "fallenDay": "2021-05-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဖယ်ခုံ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ဦးအောင်မြိုင်",
             "fallenDay": "2021-05-23",
             "heroAge": "",
