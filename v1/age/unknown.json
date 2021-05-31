@@ -3010,9 +3010,9 @@
             "heroGender": "m",
             "fallenCity": "ဖားကန့်",
             "fallenState": "ကချင်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ မနကျေးရွာ ရှိ ၎င်း၏နေအိမ်",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ မနကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်/ဦးခေါင်းသို့ ကျည်မှန်"
         }
     ]
 }
