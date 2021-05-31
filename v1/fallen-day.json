@@ -117,6 +117,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဆန္ဒပြပွဲတွင် မူးလဲကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2021-02-24": [
@@ -8755,7 +8777,7 @@
             "heroName": "",
             "fallenDay": "2021-05-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
@@ -8766,7 +8788,7 @@
             "heroName": "",
             "fallenDay": "2021-05-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
@@ -8777,7 +8799,7 @@
             "heroName": "",
             "fallenDay": "2021-05-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
@@ -8788,7 +8810,7 @@
             "heroName": "",
             "fallenDay": "2021-05-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့ ကယန်းသာယာရွာဘုရားကျောင်း",
@@ -8927,7 +8949,7 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုရဲစခန်းတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -8938,9 +8960,20 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုရဲစခန်းတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါပိုးစီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါပိုးစီရွာ",
+            "fallenCause": "ရိုက်သတ်ခံရ"
         },
         {
             "heroName": "",
@@ -9035,13 +9068,13 @@
     ],
     "2021-05-28": [
         {
-            "heroName": "",
+            "heroName": "မောင်ဒါဝီ",
             "fallenDay": "2021-05-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ညောင်ကိုင်းတိုက်ပွဲ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံရောက်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ May-25 တွင် ဝမ်းဗိုက်သို့ကျည်မှန်၊ May-28 တွင်ကျဆုံး"
         },

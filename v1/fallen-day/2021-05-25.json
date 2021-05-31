@@ -62,7 +62,7 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုရဲစခန်းတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -73,9 +73,20 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုရဲစခန်းတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါပိုးစီရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါပိုးစီရွာ",
+            "fallenCause": "ရိုက်သတ်ခံရ"
         },
         {
             "heroName": "",
