@@ -10,6 +10,17 @@
             "fallenPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "heroPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေလင်းအောင်",
+            "fallenDay": "2021-05-30",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ပန်းတောင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

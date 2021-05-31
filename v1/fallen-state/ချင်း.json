@@ -208,6 +208,17 @@
             "fallenPlace": "",
             "heroPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ",
             "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တမူးမြို့၊ မြေနီကုန်းလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ လက်ဝဲဘက်နံကြားသို့ ကျည်မှန်"
         }
     ]
 }

@@ -2,25 +2,14 @@
     "items": [
         {
             "heroName": "",
-            "fallenDay": "2021-04-10",
+            "fallenDay": "2021-05-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "တမူးမြို့၊ မြေနီကုန်းလမ်းအနီး",
             "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-04-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်၊ လက်ဝဲဘက်နံကြားသို့ ကျည်မှန်"
         }
     ]
 }
