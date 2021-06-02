@@ -187,5 +187,10 @@ Example => https://thuraucsy.github.io/spring-revolution/v1/backup/20210410/raw.
 ※ နေ့တစ်နေ့စာအတွက် backup file စတင် create လုပ်ပေးသည့်အချိန်မှာ ရန်ကုန်အချိန်ဖြစ်ပါသည်။ ထို့နောက်လည်း update ရှိရင်ရှိသလို replace လုပ်ခြင်းဖြင့် backup လုပ်ပေးသွားစေရန် လုပ်ဆောင်ထားပါသည်။
 
 ## Sample app
-The app was built with using this API by [Thura Aung](https://facebook.com/thuraucsy) and it's available on [Android](http://bit.ly/fallen-heroes-play-store-android) and [iOS](http://bit.ly/fallen-heroes-app-store-ios).  
-ဒီ API လေးကို သုံးပြီး ဖန်တီးထားတဲ့ app/service တစ်ခုခုရှိရင်လည်း သိချင်ပါတယ်ခင်ဗျာ။ ဒီ README ဖိုင်လေးမှာ စုပေးထားချင်လို့ပါခင်ဗျ။
+<img align="left" src="https://github.com/thuraucsy/spring-revolution/blob/master/fallen-heroes.gif?raw=true" height="400">
+
+
+ဒီ API လေးကိုသုံးပြီး **Fallen Heroes** app လေးကို ဖန်တီးထားပါတယ်ခင်ဗျာ။  
+[Android](http://bit.ly/fallen-heroes-play-store-android) နဲ့ [iOS](http://bit.ly/fallen-heroes-app-store-ios) မှာအသုံးပြုနိုင်ပါတယ်။ 
+  
+※ ထပ်ပြီး ဒီ API နဲ့ဖန်တီးထားတဲ့ app/service တစ်ခုခုရှိရင်လည်း သိချင်ပါတယ်။ ဒီ README ဖိုင်လေးမှာ စုပေးထားချင်လို့ပါခင်ဗျ။
