@@ -65,6 +65,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ဇော်ဦး",
+            "fallenDay": "2021-04-17",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ဆယ်ရွာချောင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
