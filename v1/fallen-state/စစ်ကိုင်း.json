@@ -1057,9 +1057,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်မျိုးဦး",
             "fallenDay": "2021-04-17",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
@@ -1075,8 +1075,8 @@
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ ဆယ်ရွာချောင်ကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "heroPlace": "ကနီမြို့နယ်၊ သစ်ခေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်ကာ ဖမ်းဆီးခံရ၊ ထိုးသွင်းဒဏ်ရာများဖြင့်သေဆုံး"
         },
         {
             "heroName": "",

@@ -1959,6 +1959,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအောင်မျိုးဦး",
+            "fallenDay": "2021-04-17",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ နတ်လာပို့ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအောင်ဇော်ဦး",
             "fallenDay": "2021-04-17",
             "heroAge": "29",
@@ -1966,8 +1977,8 @@
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ ဆယ်ရွာချောင်ကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "heroPlace": "ကနီမြို့နယ်၊ သစ်ခေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်ကာ ဖမ်းဆီးခံရ၊ ထိုးသွင်းဒဏ်ရာများဖြင့်သေဆုံး"
         },
         {
             "heroName": "ကိုရဲလင်းထွန်း",
