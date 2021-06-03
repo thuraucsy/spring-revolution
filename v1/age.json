@@ -9907,6 +9907,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မျိုးထွန်းလင်းလွင် (Thang Bu Loon)",
+            "fallenDay": "2021-05-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ စလောင်းကုန်းတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဦးဇော်ထွန်း (ခ) ခက်သီ",
             "fallenDay": "2021-05-09",
             "heroAge": "",
@@ -10708,6 +10719,17 @@
             "fallenPlace": "ဖားကန့်မြို့  ဆိပ်မူရပ်ကွက် (၃)",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တနိုင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "တနိုင်းမြို့၊ တရူးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လေယာဉ်ဖြင့် ဗုံကြဲခံရကာ သေဆုံး"
         },
         {
             "heroName": "",

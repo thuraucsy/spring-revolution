@@ -21,6 +21,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ လယ်သစ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မျိုးထွန်းလင်းလွင် (Thang Bu Loon)",
+            "fallenDay": "2021-05-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ စလောင်းကုန်းတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
