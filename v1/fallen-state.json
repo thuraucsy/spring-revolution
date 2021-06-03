@@ -8056,6 +8056,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဒီကို",
+            "fallenDay": "2021-06-02",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ကချင်": [
@@ -8355,6 +8366,17 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ မနကျေးရွာ ရှိ ၎င်း၏နေအိမ်",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ အေးမြသာယာကျေးရွာအုပ်စု၊ မနကျေးရွ",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်/ဦးခေါင်းသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့  ဆိပ်မူရပ်ကွက် (၃)",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ],
     "ဧရာဝတီ": [
@@ -9144,6 +9166,28 @@
             "fallenPlace": "တမူးမြို့၊ မြေနီကုန်းလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ လက်ဝဲဘက်နံကြားသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Ling Shwe",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ခေါင်းဖြတ်သတ်ခံရ"
+        },
+        {
+            "heroName": "Salai Aung Ling",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းမရသေး"
         }
     ]
 }

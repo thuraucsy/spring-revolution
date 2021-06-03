@@ -8064,6 +8064,17 @@
             "fallenCause": "စစ်ကားဖြင့်တိုက်သတ်ခံရ"
         },
         {
+            "heroName": "Salai Ling Shwe",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ခေါင်းဖြတ်သတ်ခံရ"
+        },
+        {
             "heroName": "ဦးဖရေရယ်",
             "fallenDay": "2021-05-29",
             "heroAge": "50",
@@ -8152,6 +8163,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "Salai Aung Ling",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းမရသေး"
+        },
+        {
             "heroName": "ဦးတင်စိုး",
             "fallenDay": "2021-05-31",
             "heroAge": "",
@@ -8183,6 +8205,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့  ဆိပ်မူရပ်ကွက် (၃)",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "မောင်ဒီကို",
+            "fallenDay": "2021-06-02",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

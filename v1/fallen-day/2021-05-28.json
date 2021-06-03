@@ -65,6 +65,17 @@
             "fallenPlace": "အင်းစိန်မြို့နယ်၊ ပေါက်တော၀၊ ကမ်းနားအလယ်ရပ်ကွက်ရုံးအနီး",
             "heroPlace": "အင်းစိန်မြို့နယ်၊ ပေါက်တော၀၊ ကမ်းနားအလယ်ရပ်ကွက်၊ ခေမာတောင်",
             "fallenCause": "စစ်ကားဖြင့်တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "Salai Ling Shwe",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ခေါင်းဖြတ်သတ်ခံရ"
         }
     ]
 }

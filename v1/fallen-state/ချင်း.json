@@ -219,6 +219,28 @@
             "fallenPlace": "တမူးမြို့၊ မြေနီကုန်းလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ လက်ဝဲဘက်နံကြားသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Ling Shwe",
+            "fallenDay": "2021-05-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ခေါင်းဖြတ်သတ်ခံရ"
+        },
+        {
+            "heroName": "Salai Aung Ling",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းမရသေး"
         }
     ]
 }

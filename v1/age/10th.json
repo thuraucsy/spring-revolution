@@ -1132,6 +1132,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကယန်းသာယာ၊ သပြေကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဒီကို",
+            "fallenDay": "2021-06-02",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
