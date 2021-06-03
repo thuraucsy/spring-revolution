@@ -43,6 +43,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကျုံးပဲန်းလျန် (Cung Peng Lian)",
+            "fallenDay": "2021-05-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဟားခါး-မတူပီ ကားလမ်း၊ ဆူရ်ခွာကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
