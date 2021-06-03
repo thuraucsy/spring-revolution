@@ -2960,6 +2960,17 @@
             "fallenCause": "ကျည်မှန်၊ ပေါင်သို့ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-05-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ သင်္ဂတုံချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်ဒါဝီ",
             "fallenDay": "2021-05-28",
             "heroAge": "",
@@ -3092,6 +3103,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အမရပူရမြို့နယ်၊ ကွမ်းသီးတန်းလမ်း အမရသူ ပိုးထည်တိုက်ရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
             "heroName": "Salai Aung Ling",
             "fallenDay": "2021-05-31",
             "heroAge": "",
@@ -3145,6 +3167,17 @@
             "fallenPlace": "ဖားကန့်မြို့  ဆိပ်မူရပ်ကွက် (၃)",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း ကပိုင် ရွာအနောက်ပိုင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း ကပိုင် ရွာ",
+            "fallenCause": ""
         }
     ]
 }

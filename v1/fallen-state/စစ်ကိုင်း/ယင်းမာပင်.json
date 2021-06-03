@@ -142,6 +142,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း ကပိုင် ရွာအနောက်ပိုင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း ကပိုင် ရွာ",
+            "fallenCause": ""
         }
     ]
 }

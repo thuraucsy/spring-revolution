@@ -65,6 +65,17 @@
             "fallenPlace": "ထားဝယ်မြို့၊ ကြက်စားပြင်ရပ်ကွက်",
             "heroPlace": "ထားဝယ်မြို့၊ ကြက်စားပြင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ပေါင်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ သင်္ဂတုံချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -1308,6 +1308,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "May-2 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အမရပူရမြို့နယ်၊ ကွမ်းသီးတန်းလမ်း အမရသူ ပိုးထည်တိုက်ရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ]
 }
