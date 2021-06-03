@@ -9112,6 +9112,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "စစ်ရဟတ်ယာဉ်မှ လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-06-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဘော်လခဲ": [
@@ -9260,6 +9271,17 @@
                 "fallenCity": "ဟားခါး",
                 "fallenState": "ချင်း",
                 "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "Cung Peng Lian",
+                "fallenDay": "2021-06-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဟားခါး",
+                "fallenState": "ချင်း",
+                "fallenPlace": "ဟားခါး-မတူပီ ကားလမ်း၊ ဆူရ်ခွာကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }

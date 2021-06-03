@@ -10719,6 +10719,28 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း ကပိုင် ရွာအနောက်ပိုင်းရှိ တံတားအနီး",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သီးကုန်း၊ ကပိုင် ရွာ",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Cung Peng Lian",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဟားခါး-မတူပီ ကားလမ်း၊ ဆူရ်ခွာကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
