@@ -3233,6 +3233,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ပိတောက်ကုန်းရပ်၊ မီးကင်းတဲမြောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ မိုင်းလုံးရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
