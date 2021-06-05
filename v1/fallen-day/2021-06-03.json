@@ -43,6 +43,39 @@
             "fallenPlace": "မုံရွာမြို့၊ ပိတောက်ကုန်းရပ်၊ မီးကင်းတဲမြောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းချွဲလိန်း(ခ)ကိုရှောင်လင်",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရွှေအောင်သာရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းရှိန်းအောင်ထန်း",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ မယ်လယ်ကုန်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်းလိန်း",
+            "fallenDay": "2021-06-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ မယ်လယ်ကုန်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
