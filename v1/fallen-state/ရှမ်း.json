@@ -439,6 +439,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းနိုင်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေညောင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ရွှေညောင်မြို့နယ်၊ ညောင်ရွှေလမ်းခွဲမီးပွိုင့်အနီး",
+            "heroPlace": "ရွှေညောင်မြို့နယ်၊ တောင်ဦးတောင်ခြေကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန့်စင်အောင်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေညောင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ရွှေညောင်မြို့နယ်၊ ညောင်ရွှေလမ်းခွဲမီးပွိုင့်အနီး",
+            "heroPlace": "ရွှေညောင်မြို့နယ်၊ တောင်ဦးတောင်ခြေကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
