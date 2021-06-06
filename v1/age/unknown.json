@@ -3398,6 +3398,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စည်လှောင်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
