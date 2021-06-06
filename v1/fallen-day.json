@@ -9632,6 +9632,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-05",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ဓနုဖြူ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "ဓနုဖြူမြို့နယ်၊ ညောင်ချောင်းအုပ်စု၊ ရေလဲချောင်းဖျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
