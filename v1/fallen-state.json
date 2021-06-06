@@ -8669,7 +8669,7 @@
         {
             "heroName": "ကိုကောင်းဇေသန့်",
             "fallenDay": "2021-06-05",
-            "heroAge": "",
+            "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "ကျုံပျော်",
             "fallenState": "ဧရာဝတီ",
@@ -9430,6 +9430,39 @@
             "fallenPlace": "မင်းတပ်မြို့နယ်၊ မယ်လယ်ကုန်းရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Phun Sang",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Salai Tial Chawn",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Salai Lai Kulh Thang",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }

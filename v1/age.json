@@ -552,6 +552,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဇေသန့်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကျုံပျော်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "18": [
@@ -10864,17 +10875,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုကောင်းဇေသန့်",
-            "fallenDay": "2021-06-05",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကျုံပျော်",
-            "fallenState": "ဧရာဝတီ",
-            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-06-05",
             "heroAge": "",
@@ -10939,6 +10939,39 @@
             "fallenPlace": "ရွှေညောင်မြို့နယ်၊ ညောင်ရွှေလမ်းခွဲမီးပွိုင့်အနီး",
             "heroPlace": "ရွှေညောင်မြို့နယ်၊ တောင်ဦးတောင်ခြေကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Phun Sang",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Salai Tial Chawn",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Salai Lai Kulh Thang",
+            "fallenDay": "2021-06-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ],
     "under20": [
@@ -12107,6 +12140,17 @@
             "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဇေသန့်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကျုံပျော်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -13253,6 +13297,17 @@
             "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဇေသန့်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကျုံပျော်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -13794,6 +13849,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကယန်းသာယာ၊ သပြေကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဇေသန့်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကျုံပျော်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [

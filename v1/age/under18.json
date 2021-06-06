@@ -538,6 +538,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကယန်းသာယာ၊ သပြေကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဇေသန့်",
+            "fallenDay": "2021-06-05",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကျုံပျော်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျုံပျော်မြို့နယ်၊ ဇရစ်ရိုးကျေးရွာအုပ်စု၊ လှေဆွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
