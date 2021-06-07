@@ -9715,7 +9715,7 @@
             },
             {
                 "heroName": "ဆလိုင်းချွဲလိန်း(ခ)ကိုရှောင်လင်",
-                "fallenDay": "2021-06-03",
+                "fallenDay": "2021-06-04",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မင်းတပ်",
@@ -9726,7 +9726,7 @@
             },
             {
                 "heroName": "ဆလိုင်းရှိန်းအောင်ထန်း",
-                "fallenDay": "2021-06-03",
+                "fallenDay": "2021-06-04",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မင်းတပ်",
@@ -9737,7 +9737,7 @@
             },
             {
                 "heroName": "ဆလိုင်းထန်းလိန်း",
-                "fallenDay": "2021-06-03",
+                "fallenDay": "2021-06-04",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မင်းတပ်",
@@ -9747,7 +9747,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ထန်းမာန်",
+                "heroName": "ဆလိုင်းထန်းမာန်",
                 "fallenDay": "2021-06-06",
                 "heroAge": "",
                 "heroGender": "m",
@@ -9758,7 +9758,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ဟာဖေ",
+                "heroName": "ဆလိုင်းဟာဖေ",
                 "fallenDay": "2021-06-06",
                 "heroAge": "",
                 "heroGender": "m",
@@ -9769,7 +9769,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ငိုင်းရှိန်းမာန်",
+                "heroName": "ဆလိုင်းငိုင်းရှိန်းမာန်",
                 "fallenDay": "2021-06-06",
                 "heroAge": "",
                 "heroGender": "m",
@@ -9778,6 +9778,17 @@
                 "fallenPlace": "မင်းတပ်မြို့နယ်၊ ယှက်ရွာ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဆလိုင်းလင်နိုင်း",
+                "fallenDay": "2021-06-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မင်းတပ်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မင်းတပ်မြို့နယ်၊ ယှက်ရွာ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "တီးတိန်": [
