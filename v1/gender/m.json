@@ -8317,6 +8317,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမျိုးဇော်ဇော်",
+            "fallenDay": "2021-06-03",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်ရဲစခန်း",
+            "heroPlace": "",
+            "fallenCause": "June-2 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-06-04",
             "heroAge": "",
@@ -8339,6 +8350,17 @@
             "fallenCause": "ကျည်မှန်၊ လက်မောင်းနှင့် နံရိုးကြားသို့ ကျည် ၃ချက်မှန်"
         },
         {
+            "heroName": "ကိုအောင်သူ",
+            "fallenDay": "2021-06-04",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပဲခူးမြို့နယ်၊ မော်ခမ်း ၂၁ လမ်း",
+            "fallenCause": "Apr-9 တွင် ကျည်မှန်၊ June-4 တွင် ဆေးကုသရင်း ကျဆုံး"
+        },
+        {
             "heroName": "ကိုကောင်းဇေသန့်",
             "fallenDay": "2021-06-05",
             "heroAge": "17",
@@ -8350,9 +8372,9 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမိုးမင်းဝင်း",
             "fallenDay": "2021-06-05",
-            "heroAge": "",
+            "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ကျုံပျော်",
             "fallenState": "ဧရာဝတီ",
@@ -8361,9 +8383,9 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ကုလား",
             "fallenDay": "2021-06-05",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ကျုံပျော်",
             "fallenState": "ဧရာဝတီ",

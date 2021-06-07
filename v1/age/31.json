@@ -153,6 +153,17 @@
             "fallenPlace": "မြောက်ဒဂုံမြို့နယ် (၄၄) ရပ်ကွက်ရှိ ဖူဆယ်ဘောလုံးကွင်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်သူ",
+            "fallenDay": "2021-06-04",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပဲခူးမြို့နယ်၊ မော်ခမ်း ၂၁ လမ်း",
+            "fallenCause": "Apr-9 တွင် ကျည်မှန်၊ June-4 တွင် ဆေးကုသရင်း ကျဆုံး"
         }
     ]
 }
