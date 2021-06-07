@@ -10281,13 +10281,13 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဆလိုင်း ထန်းနိုင်း",
             "fallenDay": "2021-05-21",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ပူကွန်းရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -10589,24 +10589,24 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "တမ်လိန်း",
+            "heroName": "ဆလိုင်း တမ်လိန်း",
             "fallenDay": "2021-05-26",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ ပူကွန်း",
             "heroPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ",
             "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
         },
         {
-            "heroName": "ဒါဝိတ်",
+            "heroName": "ဆလိုင်း ဒါဝိတ်",
             "fallenDay": "2021-05-26",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ ပူကွန်း",
             "heroPlace": "မင်းတပ်မြို့၊ လုပ်ပဲရွာ",
             "fallenCause": "စစ်ကောင်စီမှထောင်သောမိုင်း နင်းမိ"
         },
@@ -10807,6 +10807,17 @@
             "fallenPlace": "အမရပူရမြို့နယ်၊ ကွမ်းသီးတန်းလမ်း အမရသူ ပိုးထည်တိုက်ရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်းလိန်း",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ခွန်လုံသာရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "Salai Aung Ling",

@@ -87,6 +87,17 @@
             "fallenPlace": "အမရပူရမြို့နယ်၊ ကွမ်းသီးတန်းလမ်း အမရသူ ပိုးထည်တိုက်ရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်းလိန်း",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ခွန်လုံသာရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
