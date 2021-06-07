@@ -3398,6 +3398,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ထွေး",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၁၂၀လမ်း၊ ၄၆/၄ရလမ်း",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့်တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၁၂၀လမ်း၊ ၄၆/၄ရလမ်း",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့်တိုက်သတ်ခံရ"
         }
     ]
 }
