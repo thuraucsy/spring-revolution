@@ -32,6 +32,39 @@
             "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၁၂၀လမ်း၊ ၄၆/၄ရလမ်း",
             "heroPlace": "",
             "fallenCause": "စစ်ကားဖြင့်တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "ထန်းမာန်",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ဘုရားစခန်းရွာ အောက်ဘက် ချောင်းဆုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဟာဖေ",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ဘုရားစခန်းရွာ အောက်ဘက် ချောင်းဆုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ငိုင်းရှိန်းမာန်",
+            "fallenDay": "2021-06-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ယှက်ရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
