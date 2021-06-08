@@ -9758,5 +9758,18 @@
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
+    ],
+    "2021-06-08": [
+        {
+            "heroName": "ဆလိုင်းလိန်းယောအွမ်",
+            "fallenDay": "2021-06-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }
