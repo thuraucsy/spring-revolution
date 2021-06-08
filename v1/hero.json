@@ -9580,6 +9580,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "အောင်ရတနာကျောင်းဆရာတော်",
+            "fallenDay": "2021-06-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပဲခူးမြို့၊ အောင်ရတနာကျောင်းတိုက်",
+            "fallenCause": "မတ်လကုန်က စစ်တပ်မှ ဖမ်းဆီးသွား၊ စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာ ပျံလွန်တော်မူ"
         }
     ]
 }
