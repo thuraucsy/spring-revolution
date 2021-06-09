@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတင်ဇော်ဦး",
+            "fallenDay": "2021-06-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်လံ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မတ်-၁၄တွင် ဗိုက်သို့ကျည်မှန်၊ June-9 တွင် ကျဆုံး"
         }
     ]
 }
