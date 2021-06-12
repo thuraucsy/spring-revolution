@@ -188,6 +188,28 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "မောင်ကို",
+            "fallenDay": "2021-04-15",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ လေးအိမ်တန်းတာဘောင်အနောက်ဖျာ",
+            "heroPlace": "မြင်းခြံမြို့၊ ဘုရားလှရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ဝေ",
+            "fallenDay": "2021-04-15",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ လေးအိမ်တန်းတာဘောင်အနောက်ဖျာ",
+            "heroPlace": "မြင်းခြံမြို့၊ ဘုရားလှရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "ဦးမုန်း",
             "fallenDay": "2021-05-06",
             "heroAge": "40",
