@@ -84,9 +84,9 @@
             "heroGender": "f",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ သုဓမ္မာလမ်း အနောက်ထိပ်",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက်ရင်ဘတ် သေနတ်ကျည်ထိမှန်"
         },
         {
             "heroName": "ကိုသူရနိုင်",
@@ -161,7 +161,7 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ စံပြဈေး အရှေ့ဖက်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဂျုပ်ပင်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (ညာမျက်လုံး) သို့ ကျည်မှန်"
         },

@@ -106,9 +106,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ လျှပ်စစ်ရုံး(EPC)တောင်ဖက်လမ်း",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ၁၉ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ညာဘက်ရင်သို့ကျည်မှန်"
         },
         {
             "heroName": "မောင်အောင်မျိုးဇော်",
@@ -119,7 +119,7 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ၁၉ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         },
         {
             "heroName": "မောင်သားကို",

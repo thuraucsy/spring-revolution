@@ -986,9 +986,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၂ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက်ကျော ကျည်ထိမှန်"
         },
         {
             "heroName": "မောင်ထွန်းရင်",
@@ -997,12 +997,12 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ စံပြဈေး အရှေ့ဖက်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဂျုပ်ပင်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်း (ညာမျက်လုံး) သို့ ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ဟိန်းဝင်းထက် (ခ) ပေါက်စီ",
+            "heroName": "မောင်ဟိန်းဝင်းထွန်း (ခ) ပေါက်စီ",
             "fallenDay": "2021-03-27",
             "heroAge": "14",
             "heroGender": "m",
@@ -1019,9 +1019,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၁ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဖက်နောက်ကျော သေနတ်ကျည်ထိမှန်"
         },
         {
             "heroName": "ဦးသောင်းနိုင်ဦး",
@@ -1030,9 +1030,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၂ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဖက်နောက်ကျော သေနတ်ကျည်ထိမှန်"
         },
         {
             "heroName": "ကိုဝေမောင်",

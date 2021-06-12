@@ -469,9 +469,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၂ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဘက်ကျော ကျည်ထိမှန်"
         },
         {
             "heroName": "ဦးမျိုးနိုင်",
@@ -480,9 +480,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၁ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဖက်နောက်ကျော သေနတ်ကျည်ထိမှန်"
         },
         {
             "heroName": "ဦးသောင်းနိုင်ဦး",
@@ -491,9 +491,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် ၆ လမ်းမတော်",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ အမှတ် ၂ ရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ဘယ်ဖက်နောက်ကျော သေနတ်ကျည်ထိမှန်"
         },
         {
             "heroName": "ကိုစည်သူ",
@@ -613,8 +613,8 @@
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မြင်းခြံမြို့၊ လမ်းသစ်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊"
+            "heroPlace": "ပခုက္ကူမြို့၊ ဥယာဉ်စုရွာ",
+            "fallenCause": "ကျည်မှန်၊ နံဘေးသို့ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်သီဟ",
