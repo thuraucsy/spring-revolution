@@ -7987,6 +7987,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ဒီပဲယင်း": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-06-14",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီပဲယင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
+                "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "ရှမ်း": {
