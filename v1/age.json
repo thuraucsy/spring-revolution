@@ -11346,6 +11346,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၅၆ လမ်း၊ ၁၂၇/၁၂၈ ကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         }
     ],
     "under20": [
