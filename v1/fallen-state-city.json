@@ -6250,6 +6250,30 @@
                 "heroPlace": "",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
+        ],
+        "ပေါက်": [
+            {
+                "heroName": "ဒေါ်ကြီးမိန်",
+                "fallenDay": "2021-06-15",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "fallenCause": "မီးရှို့သတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးမြမောင်",
+                "fallenDay": "2021-06-15",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "fallenCause": "မီးရှို့သတ်ခံရ"
+            }
         ]
     },
     "မွန်": {
