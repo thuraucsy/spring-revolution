@@ -263,6 +263,17 @@
             "fallenPlace": "",
             "heroPlace": "ကနီမြို့နယ်၊ ခုံကြီးအုပ်စု ပါဟဲရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆုပိုင်ထွေး",
+            "fallenDay": "2021-06-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်မြို့နယ်၊ ၅၆ လမ်း၊ ၁၂၇/၁၂၈ ကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         }
     ]
 }
