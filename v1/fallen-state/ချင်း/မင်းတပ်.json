@@ -252,6 +252,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ခွီရှိန်းဘူနိန်",
+            "fallenDay": "2021-06-18",
+            "heroAge": "7 months",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ် စစ်ဘေးရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်ရင်း ဆေးမကုသနိုင်သဖြင့် သေဆုံး"
         }
     ]
 }
