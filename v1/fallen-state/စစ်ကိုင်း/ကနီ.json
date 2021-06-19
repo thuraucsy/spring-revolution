@@ -263,6 +263,17 @@
             "fallenPlace": "",
             "heroPlace": "ကနီမြို့နယ်၊ သင်္ဂတုံချောင်းရိုးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးစိန်မင်း",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ မိကျောင်းတွင်းကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ မိကျောင်းတွင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
