@@ -21,6 +21,28 @@
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့၊ မြကန်သာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ ကုသနေသည့် ယာယီဆေးခန်းမှ ဖမ်းဆီးသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သာဂရနှင့်မြင်းဒေါင်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သာဂရနှင့်မြင်းဒေါင်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

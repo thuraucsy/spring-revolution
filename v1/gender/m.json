@@ -8843,6 +8843,28 @@
             "fallenPlace": "မင်းတပ်မြို့နယ် စစ်ဘေးရှောင်စခန်း",
             "heroPlace": "",
             "fallenCause": "စစ်ဘေးရှောင်ရင်း ဆေးမကုသနိုင်သဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သာဂရနှင့်မြင်းဒေါင်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သာဂရနှင့်မြင်းဒေါင်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
