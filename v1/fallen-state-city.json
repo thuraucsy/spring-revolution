@@ -5167,6 +5167,17 @@
                 "fallenPlace": "ဗဟန်းမြို့နယ်၊ မင်းလမ်းမှတ်တိုင်",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+            },
+            {
+                "heroName": "မောင်ဖိုးစိန်",
+                "fallenDay": "2021-06-19",
+                "heroAge": "13",
+                "heroGender": "m",
+                "fallenCity": "ဗဟန်း",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
+                "heroPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ]
     },
@@ -7100,7 +7111,7 @@
                 "fallenCause": "May 24 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးဝင်းဇော်ဦး",
                 "fallenDay": "2021-06-19",
                 "heroAge": "",
                 "heroGender": "m",
@@ -7111,7 +7122,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ဒေါ်စမ်းစမ်းမော်",
                 "fallenDay": "2021-06-19",
                 "heroAge": "",
                 "heroGender": "f",
@@ -7122,9 +7133,9 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုသီဟအောင်",
                 "fallenDay": "2021-06-19",
-                "heroAge": "",
+                "heroAge": "23",
                 "heroGender": "m",
                 "fallenCity": "ကလေး",
                 "fallenState": "စစ်ကိုင်း",
@@ -7133,10 +7144,10 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုဇော်ဇော်",
                 "fallenDay": "2021-06-19",
-                "heroAge": "",
-                "heroGender": "",
+                "heroAge": "35",
+                "heroGender": "m",
                 "fallenCity": "ကလေး",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
