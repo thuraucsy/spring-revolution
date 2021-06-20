@@ -8876,6 +8876,28 @@
             "fallenPlace": "ကနီမြို့နယ်၊ မိကျောင်းတွင်းကျေးရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ မိကျောင်းတွင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -9571,6 +9593,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -9869,6 +9902,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မုံရွာမြို့၊ ပိတောက်ကုန်းရပ်၊ မီးကင်းတဲမြောက်လမ်း",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ]

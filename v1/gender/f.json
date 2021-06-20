@@ -692,6 +692,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
