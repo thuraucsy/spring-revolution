@@ -6856,6 +6856,17 @@
                 "fallenPlace": "မုံရွာမြို့၊ ပိတောက်ကုန်းရပ်၊ မီးကင်းတဲမြောက်လမ်း",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-06-21",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မုံရွာမြို့နယ်စစ်ကြောရေးစခန်း",
+                "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+                "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
             }
         ],
         "ကလေး": [
@@ -8255,6 +8266,30 @@
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
                 "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
+                "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "ဂန့်ဂေါ": [
+            {
+                "heroName": "ကိုကျော်ဆန်းဦး",
+                "fallenDay": "2021-06-20",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဂန့်ဂေါ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဘော်ပြင်းရွှာနှင့် ၅ဖာလုံအနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-06-20",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဂန့်ဂေါ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဘော်ပြင်းရွှာနှင့် ၅ဖာလုံအနီး",
+                "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
         ]

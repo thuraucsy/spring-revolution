@@ -10127,6 +10127,43 @@
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ],
+    "2021-06-20": [
+        {
+            "heroName": "ကိုကျော်ဆန်းဦး",
+            "fallenDay": "2021-06-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဘော်ပြင်းရွှာနှင့် ၅ဖာလုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဘော်ပြင်းရွှာနှင့် ၅ဖာလုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2021-06-21": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်စစ်ကြောရေးစခန်း",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        }
+    ],
     "2021-06-22": [
         {
             "heroName": "ကိုနိုင်ထွန်းကြည်",
