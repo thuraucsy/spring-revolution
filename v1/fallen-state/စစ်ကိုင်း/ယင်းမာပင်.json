@@ -175,6 +175,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စည်လှောင်ကျေးရွာအနီး",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ စည်လှောင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

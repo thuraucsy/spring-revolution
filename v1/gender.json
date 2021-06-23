@@ -9008,6 +9008,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ ထွန်တုံးရပ်၊ ၅၄လမ်း/ ၁၁၁လမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -10012,6 +10023,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မုံရွာမြို့၊ ပိတောက်ကုန်းရပ်၊ မီးကင်းတဲမြောက်လမ်း",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-23",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

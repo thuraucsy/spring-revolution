@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်၊"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-23",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
