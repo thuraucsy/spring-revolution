@@ -8911,6 +8911,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-06-19",
+            "heroAge": "1",
+            "heroGender": "m",
+            "fallenCity": "ကျိုင်းတုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကျိုင်းတုံမြို့နယ်၊ ၅ရပ်ကွက်၊ ဆူးဖူးမားရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
+        },
+        {
             "heroName": "မောင်ဖိုးစိန်",
             "fallenDay": "2021-06-19",
             "heroAge": "13",
@@ -8941,6 +8952,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ဘော်ပြင်းရွှာနှင့် ၅ဖာလုံအနီး",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ကျော်မျိုး",
+            "fallenDay": "2021-06-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကူး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "စဉ့်ကူးမြို့နယ်၊ လက်ပန်လှကျေးရွာ ကျောင်းအနီး",
+            "heroPlace": "စဉ့်ကူးမြို့နယ်၊ လက်ပန်လှအုပ်စု၊ ငြိမ်းချမ်းအောင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
