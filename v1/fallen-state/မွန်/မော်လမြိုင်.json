@@ -65,6 +65,28 @@
             "fallenPlace": "မော်လမြိုင်မြို့ဒိုင်းဝန်ကွင်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးဇော်ဦး",
+            "fallenDay": "2021-06-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မော်လမြိုင်",
+            "fallenState": "မွန်",
+            "fallenPlace": "မော်လမြိုင်မြို့၊ ကျောက်မီးသွေးရုံမီးပွိုင့်အနီး",
+            "heroPlace": "ဘီလူးကျွန်းမြို့နယ်၊ အဘစ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းဦး",
+            "fallenDay": "2021-06-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မော်လမြိုင်",
+            "fallenState": "မွန်",
+            "fallenPlace": "မော်လမြိုင်မြို့၊ ကျောက်မီးသွေးရုံမီးပွိုင့်အနီး",
+            "heroPlace": "ဘီလူးကျွန်းမြို့နယ်၊ အဘစ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
