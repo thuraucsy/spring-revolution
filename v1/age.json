@@ -1251,6 +1251,17 @@
             "fallenPlace": "မိုးဗြဲရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မိုင်နွမ်ဇာထီးယန်း(Mai Nuam Za Thing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "19",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20": [
@@ -2392,6 +2403,17 @@
             "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ် ချင်းတွင်းမြစ်ရိုး အောက်ပိုင်းဒေသ မြစ်အရှေ့ဘက်ခြမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "24": [
@@ -2581,6 +2603,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဆလိုင်းငွန်နိုင်ပိုင် (Salai Ngun Nei Paing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "25": [
@@ -11563,7 +11596,7 @@
             "fallenDay": "2021-06-20",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "စဉ့်ကူး",
+            "fallenCity": "စဥ့်ကူး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "စဉ့်ကူးမြို့နယ်၊ လက်ပန်လှကျေးရွာ ကျောင်းအနီး",
             "heroPlace": "စဉ့်ကူးမြို့နယ်၊ လက်ပန်လှအုပ်စု၊ ငြိမ်းချမ်းအောင်ရပ်ကွက်",
@@ -12945,6 +12978,17 @@
             "fallenPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "heroPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မိုင်နွမ်ဇာထီးယန်း(Mai Nuam Za Thing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "19",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -14145,6 +14189,17 @@
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "heroPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မိုင်နွမ်ဇာထီးယန်း(Mai Nuam Za Thing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "19",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -17880,6 +17935,28 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းငွန်နိုင်ပိုင် (Salai Ngun Nei Paing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ် ချင်းတွင်းမြစ်ရိုး အောက်ပိုင်းဒေသ မြစ်အရှေ့ဘက်ခြမ်း",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

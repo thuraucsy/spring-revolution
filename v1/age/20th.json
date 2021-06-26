@@ -2243,6 +2243,28 @@
             "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းငွန်နိုင်ပိုင် (Salai Ngun Nei Paing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ် ချင်းတွင်းမြစ်ရိုး အောက်ပိုင်းဒေသ မြစ်အရှေ့ဘက်ခြမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

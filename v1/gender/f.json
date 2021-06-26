@@ -703,6 +703,17 @@
             "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မိုင်နွမ်ဇာထီးယန်း(Mai Nuam Za Thing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "19",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

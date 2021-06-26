@@ -186,6 +186,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ မြင်းလှည်းဂိတ်မှတ်တိုင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဆလိုင်းငွန်နိုင်ပိုင် (Salai Ngun Nei Paing)",
+            "fallenDay": "2021-06-23",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
