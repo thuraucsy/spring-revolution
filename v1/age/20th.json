@@ -2256,6 +2256,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအောင်မင်းသူ",
+            "fallenDay": "2021-06-23",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "သီပေါ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "သီပေါမြို့၊ မြန်မာရပ်ကွက်ရုံးအနီးရှိ လက်ဖက်ရည်ဆိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-06-24",
             "heroAge": "23",
