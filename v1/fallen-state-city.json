@@ -6913,6 +6913,17 @@
                 "fallenPlace": "မုံရွာမြို့နယ်စစ်ကြောရေးစခန်း",
                 "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
                 "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-06-25",
+                "heroAge": "34",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             }
         ],
         "ကလေး": [
@@ -7321,6 +7332,17 @@
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
                 "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဇော်ထက် (Salai Van Than Cung)",
+                "fallenDay": "2021-06-25",
+                "heroAge": "25",
+                "heroGender": "m",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့စစ်ကြောရေးစခန်း",
+                "heroPlace": "ကလေးမြို့၊ တပ်ဦးသီတာရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
             }
         ],

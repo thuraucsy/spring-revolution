@@ -54,6 +54,17 @@
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့၊ ရန်ကြီးအောင်ရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }

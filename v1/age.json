@@ -2825,6 +2825,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထက် (Salai Van Than Cung)",
+            "fallenDay": "2021-06-25",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့၊ တပ်ဦးသီတာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "26": [
@@ -4284,6 +4295,17 @@
             "fallenPlace": "",
             "heroPlace": "မိုးကုတ်မြို့၊ ရန်ကြီးအောင်ရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "35": [
@@ -7914,6 +7936,17 @@
             "fallenPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "heroPlace": "ကလေးမြို့၊ အင်းယာကုန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -17979,6 +18012,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မင်းကင်းမြို့နယ် ချင်းတွင်းမြစ်ရိုး အောက်ပိုင်းဒေသ မြစ်အရှေ့ဘက်ခြမ်း",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထက် (Salai Van Than Cung)",
+            "fallenDay": "2021-06-25",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့၊ တပ်ဦးသီတာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ],
