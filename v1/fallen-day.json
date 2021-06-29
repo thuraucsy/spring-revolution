@@ -10402,5 +10402,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         }
+    ],
+    "2021-06-29": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တာမွေ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }

@@ -11788,6 +11788,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တာမွေ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
