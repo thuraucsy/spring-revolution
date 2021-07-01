@@ -10403,6 +10403,19 @@
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
         }
     ],
+    "2021-06-27": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-27",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ အနောက်ပိုင်းတကသိုလ်လမ်း၊ King Power အိမ်ဆောက်ပစည်းဆိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
     "2021-06-29": [
         {
             "heroName": "",
@@ -10411,6 +10424,74 @@
             "heroGender": "m",
             "fallenCity": "တာမွေ",
             "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2021-06-30": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
