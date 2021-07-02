@@ -307,6 +307,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့စစ်ကြောရေးစခန်း",
+            "heroPlace": "မုံရွာမြို့၊ စက်မှုဇုန်ရပ်ကွက်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }
