@@ -417,6 +417,17 @@
             "fallenPlace": "ရေဖြူမြို့နယ်၊ ရလဲ့ကျေးရွာ၊ ရလဲ့ကျောင်းအနီး",
             "heroPlace": "ရေဖြူမြို့နယ်၊ သစ်တိုထောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိတ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -9241,6 +9241,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုစိုးစံ",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပင်းတလဲရဲစခန်း",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုစိုးမင်း",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပြည်မြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "ပြည်မြို့၊ ဖိုးခေါင်ရပ်ကွက်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-07-01",
             "heroAge": "",
@@ -9261,6 +9283,17 @@
             "fallenPlace": "ရွှေတောင်မြို့နယ်အမြောက်တပ်",
             "heroPlace": "ရွှေတောင်မြို့နယ်၊ ကြာနီကန်ရပ်ကွက်၊ ကသည်းတန်းလမ်း",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိတ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးမိုးဟိန်း",

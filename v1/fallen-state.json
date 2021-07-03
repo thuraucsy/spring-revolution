@@ -2388,6 +2388,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုစိုးစံ",
+            "fallenDay": "2021-06-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပင်းတလဲရဲစခန်း",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "ဦးမိုးဟိန်း",
             "fallenDay": "2021-07-02",
             "heroAge": "",
@@ -2895,6 +2906,17 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "ရေဖြူမြို့နယ်၊ ရလဲ့ကျေးရွာ၊ ရလဲ့ကျောင်းအနီး",
             "heroPlace": "ရေဖြူမြို့နယ်၊ သစ်တိုထောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိတ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -5227,7 +5249,7 @@
             "heroGender": "",
             "fallenCity": "လှိုင်သာယာ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ အနောက်ပိုင်းတကသိုလ်လမ်း၊ King Power အိမ်ဆောက်ပစည်းဆိုင်အနီး",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ အနောက်ပိုင်းတက္ကသိုလ်လမ်း၊ King Power အိမ်ဆောက်ပစ္စည်းဆိုင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -5859,6 +5881,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့၊ အောင်ရတနာကျောင်းတိုက်",
             "fallenCause": "မတ်လကုန်က စစ်တပ်မှ ဖမ်းဆီးသွား၊ စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာ ပျံလွန်တော်မူ"
+        },
+        {
+            "heroName": "ကိုစိုးမင်း",
+            "fallenDay": "2021-07-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပြည်မြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "ပြည်မြို့၊ ဖိုးခေါင်ရပ်ကွက်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုအောင်အောင်လွင်",
