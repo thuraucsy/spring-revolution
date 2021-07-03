@@ -714,6 +714,17 @@
             "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
             "heroPlace": "ကလေးမြို့ ညောင်တုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခင်စုစုလှိုင်",
+            "fallenDay": "2021-07-02",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

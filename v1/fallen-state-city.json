@@ -1707,6 +1707,28 @@
                 "fallenPlace": "မြင်းခြံမြို့၊ စစ်ကြောရေးစခန်း",
                 "heroPlace": "မြင်းခြံမြို့၊ ကွမ်းစိုက်ရွာ",
                 "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            },
+            {
+                "heroName": "ဦးမိုးဟိန်း",
+                "fallenDay": "2021-07-02",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မြင်းခြံမြို့၊ ၂၀ ရပ်ကွက်၊ ချောင်းဒေါင်းမြောက်ရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဒေါ်ခင်စုစုလှိုင်",
+                "fallenDay": "2021-07-02",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "သပိတ်ကျင်း": [
