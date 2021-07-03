@@ -3957,8 +3957,8 @@
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မြင်းခြံမြို့၊ ၂၀ ရပ်ကွက်၊ ချောင်းဒေါင်းမြောက်ရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြင်းခြံမြို့၊ ၂၀ ရပ်ကွက်၊ ချောင်းဒေါင်းမြောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဒေါ်ခင်စုစုလှိုင်",
@@ -3967,9 +3967,9 @@
             "heroGender": "f",
             "fallenCity": "မြင်းခြံ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မြင်းခြံမြို့၊ ၂၀ ရပ်ကွက်၊ ချောင်းဒေါင်းမြောက်ရွာ",
+            "heroPlace": "မြင်းခြံမြို့၊ ၂၀ ရပ်ကွက်၊ ချောင်းဒေါင်းမြောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
