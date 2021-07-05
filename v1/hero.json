@@ -10394,6 +10394,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဘုရင့်နောင်လမ်း၊ မီးသတ်ရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်သေးသေး",
+            "fallenDay": "2021-07-05",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ အရှေ့ခြမ်း ညောင်ကုန်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
