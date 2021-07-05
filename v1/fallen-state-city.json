@@ -3081,6 +3081,17 @@
                 "fallenPlace": "ရွှေပြည်သာမြို့နယ်ရဲစခန်း",
                 "heroPlace": "",
                 "fallenCause": "June-2 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာသေဆုံး"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေပြည်သာ",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဘုရင့်နောင်လမ်း၊ မီးသတ်ရုံးအနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "သင်္ဃန်းကျွန်း": [
@@ -7445,6 +7456,17 @@
                 "fallenPlace": "ကလေးမြို့စစ်ကြောရေးစခန်း",
                 "heroPlace": "ကလေးမြို့၊ တပ်ဦးသီတာရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-03",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "သေနတ်၊ဗုံးသံကြောင့် လန့်ဖြတ်ကာ နှလုံးရပ်သေဆုံး"
             }
         ],
         "ကောလင်း": [
