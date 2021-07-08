@@ -1836,6 +1836,17 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ အရှေ့ခြမ်း ညောင်ကုန်းရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ မကျီးတောလမ်း၊ ကြာပန်းအဝိုင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

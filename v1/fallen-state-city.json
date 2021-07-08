@@ -2818,6 +2818,28 @@
                 "fallenPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
                 "heroPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
                 "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထားဝယ်",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "ထားဝယ်မြိ့န",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထားဝယ်",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ပြည်ကြီးမဏ္ဍိုင်": [
@@ -8592,6 +8614,19 @@
                 "fallenCity": "မင်းကင်း",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "မင်းကင်းမြို့နယ် ချင်းတွင်းမြစ်ရိုး အောက်ပိုင်းဒေသ မြစ်အရှေ့ဘက်ခြမ်း",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "ရေဦး": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ မကျီးတောလမ်း၊ ကြာပန်းအဝိုင်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }

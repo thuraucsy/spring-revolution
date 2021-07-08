@@ -10636,5 +10636,40 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-07-07": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ မကျီးတောလမ်း၊ ကြာပန်းအဝိုင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြိ့န",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }

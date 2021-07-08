@@ -186,6 +186,28 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "heroPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြိ့န",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
