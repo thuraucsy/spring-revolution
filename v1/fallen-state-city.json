@@ -6555,6 +6555,30 @@
                 "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
                 "fallenCause": "မီးရှို့သတ်ခံရ"
             }
+        ],
+        "ဆော": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-06",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆော",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို- ဆောမြို့ ကြား",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-07-06",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆော",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "မွန်": {
