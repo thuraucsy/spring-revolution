@@ -3836,6 +3836,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်စစ်ကြောရေးစခန်း",
             "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုဘဂျမ်း",
+            "fallenDay": "2021-07-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဟိုပင်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ဟိုပင်မြို့၊ ရွာသစ်ကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -7991,6 +8002,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဘဂျမ်း",
+            "fallenDay": "2021-07-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဟိုပင်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ဟိုပင်မြို့၊ ရွာသစ်ကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -11840,6 +11862,61 @@
             "heroGender": "m",
             "fallenCity": "တာမွေ",
             "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းနိုင်အောင်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကျော်ဆန်းဝင်း",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းတာလ်ဟုပ်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဗန်ဘွဲ့",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထောင်းဇဲလ်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"

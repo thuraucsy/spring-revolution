@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "",
-            "fallenDay": "2021-06-29",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တာမွေ",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ဆလိုင်းနိုင်အောင်",
             "fallenDay": "2021-06-29",
             "heroAge": "",

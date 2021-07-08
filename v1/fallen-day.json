@@ -10427,6 +10427,61 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းနိုင်အောင်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းကျော်ဆန်းဝင်း",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းတာလ်ဟုပ်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဗန်ဘွဲ့",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထောင်းဇဲလ်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-06-30": [
@@ -10634,6 +10689,19 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကောလင်းမြို့နယ်၊ အရှေ့ခြမ်း ညောင်ကုန်းရွာ",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2021-07-06": [
+        {
+            "heroName": "ကိုဘဂျမ်း",
+            "fallenDay": "2021-07-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဟိုပင်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ဟိုပင်မြို့၊ ရွာသစ်ကြီးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
