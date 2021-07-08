@@ -87,6 +87,17 @@
             "fallenPlace": "သာကေတမြို့နယ်၊ ၅ရပ်ကွက်၊ သိင်္ဂီ၂လမ်းမြောက်၊ ထွေအုပ်ရုံးရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သာကေတ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "သာကေတမြို့နယ်၊ ၉ ရပ်ကွက်",
+            "fallenCause": "ဓါးခုတ်ခံရကာ သေဆုံး"
         }
     ]
 }

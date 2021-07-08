@@ -2353,6 +2353,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဘုရင့်နောင်လမ်း၊ မီးသတ်ရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သာကေတ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "သာကေတမြို့နယ်၊ ၉ ရပ်ကွက်",
+            "fallenCause": "ဓါးခုတ်ခံရကာ သေဆုံး"
         }
     ]
 }

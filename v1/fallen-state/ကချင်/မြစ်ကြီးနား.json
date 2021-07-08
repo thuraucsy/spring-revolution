@@ -43,6 +43,17 @@
             "fallenPlace": "မြစ်ကြီးနားမြို့ ၂၁ မိုင်ဂိတ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမီး",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ ဗလမင်းထင်တံတားအနီး",
+            "heroPlace": "မိုင်းနား၊ မခေါယာန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

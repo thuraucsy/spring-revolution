@@ -436,9 +436,9 @@
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "ထားဝယ်မြိ့န",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရောင်းမော်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -447,9 +447,9 @@
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရောင်းမော်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

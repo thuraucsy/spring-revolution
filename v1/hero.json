@@ -10424,9 +10424,9 @@
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "ထားဝယ်မြိ့န",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရောင်းမော်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -10435,9 +10435,31 @@
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရောင်းမော်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမီး",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ ဗလမင်းထင်တံတားအနီး",
+            "heroPlace": "မိုင်းနား၊ မခေါယာန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-07-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သာကေတ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "သာကေတမြို့နယ်၊ ၉ ရပ်ကွက်",
+            "fallenCause": "ဓါးခုတ်ခံရကာ သေဆုံး"
         }
     ]
 }
