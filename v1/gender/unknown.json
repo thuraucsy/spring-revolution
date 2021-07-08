@@ -329,6 +329,28 @@
             "fallenPlace": "ဝိုင်းမော်မြို့နယ်၊ မိုင်းနားကျေးရွာ၊  ရပ်ကွက် ၂ ၊ လဝမ်ကထောင်",
             "heroPlace": "ဝိုင်းမော်မြို့နယ်၊ မိုင်းနားကျေးရွာ၊  ရပ်ကွက် ၂ ၊ လဝမ်ကထောင်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "2",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "4",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         }
     ]
 }

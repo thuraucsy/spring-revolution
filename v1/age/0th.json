@@ -32,6 +32,28 @@
             "fallenPlace": "ကျိုင်းတုံမြို့နယ်၊ ၅ရပ်ကွက်၊ ဆူးဖူးမားရပ်",
             "heroPlace": "",
             "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "2",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "4",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         }
     ]
 }

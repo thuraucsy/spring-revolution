@@ -241,6 +241,28 @@
             "fallenPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "heroPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "2",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "4",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         }
     ]
 }

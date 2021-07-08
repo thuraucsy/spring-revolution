@@ -219,6 +219,17 @@
             "fallenPlace": "ကလေးမြို့စစ်ကြောရေးစခန်း",
             "heroPlace": "ကလေးမြို့၊ တပ်ဦးသီတာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-07-07",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ထိုမာကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချင်းဆိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

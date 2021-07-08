@@ -197,6 +197,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ လောပိတကျေးရွာ၊ ရှမ်းရွာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထောင်းဇဲလ်",
+            "fallenDay": "2021-06-29",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

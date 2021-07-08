@@ -8431,6 +8431,50 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "2",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "4",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-06",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-07-07",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ထိုမာကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချင်းဆိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-07-07",
             "heroAge": "",
             "heroGender": "m",
@@ -10501,7 +10545,7 @@
         {
             "heroName": "ဆလိုင်းနိုင်အောင်",
             "fallenDay": "2021-06-29",
-            "heroAge": "",
+            "heroAge": "22",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
@@ -10512,7 +10556,7 @@
         {
             "heroName": "ဆလိုင်းကျော်ဆန်းဝင်း",
             "fallenDay": "2021-06-29",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
@@ -10523,7 +10567,7 @@
         {
             "heroName": "ဆလိုင်းတာလ်ဟုပ်",
             "fallenDay": "2021-06-29",
-            "heroAge": "",
+            "heroAge": "41",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
@@ -10534,7 +10578,7 @@
         {
             "heroName": "ဆလိုင်းဗန်ဘွဲ့",
             "fallenDay": "2021-06-29",
-            "heroAge": "",
+            "heroAge": "22",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
@@ -10545,7 +10589,7 @@
         {
             "heroName": "ဆလိုင်းထောင်းဇဲလ်",
             "fallenDay": "2021-06-29",
-            "heroAge": "",
+            "heroAge": "29",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
