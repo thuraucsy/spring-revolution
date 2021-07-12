@@ -10671,23 +10671,23 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ငမ်ကျင်ပေါင်",
             "fallenDay": "2021-07-10",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
         },
         {
-            "heroName": "",
+            "heroName": "မာန်ဂိုး",
             "fallenDay": "2021-07-10",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
@@ -10713,6 +10713,39 @@
             "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ ကျီကုန်းကျေးရွာ",
             "heroPlace": "မန္တလေးမြို့၊ ချမ်းအေးသာစံမြို့နယ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်စွာ",
+            "fallenDay": "2021-07-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံ စစ်ကြောရေး",
+            "heroPlace": "မြင်းခြံမြို့၊ ထနောင်းတိုင်ရွာ၊ လက်ပံတော",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဒိုခိုလက်",
+            "fallenDay": "2021-07-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ပေါင်ဂင်းမန်",
+            "fallenDay": "2021-07-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

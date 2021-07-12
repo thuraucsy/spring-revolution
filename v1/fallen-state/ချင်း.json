@@ -450,28 +450,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-10",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
-            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-10",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တမူး",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
-            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
         }
     ]
 }
