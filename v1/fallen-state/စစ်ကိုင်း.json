@@ -1891,6 +1891,17 @@
             "fallenPlace": "ရေဦးမြို့နယ်၊ မကျီးတောလမ်း၊ ကြာပန်းအဝိုင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-11",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

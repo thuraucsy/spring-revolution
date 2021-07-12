@@ -37,12 +37,23 @@
             "heroName": "ကိုခန့်ကိုကိုမောင်",
             "fallenDay": "2021-07-10",
             "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မန္တလေး",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်ကြီး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ ကျီကုန်းကြီးကျေးရွာ",
+            "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ ကျီကုန်းကျေးရွာ",
             "heroPlace": "မန္တလေးမြို့၊ ချမ်းအေးသာစံမြို့နယ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်စွာ",
+            "fallenDay": "2021-07-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံ စစ်ကြောရေး",
+            "heroPlace": "မြင်းခြံမြို့၊ ထနောင်းတိုင်ရွာ၊ လက်ပံတော",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }
