@@ -2375,6 +2375,17 @@
             "fallenPlace": "",
             "heroPlace": "သာကေတမြို့နယ်၊ ၉ ရပ်ကွက်",
             "fallenCause": "ဓါးခုတ်ခံရကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဖိုးဆယ်",
+            "fallenDay": "2021-07-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သုံးခွ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ ရိုက်နှက်ခံရကာ သေဆုံး"
         }
     ]
 }

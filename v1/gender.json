@@ -9523,8 +9523,19 @@
             "fallenCity": "တမူး",
             "fallenState": "ချင်း",
             "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ နောင်ကတ်သစ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုဖိုးဆယ်",
+            "fallenDay": "2021-07-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သုံးခွ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်တပ်မှ ရိုက်နှက်ခံရကာ သေဆုံး"
         }
     ],
     "f": [
@@ -10629,6 +10640,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုခန့်ကိုကိုမောင်",
+            "fallenDay": "2021-07-10",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ ကျီကုန်းကြီးကျေးရွာ",
+            "heroPlace": "မန္တလေးမြို့၊ ချမ်းအေးသာစံမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
