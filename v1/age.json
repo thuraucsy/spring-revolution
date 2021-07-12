@@ -12246,6 +12246,39 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-07-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ယင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ယင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ကုန်းသာရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-07-10",
             "heroAge": "",
             "heroGender": "m",
@@ -12298,17 +12331,6 @@
             "fallenPlace": "မြင်းခြံ စစ်ကြောရေး",
             "heroPlace": "မြင်းခြံမြို့၊ ထနောင်းတိုင်ရွာ၊ လက်ပံတော",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-11",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ကနီ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ],
     "under20": [

@@ -8552,14 +8552,36 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-11",
+            "fallenDay": "2021-07-09",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ကနီမြို့နယ်၊ ယင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ယင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ကုန်းသာရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
