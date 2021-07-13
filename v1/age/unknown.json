@@ -4234,6 +4234,17 @@
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဦးလွန်းမောင်",
+            "fallenDay": "2021-07-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ သရက်ဖြူရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

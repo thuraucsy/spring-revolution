@@ -6649,6 +6649,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ဆိပ်ဖြူ": [
+            {
+                "heroName": "ဦးလွန်းမောင်",
+                "fallenDay": "2021-07-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆိပ်ဖြူ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ သရက်ဖြူရွာ",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "မွန်": {
