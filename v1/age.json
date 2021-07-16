@@ -413,6 +413,17 @@
             "fallenPlace": "ဘုတလင်မြို့နယ်၊ မုံယိုကျေးရွာ၊ ဘုတလင်-ကနဲလမ်းမကြီးအနီး",
             "heroPlace": "ကနီမြို့နယ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "17": [
@@ -12435,7 +12446,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -12446,7 +12457,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -12457,7 +12468,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -13778,6 +13789,17 @@
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         },
         {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇွဲကိုကို",
             "fallenDay": "2021-07-16",
             "heroAge": "19",
@@ -15001,6 +15023,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇွဲကိုကို",
             "fallenDay": "2021-07-16",
             "heroAge": "19",
@@ -15617,6 +15650,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [

@@ -10760,7 +10760,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -10771,7 +10771,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -10782,7 +10782,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -10801,6 +10801,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့် ခမ၇ ၆၁၆ တပ်ရင်းအနီး",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့်ကျေးရွာ",
             "fallenCause": "အဓမ္မပြုကျင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်သိန်း",

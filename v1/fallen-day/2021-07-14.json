@@ -3,39 +3,6 @@
         {
             "heroName": "",
             "fallenDay": "2021-07-14",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "တောင်ကြီး",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
-            "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-14",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "တောင်ကြီး",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
-            "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-14",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "တောင်ကြီး",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
-            "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-14",
             "heroAge": "51",
             "heroGender": "f",
             "fallenCity": "မိုးမောက်",
@@ -43,6 +10,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့် ခမ၇ ၆၁၆ တပ်ရင်းအနီး",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့်ကျေးရွာ",
             "fallenCause": "အဓမ္မပြုကျင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

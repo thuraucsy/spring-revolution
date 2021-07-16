@@ -9648,6 +9648,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်စည်သူ",
+            "fallenDay": "2021-07-14",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုကျော်သိန်း",
             "fallenDay": "2021-07-15",
             "heroAge": "",
@@ -10841,7 +10852,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -10852,7 +10863,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
@@ -10863,7 +10874,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-14",
+            "fallenDay": "2021-07-13",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "တောင်ကြီး",
