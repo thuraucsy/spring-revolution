@@ -1264,6 +1264,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇွဲကိုကို",
+            "fallenDay": "2021-07-16",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

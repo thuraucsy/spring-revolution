@@ -10792,6 +10792,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-07-14",
+            "heroAge": "51",
+            "heroGender": "f",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့် ခမ၇ ၆၁၆ တပ်ရင်းအနီး",
+            "heroPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့်ကျေးရွာ",
+            "fallenCause": "အဓမ္မပြုကျင့် သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုကျော်သိန်း",
             "fallenDay": "2021-07-15",
             "heroAge": "",
@@ -10844,6 +10855,17 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇွဲကိုကို",
+            "fallenDay": "2021-07-16",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]
