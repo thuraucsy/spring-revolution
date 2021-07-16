@@ -10793,7 +10793,7 @@
         },
         {
             "heroName": "ကိုကျော်သိန်း",
-            "fallenDay": "2021-07-16",
+            "fallenDay": "2021-07-15",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
@@ -10804,7 +10804,7 @@
         },
         {
             "heroName": "ကိုမြင့်နောင်",
-            "fallenDay": "2021-07-16",
+            "fallenDay": "2021-07-15",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
@@ -10815,7 +10815,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-16",
+            "fallenDay": "2021-07-15",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
@@ -10826,13 +10826,24 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-07-16",
+            "fallenDay": "2021-07-15",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်အုန်း",
+            "fallenDay": "2021-07-16",
+            "heroAge": "67",
+            "heroGender": "m",
+            "fallenCity": "ဆင်ပေါင်ဝဲ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
+            "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]
