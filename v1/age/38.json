@@ -120,6 +120,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသက်စိုး",
+            "fallenDay": "2021-07-18",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -1620,6 +1620,28 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ ကြို့ပင်ကျေးရွာအုပ်စု၊ ဇော်ချောင်း-တောင်ဘို့ ကျေးရွာလမ်းမကြား",
             "heroPlace": "ကောလင်းမြို့နယ်၊ ကြို့ပင်ကျေးရွာအုပ်စု၊ ဇော်ချောင်း-တောင်ဘို့ ကျေးရွာလမ်းမကြား",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဌေးလှိုင်ဝင်း",
+            "fallenDay": "2021-07-18",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ဟိန်းကျော်",
+            "fallenDay": "2021-07-18",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -3961,6 +3983,17 @@
             "fallenPlace": "",
             "heroPlace": "ဟိုပင်မြို့၊ ရွာသစ်ကြီးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ပိုင်ထွေး",
+            "fallenDay": "2021-07-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -5087,6 +5120,17 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသက်စိုး",
+            "fallenDay": "2021-07-18",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -8195,6 +8239,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုသက်စိုး",
+            "fallenDay": "2021-07-18",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ပိုင်ထွေး",
+            "fallenDay": "2021-07-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -12519,50 +12585,6 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ တင်သားကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-07-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -18986,6 +19008,28 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "မြင်းခြံမြို့၊ စက်မှုဇုန်၊ စက်မှုခန်းမဟောင်းအနီး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဆားခါးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဌေးလှိုင်ဝင်း",
+            "fallenDay": "2021-07-18",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ဟိန်းကျော်",
+            "fallenDay": "2021-07-18",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
