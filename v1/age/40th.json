@@ -912,6 +912,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်အောင်",
+            "fallenDay": "2021-07-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဌေးလွင်",
+            "fallenDay": "2021-07-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

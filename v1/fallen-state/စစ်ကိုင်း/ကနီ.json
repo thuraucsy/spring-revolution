@@ -309,9 +309,9 @@
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးလှဖို",
             "fallenDay": "2021-07-09",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
@@ -372,6 +372,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကနီမြို့နယ်၊ မဲဒင်းကျေးရွာအနီး ချင်းတွင်းမြစ် အောင်ဖြိုးဦးမော်တော်လှေပေါ်",
             "heroPlace": "ကနီမြို့နယ်၊ ကျောမကြားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့၊ ထ-၁ ကျောင်းအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ]

@@ -505,6 +505,39 @@
             "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကြည့်ငိုတောင်သွားရာလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကြည့်ငိုတောင်သွားရာလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ကိုဖိုးဌေး",
+            "fallenDay": "2021-08-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ ဗဟင်းကျေးရွာရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

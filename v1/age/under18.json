@@ -606,6 +606,28 @@
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         },
         {
+            "heroName": "မာန်ဂိုး",
+            "fallenDay": "2021-07-10",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဒိုခိုလက်",
+            "fallenDay": "2021-07-12",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "မောင်စည်သူ",
             "fallenDay": "2021-07-14",
             "heroAge": "16",
@@ -614,6 +636,17 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်သားဖ",
+            "fallenDay": "2021-07-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

@@ -133,6 +133,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဒိုခိုလက်",
+            "fallenDay": "2021-07-12",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "မောင်စည်သူ",
             "fallenDay": "2021-07-14",
             "heroAge": "16",

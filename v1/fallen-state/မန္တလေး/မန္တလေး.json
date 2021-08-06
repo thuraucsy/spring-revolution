@@ -1352,6 +1352,50 @@
             "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မသူသူဇင်",
+            "fallenDay": "2021-07-27",
+            "heroAge": "25",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာမြတ်မုနိဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန် အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာမြတ်မုနိဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "အရှင်ပညာသီရီဘိဝံသ",
+            "fallenDay": "2021-07-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေး မြတောင်ကျောင်းတိုက်",
+            "heroPlace": "မန္တလေး မြတောင်ကျောင်းတိုက်",
+            "fallenCause": "ကျောင်းတိုက်သို့ဝင်စီးချိန် လန့်ဖြတ်၍ နှလုံးရပ်ကာကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုရဲရင့်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
         }
     ]
 }

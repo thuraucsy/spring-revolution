@@ -1827,6 +1827,50 @@
             "fallenCause": "သေနတ်၊ဗုံးသံကြောင့် လန့်ဖြတ်ကာ နှလုံးရပ်သေဆုံး"
         },
         {
+            "heroName": "ကိုဖြိုးမင်းသော်",
+            "fallenDay": "2021-07-04",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်း-ရွှေဘိုလမ်း၊ ကုက္ကိုလ်ကုန်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်မောင်",
+            "fallenDay": "2021-07-04",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်း-ရွှေဘိုလမ်း၊ ကုက္ကိုလ်ကုန်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုပြည့်ဖြိုးမောင်",
+            "fallenDay": "2021-07-04",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်း-ရွှေဘိုလမ်း၊ ကုက္ကိုလ်ကုန်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်း-ရွှေဘိုလမ်း၊ ကုက္ကိုလ်ကုန်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဘရန်ရှောင်",
             "fallenDay": "2021-07-04",
             "heroAge": "",
@@ -1904,9 +1948,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးလှဖို",
             "fallenDay": "2021-07-09",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
@@ -1939,7 +1983,7 @@
         {
             "heroName": "ငမ်ကျင်ပေါင်",
             "fallenDay": "2021-07-10",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "စစ်ကိုင်း",
@@ -1950,7 +1994,7 @@
         {
             "heroName": "မာန်ဂိုး",
             "fallenDay": "2021-07-10",
-            "heroAge": "",
+            "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "စစ်ကိုင်း",
@@ -1959,9 +2003,20 @@
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
         },
         {
+            "heroName": "ဦးဆန်းဝင်း",
+            "fallenDay": "2021-07-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလယ်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဒိုခိုလက်",
             "fallenDay": "2021-07-12",
-            "heroAge": "",
+            "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "စစ်ကိုင်း",
@@ -1972,13 +2027,24 @@
         {
             "heroName": "ပေါင်ဂင်းမန်",
             "fallenDay": "2021-07-12",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဦးမြင့်ဆွေ",
+            "fallenDay": "2021-07-13",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်သိန်း",
@@ -2033,6 +2099,61 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်အောင်",
+            "fallenDay": "2021-07-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်သားဖ",
+            "fallenDay": "2021-07-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမောင်မောင်အေး",
+            "fallenDay": "2021-07-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဌေးလွင်",
+            "fallenDay": "2021-07-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-17",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -2111,6 +2232,149 @@
             "fallenPlace": "ကနီမြို့နယ်၊ မဲဒင်းကျေးရွာအနီး ချင်းတွင်းမြစ် အောင်ဖြိုးဦးမော်တော်လှေပေါ်",
             "heroPlace": "ကနီမြို့နယ်၊ ကျောမကြားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့ သံလမ်းဆုံ၊ ဦးအောင်ဇေယျကြေးရုပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခင်မာရီ",
+            "fallenDay": "2021-07-21",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အချုပ်ထဲတွင် ဆေးကုသခွင့်မရပဲ သေဆုံး"
+        },
+        {
+            "heroName": "ဦးသိန်းတင့် (ခ) ဂျစ်လိပ်",
+            "fallenDay": "2021-07-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကွန်ဆိပ်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကွန်ဆိပ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ရဲခန့်",
+            "fallenDay": "2021-07-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းဆက်ဟိဏ်း",
+            "fallenDay": "2021-07-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသော်ဆွေ",
+            "fallenDay": "2021-07-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ထင်ရှား",
+            "fallenDay": "2021-07-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းမင်းဦး",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချောင်းဆုံကျေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ချောင်းဆုံကျေးရွာ",
+            "fallenCause": "လက်ကျန်ဗုံးဆံ ရင်ဘတ်သို့မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ဦးလန်ခန့်ထန်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာယာကုန်းကျေးရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့၊ ထ-၁ ကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးချစ်",
+            "fallenDay": "2021-08-03",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

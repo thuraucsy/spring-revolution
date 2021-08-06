@@ -78,6 +78,28 @@
             "fallenCause": "သေနတ်၊ဗုံးသံကြောင့် လန့်ဖြတ်ကာ နှလုံးရပ်သေဆုံး"
         },
         {
+            "heroName": "ဦးလှဖို",
+            "fallenDay": "2021-07-09",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကနီမြို့နယ်၊ ယင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်ဆွေ",
+            "fallenDay": "2021-07-13",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးတင်အုန်း",
             "fallenDay": "2021-07-16",
             "heroAge": "67",
@@ -87,6 +109,17 @@
             "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းကြိုင်",
+            "fallenDay": "2021-07-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်ထောင်",
+            "heroPlace": "လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်မြို့၊",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကွယ်လွန်"
         }
     ]
 }

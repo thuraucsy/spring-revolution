@@ -263,6 +263,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "မောင်သားဖ",
+            "fallenDay": "2021-07-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

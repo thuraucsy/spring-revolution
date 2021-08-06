@@ -21,6 +21,28 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကြည့်ငိုတောင်သွားရာလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကြည့်ငိုတောင်သွားရာလမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
         }
     ]
 }

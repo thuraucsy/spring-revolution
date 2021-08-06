@@ -98,6 +98,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့ သံလမ်းဆုံ၊ ဦးအောင်ဇေယျကြေးရုပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသိန်းတင့် (ခ) ဂျစ်လိပ်",
+            "fallenDay": "2021-07-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကွန်ဆိပ်ကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကွန်ဆိပ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

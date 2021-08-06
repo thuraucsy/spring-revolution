@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုမိုးကျော်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "မိုးကောင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးကောင်းမြို့နယ်၊ ဆီးဒင်ယန်ကျေးရွာ",
+            "heroPlace": "မိုးကောင်းမြို့နယ်၊ ဆီးဒင်ယန်ကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရဲရင့်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးလန်ခန့်ထန်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာယာကုန်းကျေးရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုမိုးဇော်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံပြည်သူ့ဆေးရုံ",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ဆုံရွာကုန်းကျေးရွာ",
+            "fallenCause": "မန္တလေး နန်းတွင်းစစ်ကြောရေးစခန်းတွင် ရရှိသောနှိပ်စက်ခံဒဏ်ရာများဖြင့် သေဆုံး"
+        }
+    ]
+}

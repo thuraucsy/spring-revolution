@@ -2397,6 +2397,61 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ ရိုက်နှက်ခံရကာ သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဉာဏ်ဝင်း",
+            "fallenDay": "2021-07-20",
+            "heroAge": "79",
+            "heroGender": "m",
+            "fallenCity": "လသာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်ပြည်သူ့ဆေးရုံကြီး",
+            "heroPlace": "ပုဇွန်တောင်မြို့နယ်၊ ၉ရပ်ကွက်၊ ရေကျော်လမ်းမ",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးဝင်းကြိုင်",
+            "fallenDay": "2021-07-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်ထောင်",
+            "heroPlace": "လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်မြို့၊",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကွယ်လွန်"
+        },
+        {
+            "heroName": "မမိုးသူ (ခ) မိုးသူဇာ",
+            "fallenDay": "2021-07-22",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်ထောင်",
+            "heroPlace": "ခရမ်းမြို့နယ်၊ ရန်ကုန်မြို့။",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုမြင့်ဝေ",
+            "fallenDay": "2021-07-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်ထောင်",
+            "heroPlace": "သန်လျင်မြို့နယ်၊ ရန်ကုန်မြို့။",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုထက်ကိုဦး",
+            "fallenDay": "2021-08-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာ အမှတ်(၁) စစ်ကြောရေးစခန်း",
+            "heroPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ၈၅ရပ်ကွက် အထည်ချုပ်ပစ္စည်းဂိုထောင်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

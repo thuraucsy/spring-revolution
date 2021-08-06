@@ -186,6 +186,28 @@
             "fallenPlace": "သီပေါမြို့၊ မြန်မာရပ်ကွက်ရုံးအနီးရှိ လက်ဖက်ရည်ဆိုင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုပြည့်ဖြိုးမောင်",
+            "fallenDay": "2021-07-04",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်း-ရွှေဘိုလမ်း၊ ကုက္ကိုလ်ကုန်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမောင်မောင်အေး",
+            "fallenDay": "2021-07-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

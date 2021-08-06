@@ -309,6 +309,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-07-17",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဌေးလှိုင်ဝင်း",
             "fallenDay": "2021-07-18",
             "heroAge": "20",
@@ -329,6 +340,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Hone Om",
+            "fallenDay": "2021-07-22",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ် ရွှေအောင်သာရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "အငို",
+            "fallenDay": "2021-07-27",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ တာမိုးညဲမြို့၊ နမ့်မောကျေးရွာအုပ်စု၊ နမ့်ဆာကျေးရွာ",
+            "heroPlace": "ကွတ်ခိုင်မြို့နယ်၊ တာမိုးညဲမြို့၊ နမ့်မောကျေးရွာအုပ်စု၊ နမ့်ဆာကျေးရွာ",
+            "fallenCause": "လက်ကျန်ဗုံးဆံမှန်ကာသေဆုံး"
         }
     ]
 }

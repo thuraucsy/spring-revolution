@@ -230,6 +230,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "ဒေါ်ကလယ်",
+            "fallenDay": "2021-07-18",
+            "heroAge": "35",
+            "heroGender": "f",
+            "fallenCity": "ထန်းတပင်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ထန်းတပင်မြို့နယ်၊ ကင်းမွန်ခြံရွာ",
+            "heroPlace": "ထန်းတပင်မြို့နယ်၊ ကင်းမွန်ခြံရွာ",
+            "fallenCause": "ကျည်မှန်၊ နှလုံးသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးဇော်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံပြည်သူ့ဆေးရုံ",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ဆုံရွာကုန်းကျေးရွာ",
+            "fallenCause": "မန္တလေး နန်းတွင်းစစ်ကြောရေးစခန်းတွင် ရရှိသောနှိပ်စက်ခံဒဏ်ရာများဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုမျိုးချစ်",
+            "fallenDay": "2021-08-03",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

@@ -760,7 +760,7 @@
             "fallenCause": "သေနတ်၊ဗုံးသံကြောင့် လန့်ဖြတ်ကာ နှလုံးရပ်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "Makhaw Roi",
             "fallenDay": "2021-07-14",
             "heroAge": "51",
             "heroGender": "f",
@@ -769,6 +769,61 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့် ခမ၇ ၆၁၆ တပ်ရင်းအနီး",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့်ကျေးရွာ",
             "fallenCause": "အဓမ္မပြုကျင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်ကလယ်",
+            "fallenDay": "2021-07-18",
+            "heroAge": "35",
+            "heroGender": "f",
+            "fallenCity": "ထန်းတပင်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ထန်းတပင်မြို့နယ်၊ ကင်းမွန်ခြံရွာ",
+            "heroPlace": "ထန်းတပင်မြို့နယ်၊ ကင်းမွန်ခြံရွာ",
+            "fallenCause": "ကျည်မှန်၊ နှလုံးသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခင်မာရီ",
+            "fallenDay": "2021-07-21",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အချုပ်ထဲတွင် ဆေးကုသခွင့်မရပဲ သေဆုံး"
+        },
+        {
+            "heroName": "မမိုးသူ (ခ) မိုးသူဇာ",
+            "fallenDay": "2021-07-22",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "အင်းစိန်ထောင်",
+            "heroPlace": "ခရမ်းမြို့နယ်၊ ရန်ကုန်မြို့။",
+            "fallenCause": "အင်းစိန်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ ရွှေရသာ နှင့် DENKO ဆီဆိုင်အနီး",
+            "heroPlace": "မြင်းခြံမြို့၊ အမှတ်၁၆ရပ်ကွက်၊  ဘုံဘေချစ်တီးထမင်းဆိုင်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မသူသူဇင်",
+            "fallenDay": "2021-07-27",
+            "heroAge": "25",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာမြတ်မုနိဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန် အလောင်းအားစစ်တပ်မှသိမ်းသွား"
         }
     ]
 }

@@ -208,6 +208,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးလန်ခန့်ထန်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာယာကုန်းကျေးရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုပြေသိန်း",
+            "fallenDay": "2021-08-04",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ကျိုက်မရော",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်မရောအကျဉ်းထောင်",
+            "heroPlace": "ရေးမြိုနယ်",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

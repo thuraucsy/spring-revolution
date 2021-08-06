@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့ သံလမ်းဆုံ၊ ဦးအောင်ဇေယျကြေးရုပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအေးလှ",
+            "fallenDay": "2021-07-19",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ဒိုက်ဦး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ဒိုက်ဦး ကျိုက်စကောအကျဉ်းထောင်",
+            "heroPlace": "ကျောက်တံခါးမြို့နယ်၊ ပဲခူးတိုင်း။",
+            "fallenCause": "အချုပ်ထဲတွင် ညင်းပန်းနှိပ်စက်ခံရကာ ဒဏ်ရာများဖြင့်သေဆုံး"
+        }
+    ]
+}

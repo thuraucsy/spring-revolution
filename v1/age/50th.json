@@ -287,7 +287,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "Makhaw Roi",
             "fallenDay": "2021-07-14",
             "heroAge": "51",
             "heroGender": "f",
@@ -296,6 +296,17 @@
             "fallenPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့် ခမ၇ ၆၁၆ တပ်ရင်းအနီး",
             "heroPlace": "မိုးမောက်မြို့နယ်၊ နွမ်းလန့်ကျေးရွာ",
             "fallenCause": "အဓမ္မပြုကျင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမိုးကျော်",
+            "fallenDay": "2021-07-31",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "မိုးကောင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးကောင်းမြို့နယ်၊ ဆီးဒင်ယန်ကျေးရွာ",
+            "heroPlace": "မိုးကောင်းမြို့နယ်၊ ဆီးဒင်ယန်ကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

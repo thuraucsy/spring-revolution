@@ -1,0 +1,70 @@
+{
+    "items": [
+        {
+            "heroName": "ကိုကောင်းမြတ်သူ",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ ရွှေရသာ နှင့် DENKO ဆီဆိုင်အနီး",
+            "heroPlace": "မြင်းခြံမြို့၊ အမှတ်၁၆ရပ်ကွက်၊  ဘုံဘေချစ်တီးထမင်းဆိုင်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့၊ ရွှေရသာ နှင့် DENKO ဆီဆိုင်အနီး",
+            "heroPlace": "မြင်းခြံမြို့၊ အမှတ်၁၆ရပ်ကွက်၊  ဘုံဘေချစ်တီးထမင်းဆိုင်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မသူသူဇင်",
+            "fallenDay": "2021-07-27",
+            "heroAge": "25",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာမြတ်မုနိဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန် အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊ မဟာမြတ်မုနိဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "မောင်မင်းမင်းဦး",
+            "fallenDay": "2021-07-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချောင်းဆုံကျေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ချောင်းဆုံကျေးရွာ",
+            "fallenCause": "လက်ကျန်ဗုံးဆံ ရင်ဘတ်သို့မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "အငို",
+            "fallenDay": "2021-07-27",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ တာမိုးညဲမြို့၊ နမ့်မောကျေးရွာအုပ်စု၊ နမ့်ဆာကျေးရွာ",
+            "heroPlace": "ကွတ်ခိုင်မြို့နယ်၊ တာမိုးညဲမြို့၊ နမ့်မောကျေးရွာအုပ်စု၊ နမ့်ဆာကျေးရွာ",
+            "fallenCause": "လက်ကျန်ဗုံးဆံမှန်ကာသေဆုံး"
+        }
+    ]
+}

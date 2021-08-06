@@ -12,6 +12,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဆန်းဝင်း",
+            "fallenDay": "2021-07-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလယ်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်ဆွေ",
+            "fallenDay": "2021-07-13",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇွဲကိုကို",
             "fallenDay": "2021-07-16",
             "heroAge": "19",
@@ -21,6 +43,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ခင်မာရီ",
+            "fallenDay": "2021-07-21",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အချုပ်ထဲတွင် ဆေးကုသခွင့်မရပဲ သေဆုံး"
         }
     ]
 }
