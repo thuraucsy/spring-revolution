@@ -10372,6 +10372,17 @@
             "fallenPlace": "ကျိုက်မရောအကျဉ်းထောင်",
             "heroPlace": "ရေးမြိုနယ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "မဂျီနော်ဆန့်",
+            "fallenDay": "2021-08-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မံစီ",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
+            "heroPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
+            "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
         }
     ]
 }
