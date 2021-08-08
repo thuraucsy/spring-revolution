@@ -11593,6 +11593,17 @@
             "fallenPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
             "heroPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
             "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ဒေါက်တာမောင်မောင်ငြိမ်းထွန်း",
+            "fallenDay": "2021-08-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
