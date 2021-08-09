@@ -11604,6 +11604,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "အိုးဘိုထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးမောင်ဌေး",
+            "fallenDay": "2021-08-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံအကျဉ်းထောင်",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ကျွဲခြံကျေးရွာ",
+            "fallenCause": "မြင်းခြံထောင်တွင် ကွယ်လွန်"
         }
     ]
 }
