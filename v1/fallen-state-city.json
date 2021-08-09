@@ -10835,6 +10835,19 @@
                 "heroPlace": "ဓနုဖြူမြို့နယ်၊ ညောင်ချောင်းအုပ်စု၊ ရေလဲချောင်းဖျားကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "မြန်အောင်": [
+            {
+                "heroName": "ကိုဆန်းဝင်း",
+                "fallenDay": "2021-08-08",
+                "heroAge": "21",
+                "heroGender": "m",
+                "fallenCity": "မြန်အောင်",
+                "fallenState": "ဧရာဝတီ",
+                "fallenPlace": "မြန်အောင်ရဲစခန်း",
+                "heroPlace": "မြန်အောင်မြို့နယ်၊ သပြေကုန်းကျေးရွာ",
+                "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            }
         ]
     },
     "ကယား": {
@@ -11959,21 +11972,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
-            }
-        ]
-    },
-    "Unknown": {
-        "Unknown": [
-            {
-                "heroName": "ကိုဘုန်းမြတ်ရဲဝင်း",
-                "fallenDay": "2021-08-09",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "Unknown",
-                "fallenState": "Unknown",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ]
     }
