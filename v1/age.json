@@ -13349,6 +13349,17 @@
             "fallenPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "heroPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဘုန်းမြတ်ရဲဝင်း",
+            "fallenDay": "2021-08-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [
