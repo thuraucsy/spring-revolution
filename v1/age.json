@@ -6890,6 +6890,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ သန်းပေါက်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Pi Ngeih Tling",
+            "fallenDay": "2021-08-10",
+            "heroAge": "60",
+            "heroGender": "f",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
+            "heroPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "62": [
@@ -20535,6 +20546,17 @@
             "fallenPlace": "အင်းစိန်ထောင်",
             "heroPlace": "လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်မြို့၊",
             "fallenCause": "အင်းစိန်ထောင်တွင် ကွယ်လွန်"
+        },
+        {
+            "heroName": "Pi Ngeih Tling",
+            "fallenDay": "2021-08-10",
+            "heroAge": "60",
+            "heroGender": "f",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
+            "heroPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under16": [
