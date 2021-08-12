@@ -1861,6 +1861,17 @@
                 "fallenPlace": "မြင်းခြံအကျဉ်းထောင်",
                 "heroPlace": "မြင်းခြံမြို့နယ်၊ ကျွဲခြံကျေးရွာ",
                 "fallenCause": "မြင်းခြံထောင်တွင် ကွယ်လွန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-08-11",
+                "heroAge": "11 months",
+                "heroGender": "f",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် (၄) ရပ်ကွက်",
+                "heroPlace": "မြင်းခြံမြို့၊ အမှတ် (၄) ရပ်ကွက်",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "သပိတ်ကျင်း": [
