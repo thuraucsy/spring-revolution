@@ -458,9 +458,9 @@
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenPlace": "ထားဝယ်မြို့မရဲစခန်း",
             "heroPlace": "ထားဝယ်မြို့၊ ဒေါင်းငူရပ်ကွက်",
-            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            "fallenCause": "ရဲစခန်းတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

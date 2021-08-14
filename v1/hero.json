@@ -11716,6 +11716,17 @@
             "fallenCause": "ရဲလိုက်ဖမ်းသည့်နောက် ရှောင်ပြေးရင်း ပြုတ်ကျသေဆုံး"
         },
         {
+            "heroName": "ဦးညီညီလတ်",
+            "fallenDay": "2021-08-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ကျီကုန်းကျေးရွာ",
+            "heroPlace": "မြောင်မြို့နယ်၊ ကျီကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-08-11",
             "heroAge": "11 months",
@@ -11727,15 +11738,26 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-08-13",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဝိုင်းမော်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဝိုင်းမော်မြို့၊ ခလ၇ ၅၈ တပ်ရှေ့",
+            "heroPlace": "ဝိုင်းမော်မြို့၊ ဝူယန်ငေါ့ချန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအောင်ယု",
             "fallenDay": "2021-08-14",
             "heroAge": "35",
             "heroGender": "m",
             "fallenCity": "ထားဝယ်",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenPlace": "ထားဝယ်မြို့မရဲစခန်း",
             "heroPlace": "ထားဝယ်မြို့၊ ဒေါင်းငူရပ်ကွက်",
-            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            "fallenCause": "ရဲစခန်းတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }

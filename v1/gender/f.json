@@ -857,6 +857,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ အမှတ် (၄) ရပ်ကွက်",
             "heroPlace": "မြင်းခြံမြို့၊ အမှတ် (၄) ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-13",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဝိုင်းမော်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဝိုင်းမော်မြို့၊ ခလ၇ ၅၈ တပ်ရှေ့",
+            "heroPlace": "ဝိုင်းမော်မြို့၊ ဝူယန်ငေါ့ချန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

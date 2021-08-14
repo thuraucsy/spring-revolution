@@ -428,6 +428,17 @@
             "fallenPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
             "heroPlace": "မံစီမြို့နယ်၊ နမ့်မဖွဲအုပ်စု မိတုန်ကျေးရွာ(Mi Tung Mare)",
             "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-13",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဝိုင်းမော်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဝိုင်းမော်မြို့၊ ခလ၇ ၅၈ တပ်ရှေ့",
+            "heroPlace": "ဝိုင်းမော်မြို့၊ ဝူယန်ငေါ့ချန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
