@@ -11774,5 +11774,18 @@
             "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "​ြ": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-13",
+            "heroAge": "",
+            "heroGender": "​ြ",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }
