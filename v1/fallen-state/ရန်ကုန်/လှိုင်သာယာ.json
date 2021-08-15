@@ -507,15 +507,15 @@
             "fallenCause": "သေနတ်၊ဗုံးသံကြောင့် လန့်ဖြတ်ကာ နှလုံးရပ်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဟန်ဇော်ထွန်း",
             "fallenDay": "2021-08-13",
-            "heroAge": "",
-            "heroGender": "​ြ",
+            "heroAge": "30",
+            "heroGender": "m",
             "fallenCity": "လှိုင်သာယာ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လှိုင်သာယာ (အနောက်ပိုင်း) မြို့နယ်ရှိ အုပ်ချုပ်ရေးမှူးရုံးတခုရှေ့",
+            "heroPlace": "လှိုင်သာယာ (အနောက်ပိုင်း) မြို့နယ်၊ အမှတ် ၂၀ ရပ်ကွက်",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }
