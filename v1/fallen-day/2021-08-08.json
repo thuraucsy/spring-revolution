@@ -21,6 +21,17 @@
             "fallenPlace": "မြန်အောင်ရဲစခန်း",
             "heroPlace": "မြန်အောင်မြို့နယ်၊ သပြေကုန်းကျေးရွာ",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
+            "heroPlace": "",
+            "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }

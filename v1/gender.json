@@ -11784,6 +11784,17 @@
             "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
             "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
+            "heroPlace": "",
+            "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }
