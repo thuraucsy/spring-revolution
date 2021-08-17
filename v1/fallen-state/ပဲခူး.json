@@ -703,6 +703,17 @@
             "fallenPlace": "သဲကုန်းမြို့နယ်၊ ကြို့ရပ်သာကျေးရွာ",
             "heroPlace": "သဲကုန်းမြို့နယ်၊ ကြို့ရပ်သာကျေးရွာ",
             "fallenCause": "ဗုံးပေါက်ကွဲကာ သေဆုံး"
+        },
+        {
+            "heroName": "ဦးညွန့်ရွှေ",
+            "fallenDay": "2021-08-16",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျိုက်ဇကော်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
         }
     ]
 }
