@@ -10,6 +10,28 @@
             "fallenPlace": "ထားဝယ်မြို့မရဲစခန်း",
             "heroPlace": "ထားဝယ်မြို့၊ ဒေါင်းငူရပ်ကွက်",
             "fallenCause": "ရဲစခန်းတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

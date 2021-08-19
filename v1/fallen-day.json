@@ -12082,6 +12082,28 @@
             "fallenPlace": "ထားဝယ်မြို့မရဲစခန်း",
             "heroPlace": "ထားဝယ်မြို့၊ ဒေါင်းငူရပ်ကွက်",
             "fallenCause": "ရဲစခန်းတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-08-16": [
@@ -12121,37 +12143,37 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးချစ်လွင်",
+            "heroName": "ဦးဘိုအောင်",
             "fallenDay": "2021-08-17",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရပြီး အလောင်းအား ချင်းတွင်းမြစ်အတွင်းသို့မျှော"
+        },
+        {
+            "heroName": "ဦးချစ်လွင်",
+            "fallenDay": "2021-08-17",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရပြီး အလောင်းအား ချင်းတွင်းမြစ်အတွင်းသို့မျှော"
         },
         {
             "heroName": "ကိုဖိုးတုတ်",
             "fallenDay": "2021-08-17",
-            "heroAge": "",
+            "heroAge": "26",
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-08-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မင်းကင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရပြီး အလောင်းအား ချင်းတွင်းမြစ်အတွင်းသို့မျှော"
         }
     ],
     "2021-08-18": [

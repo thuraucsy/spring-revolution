@@ -4775,6 +4775,28 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်မျိုးမြင့်",
             "fallenDay": "2021-08-17",
             "heroAge": "",
@@ -4795,39 +4817,6 @@
             "fallenPlace": "မင်းကင်းမြို့၊ ချင်းတွင်းမြစ်အနီး စက်လှအသင်းရုံးရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ဦးချစ်လွင်",
-            "fallenDay": "2021-08-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မင်းကင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "ကိုဖိုးတုတ်",
-            "fallenDay": "2021-08-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မင်းကင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-08-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မင်းကင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

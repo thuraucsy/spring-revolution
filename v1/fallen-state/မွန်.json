@@ -197,6 +197,28 @@
             "fallenPlace": "ကျိုက်မရောအကျဉ်းထောင်",
             "heroPlace": "ရေးမြိုနယ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

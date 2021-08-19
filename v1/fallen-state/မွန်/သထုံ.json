@@ -21,6 +21,28 @@
             "fallenPlace": "သထုံမြို့နယ်၊ ဆင်ဖြူကျွန်းရွာ",
             "heroPlace": "သထုံမြို့နယ်၊ ဆင်ဖြူကျွန်းရွာ",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပဒိန် အထက်တန်းကျောင်းရှေ့",
+            "heroPlace": "သထုံမြို့နယ်၊ မိုးကောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
