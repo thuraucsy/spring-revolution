@@ -4817,6 +4817,17 @@
             "fallenPlace": "မင်းကင်းမြို့၊ ချင်းတွင်းမြစ်အနီး စက်လှအသင်းရုံးရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ]
 }
