@@ -56,15 +56,48 @@
             "fallenCause": "အချုပ်ထဲတွင် ဆေးကုသခွင့်မရပဲ သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဇော်မျိုးမြင့်",
             "fallenDay": "2021-08-17",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့ရှိ ဆိပ်ကမ်း",
-            "heroPlace": "",
+            "fallenPlace": "မင်းကင်းမြို့၊ ချင်းတွင်းမြစ်အနီး စက်လှအသင်းရုံးရှေ့",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ကျွန်းတော်ရွာအနောက်ဖက်",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မဇင်မာဝင်း",
+            "fallenDay": "2021-08-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့၊ ချင်းတွင်းမြစ်အနီး စက်လှအသင်းရုံးရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးချစ်လွင်",
+            "fallenDay": "2021-08-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဖိုးတုတ်",
+            "fallenDay": "2021-08-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",
@@ -73,9 +106,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့ရှိ ဆိပ်ကမ်း",
+            "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": ""
         }
     ]
 }

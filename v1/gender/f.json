@@ -868,6 +868,17 @@
             "fallenPlace": "ဝိုင်းမော်မြို့၊ ခလ၇ ၅၈ တပ်ရှေ့",
             "heroPlace": "ဝိုင်းမော်မြို့၊ ဝူယန်ငေါ့ချန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဇင်မာဝင်း",
+            "fallenDay": "2021-08-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့၊ ချင်းတွင်းမြစ်အနီး စက်လှအသင်းရုံးရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
