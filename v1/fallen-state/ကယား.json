@@ -483,6 +483,17 @@
             "fallenPlace": "စစ်ဘေးရှောင်တောတွင်းတနေရာ",
             "heroPlace": "",
             "fallenCause": "စစ်ဘေးရှောင်ရင်း ဆေးမကုသနိုင်သဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်မြတ်",
+            "fallenDay": "2021-08-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

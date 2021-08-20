@@ -274,6 +274,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းသူ",
+            "fallenDay": "2021-08-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "Unkown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

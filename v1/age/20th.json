@@ -2540,6 +2540,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ ကျောက်ခဲတက်ကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရပြီး အလောင်းအား ချင်းတွင်းမြစ်အတွင်းသို့မျှော"
+        },
+        {
+            "heroName": "ကိုမင်းသူ",
+            "fallenDay": "2021-08-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "Unkown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

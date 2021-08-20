@@ -11586,6 +11586,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "Unkown": [
+            {
+                "heroName": "ကိုကျော်မြတ်",
+                "fallenDay": "2021-08-19",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unkown",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
         ]
     },
     "ကရင်": {
@@ -12229,6 +12242,21 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            }
+        ]
+    },
+    "Unkown": {
+        "Unkown": [
+            {
+                "heroName": "ကိုမင်းသူ",
+                "fallenDay": "2021-08-18",
+                "heroAge": "22",
+                "heroGender": "m",
+                "fallenCity": "Unkown",
+                "fallenState": "Unkown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     }

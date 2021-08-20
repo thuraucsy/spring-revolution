@@ -10605,6 +10605,17 @@
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         },
         {
+            "heroName": "ကိုမင်းသူ",
+            "fallenDay": "2021-08-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "Unkown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-08-19",
             "heroAge": "",
@@ -10614,6 +10625,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မြတ်",
+            "fallenDay": "2021-08-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [

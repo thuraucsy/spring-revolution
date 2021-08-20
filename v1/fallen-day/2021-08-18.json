@@ -10,6 +10,17 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်စစ်ကြောရေး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဇီးပင်ကန်အုပ်စု၊ ကျောက်ကန်ရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုမင်းသူ",
+            "fallenDay": "2021-08-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "Unkown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

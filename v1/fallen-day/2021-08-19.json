@@ -10,6 +10,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မြတ်",
+            "fallenDay": "2021-08-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
