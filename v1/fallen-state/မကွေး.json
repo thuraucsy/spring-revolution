@@ -557,9 +557,9 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }

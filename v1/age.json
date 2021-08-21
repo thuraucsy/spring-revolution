@@ -7143,9 +7143,9 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ],
     "79": [
@@ -13679,6 +13679,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နမ့်ဆန်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "နမ့်ဆန်မြို့၊ ထွေအုပ်ရုံးအနီးရှိ စားသောက်ဆိုင်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုပိုင်",
@@ -21328,9 +21339,9 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ],
     "0th": [
