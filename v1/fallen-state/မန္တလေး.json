@@ -2595,6 +2595,28 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်စစ်ကြောရေး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဇီးပင်ကန်အုပ်စု၊ ကျောက်ကန်ရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

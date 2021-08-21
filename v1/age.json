@@ -1365,6 +1365,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ အင်ပင်လှကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလင်းလင်းထွန်း",
+            "fallenDay": "2021-08-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းနှင့် ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "20": [
@@ -7124,6 +7135,17 @@
             "fallenPlace": "ဒိုက်ဦး ကျိုက်စကောအကျဉ်းထောင်",
             "heroPlace": "ကျောက်တံခါးမြို့နယ်၊ ပဲခူးတိုင်း။",
             "fallenCause": "အချုပ်ထဲတွင် ညင်းပန်းနှိပ်စက်ခံရကာ ဒဏ်ရာများဖြင့်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးကံထောက်",
+            "fallenDay": "2021-08-21",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "79": [
@@ -13648,17 +13670,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-08-19",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေပြည်သာ",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
-        },
-        {
             "heroName": "ကိုကျော်မြတ်",
             "fallenDay": "2021-08-19",
             "heroAge": "",
@@ -13679,6 +13690,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -15023,6 +15056,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလင်းလင်းထွန်း",
+            "fallenDay": "2021-08-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းနှင့် ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "10th": [
@@ -16312,6 +16356,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလင်းလင်းထွန်း",
+            "fallenDay": "2021-08-19",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းနှင့် ဝမ်းဗိုက်သို့ကျည်မှန်"
         }
     ],
     "under18": [
@@ -21265,6 +21320,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျိုက်ဇကော်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးကံထောက်",
+            "fallenDay": "2021-08-21",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "0th": [

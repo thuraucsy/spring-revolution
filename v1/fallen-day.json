@@ -12202,15 +12202,15 @@
     ],
     "2021-08-19": [
         {
-            "heroName": "",
+            "heroName": "ကိုလင်းလင်းထွန်း",
             "fallenDay": "2021-08-19",
-            "heroAge": "",
+            "heroAge": "19",
             "heroGender": "m",
             "fallenCity": "ရွှေပြည်သာ",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "heroPlace": "ရွှေပြည်သာမြို့နယ်၊ ဒ/၁၇ ရပ်ကွက်၊ တော်ဝင်ပိတောက် အဆောင်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းနှင့် ဝမ်းဗိုက်သို့ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်မြတ်",
@@ -12232,6 +12232,41 @@
             "heroGender": "m",
             "fallenCity": "Unkown",
             "fallenState": "Unkown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2021-08-21": [
+        {
+            "heroName": "ဦးကံထောက်",
+            "fallenDay": "2021-08-21",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""

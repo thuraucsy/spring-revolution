@@ -549,6 +549,17 @@
             "fallenPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "heroPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကံထောက်",
+            "fallenDay": "2021-08-21",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
