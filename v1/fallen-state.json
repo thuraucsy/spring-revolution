@@ -6952,6 +6952,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-08-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်လံ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "အောင်လံမြို့၊ ကာကွယ်ရေးပစ္စည်းစက်ရုံ (၁၅)",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးကံထောက်",
             "fallenDay": "2021-08-21",
             "heroAge": "72",
@@ -6961,6 +6972,17 @@
             "fallenPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြိနယ်၊ နှမ်းထောက်ကျေးရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "မွန်": [
@@ -9646,7 +9668,7 @@
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့၊ ကန်သာယာကျေးရွာအနီး",
+            "fallenPlace": "ခင်ဦးမြို့၊ ကန်သာယာကျေးရွာ၊ တံတားလိန်အနီး",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
@@ -9657,7 +9679,7 @@
             "heroGender": "f",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့၊ ကန်သာယာကျေးရွာအနီး",
+            "fallenPlace": "ခင်ဦးမြို့၊ ကန်သာယာကျေးရွာ၊ တံတားလိန်အနီး",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
