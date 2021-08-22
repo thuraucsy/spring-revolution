@@ -1418,6 +1418,28 @@
             "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို ၊ မဟာအောင်မြေမြို့နယ်၊ လမ်း၆၀နဲ့ ၆၁လမ်းကြား ၃၆လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို ၊ မဟာအောင်မြေမြို့နယ်၊ လမ်း၆၀နဲ့ ၆၁လမ်းကြား ၃၆လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
