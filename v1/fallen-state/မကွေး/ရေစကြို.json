@@ -1,14 +1,14 @@
 {
     "items": [
         {
-            "heroName": "",
+            "heroName": "ကိုချစ်ရဲရင့်",
             "fallenDay": "2021-08-22",
-            "heroAge": "",
+            "heroAge": "21",
             "heroGender": "m",
             "fallenCity": "ရေစကြို",
             "fallenState": "မကွေး",
-            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
-            "heroPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဟင်္သာကျေးရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ ဟင်္သာကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

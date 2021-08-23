@@ -109,6 +109,17 @@
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

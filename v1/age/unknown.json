@@ -4889,10 +4889,10 @@
             "fallenDay": "2021-08-22",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ရေစကြို",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
-            "heroPlace": "ရေစကြိုမြို့နယ်၊ ဟင်းသာကျေးရွာ",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို ၊ မဟာအောင်မြေမြို့နယ်၊ လမ်း၆၀နဲ့ ၆၁လမ်းကြား ၃၆လမ်း",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -4911,9 +4911,20 @@
             "fallenDay": "2021-08-22",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မန္တလေး",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို ၊ မဟာအောင်မြေမြို့နယ်၊ လမ်း၆၀နဲ့ ၆၁လမ်းကြား ၃၆လမ်း",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့၊ သပြေချောင်းကျေးရွာ (၄၀၁) (၄၀၂) ခြေမြန်တပ်ရင်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့၊ သပြေချောင်းကျေးရွာ (၄၀၁) (၄၀၂) ခြေမြန်တပ်ရင်းအနီး",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }

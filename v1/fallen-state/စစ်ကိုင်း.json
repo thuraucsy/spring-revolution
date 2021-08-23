@@ -2474,6 +2474,17 @@
             "fallenPlace": "ခင်ဦးမြို့၊ ကန်သာယာကျေးရွာ၊ တံတားလိန်အနီး",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
