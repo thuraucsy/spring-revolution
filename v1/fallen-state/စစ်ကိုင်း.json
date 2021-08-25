@@ -2485,6 +2485,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသက်ပိုင်စိုး",
+            "fallenDay": "2021-08-25",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မုံရွာမြို့၊ သလ္လာရပ်ကွက်",
+            "fallenCause": "Aug-24 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Aug-25 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
         }
     ]
 }

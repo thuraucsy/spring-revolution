@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "",
-            "fallenDay": "2021-08-24",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တနိုင်း",
-            "fallenState": "ကချင်",
-            "fallenPlace": "တနိုင်းမြို့နယ်၊ နမ်ဗျူချောင်းအနီး",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ကိုမင်းအောင်",
             "fallenDay": "2021-08-24",
             "heroAge": "",
