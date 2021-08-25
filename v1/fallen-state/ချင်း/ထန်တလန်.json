@@ -3,13 +3,13 @@
         {
             "heroName": "မောင်ဗန်ဘွေထန်",
             "fallenDay": "2021-08-26",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "10",
+            "heroGender": "m",
             "fallenCity": "ထန်တလန်",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

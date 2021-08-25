@@ -10823,6 +10823,17 @@
             "fallenPlace": "",
             "heroPlace": "မုံရွာမြို့၊ သလ္လာရပ်ကွက်",
             "fallenCause": "Aug-24 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Aug-25 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "မောင်ဗန်ဘွေထန်",
+            "fallenDay": "2021-08-26",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
+            "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -12114,17 +12125,6 @@
             "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
-        },
-        {
-            "heroName": "မောင်ဗန်ဘွေထန်",
-            "fallenDay": "2021-08-26",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ထန်တလန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
-            "fallenCause": ""
         }
     ]
 }

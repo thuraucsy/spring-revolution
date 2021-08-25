@@ -395,17 +395,6 @@
             "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
-        },
-        {
-            "heroName": "မောင်ဗန်ဘွေထန်",
-            "fallenDay": "2021-08-26",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ထန်တလန်",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
-            "fallenCause": ""
         }
     ]
 }
