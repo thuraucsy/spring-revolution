@@ -4949,6 +4949,17 @@
             "fallenPlace": "ခရမ်းမြို့နယ် ရဲစခန်းရှေ့",
             "heroPlace": "ခရမ်းမြို့နယ်၊ အမှတ် ၈ ရပ်ကွက်",
             "fallenCause": "သေနတ်ပစ်ခံရပြီး ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
