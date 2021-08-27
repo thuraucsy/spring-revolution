@@ -945,6 +945,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "အိုးဘိုထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးသိန်းမင်းထွန်း (ခ) ဦးဖာရွတ်",
+            "fallenDay": "2021-08-26",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

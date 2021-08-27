@@ -6231,6 +6231,17 @@
             "fallenPlace": "",
             "heroPlace": "တောင်ဒဂုံမြို့နယ်၊ ၅၆ ရပ်ကွက်",
             "fallenCause": "May 14 တွင်စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဦးသိန်းမင်းထွန်း (ခ) ဦးဖာရွတ်",
+            "fallenDay": "2021-08-26",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "43": [
@@ -13923,17 +13934,6 @@
             "fallenPlace": "ခရမ်းမြို့နယ် ရဲစခန်းရှေ့",
             "heroPlace": "ခရမ်းမြို့နယ်၊ အမှတ် ၈ ရပ်ကွက်",
             "fallenCause": "သေနတ်ပစ်ခံရပြီး ရိုက်နှက်ခံရကာသေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-08-26",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -18243,6 +18243,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "အိုးဘိုထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးသိန်းမင်းထွန်း (ခ) ဦးဖာရွတ်",
+            "fallenDay": "2021-08-26",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20th": [
