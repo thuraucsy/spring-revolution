@@ -10867,6 +10867,28 @@
             "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ တောင်လေးလုံးကျေးရွာအနီး ညောင်ရွှေအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုလွင်မိုး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ],
     "f": [
@@ -12158,17 +12180,6 @@
             "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

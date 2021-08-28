@@ -12482,15 +12482,26 @@
             "fallenCause": "ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုလွင်မိုး",
             "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "25",
+            "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }
