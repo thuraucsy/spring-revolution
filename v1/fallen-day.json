@@ -12514,5 +12514,18 @@
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
         }
+    ],
+    "2021-08-28": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝိုင်းမော်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဝိုင်းမော်မြို့နယ်၊ ခလ၇(၅၈)တပ်ရင်းနောက်ဘက်ခြမ်းနှင့်  မဒိန်ကျေးရွာကြား၊ ကဝါးခချောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
