@@ -2906,6 +2906,17 @@
             "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလွင်မိုး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "25": [
@@ -4315,6 +4326,39 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်စစ်ကြောရေး",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ဇီးပင်ကန်အုပ်စု၊ ကျောက်ကန်ရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းလေး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းဇာ",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်လင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -6523,6 +6567,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "အိုးဘိုထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးဖိုးကြီး (ခ) ဦးမောင်ကြီး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "46": [
@@ -9014,6 +9069,39 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းအုပ်စု၊ ဂုဏ်တန်ကျေးရွာ သင်္ချိုင်းကုန်း",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းအုပ်စု၊ ဂုဏ်တန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းလေး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းဇာ",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်လင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -13980,61 +14068,6 @@
             "fallenCause": "ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
         },
         {
-            "heroName": "ကိုလွင်မိုး",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုဇော်မင်းလေး",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုဟိန်းဇာ",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုကျော်နိုင်လင်း",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ဦးဖိုးကြီး",
-            "fallenDay": "2021-08-27",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ကိုပူစီ",
             "fallenDay": "2021-08-27",
             "heroAge": "",
@@ -18377,6 +18410,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဖိုးကြီး (ခ) ဦးမောင်ကြီး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-08-27",
             "heroAge": "40",
@@ -20973,6 +21017,17 @@
             "fallenPlace": "",
             "heroPlace": "မုံရွာမြို့၊ သလ္လာရပ်ကွက်",
             "fallenCause": "Aug-24 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Aug-25 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "ကိုလွင်မိုး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [

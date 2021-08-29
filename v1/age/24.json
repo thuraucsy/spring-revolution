@@ -197,6 +197,17 @@
             "fallenPlace": "ကလေးမြို့ တောင်ဖီလာရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလွင်မိုး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

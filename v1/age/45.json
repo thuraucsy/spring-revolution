@@ -65,6 +65,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "အိုးဘိုထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဦးဖိုးကြီး (ခ) ဦးမောင်ကြီး",
+            "fallenDay": "2021-08-27",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
