@@ -12582,5 +12582,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-08-30": [
+        {
+            "heroName": "ဦးနေဝင်း",
+            "fallenDay": "2021-08-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊",
+            "heroPlace": "မန္တလေးမြို့၊ တောင်ရွာသစ်ရပ်၊ အကွက် ၈၅၃",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }

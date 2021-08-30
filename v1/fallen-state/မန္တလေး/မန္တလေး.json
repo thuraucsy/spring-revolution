@@ -1440,6 +1440,17 @@
             "fallenPlace": "မန္တလေးမြို ၊ မဟာအောင်မြေမြို့နယ်၊ လမ်း၆၀နဲ့ ၆၁လမ်းကြား ၃၆လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးနေဝင်း",
+            "fallenDay": "2021-08-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့၊",
+            "heroPlace": "မန္တလေးမြို့၊ တောင်ရွာသစ်ရပ်၊ အကွက် ၈၅၃",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
