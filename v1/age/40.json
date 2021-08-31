@@ -296,6 +296,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဦးကျော်ဇင်မျိုး (ခ) ဦးဓါတ်ဗူး",
+            "fallenDay": "2021-08-30",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ သဲဖြူ၀ရွာအရှေ့ဘက်နှင့် ရွာစည်သင်္ချိုင်းကုန်း ကြား",
+            "heroPlace": "မြင်းခြံမြိုနယ်၊ သဲဖြူ၀ရွာမ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
