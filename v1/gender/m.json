@@ -11010,6 +11010,17 @@
             "fallenPlace": "မြစ်ကြီးနားမြို့၊မြ၀တီဘဏ်အနီး",
             "heroPlace": "မြစ်ကြီးနားမြို့၊ မြို့သစ်ကြီးကွက်သစ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

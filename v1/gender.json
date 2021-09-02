@@ -11010,6 +11010,17 @@
             "fallenPlace": "မြစ်ကြီးနားမြို့၊မြ၀တီဘဏ်အနီး",
             "heroPlace": "မြစ်ကြီးနားမြို့၊ မြို့သစ်ကြီးကွက်သစ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [
@@ -12301,6 +12312,28 @@
             "fallenPlace": "မန္တလေး အိုးဘိုထောင်",
             "heroPlace": "",
             "fallenCause": "ထောင်ထဲတွင် ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

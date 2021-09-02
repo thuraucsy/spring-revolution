@@ -7195,6 +7195,39 @@
                 "fallenPlace": "ပေါက်မြို့နယ်၊ ကြည့်ငိုတောင်သွားရာလမ်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "မြေမြှုပ်မိုင်းနင်းမိ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-08-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-09-01",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-09-01",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "ဆော": [
