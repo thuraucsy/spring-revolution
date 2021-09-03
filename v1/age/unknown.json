@@ -5037,6 +5037,28 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ တံတားဖြူမှတ်တိုင်အနီး၊ ညောင်တုန်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်မျိုး",
+            "fallenDay": "2021-09-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ လုံးတော်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }

@@ -5791,6 +5791,17 @@
             "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ တံတားဖြူမှတ်တိုင်အနီး၊ ညောင်တုန်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ပဲခူး": [
@@ -9946,6 +9957,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုနိုင်မျိုး",
+            "fallenDay": "2021-09-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ လုံးတော်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ],
     "ရှမ်း": [

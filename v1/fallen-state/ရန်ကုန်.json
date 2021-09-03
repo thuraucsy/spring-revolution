@@ -2573,6 +2573,17 @@
             "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ တံတားဖြူမှတ်တိုင်အနီး၊ ညောင်တုန်းလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

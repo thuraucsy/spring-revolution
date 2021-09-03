@@ -2584,6 +2584,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုနိုင်မျိုး",
+            "fallenDay": "2021-09-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ လုံးတော်ကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }
