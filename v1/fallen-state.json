@@ -9935,6 +9935,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသန်းဌေး",
+            "fallenDay": "2021-09-01",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "ရှမ်း": [
@@ -12341,6 +12352,17 @@
             "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလိန်းတမ်",
+            "fallenDay": "2021-09-03",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",

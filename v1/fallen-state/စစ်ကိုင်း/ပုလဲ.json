@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသန်းဌေး",
+            "fallenDay": "2021-09-01",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

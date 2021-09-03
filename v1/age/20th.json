@@ -2606,6 +2606,17 @@
             "fallenPlace": "ပေါင်မြို့နယ်၊  ကတိုက်ကျေးရွာ၊  အောင်သစ္စာအောင်မေတ္တာရပ်",
             "heroPlace": "ပေါင်မြို့နယ်၊  ကတိုက်ကျေးရွာ၊  အောင်သစ္စာအောင်မေတ္တာရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလိန်းတမ်",
+            "fallenDay": "2021-09-03",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }

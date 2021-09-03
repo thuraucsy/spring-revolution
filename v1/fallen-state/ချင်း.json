@@ -560,6 +560,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလိန်းတမ်",
+            "fallenDay": "2021-09-03",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }
