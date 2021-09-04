@@ -6816,6 +6816,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုသန်းတိုးအောင်",
+                "fallenDay": "2021-09-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပွင့်ဖြူ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပွင့်ဖြူမြို့နယ်၊ မုန်းချောင်းအနီး",
+                "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းစုကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ထီးလင်း": [
