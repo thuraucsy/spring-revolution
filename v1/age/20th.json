@@ -2617,6 +2617,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုခိုင်ဇော်",
+            "fallenDay": "2021-09-04",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ အင်တောကျေးရွာနဲ့ ပုဏ္ဏကားကျေးရွာအကြား",
+            "heroPlace": "ရေဦးမြို့နယ်၊ ဖန်းကားစင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
