@@ -12745,6 +12745,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ဗုံးမှန်"
+            },
+            {
+                "heroName": "ဆလိုင်းလျန်ထာထန်း",
+                "fallenDay": "2021-09-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထန်တလန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     },
