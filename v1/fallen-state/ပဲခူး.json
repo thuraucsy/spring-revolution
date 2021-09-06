@@ -714,6 +714,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျိုက်ဇကော်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုဇော်လင်းထက်",
+            "fallenDay": "2021-09-06",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပြည်မြို့ ၊ကျောင်းကြီးအိုးတန်းရပ်ကွက်",
+            "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွားကာ ရိုက်နှက်ခံရကာသေဆုံး"
         }
     ]
 }
