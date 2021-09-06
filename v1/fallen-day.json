@@ -12779,5 +12779,18 @@
             "heroPlace": "ရေဦးမြို့နယ်၊ ဖန်းကားစင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-09-05": [
+        {
+            "heroName": "ကိုခင်ဇော်",
+            "fallenDay": "2021-09-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ၅၅မိုင်ရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
