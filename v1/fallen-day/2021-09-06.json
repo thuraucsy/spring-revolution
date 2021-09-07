@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "ပြည်မြို့ ၊ကျောင်းကြီးအိုးတန်းရပ်ကွက်",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွားကာ ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံးကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံကိုးမြို့နယ်၊ ဖောင်းဆိုင်ကျေးရွ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
