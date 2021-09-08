@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "heroName": "ဦးဝင်းအောင်",
+            "fallenDay": "2021-09-07",
+            "heroAge": "48",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ အရှေ့စည်းရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုရှိုင်း ဝဏ္ဏအောင်",
+            "fallenDay": "2021-09-07",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ အရှေ့စည်းရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "မဂျာဇင်းတာ",
             "fallenDay": "2021-09-07",
             "heroAge": "8",
