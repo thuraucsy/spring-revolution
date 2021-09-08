@@ -980,6 +980,17 @@
             "fallenCause": "ဗုံးမှန်"
         },
         {
+            "heroName": "ဦးစိုးနိုင်ဝင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးကျော်ဇင်မျိုး (ခ) ဦးဓါတ်ဗူး",
             "fallenDay": "2021-08-30",
             "heroAge": "40",

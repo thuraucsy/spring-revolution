@@ -4984,6 +4984,39 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးညွန့်ရွှေ",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးနေဝင်း",
             "fallenDay": "2021-08-30",
             "heroAge": "",
@@ -5015,28 +5048,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -5147,6 +5158,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ]
 }

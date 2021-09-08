@@ -4860,6 +4860,17 @@
             "fallenPlace": "ဝိုင်းမော်မြို့၊ ခလ၇ ၅၈ တပ်ရှေ့",
             "heroPlace": "ဝိုင်းမော်မြို့၊ ဝူယန်ငေါ့ချန်းရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုညိုသန်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "34": [
@@ -5651,6 +5662,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ် ဆိပ်ခွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "39": [
@@ -6690,6 +6712,17 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "heroPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ဦးစိုးနိုင်ဝင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "47": [
@@ -9191,6 +9224,28 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုညိုသန်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -14200,6 +14255,39 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးညွန့်ရွှေ",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးနေဝင်း",
             "fallenDay": "2021-08-30",
             "heroAge": "",
@@ -14231,28 +14319,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -14363,6 +14429,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ],
     "under20": [
@@ -18705,6 +18782,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဦးစိုးနိုင်ဝင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးကျော်ဇင်မျိုး (ခ) ဦးဓါတ်ဗူး",

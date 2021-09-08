@@ -10,6 +10,39 @@
             "fallenPlace": "ဝိုင်းမော်မြို့နယ်၊ ခလ၇(၅၈)တပ်ရင်းနောက်ဘက်ခြမ်းနှင့်  မဒိန်ကျေးရွာကြား၊ ကဝါးခချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးညွန့်ရွှေ",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

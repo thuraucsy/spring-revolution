@@ -398,25 +398,14 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-01",
+            "fallenDay": "2021-09-07",
             "heroAge": "",
             "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ]
 }

@@ -12244,6 +12244,39 @@
             "fallenCause": "ဗုံးမှန်"
         },
         {
+            "heroName": "ကိုညိုသန်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစိုးနိုင်ဝင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းမင်း",
+            "fallenDay": "2021-08-27",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဒိန်းကွင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-08-28",
             "heroAge": "",
@@ -12253,6 +12286,39 @@
             "fallenPlace": "ဝိုင်းမော်မြို့နယ်၊ ခလ၇(၅၈)တပ်ရင်းနောက်ဘက်ခြမ်းနှင့်  မဒိန်ကျေးရွာကြား၊ ကဝါးခချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးညွန့်ရွှေ",
+            "fallenDay": "2021-08-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးနေဝင်း",
@@ -12308,28 +12374,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "heroPlace": "ပေါက်မြို့နယ်၊ ကင်းမကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -12506,6 +12550,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ]
 }
