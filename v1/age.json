@@ -64,6 +64,19 @@
             "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
         }
     ],
+    "8": [
+        {
+            "heroName": "မဂျာဇင်းတာ",
+            "fallenDay": "2021-09-07",
+            "heroAge": "8",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
+        }
+    ],
     "10": [
         {
             "heroName": "မောင်ဗန်ဘွေထန်",
@@ -14398,48 +14411,92 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးအို",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြင့်နိုင်လင်း",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုသန်းမြင့်ထွေး",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-07",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဒီးမော့ဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -15817,6 +15874,17 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဂျာဇင်းတာ",
+            "fallenDay": "2021-09-07",
+            "heroAge": "8",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ],
     "10th": [
@@ -17801,6 +17869,17 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဂျာဇင်းတာ",
+            "fallenDay": "2021-09-07",
+            "heroAge": "8",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ],
     "40th": [
@@ -22211,6 +22290,17 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မဂျာဇင်းတာ",
+            "fallenDay": "2021-09-07",
+            "heroAge": "8",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ],
     "70th": [
@@ -22336,6 +22426,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
+        },
+        {
+            "heroName": "မဂျာဇင်းတာ",
+            "fallenDay": "2021-09-07",
+            "heroAge": "8",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
+            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ],
     "80th": [

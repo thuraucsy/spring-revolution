@@ -398,14 +398,25 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "",
-            "fallenCity": "ဒီးမော့ဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

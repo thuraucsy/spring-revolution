@@ -12859,51 +12859,106 @@
             "fallenPlace": "မုံကိုးမြို့နယ်၊ ဖောင်းဆိုင်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        }
-    ],
-    "2021-09-07": [
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးအို",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြင့်နိုင်လင်း",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
         {
             "heroName": "ကိုသန်းမြင့်ထွေး",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
-            "fallenDay": "2021-09-07",
+            "fallenDay": "2021-09-06",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
-        },
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2021-09-07": [
         {
-            "heroName": "",
+            "heroName": "မဂျာဇင်းတာ",
             "fallenDay": "2021-09-07",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "8",
+            "heroGender": "f",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
             "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
         }
     ]
