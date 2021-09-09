@@ -32,6 +32,28 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေအိုးရကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးနယ်မြေရဲစခန်းရှေ့",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးစံပြကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးနယ်မြေရဲစခန်းရှေ့",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးစံပြကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
