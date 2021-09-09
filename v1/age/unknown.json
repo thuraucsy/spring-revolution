@@ -5213,17 +5213,6 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုငမိုး",
-            "fallenDay": "2021-09-08",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တောင်သာ",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "တောင်သာမြို့နယ်၊ ဘုရားလှရွာထိပ်",
-            "heroPlace": "တောင်သာမြို့နယ်၊ ဘုရားလှရွာ",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
