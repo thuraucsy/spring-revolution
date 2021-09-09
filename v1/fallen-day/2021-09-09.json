@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကိုအောင်သန်းဦး",
-            "fallenDay": "2021-05-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဘော်လခဲ",
-            "fallenState": "ကယား",
-            "fallenPlace": "ဘော်လခဲမြို့၊ စုပေါင်းဂိတ်အနီး",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-09-09",
             "heroAge": "",

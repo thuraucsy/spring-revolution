@@ -5213,6 +5213,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဘော်လခဲ",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဘော်လခဲမြို့နယ်၊ နန်းဖဲကျေးရွာ",
+            "heroPlace": "ဘော်လခဲမြို့နယ်၊ နန်းဖဲကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးထိမှန်"
         }
     ]
 }
