@@ -327,17 +327,6 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်နိုင်မျိုးထွန်း",
-            "fallenDay": "2021-09-09",
-            "heroAge": "15",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
         }
     ],
     "16": [
@@ -493,6 +482,17 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ် ၄၇ လမ်းနဲ့ ၄၈ လမ်းကြား၊ ၁၂၇ လမ်းနဲ့ ၁၂၈ လမ်းကြား",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-09",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -16098,7 +16098,7 @@
         {
             "heroName": "မောင်နိုင်မျိုးထွန်း",
             "fallenDay": "2021-09-09",
-            "heroAge": "15",
+            "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -17464,7 +17464,7 @@
         {
             "heroName": "မောင်နိုင်မျိုးထွန်း",
             "fallenDay": "2021-09-09",
-            "heroAge": "15",
+            "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -18159,7 +18159,7 @@
         {
             "heroName": "မောင်နိုင်မျိုးထွန်း",
             "fallenDay": "2021-09-09",
-            "heroAge": "15",
+            "heroAge": "16",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -22645,17 +22645,6 @@
         },
         {
             "heroName": "မောင်ငြိမ်းစည်သူ",
-            "fallenDay": "2021-09-09",
-            "heroAge": "15",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်နိုင်မျိုးထွန်း",
             "fallenDay": "2021-09-09",
             "heroAge": "15",
             "heroGender": "m",
