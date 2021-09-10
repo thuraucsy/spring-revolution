@@ -7034,7 +7034,7 @@
             "fallenDay": "2021-05-02",
             "heroAge": "20",
             "heroGender": "m",
-            "fallenCity": "ထားဝယ်",
+            "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့၊ လောင်းလုံးမြို့နယ်၊ မင်းရပ်",
@@ -11401,7 +11401,7 @@
             "fallenDay": "2021-09-10",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ထားဝယ်",
+            "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
             "heroPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
@@ -12041,7 +12041,7 @@
             "fallenDay": "2021-05-29",
             "heroAge": "29",
             "heroGender": "f",
-            "fallenCity": "ထားဝယ်",
+            "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "heroPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
@@ -12052,7 +12052,7 @@
             "fallenDay": "2021-05-29",
             "heroAge": "46",
             "heroGender": "f",
-            "fallenCity": "ထားဝယ်",
+            "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
             "heroPlace": "လောင်းလုံးမြို့နယ် သဘော့ဆိပ်ကျေးရွာအုပ်စု (ချောင်း၀ပြင်ရွာ)",
@@ -12354,6 +12354,17 @@
             "fallenPlace": "ဘော်လခဲမြို့နယ်၊ နန်းဖဲကျေးရွာ",
             "heroPlace": "ဘော်လခဲမြို့နယ်၊ နန်းဖဲကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးထိမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-10",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [

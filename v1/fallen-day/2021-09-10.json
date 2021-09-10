@@ -5,10 +5,21 @@
             "fallenDay": "2021-09-10",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ထားဝယ်",
+            "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
             "heroPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-10",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ]

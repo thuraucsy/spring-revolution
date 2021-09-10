@@ -1451,6 +1451,17 @@
             "fallenPlace": "",
             "heroPlace": "မန္တလေးမြို့၊ တောင်ရွာသစ်ရပ်၊ အကွက် ၈၅၃",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-10",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
