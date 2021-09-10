@@ -670,6 +670,17 @@
             "fallenPlace": "ပွင့်ဖြူမြို့နယ်၊ မုန်းချောင်းအနီး",
             "heroPlace": "ပွင့်ဖြူမြို့နယ်၊ ကျောင်းစုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးစံပြကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

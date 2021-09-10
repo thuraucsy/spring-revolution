@@ -98,6 +98,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ရွှေပန်းကုံးစံပြကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
