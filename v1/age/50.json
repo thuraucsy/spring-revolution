@@ -87,6 +87,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ခင်သာကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးထွန်းဝေ",
+            "fallenDay": "2021-09-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
