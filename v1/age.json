@@ -316,6 +316,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "16": [
@@ -905,6 +927,17 @@
             "fallenPlace": "",
             "heroPlace": "တမူးခရိုင်၊ မြို့သစ်မြို့၊ ထုံကတင်အုပ်စု၊ နောင်ကက်ရွာသစ်",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးဝင်း",
+            "fallenDay": "2021-09-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "19": [
@@ -14598,40 +14631,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ပြည့်ဖြိုးဝင်း",
-            "fallenDay": "2021-09-10",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်ငြိမ်းစည်သူ",
-            "fallenDay": "2021-09-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်နိုင်မျိုးထွန်း",
-            "fallenDay": "2021-09-12",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်အောင်ထက်နိုင်",
+            "heroName": "မောင်ရှိုင်းဘုန်းနိုင်",
             "fallenDay": "2021-09-13",
             "heroAge": "",
             "heroGender": "m",
@@ -16039,6 +16039,39 @@
             "fallenPlace": "",
             "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့ဟောင်းအရှေ့ရပ်ကွက်",
             "fallenCause": "Sep-8 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Sep-9 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးဝင်း",
+            "fallenDay": "2021-09-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -17372,6 +17405,39 @@
             "fallenPlace": "",
             "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့ဟောင်းအရှေ့ရပ်ကွက်",
             "fallenCause": "Sep-8 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Sep-9 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးဝင်း",
+            "fallenDay": "2021-09-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -18045,6 +18111,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
             "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -22510,6 +22598,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ်ပေါ်ကူးကျေးရွာ အဝင်လမ်းခွဲ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါငံခါး (၂) ရပ်ကွက်",
             "fallenCause": "စစ်ဘေးရှောင်းရင်း ကားတိုက်ခံရကာကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "70th": [

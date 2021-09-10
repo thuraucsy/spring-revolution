@@ -87,6 +87,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ဒိုးနွယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "fallenDay": "2021-09-11",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်နိုင်မျိုးထွန်း",
+            "fallenDay": "2021-09-12",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

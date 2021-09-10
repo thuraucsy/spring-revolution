@@ -7240,7 +7240,7 @@
         {
             "heroName": "မောင်ပြည့်ဖြိုးဝင်း",
             "fallenDay": "2021-09-10",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -7251,7 +7251,7 @@
         {
             "heroName": "မောင်ငြိမ်းစည်သူ",
             "fallenDay": "2021-09-11",
-            "heroAge": "",
+            "heroAge": "15",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -7262,7 +7262,7 @@
         {
             "heroName": "မောင်နိုင်မျိုးထွန်း",
             "fallenDay": "2021-09-12",
-            "heroAge": "",
+            "heroAge": "15",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -7271,7 +7271,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်အောင်ထက်နိုင်",
+            "heroName": "မောင်ရှိုင်းဘုန်းနိုင်",
             "fallenDay": "2021-09-13",
             "heroAge": "",
             "heroGender": "m",
