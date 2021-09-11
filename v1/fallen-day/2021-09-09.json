@@ -98,6 +98,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဖီဒေးလယ်",
+            "fallenDay": "2021-09-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆ မိုင်ကျေးရွာ",
+            "fallenCause": "စစ်တပ်မှ ဖမ်းဆီးသွားကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ပါစကွားလယ်",
+            "fallenDay": "2021-09-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆ မိုင်ကျေးရွာ",
+            "fallenCause": "စစ်တပ်မှ ဖမ်းဆီးသွားကာ သတ်ဖြတ်ခံရ"
         }
     ]
 }
