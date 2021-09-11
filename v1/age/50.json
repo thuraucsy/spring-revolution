@@ -89,8 +89,41 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "ဦးထွန်းဝေ",
-            "fallenDay": "2021-09-10",
+            "heroName": "ဦးကျော်ဆန်း",
+            "fallenDay": "2021-09-09",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအောင်ငွေ",
+            "fallenDay": "2021-09-09",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအောင်တင်",
+            "fallenDay": "2021-09-09",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရန်အေး",
+            "fallenDay": "2021-09-09",
             "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
