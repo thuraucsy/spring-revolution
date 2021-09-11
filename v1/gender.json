@@ -12830,5 +12830,18 @@
             "heroPlace": "",
             "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
+    ],
+    "​m": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-07",
+            "heroAge": "",
+            "heroGender": "​m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆ မိုင်ကျေးရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆ မိုင်ကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        }
     ]
 }
