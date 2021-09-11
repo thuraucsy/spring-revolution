@@ -1,15 +1,15 @@
 {
     "items": [
         {
-            "heroName": "မောင်ငြိမ်းစည်သူ",
+            "heroName": "",
             "fallenDay": "2021-09-11",
-            "heroAge": "15",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းအေးသာစံမြို့နယ်၊ချမ်းသာရ ဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ]
 }
