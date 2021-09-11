@@ -11439,6 +11439,17 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
             "heroPlace": "လောင်းလုံးမြို့နယ် ၀ဗျောရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းမြင့်နိုင်",
+            "fallenDay": "2021-09-11",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
