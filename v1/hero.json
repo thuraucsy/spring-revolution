@@ -13003,15 +13003,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုရာဂျား",
             "fallenDay": "2021-09-11",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တမူး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "တမူးမြို့နယ်၊ စော်ဘွားရပ်ကွက်၊ မြေနီကုန်းဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "တမူးမြို့နယ်၊ စန္ဒကူးရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ရိုက်နှက် ဒဏ်ရာများဖြင့်သေဆုံး"
         }
     ]
 }
