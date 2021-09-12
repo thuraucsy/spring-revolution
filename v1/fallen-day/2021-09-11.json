@@ -43,6 +43,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုအောင်ကို",
+            "fallenDay": "2021-09-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း) မြို့နယ်၊ ဘေလီတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
