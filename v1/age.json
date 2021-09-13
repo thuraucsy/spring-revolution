@@ -1210,9 +1210,9 @@
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "တောင်ဥက္ကလာပ",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
             "heroPlace": "တောင်ဥက္ကလာပမြို့နယ်၊ ၁၂ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
@@ -2706,6 +2706,17 @@
             "fallenCity": "လှိုင်သာယာ",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်လင်းခိုင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -15310,9 +15321,9 @@
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "တောင်ဥက္ကလာပ",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
             "heroPlace": "တောင်ဥက္ကလာပမြို့နယ်၊ ၁၂ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
@@ -16874,9 +16885,9 @@
             "fallenDay": "2021-03-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "တောင်ဥက္ကလာပ",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
             "heroPlace": "တောင်ဥက္ကလာပမြို့နယ်၊ ၁၂ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
@@ -20394,6 +20405,17 @@
             "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
             "heroPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ (က) ရပ်ကွက် (နှင်းဆီကုန်း)၊ တိုးချဲ့ ၃လမ်း၊ ၈၅",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်လင်းခိုင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ဟန်ထက်အောင်",
