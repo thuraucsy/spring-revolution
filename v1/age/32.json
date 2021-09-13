@@ -56,6 +56,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဝင်းနိုင်",
+            "fallenDay": "2021-03-14",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "သင်္ဃန်းကျွန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သင်္ဃန်းကျွန်းမြို့နယ်၊ ဦးစံဖေလမ်းရှိ ရဲစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်လင်းထိုက်",
             "fallenDay": "2021-03-22",
             "heroAge": "32",
