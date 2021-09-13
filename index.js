@@ -240,7 +240,7 @@ async function main() {
             let fallenDay = getFormattedDate(heroVal[1]);
             let heroName = heroVal[0] ? normalizeMyanmarText(heroVal[0].trim()) : '';
             let heroAge = heroVal[2] ? heroVal[2].trim() : '';
-            let heroGender = heroVal[3] ? heroVal[3].trim().toLowerCase() : '';
+            let heroGender = heroVal[3] ? (heroVal[3].trim().toLowerCase() == "​m" ? "m" : heroVal[3].trim().toLowerCase()) : '';
             let fallenCity = heroVal[4] ? normalizeMyanmarText(heroVal[4].trim()) : '';
             let fallenState = heroVal[5] ? normalizeMyanmarText(heroVal[5].trim()) : '';
             let fallenPlace = heroVal[6] ? normalizeMyanmarText(heroVal[6].trim(), false) : '';
