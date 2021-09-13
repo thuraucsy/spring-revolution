@@ -373,6 +373,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုပြည်ကြီး",
+            "fallenDay": "2021-09-12",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "တောင်တွင်းကြီး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "တောင်တွင်းကြီးမြို့နယ်၊ တောင်လျှောင်း (အနောက်စု) ကျေးရွာ",
+            "heroPlace": "တောင်တွင်းကြီးမြို့နယ်၊ တောင်လျှောင်း (အနောက်စု) ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
