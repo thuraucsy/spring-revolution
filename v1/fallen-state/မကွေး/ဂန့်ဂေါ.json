@@ -340,6 +340,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "fallenCause": "ကျည်မှန်၊ နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
+            "heroPlace": "",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
+            "heroPlace": "",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ]
 }
