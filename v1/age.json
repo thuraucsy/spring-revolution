@@ -1592,14 +1592,14 @@
         },
         {
             "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
-            "fallenDay": "2021-09-13",
+            "fallenDay": "2021-09-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
+            "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20": [
@@ -15027,6 +15027,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဆီမိုးနယ် (ခ) အောင်နိုင်",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [
@@ -16594,14 +16605,14 @@
         },
         {
             "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
-            "fallenDay": "2021-09-13",
+            "fallenDay": "2021-09-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
+            "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -18103,14 +18114,14 @@
         },
         {
             "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
-            "fallenDay": "2021-09-13",
+            "fallenDay": "2021-09-14",
             "heroAge": "19",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
+            "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [

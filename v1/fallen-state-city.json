@@ -12339,17 +12339,6 @@
                 "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ နမ့်ဝမ်ဘော်ရပ်ကွက်",
                 "heroPlace": "လွိုင်ကော်မြို့နယ်၊ နမ့်ဝမ်ဘော်ရပ်ကွက်",
                 "fallenCause": "လက်နက်ကြီးမှန်"
-            },
-            {
-                "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
-                "fallenDay": "2021-09-13",
-                "heroAge": "19",
-                "heroGender": "m",
-                "fallenCity": "လွိုင်ကော်",
-                "fallenState": "ကယား",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ],
         "ဒီးမော့ဆို": [
@@ -12704,6 +12693,28 @@
                 "fallenPlace": "",
                 "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆ မိုင်ကျေးရွာ",
                 "fallenCause": "စစ်တပ်မှ ဖမ်းဆီးသွားကာ သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
+                "fallenDay": "2021-09-14",
+                "heroAge": "19",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "မောင်ဆီမိုးနယ် (ခ) အောင်နိုင်",
+                "fallenDay": "2021-09-14",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဘော်လခဲ": [
