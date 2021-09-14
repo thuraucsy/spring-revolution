@@ -1561,6 +1561,17 @@
             "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ မန္တလေး-လားရှိုးလမ်းမအနီး",
             "heroPlace": "ပုသိမ်ကြီးမြို့နယ်၊ အုန်းချောစံပြကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
+            "fallenDay": "2021-09-13",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

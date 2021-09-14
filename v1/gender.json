@@ -11692,6 +11692,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
+            "fallenDay": "2021-09-13",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [

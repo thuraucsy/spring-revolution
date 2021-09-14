@@ -516,6 +516,17 @@
             "fallenPlace": "",
             "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့ဟောင်းအရှေ့ရပ်ကွက်",
             "fallenCause": "Sep-8 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Sep-9 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
+            "fallenDay": "2021-09-13",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
