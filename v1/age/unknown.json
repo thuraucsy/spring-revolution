@@ -5411,6 +5411,17 @@
             "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလှမျိုးထွဋ်",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

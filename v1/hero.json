@@ -13232,6 +13232,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလှမျိုးထွဋ်",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

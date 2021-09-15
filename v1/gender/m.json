@@ -11802,6 +11802,17 @@
             "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
             "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
             "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုလှမျိုးထွဋ်",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
