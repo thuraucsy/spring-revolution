@@ -958,6 +958,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဒေါ်ချောလှ",
+            "fallenDay": "2021-09-13",
+            "heroAge": "50",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "မစန္ဒာဝင်း",
             "fallenDay": "2021-09-14",
             "heroAge": "42",

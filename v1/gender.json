@@ -11716,6 +11716,39 @@
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ ညနေပိုင်းတွင် သေဆုံး"
         },
         {
+            "heroName": "ဦးသောင်းမြင့်",
+            "fallenDay": "2021-09-13",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ပီတာဂျွန်စော (Peter John Saw)",
             "fallenDay": "2021-09-14",
             "heroAge": "19",
@@ -12783,6 +12816,17 @@
             "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ချောလှ",
+            "fallenDay": "2021-09-13",
+            "heroAge": "50",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "မစန္ဒာဝင်း",
