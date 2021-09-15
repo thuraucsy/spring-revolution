@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "စလင်းမြို့နယ်၊ တောစိမ့်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်လင်း",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စလင်း",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

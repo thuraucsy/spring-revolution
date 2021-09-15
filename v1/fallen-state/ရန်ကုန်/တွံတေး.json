@@ -43,6 +43,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ကိုသက်လွင်ဦး",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တွံတေး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+            "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

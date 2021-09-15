@@ -4269,6 +4269,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှသိမ်းသွား"
+            },
+            {
+                "heroName": "ကိုသက်လွင်ဦး",
+                "fallenDay": "2021-09-14",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တွံတေး",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+                "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "လှိုင်သာယာ": [
@@ -6882,6 +6893,17 @@
                 "fallenPlace": "",
                 "heroPlace": "စလင်းမြို့နယ်၊ တောစိမ့်ကျေးရွာ",
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုနိုင်လင်း",
+                "fallenDay": "2021-09-14",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "စလင်း",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ပွင့်ဖြူ": [

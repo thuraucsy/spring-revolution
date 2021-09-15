@@ -15071,6 +15071,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
             "heroPlace": "",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသက်လွင်ဦး",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တွံတေး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+            "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်လင်း",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စလင်း",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
