@@ -142,6 +142,17 @@
             "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မစန္ဒာဝင်း",
+            "fallenDay": "2021-09-14",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
