@@ -958,15 +958,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မစန္ဒာဝင်း",
             "fallenDay": "2021-09-14",
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြိ့န",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
