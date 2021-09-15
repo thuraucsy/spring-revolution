@@ -309,9 +309,20 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဦးသူ",
             "fallenDay": "2021-09-13",
-            "heroAge": "",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမောင်ရွှေ",
+            "fallenDay": "2021-09-13",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -322,18 +333,7 @@
         {
             "heroName": "",
             "fallenDay": "2021-09-13",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဂန့်ဂေါ",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မွှေ့လယ်ရွာ",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-13",
-            "heroAge": "20",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
@@ -342,25 +342,25 @@
             "fallenCause": "ကျည်မှန်၊ နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုနိုင်လင်းထွန်း",
             "fallenDay": "2021-09-14",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
-            "heroPlace": "",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မကျေးရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မကျေးရွာ",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဖိုးဖြူ",
             "fallenDay": "2021-09-14",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
-            "heroPlace": "",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မကျေးရွာ စခန်းအနီး ရှုခင်းသာကုန်း",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရေရှင်မကျေးရွာ",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ]
