@@ -956,6 +956,17 @@
             "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြိ့န",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

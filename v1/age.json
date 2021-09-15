@@ -88,6 +88,28 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "11": [
@@ -1600,6 +1622,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "20": [
@@ -15093,6 +15126,17 @@
             "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြိ့န",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [
@@ -16668,6 +16712,39 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "10th": [
@@ -18177,6 +18254,39 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "under18": [
@@ -19004,6 +19114,28 @@
             "fallenPlace": "ပုသိမ်ကြီးမြို့နယ်၊ မန္တလေး-လားရှိုးလမ်းမအနီး",
             "heroPlace": "ပုသိမ်ကြီးမြို့နယ်၊ အုန်းချောစံပြကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "40th": [
@@ -23590,6 +23722,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ၊ မြစ်သာမြစ်တံတားထိပ်",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "70th": [

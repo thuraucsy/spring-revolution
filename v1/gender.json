@@ -11769,6 +11769,39 @@
             "fallenPlace": "",
             "heroPlace": "စလင်းမြို့နယ်၊ ခင်ပလူကျေးရွာ ပုသိမ်-မုံရွာလမ်း၊ ငါးလှိုင်တွင်းရွာလမ်းဆုံအနီး",
             "fallenCause": "ကျည်မှန်၊ သေနတ်ဖြင့် အချက်များစွာပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "f": [
@@ -12728,6 +12761,17 @@
             "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ မန္တလေးတောင်၏ မြောက်ဘက် ရွှေကျင်ကွေ့အနီး DENKOဆီဆိုင်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြိ့န",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "unknown": [

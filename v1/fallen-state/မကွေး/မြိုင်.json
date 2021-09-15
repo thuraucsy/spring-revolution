@@ -98,6 +98,39 @@
             "fallenPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "heroPlace": "မြိုင်မြို့နယ်၊ ပိုက်သင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-14",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "heroPlace": "မြိုင်မြို့နယ်၊ စံပြကျေးရွာ",
+            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ]
 }
