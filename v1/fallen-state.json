@@ -5890,6 +5890,17 @@
             "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လသာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "heroPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ပဲခူး": [
@@ -10763,14 +10774,14 @@
         },
         {
             "heroName": "ကိုဇင်မင်းဦး",
-            "fallenDay": "2021-09-14",
+            "fallenDay": "2021-09-15",
             "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရှားတောကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "Sep-2 တွင် နှိပ်စက်ရိုက်နှက်ခံ၇ကာ Sep-15 တွင် သေဆုံး"
         }
     ],
     "ရှမ်း": [

@@ -2606,6 +2606,17 @@
             "fallenPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "heroPlace": "တွံ့တေးမြို့နယ်၊ ဘီခိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လသာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "heroPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

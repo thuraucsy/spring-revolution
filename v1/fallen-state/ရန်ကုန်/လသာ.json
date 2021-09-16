@@ -10,6 +10,17 @@
             "fallenPlace": "ရန်ကုန်ပြည်သူ့ဆေးရုံကြီး",
             "heroPlace": "ပုဇွန်တောင်မြို့နယ်၊ ၉ရပ်ကွက်၊ ရေကျော်လမ်းမ",
             "fallenCause": "အင်းစိန်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လသာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "heroPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

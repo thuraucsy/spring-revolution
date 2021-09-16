@@ -5960,6 +5960,17 @@
                 "fallenPlace": "ရန်ကုန်ပြည်သူ့ဆေးရုံကြီး",
                 "heroPlace": "ပုဇွန်တောင်မြို့နယ်၊ ၉ရပ်ကွက်၊ ရေကျော်လမ်းမ",
                 "fallenCause": "အင်းစိန်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-09-15",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လသာ",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+                "heroPlace": "လသာမြို့နယ်၊၂၂လမ်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဗိုလ်တထောင်": [
@@ -9609,14 +9620,14 @@
             },
             {
                 "heroName": "ကိုဇင်မင်းဦး",
-                "fallenDay": "2021-09-14",
+                "fallenDay": "2021-09-15",
                 "heroAge": "20",
                 "heroGender": "m",
                 "fallenCity": "ရွှေဘို",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "",
                 "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရှားတောကျေးရွာ",
-                "fallenCause": ""
+                "fallenCause": "Sep-2 တွင် နှိပ်စက်ရိုက်နှက်ခံ၇ကာ Sep-15 တွင် သေဆုံး"
             }
         ],
         "ယင်းမာပင်": [
