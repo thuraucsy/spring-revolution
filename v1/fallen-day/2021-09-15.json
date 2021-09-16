@@ -21,6 +21,17 @@
             "fallenPlace": "လသာမြို့နယ်၊၂၂လမ်း",
             "heroPlace": "လသာမြို့နယ်၊၂၂လမ်း",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ ပိန္နဲတောကျေးရွာ၊ စစ်တပ်စခန်းအနီး",
+            "heroPlace": "သထုံမြို့နယ်၊ ပိန္နဲတောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
