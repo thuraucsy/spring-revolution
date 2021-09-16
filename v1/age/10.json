@@ -10,28 +10,6 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-14",
-            "heroAge": "10",
-            "heroGender": "m",
-            "fallenCity": "မြိုင်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "မြိုင်မြို့နယ်၊ အေးချမ်းသာစံပြကျေးရွာ",
-            "heroPlace": "မြိုင်မြို့နယ်၊ အေးချမ်းသာစံပြကျေးရွာ",
-            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-14",
-            "heroAge": "10",
-            "heroGender": "m",
-            "fallenCity": "မြိုင်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "မြိုင်မြို့နယ်၊ အေးချမ်းသာစံပြကျေးရွာ",
-            "heroPlace": "မြိုင်မြို့နယ်၊ အေးချမ်းသာစံပြကျေးရွာ",
-            "fallenCause": "မီးရှို့ကာ နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ]
 }
