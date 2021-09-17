@@ -571,6 +571,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နားရယ် (ခ) အယ်ဒီ",
+            "fallenDay": "2021-09-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဒေါပိုးစီကျေးရွာနှင့် စံပြ ၆ မိုင်ကျေးရွာ အနီး",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
