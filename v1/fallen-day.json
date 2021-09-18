@@ -13727,5 +13727,18 @@
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
+    ],
+    "2021-09-17": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "လောင်းလုံးမြို့နယ်၊ ကဒက်ငယ်ထိန်ကျေးရွာ",
+            "heroPlace": "လောင်းလုံးမြို့နယ်၊ ကဒက်ငယ်ထိန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
