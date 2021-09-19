@@ -3959,6 +3959,17 @@
             "fallenPlace": "ပေါင်မြို့နယ်၊  ကတိုက်ကျေးရွာ၊  အောင်သစ္စာအောင်မေတ္တာရပ်",
             "heroPlace": "ပေါင်မြို့နယ်၊  ကတိုက်ကျေးရွာ၊  အောင်သစ္စာအောင်မေတ္တာရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်သူဟန်",
+            "fallenDay": "2021-09-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ခရမ်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ခရမ်းမြို့နယ်၊ ငရုတ်သီးလှော်တံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "28": [
@@ -15315,6 +15326,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ကိုပြည့်ဖြိုးအောင်",
+            "fallenDay": "2021-09-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခရမ်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ခရမ်းမြို့နယ်၊ ငရုတ်သီးလှော်တံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခရမ်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်ဒဏ်ရာဖြင့်ဖမ်းဆီးခံရကာ သေဆုံး"
+        },
+        {
             "heroName": "Pastor Cung Biak Hmun",
             "fallenDay": "2021-09-18",
             "heroAge": "",
@@ -23111,6 +23144,17 @@
             "fallenPlace": "",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရှားတောကျေးရွာ",
             "fallenCause": "Sep-2 တွင် နှိပ်စက်ရိုက်နှက်ခံ၇ကာ Sep-15 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုအောင်သူဟန်",
+            "fallenDay": "2021-09-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ခရမ်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ခရမ်းမြို့နယ်၊ ငရုတ်သီးလှော်တံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [
