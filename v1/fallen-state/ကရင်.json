@@ -87,6 +87,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ကဘောတူ စခန်း အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဗိုလ်စောကျော်ရိန်း",
+            "fallenDay": "2021-09-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ မယ့်ကြည့်ခီးနှင့် နိလားကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

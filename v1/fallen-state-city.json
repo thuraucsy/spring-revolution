@@ -13016,6 +13016,17 @@
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကလားဒါကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-09-20",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဘော်လခဲ": [
@@ -13112,6 +13123,17 @@
                 "fallenCity": "ဖာပွန်",
                 "fallenState": "ကရင်",
                 "fallenPlace": "ဖာပွန်မြို့နယ်၊ ကဘောတူ စခန်း အနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဗိုလ်စောကျော်ရိန်း",
+                "fallenDay": "2021-09-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဖာပွန်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "ဖာပွန်မြို့နယ်၊ မယ့်ကြည့်ခီးနှင့် နိလားကြား",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }

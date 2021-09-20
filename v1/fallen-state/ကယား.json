@@ -582,6 +582,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဒေါပိုးစီကျေးရွာနှင့် စံပြ ၆ မိုင်ကျေးရွာ အနီး",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
