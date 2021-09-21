@@ -13831,6 +13831,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေး",
+            "fallenState": "မွန်",
+            "fallenPlace": "ရေးမြို့နယ်၊ ရေးမြစ်ကူးတံတား ချောင်းတောင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
