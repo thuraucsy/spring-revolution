@@ -5521,6 +5521,17 @@
             "fallenPlace": "ရေးမြို့နယ်၊ ရေးမြစ်ကူးတံတား ချောင်းတောင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းဉာဏ်လင်းသန့်",
+            "fallenDay": "2021-09-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unkown",
+            "fallenState": "မသိရှိရသေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
