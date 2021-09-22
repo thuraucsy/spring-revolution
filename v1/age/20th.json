@@ -2727,6 +2727,17 @@
             "fallenPlace": "ခရမ်းမြို့နယ်၊ ငရုတ်သီးလှော်တံတားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စိုင်းဘုန်းမင်းသန့်",
+            "fallenDay": "2021-09-20",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

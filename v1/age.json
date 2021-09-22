@@ -2053,6 +2053,17 @@
             "fallenPlace": "",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရှားတောကျေးရွာ",
             "fallenCause": "Sep-2 တွင် နှိပ်စက်ရိုက်နှက်ခံ၇ကာ Sep-15 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "စိုင်းဘုန်းမင်းသန့်",
+            "fallenDay": "2021-09-20",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -15407,17 +15418,6 @@
             "fallenDay": "2021-09-20",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ဒီးမော့ဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-09-20",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "ရေး",
             "fallenState": "မွန်",
             "fallenPlace": "ရေးမြို့နယ်၊ ရေးမြစ်ကူးတံတား ချောင်းတောင်အနီး",
@@ -15434,17 +15434,6 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ နွယ်အင်းနှင့် ချဉ်ပစ်ကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုစိုင်းဉာဏ်လင်းသန့်",
-            "fallenDay": "2021-09-21",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unkown",
-            "fallenState": "မသိရှိရသေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ],
     "under20": [
@@ -23241,6 +23230,17 @@
             "fallenCity": "ခရမ်း",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "ခရမ်းမြို့နယ်၊ ငရုတ်သီးလှော်တံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စိုင်းဘုန်းမင်းသန့်",
+            "fallenDay": "2021-09-20",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }

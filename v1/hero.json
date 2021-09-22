@@ -13465,9 +13465,9 @@
             "fallenCause": "Sep-14 မနက်တွင်ဖမ်းဆီးသွား၊ Sep-18 စစ်ကြောရေးတွင်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "စိုင်းဘုန်းမင်းသန့်",
             "fallenDay": "2021-09-20",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
@@ -13496,17 +13496,6 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ နွယ်အင်းနှင့် ချဉ်ပစ်ကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုစိုင်းဉာဏ်လင်းသန့်",
-            "fallenDay": "2021-09-21",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unkown",
-            "fallenState": "မသိရှိရသေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

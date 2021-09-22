@@ -417,6 +417,17 @@
             "fallenPlace": "",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရှားတောကျေးရွာ",
             "fallenCause": "Sep-2 တွင် နှိပ်စက်ရိုက်နှက်ခံ၇ကာ Sep-15 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "စိုင်းဘုန်းမင်းသန့်",
+            "fallenDay": "2021-09-20",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
