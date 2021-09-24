@@ -2738,6 +2738,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစည်သူကောင်းမြတ်",
+            "fallenDay": "2021-09-24",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
+            "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
         }
     ]
 }

@@ -450,6 +450,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျိုက်ဇကော်ထောင်တွင် ကိုဗစ်ကူးစက်ခံရကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုစည်သူကောင်းမြတ်",
+            "fallenDay": "2021-09-24",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
+            "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
         }
     ]
 }
