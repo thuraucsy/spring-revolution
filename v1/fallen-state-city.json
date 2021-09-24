@@ -13621,6 +13621,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ဗုံးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-09-19",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မင်းတပ်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "တီးတိန်": [
@@ -13682,6 +13693,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊ အလောင်းမရသေး"
+            },
+            {
+                "heroName": "Salai Aung Hone Mang",
+                "fallenDay": "2021-09-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကန်ပက်လက်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဖလမ်း": [

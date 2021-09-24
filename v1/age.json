@@ -15415,6 +15415,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-09-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-09-20",
             "heroAge": "",
             "heroGender": "m",
@@ -15432,6 +15443,17 @@
             "fallenCity": "ပုလဲ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ပုလဲမြို့နယ်၊ နွယ်အင်းနှင့် ချဉ်ပစ်ကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Aung Hone Mang",
+            "fallenDay": "2021-09-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
