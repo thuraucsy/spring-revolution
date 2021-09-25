@@ -15533,6 +15533,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-25",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ကန်ပက်လက်မြို့နယ်၊ ရဲလောင်းပန်းကျေးရွာနှင့် ကန်းလောင်းကျေးရွာ အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-25",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ကန်ပက်လက်မြို့နယ်၊ ရဲလောင်းပန်းကျေးရွာနှင့် ကန်းလောင်းကျေးရွာ အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
