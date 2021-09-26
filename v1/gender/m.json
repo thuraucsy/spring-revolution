@@ -12143,6 +12143,61 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစိုးမိုးအောင်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမျိုးမြင့်အောင်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စိုးနိုင်လင်း",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         }
     ]
 }
