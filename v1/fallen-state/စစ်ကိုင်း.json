@@ -3013,6 +3013,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်၊ မုံရွေး နှင့် ကြေးမုံကျေးရွာကြား",
             "heroPlace": "",
             "fallenCause": "ပစ်သတ်ပြီး အလောင်းအား ကားဖြင့်ကြိတ်သွား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ မုံရွေး နှင့် ကြေးမုံကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
