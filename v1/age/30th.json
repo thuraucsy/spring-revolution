@@ -1855,9 +1855,9 @@
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောနဲ့ အောင်သာရွာကြားရှိ ကွမ်းခြံ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုမျိုးမြင့်အောင်",
@@ -1866,9 +1866,20 @@
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောနဲ့ အောင်သာရွာကြားရှိ ကွမ်းခြံ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါက်တာအောင်မြတ်မင်း",
+            "fallenDay": "2021-09-26",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောနဲ့ အောင်သာရွာကြားရှိ ကွမ်းခြံ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်",
