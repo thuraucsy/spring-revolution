@@ -12239,9 +12239,20 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "သီအိုဒေါရို",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်တပ်မှ တိုက်ပွဲတွင်ဖမ်းဆီးခံရပြီးနောက် သေဆုံး"
         }
     ],
     "f": [

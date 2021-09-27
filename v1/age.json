@@ -8036,9 +8036,9 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ],
     "72": [
@@ -15676,6 +15676,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ အနောက်ဖက် သင်္ချိုင်းအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "သီအိုဒေါရို",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "စစ်တပ်မှ တိုက်ပွဲတွင်ဖမ်းဆီးခံရပြီးနောက် သေဆုံး"
         }
     ],
     "under20": [
@@ -24513,9 +24524,9 @@
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ],
     "0th": [
