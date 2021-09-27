@@ -2916,6 +2916,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမြင့်သန်းဦး",
+            "fallenDay": "2021-09-24",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ရင်ပေါင်တိုင်ကျေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ရင်ပေါင်တိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုစိုးမိုးအောင်",
             "fallenDay": "2021-09-26",
             "heroAge": "30",
@@ -2938,9 +2949,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်စိုးနိုင်လင်း",
+            "heroName": "ကိုစိုးနိုင်လင်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "27",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -2949,9 +2960,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးနိုင်ထွန်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -2960,9 +2971,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကျော်",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",

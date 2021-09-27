@@ -13914,6 +13914,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ မဟာအောင်မြေမြို့နယ်၊  ၃၉ လမ်းနှင့် လမ်း ၄၀ ကြား စိန်ပန်းကမ်းနားလမ်းပေါ်",
             "heroPlace": "မန္တလေးမြို့၊ မဟာအောင်မြေမြို့နယ်၊  ရှမ်းဝိုင်းရပ်",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 မနက်လမ်းပေါ်တွင် အလောင်းတွေ့"
+        },
+        {
+            "heroName": "ကိုမြင့်သန်းဦး",
+            "fallenDay": "2021-09-24",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ရင်ပေါင်တိုင်ကျေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ရင်ပေါင်တိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-09-25": [
@@ -14019,9 +14030,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်စိုးနိုင်လင်း",
+            "heroName": "ကိုစိုးနိုင်လင်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "27",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -14030,9 +14041,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးနိုင်ထွန်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -14041,9 +14052,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကျော်",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",

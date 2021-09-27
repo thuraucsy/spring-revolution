@@ -23,9 +23,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်စိုးနိုင်လင်း",
+            "heroName": "ကိုစိုးနိုင်လင်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "27",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -34,9 +34,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးနိုင်ထွန်း",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
@@ -45,9 +45,9 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကျော်",
             "fallenDay": "2021-09-26",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
