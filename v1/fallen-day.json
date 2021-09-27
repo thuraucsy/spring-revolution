@@ -14061,6 +14061,39 @@
             "fallenPlace": "မန္တလေးမြို့ အမှတ်(ရ) ရဲစခန်း",
             "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ပွဲကုန်းရပ်ကွက်",
             "fallenCause": "Sep-25 တွင်ဖမ်းဆီးသွား၊ Sep-26 တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွဋ်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ အနောက်ဖက် သင်္ချိုင်းအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ အနောက်ဖက် သင်္ချိုင်းအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကြီးကျော်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

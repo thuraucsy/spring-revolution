@@ -11046,6 +11046,28 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွဋ်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ အနောက်ဖက် သင်္ချိုင်းအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ အနောက်ဖက် သင်္ချိုင်းအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
@@ -12935,6 +12957,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကြီးကျော်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ကရင်": [

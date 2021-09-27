@@ -65,6 +65,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဦးကြီးကျော်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

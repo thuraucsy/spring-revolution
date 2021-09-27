@@ -395,6 +395,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကြီးကျော်",
+            "fallenDay": "2021-09-26",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
