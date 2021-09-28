@@ -14186,6 +14186,39 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
             "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-28",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
+            "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-28",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
+            "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-28",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မုံးကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
+            "heroPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
