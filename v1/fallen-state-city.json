@@ -13674,17 +13674,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ဗုံးမှန်"
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2021-09-29",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "ဟားခါး",
-                "fallenState": "ချင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ],
         "မင်းတပ်": [
@@ -14269,6 +14258,17 @@
                 "fallenCity": "ထန်တလန်",
                 "fallenState": "ချင်း",
                 "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးရာလ်သူး",
+                "fallenDay": "2021-09-29",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထန်တလန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
