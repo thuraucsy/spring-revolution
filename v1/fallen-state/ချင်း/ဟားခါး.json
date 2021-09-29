@@ -76,6 +76,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

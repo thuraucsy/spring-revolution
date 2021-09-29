@@ -285,6 +285,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုနို့",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမာရ်ကို",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

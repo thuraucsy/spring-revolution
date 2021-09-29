@@ -905,6 +905,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
             "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မြမောင်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "18": [
@@ -2110,6 +2121,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ပါစကွားလဲ့",
+            "fallenDay": "2021-09-29",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -2730,6 +2752,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုနို့",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမာရ်ကို",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "23": [
@@ -15878,56 +15922,23 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်မြမောင်",
-            "fallenDay": "2021-09-29",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "ပါစကွားလဲ့",
-            "fallenDay": "2021-09-29",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "မောင်နို့",
-            "fallenDay": "2021-09-29",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-09-29",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
             "fallenDay": "2021-09-29",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -17583,6 +17594,17 @@
             "fallenPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "heroPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်မြမောင်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -19158,6 +19180,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
             "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မြမောင်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -20040,6 +20073,17 @@
             "fallenPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "heroPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်မြမောင်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -23894,6 +23938,39 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "ပါစကွားလဲ့",
+            "fallenDay": "2021-09-29",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနို့",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမာရ်ကို",
+            "fallenDay": "2021-09-29",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [
