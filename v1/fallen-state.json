@@ -2820,7 +2820,7 @@
         },
         {
             "heroName": "ကိုရန်ပိုင်",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "နေပြည်တော်",
@@ -3328,7 +3328,7 @@
         },
         {
             "heroName": "ကိုမျိုးမင်းထိုက်",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "ပုလော",
@@ -11191,8 +11191,19 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဗိုလ်မီးခြစ်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီ-မင်းကင်းမြို့နယ် အစပ်၊ နယ်ခြားဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မမျိုးသန္တာလှိုင်",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "ခင်ဦး",
@@ -11203,7 +11214,7 @@
         },
         {
             "heroName": "ကိုထွန်းစီ",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
@@ -11214,7 +11225,7 @@
         },
         {
             "heroName": "ကိုအောင်ဦး",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
@@ -11225,7 +11236,7 @@
         },
         {
             "heroName": "ကိုပုချို",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
@@ -11236,7 +11247,7 @@
         },
         {
             "heroName": "ဒေါ်ပု",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
@@ -11244,6 +11255,28 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ရဲဘော်ဗျတ္တ",
+            "fallenDay": "2021-10-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်ကျော်ဖြိုး",
+            "fallenDay": "2021-10-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ရှမ်း": [
@@ -13301,7 +13334,7 @@
         },
         {
             "heroName": "လွှီးဇီးဘန်းဒို (ခ) မောင်လှ",
-            "fallenDay": "2021-01-10",
+            "fallenDay": "2021-10-01",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
