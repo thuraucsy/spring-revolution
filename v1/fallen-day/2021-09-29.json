@@ -65,6 +65,39 @@
             "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဘစိန်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ အိုင်ကျယ်ကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဝန်းခြုံကျေးရွာ",
+            "fallenCause": "စစ်ဘေးရှောင်နေရာသို့ စစ်တပ်ဝင်စီးစဉ် နှလုံးရပ်ကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

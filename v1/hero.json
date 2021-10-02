@@ -13938,7 +13938,62 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဘစိန်",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ အိုင်ကျယ်ကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဝန်းခြုံကျေးရွာ",
+            "fallenCause": "စစ်ဘေးရှောင်နေရာသို့ စစ်တပ်ဝင်စီးစဉ် နှလုံးရပ်ကာသေဆုံး"
+        },
+        {
             "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ စံကားတိုက်နယ်၊  ထီရီကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမျိုးသန္တာလှိုင်",
+            "fallenDay": "2021-01-10",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းစီ",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -13949,7 +14004,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်ဦး",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -13960,7 +14015,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုပုချို",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -13971,7 +14026,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်ပု",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -13979,6 +14034,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းထိုက်",
+            "fallenDay": "2021-01-10",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ပုလောကုန်းကျေးရွာ ၊ အင်းမကုန်းရွာနှင့်  ကျောက်တိုအကြား",
+            "heroPlace": "ပုလောမြို့နယ်၊ ပုလောကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

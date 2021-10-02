@@ -3049,6 +3049,39 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-09-29",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မမျိုးသန္တာလှိုင်",
+            "fallenDay": "2021-01-10",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းစီ",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -3059,7 +3092,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်ဦး",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -3070,7 +3103,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုပုချို",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
@@ -3081,7 +3114,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်ပု",
             "fallenDay": "2021-01-10",
             "heroAge": "",
             "heroGender": "m",
