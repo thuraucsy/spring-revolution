@@ -2822,7 +2822,7 @@
             "heroName": "ကိုရန်ပိုင်",
             "fallenDay": "2021-01-10",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "နေပြည်တော်",
             "fallenState": "နေပြည်တော်",
             "fallenPlace": "နေပြည်တော် ကုတင် (၁၀၀၀) ဆေးရုံ",
@@ -13298,6 +13298,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွှီးဇီးဘန်းဒို (ခ) မောင်လှ",
+            "fallenDay": "2021-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းထိ"
         }
     ],
     "ကရင်": [

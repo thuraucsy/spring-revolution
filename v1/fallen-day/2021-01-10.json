@@ -70,12 +70,23 @@
             "heroName": "ကိုရန်ပိုင်",
             "fallenDay": "2021-01-10",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "နေပြည်တော်",
             "fallenState": "နေပြည်တော်",
             "fallenPlace": "နေပြည်တော် ကုတင် (၁၀၀၀) ဆေးရုံ",
             "heroPlace": "",
             "fallenCause": "မေ-၂ တွင် ဖမ်းဆီးခံရပြီး ညင်းပန်းနှိပ်စက်သည့် ဒဏ်ရာများဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "လွှီးဇီးဘန်းဒို (ခ) မောင်လှ",
+            "fallenDay": "2021-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းထိ"
         }
     ]
 }
