@@ -5906,17 +5906,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-10-03",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဝက်လက်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရှိမ်းမကားရဲစခန်း",
-            "heroPlace": "",
-            "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
         }
     ]
 }
