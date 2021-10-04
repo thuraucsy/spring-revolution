@@ -14528,9 +14528,9 @@
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်ဖြိုး",
             "fallenDay": "2021-10-03",
-            "heroAge": "",
+            "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
@@ -14539,9 +14539,9 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်မြင့်စိုး",
             "fallenDay": "2021-10-03",
-            "heroAge": "",
+            "heroAge": "39",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
@@ -14550,14 +14550,27 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးစိန်ပို",
             "fallenDay": "2021-10-03",
-            "heroAge": "",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ရွှေကူတဲစုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        }
+    ],
+    "2021-10-04": [
+        {
+            "heroName": "မောင်သုတအောင်",
+            "fallenDay": "2021-10-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ Date လက်ဖက်ရည်ဆိုင်၊ အမှတ် ရ ငါးရာပြည့်ရပ်ကွက်",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]

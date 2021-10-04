@@ -8012,6 +8012,17 @@
                 "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဟင်္သာကျေးရွာ",
                 "heroPlace": "ရေစကြိုမြို့နယ်၊ ဟင်္သာကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "မောင်သုတအောင်",
+                "fallenDay": "2021-10-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ရေစကြိုမြို့နယ်၊ Date လက်ဖက်ရည်ဆိုင်၊ အမှတ် ရ ငါးရာပြည့်ရပ်ကွက်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             }
         ],
         "မြို့သစ်": [
@@ -9729,9 +9740,9 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုအောင်ဖြိုး",
                 "fallenDay": "2021-10-03",
-                "heroAge": "",
+                "heroAge": "39",
                 "heroGender": "m",
                 "fallenCity": "ခင်ဦး",
                 "fallenState": "စစ်ကိုင်း",
@@ -9740,9 +9751,9 @@
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုအောင်မြင့်စိုး",
                 "fallenDay": "2021-10-03",
-                "heroAge": "",
+                "heroAge": "39",
                 "heroGender": "m",
                 "fallenCity": "ခင်ဦး",
                 "fallenState": "စစ်ကိုင်း",
@@ -9751,9 +9762,9 @@
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးစိန်ပို",
                 "fallenDay": "2021-10-03",
-                "heroAge": "",
+                "heroAge": "50",
                 "heroGender": "m",
                 "fallenCity": "ခင်ဦး",
                 "fallenState": "စစ်ကိုင်း",
