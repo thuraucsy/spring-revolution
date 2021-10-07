@@ -14595,5 +14595,18 @@
             "heroPlace": "",
             "fallenCause": ""
         }
+    ],
+    "2021-10-06": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
