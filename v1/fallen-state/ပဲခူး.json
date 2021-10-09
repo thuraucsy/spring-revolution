@@ -747,6 +747,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးစန်းကြည်",
+            "fallenDay": "2021-10-08",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+            "fallenCause": ""
         }
     ]
 }

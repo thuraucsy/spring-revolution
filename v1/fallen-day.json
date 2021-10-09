@@ -14629,6 +14629,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ ထီးပေါ်ဆိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်",
+            "fallenDay": "2021-10-06",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "2021-10-07": [
@@ -14655,9 +14666,22 @@
             "fallenCause": ""
         }
     ],
+    "2021-10-08": [
+        {
+            "heroName": "ဦးစန်းကြည်",
+            "fallenDay": "2021-10-08",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+            "fallenCause": ""
+        }
+    ],
     "2021-10-09": [
         {
-            "heroName": "",
+            "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
             "heroGender": "m",
@@ -14665,7 +14689,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

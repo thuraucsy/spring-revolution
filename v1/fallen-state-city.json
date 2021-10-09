@@ -2598,6 +2598,17 @@
                 "fallenPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
                 "heroPlace": "မတ္တရာမြို့နယ်၊ တံငါတောင်ကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုသိန်းဇော်",
+                "fallenDay": "2021-10-06",
+                "heroAge": "35",
+                "heroGender": "m",
+                "fallenCity": "မတ္တရာ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
+                "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "မြစ်ငယ်": [
@@ -6968,6 +6979,19 @@
                 "fallenPlace": "",
                 "heroPlace": "ဝေါမြို့နယ်၊ လက်ပံသုံးပင်ကျေးရွာ",
                 "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွား၊ ညနေပိုင်းတွင် သေဆုံး"
+            }
+        ],
+        "တောင်ငူ": [
+            {
+                "heroName": "ဦးစန်းကြည်",
+                "fallenDay": "2021-10-08",
+                "heroAge": "55",
+                "heroGender": "m",
+                "fallenCity": "တောင်ငူ",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+                "fallenCause": ""
             }
         ]
     },
@@ -13739,7 +13763,7 @@
                 "fallenCause": "မိုင်းထိ"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးကျော်ဟိန်း",
                 "fallenDay": "2021-10-09",
                 "heroAge": "",
                 "heroGender": "m",
@@ -13747,7 +13771,7 @@
                 "fallenState": "ကယား",
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
                 "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
-                "fallenCause": ""
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဘော်လခဲ": [

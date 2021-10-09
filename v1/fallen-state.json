@@ -2749,6 +2749,17 @@
             "fallenPlace": "မန္တလေးမြို့ အမှတ်(ရ) ရဲစခန်း",
             "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ပွဲကုန်းရပ်ကွက်",
             "fallenCause": "Sep-25 တွင်ဖမ်းဆီးသွား၊ Sep-26 တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်",
+            "fallenDay": "2021-10-06",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "နေပြည်တော်": [
@@ -6827,6 +6838,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးစန်းကြည်",
+            "fallenDay": "2021-10-08",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+            "fallenCause": ""
         }
     ],
     "မကွေး": [
@@ -13476,7 +13498,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
             "heroGender": "m",
@@ -13484,7 +13506,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ကရင်": [

@@ -5858,6 +5858,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ၊ မြစ်သာမြစ်တံတားထိပ်",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မြင်သားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်",
+            "fallenDay": "2021-10-06",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "36": [
@@ -7964,6 +7975,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ ကျောက်ဆည်ကျေးရွာ",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစန်းကြည်",
+            "fallenDay": "2021-10-08",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+            "fallenCause": ""
         }
     ],
     "56": [
@@ -10297,6 +10319,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ရွှေကူတဲစုကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်",
+            "fallenDay": "2021-10-06",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "unknown": [
@@ -16285,7 +16318,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
             "heroGender": "m",
@@ -16293,7 +16326,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -24831,6 +24864,17 @@
             "fallenPlace": "",
             "heroPlace": "မင်္ဂလာဒုံမြို့နယ်၊ စမ်းကြီး၀ရပ်ကွက်",
             "fallenCause": "Oct-1 တွင် ဖမ်းဆီးခံ၇ကာ Oct-3 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးစန်းကြည်",
+            "fallenDay": "2021-10-08",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+            "fallenCause": ""
         }
     ],
     "60th": [
