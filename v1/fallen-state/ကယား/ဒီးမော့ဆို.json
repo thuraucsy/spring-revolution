@@ -450,6 +450,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့",
             "heroPlace": "",
             "fallenCause": "မိုင်းထိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }
