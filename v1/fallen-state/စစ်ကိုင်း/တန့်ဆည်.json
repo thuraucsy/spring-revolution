@@ -210,15 +210,15 @@
             "fallenCause": "ကျည်မှန်၊ ဓါးဖြင့် သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအေးမင်း",
             "fallenDay": "2021-10-22",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

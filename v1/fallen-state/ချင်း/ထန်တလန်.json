@@ -54,6 +54,28 @@
             "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းခမ့်ထောင်းလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ဆလိုင်းဟရန်းထီအိုလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
         }
     ]
 }

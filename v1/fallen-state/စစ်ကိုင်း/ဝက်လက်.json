@@ -73,9 +73,9 @@
             "heroGender": "m",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ အမျိုးသားလွှတ်တော်ကိုယ်စားလှယ် ဦးမောင်မောင်ဝင်းအိမ်အနီး",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ဟန်လင်းရွာတောင်ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

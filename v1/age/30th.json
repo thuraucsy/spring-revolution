@@ -1948,6 +1948,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-10-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုရန်နိုင်",
             "fallenDay": "2021-11-01",
             "heroAge": "30",

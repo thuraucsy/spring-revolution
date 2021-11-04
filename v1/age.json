@@ -5091,6 +5091,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-10-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုရန်နိုင်",
             "fallenDay": "2021-11-01",
             "heroAge": "30",
@@ -10540,6 +10551,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဖိုကျေးရွာ အစိုးရဆေးပေးခန်းအနီး",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအေးမင်း",
+            "fallenDay": "2021-10-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -16552,25 +16574,47 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-10-22",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
             "fallenDay": "2021-10-23",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ အမျိုးသားလွှတ်တော်ကိုယ်စားလှယ် ဦးမောင်မောင်ဝင်းအိမ်အနီး",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ဟန်လင်းရွာတောင်ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ထူးအောင်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ လုံပီးရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းခမ့်ထောင်းလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ဆလိုင်းဟရန်းထီအိုလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "ကိုမောင်ကျော်",

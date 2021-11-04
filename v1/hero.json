@@ -14301,15 +14301,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအေးမင်း",
             "fallenDay": "2021-10-22",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -14318,9 +14318,20 @@
             "heroGender": "m",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ အမျိုးသားလွှတ်တော်ကိုယ်စားလှယ် ဦးမောင်မောင်ဝင်းအိမ်အနီး",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ဟန်လင်းရွာတောင်ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်ထူးအောင်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ လုံပီးရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -14332,6 +14343,28 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ အင်းကျွန်းကျေးရွာအရှေ့ပိုင်း",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းခမ့်ထောင်းလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ဆလိုင်းဟရန်းထီအိုလျန်",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "ကိုဇော်မင်းထွန်း",

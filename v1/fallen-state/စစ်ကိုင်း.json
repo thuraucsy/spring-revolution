@@ -3235,15 +3235,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအေးမင်း",
             "fallenDay": "2021-10-22",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -3252,9 +3252,9 @@
             "heroGender": "m",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ အမျိုးသားလွှတ်တော်ကိုယ်စားလှယ် ဦးမောင်မောင်ဝင်းအိမ်အနီး",
+            "heroPlace": "ဝက်လက်မြို့နယ်၊ ဟန်လင်းရွာတောင်ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",

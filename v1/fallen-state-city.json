@@ -11093,15 +11093,15 @@
                 "fallenCause": "ကျည်မှန်၊ ဓါးဖြင့် သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုအေးမင်း",
                 "fallenDay": "2021-10-22",
-                "heroAge": "",
+                "heroAge": "30",
                 "heroGender": "m",
                 "fallenCity": "တန့်ဆည်",
                 "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
+                "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကံထူးမစံပြကျေးရွာအဝိုင်းအနီး",
+                "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကြက်ဆူကန်ကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "အရာတော်": [
@@ -11602,9 +11602,9 @@
                 "heroGender": "m",
                 "fallenCity": "ဝက်လက်",
                 "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
+                "fallenPlace": "ဝက်လက်မြို့နယ်၊ အမျိုးသားလွှတ်တော်ကိုယ်စားလှယ် ဦးမောင်မောင်ဝင်းအိမ်အနီး",
+                "heroPlace": "ဝက်လက်မြို့နယ်၊ ဟန်လင်းရွာတောင်ပိုင်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မြင်းမူ": [
@@ -15120,6 +15120,17 @@
                 "fallenPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
                 "heroPlace": "ဖလမ်းမြို့ လုံပီး(လုံရန်း)ရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုနိုင်ထူးအောင်",
+                "fallenDay": "2021-10-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဖလမ်း",
+                "fallenState": "ချင်း",
+                "fallenPlace": "ဖလမ်းမြို့နယ်၊ လုံပီးရပ်ကွက်",
+                "heroPlace": "",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "မတူပီ": [
@@ -15212,6 +15223,28 @@
                 "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဆလိုင်းခမ့်ထောင်းလျန်",
+                "fallenDay": "2021-10-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထန်တလန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းနင်းမိ"
+            },
+            {
+                "heroName": "ဆလိုင်းဟရန်းထီအိုလျန်",
+                "fallenDay": "2021-10-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထန်တလန်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းနင်းမိ"
             }
         ]
     },
