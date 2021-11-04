@@ -230,6 +230,39 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ရွှေကူတဲစုကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးဝေအောင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်ကို",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

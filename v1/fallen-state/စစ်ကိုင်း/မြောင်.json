@@ -32,6 +32,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-02",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
+            "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -12794,6 +12794,39 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဖြိုးဝေအောင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်ကို",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုကျော်လင်းဦး",
             "fallenDay": "2021-11-01",
             "heroAge": "",
@@ -12805,6 +12838,39 @@
             "fallenCause": "လက်နက်ကြီးမှန် ဒဏ်ရာဖြင့် သေဆုံး"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့ ဘုရားနီလမ်း (အဇာနည်လမ်း) ထောင့်၊ ရန်ကင်းရပ်ကွက်ရုံးနား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့ ဘုရားနီလမ်း (အဇာနည်လမ်း) ထောင့်၊ ဗိုလ်တေဇလမ်း အောင်ဆေးခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့ ဘုရားနီလမ်း (အဇာနည်လမ်း) ထောင့်၊ ဗိုလ်တေဇလမ်း အောင်ဆေးခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုလင်းနိုင်",
             "fallenDay": "2021-11-02",
             "heroAge": "",
@@ -12813,6 +12879,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့တောင်ဘက်တိုက်ပွဲ",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-02",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
+            "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

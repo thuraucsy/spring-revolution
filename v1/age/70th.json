@@ -79,6 +79,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-11-02",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာအနီး",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးသံကြောင့် လန့်ဖြန့်ကာသေဆုံး"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-03",
             "heroAge": "73",
             "heroGender": "m",

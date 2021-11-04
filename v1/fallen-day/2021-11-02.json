@@ -10,6 +10,28 @@
             "fallenPlace": "ကလေးမြို့တောင်ဘက်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-02",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာအနီး",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးသံကြောင့် လန့်ဖြန့်ကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-02",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
+            "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
