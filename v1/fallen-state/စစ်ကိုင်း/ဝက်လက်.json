@@ -65,6 +65,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရှိမ်းမကားရဲစခန်း",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ဖိုဝင်တပ်ကျေးရွာ",
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

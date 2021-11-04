@@ -3,6 +3,17 @@
         {
             "heroName": "",
             "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
             "heroAge": "45",
             "heroGender": "m",
             "fallenCity": "ကလေး",

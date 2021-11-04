@@ -441,6 +441,17 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
+            "heroName": "ကိုရဲထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဖိုကျေးရွာ အစိုးရဆေးပေးခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုရန်နိုင်",
             "fallenDay": "2021-11-01",
             "heroAge": "30",

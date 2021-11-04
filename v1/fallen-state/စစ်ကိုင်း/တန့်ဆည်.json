@@ -208,6 +208,17 @@
             "fallenPlace": "တန့်ဆည်မြိုနယ်၊ ဖလံချိုင်ရွာနှင့် ချောင်းဆုံရွာကြား",
             "heroPlace": "တန့်ဆည်မြိုနယ်၊ ဖလံချိုင်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဓါးဖြင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

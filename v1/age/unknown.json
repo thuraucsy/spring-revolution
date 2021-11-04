@@ -5996,6 +5996,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုမောင်ကျော်",
             "fallenDay": "2021-10-24",
             "heroAge": "",
@@ -6007,15 +6029,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မမေနှင်းအေး",
             "fallenDay": "2021-10-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "ဟုမ္မလင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဟုမ္မလင်းမြို့နယ်၊ နောင်ပကျစ်ရပ်ကွက် လျှပ်စစ်ကုန်း",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဥူးကုသလ",

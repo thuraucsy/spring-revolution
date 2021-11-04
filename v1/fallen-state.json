@@ -11576,6 +11576,39 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုရဲထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဖိုကျေးရွာ အစိုးရဆေးပေးခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-10-23",
             "heroAge": "45",
@@ -11598,15 +11631,15 @@
             "fallenCause": "ကျည်မှန်၊ မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "မမေနှင်းအေး",
             "fallenDay": "2021-10-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "ဟုမ္မလင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဟုမ္မလင်းမြို့နယ်၊ နောင်ပကျစ်ရပ်ကွက် လျှပ်စစ်ကုန်း",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုငြိမ်းထွန်း",
