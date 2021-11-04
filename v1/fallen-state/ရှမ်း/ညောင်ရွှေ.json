@@ -43,6 +43,17 @@
             "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ စံကားတိုက်နယ်၊  ထီရီကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွန်း",
+            "fallenDay": "2021-10-31",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }

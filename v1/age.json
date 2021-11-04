@@ -4159,6 +4159,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွန်း",
+            "fallenDay": "2021-10-31",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ],
     "28": [
@@ -16431,14 +16442,25 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-10-31",
+            "fallenDay": "2021-11-01",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တောင်ကြီး",
-            "fallenState": "ရှမ်း",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးဝေထွန်း",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ချောက်မြို့နယ်၊ ခလ၇ ၁၃",
+            "heroPlace": "ချောက်မြို့နယ်၊ ဂွေးပင်ကျေးရွာ",
+            "fallenCause": "Oct-31 တွင်ဖမ်းဆီးခံ၇ကာ Nov-1 တွင်အလောင်းလာထုတ်ရန်ပြော"
         },
         {
             "heroName": "ကိုကျော်လင်းဦး",
@@ -24710,6 +24732,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွန်း",
+            "fallenDay": "2021-10-31",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ရွှေ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         },
         {
             "heroName": "ကိုဖြိုးဝေအောင်",

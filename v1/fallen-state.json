@@ -7940,6 +7940,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ Date လက်ဖက်ရည်ဆိုင်၊ အမှတ် ရ ငါးရာပြည့်ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဖြိုးဝေထွန်း",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ချောက်မြို့နယ်၊ ခလ၇ ၁၃",
+            "heroPlace": "ချောက်မြို့နယ်၊ ဂွေးပင်ကျေးရွာ",
+            "fallenCause": "Oct-31 တွင်ဖမ်းဆီးခံ၇ကာ Nov-1 တွင်အလောင်းလာထုတ်ရန်ပြော"
         }
     ],
     "မွန်": [
@@ -11444,6 +11455,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဖြိုးဝေအောင်",
             "fallenDay": "2021-11-01",
             "heroAge": "23",
@@ -12271,15 +12293,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဇော်မျိုးထွန်း",
             "fallenDay": "2021-10-31",
-            "heroAge": "",
+            "heroAge": "27",
             "heroGender": "m",
-            "fallenCity": "တောင်ကြီး",
+            "fallenCity": "ညောင်ရွှေ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ဗုံးမှန်"
         },
         {
             "heroName": "ကိုကျော်လင်းဦး",

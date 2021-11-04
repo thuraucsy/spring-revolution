@@ -7426,6 +7426,17 @@
                 "fallenPlace": "ချောက်မြို့ အမှတ် ၁၅၊ ရတနာအိုင့်ရပ်",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဖြိုးဝေထွန်း",
+                "fallenDay": "2021-11-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ချောက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ချောက်မြို့နယ်၊ ခလ၇ ၁၃",
+                "heroPlace": "ချောက်မြို့နယ်၊ ဂွေးပင်ကျေးရွာ",
+                "fallenCause": "Oct-31 တွင်ဖမ်းဆီးခံ၇ကာ Nov-1 တွင်အလောင်းလာထုတ်ရန်ပြော"
             }
         ],
         "အောင်လံ": [
@@ -11840,6 +11851,17 @@
             },
             {
                 "heroName": "",
+                "fallenDay": "2021-11-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြောင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
                 "fallenDay": "2021-11-02",
                 "heroAge": "14",
                 "heroGender": "m",
@@ -12188,17 +12210,6 @@
                 "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
                 "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2021-10-31",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "တောင်ကြီး",
-                "fallenState": "ရှမ်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ],
         "လားရှိုး": [
@@ -12302,6 +12313,17 @@
                 "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ စံကားတိုက်နယ်၊  ထီရီကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဇော်မျိုးထွန်း",
+                "fallenDay": "2021-10-31",
+                "heroAge": "27",
+                "heroGender": "m",
+                "fallenCity": "ညောင်ရွှေ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဗုံးမှန်"
             }
         ],
         "ကျောက်မဲ": [
