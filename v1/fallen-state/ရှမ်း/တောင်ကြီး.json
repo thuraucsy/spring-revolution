@@ -142,6 +142,17 @@
             "fallenPlace": "တောင်ကြီးမြို့၊ တိုက် ၆ လုံးအနီး",
             "heroPlace": "တောင်ကြီးမြို့၊ မင်္ဂလာဦးရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

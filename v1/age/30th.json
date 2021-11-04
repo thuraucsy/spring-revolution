@@ -1935,6 +1935,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

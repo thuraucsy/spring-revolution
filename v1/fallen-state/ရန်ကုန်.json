@@ -2727,6 +2727,28 @@
             "fallenPlace": "လှည်းကူးမြို့နယ်၊ အားကစားကွင်းရှိ စစ်ကြောရေးစခန်း",
             "heroPlace": "လှည်ကူးမြို့နယ်၊ ရိပ်သာရပ်ကွက်",
             "fallenCause": "Oct-4 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေနတ်မှန်သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

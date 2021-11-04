@@ -3150,6 +3150,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "ကိုဖြိုးဝေအောင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "24": [
@@ -4315,6 +4326,17 @@
             "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ သဲတော (၁)၊ နန်းအောင်မြေရပ်ကွက်",
             "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ သဲတော (၁)၊ နန်းအောင်မြေရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းနှင့် ကျောသို့ ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်ကို",
+            "fallenDay": "2021-11-01",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "29": [
@@ -5001,6 +5023,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာနှင့် ကံစုကျေးရွာကြား",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ဘန့်ဘွေးထန်းစင်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -10365,6 +10398,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -16364,37 +16408,37 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုဖြိုးဝေအောင်",
-            "fallenDay": "2021-11-01",
+            "heroName": "",
+            "fallenDay": "2021-10-31",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ခင်ဦး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
-            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုရန်နိုင်",
-            "fallenDay": "2021-11-01",
+            "heroName": "",
+            "fallenDay": "2021-10-31",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ခင်ဦး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
-            "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုချစ်ကို",
-            "fallenDay": "2021-11-01",
+            "heroName": "",
+            "fallenDay": "2021-10-31",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ခင်ဦး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
-            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုကျော်လင်းဦး",
@@ -16439,6 +16483,17 @@
             "fallenPlace": "မုံရွာမြို့ ဘုရားနီလမ်း (အဇာနည်လမ်း) ထောင့်၊ ဗိုလ်တေဇလမ်း အောင်ဆေးခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းလွင်",
+            "fallenDay": "2021-11-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ရွာဘိုကျေးရွာ",
+            "fallenCause": "Nov-1 တွင်ဖမ်းဆီးခံ၇ကာ Nov-2 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
             "heroName": "ကိုလင်းနိုင်",
@@ -24654,6 +24709,28 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးဝေအောင်",
+            "fallenDay": "2021-11-01",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်ကို",
+            "fallenDay": "2021-11-01",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],

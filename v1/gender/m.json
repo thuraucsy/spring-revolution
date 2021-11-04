@@ -12794,9 +12794,42 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒလ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒလမြို့နယ်၊ ရေသန့်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုဖြိုးဝေအောင်",
             "fallenDay": "2021-11-01",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
@@ -12807,7 +12840,7 @@
         {
             "heroName": "ကိုရန်နိုင်",
             "fallenDay": "2021-11-01",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
@@ -12818,7 +12851,7 @@
         {
             "heroName": "ကိုချစ်ကို",
             "fallenDay": "2021-11-01",
-            "heroAge": "",
+            "heroAge": "28",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
@@ -12869,6 +12902,17 @@
             "fallenPlace": "မုံရွာမြို့ ဘုရားနီလမ်း (အဇာနည်လမ်း) ထောင့်၊ ဗိုလ်တေဇလမ်း အောင်ဆေးခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းလွင်",
+            "fallenDay": "2021-11-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ရွာဘိုကျေးရွာ",
+            "fallenCause": "Nov-1 တွင်ဖမ်းဆီးခံ၇ကာ Nov-2 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
             "heroName": "ကိုလင်းနိုင်",

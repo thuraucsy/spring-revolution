@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဝင်းလွင်",
+            "fallenDay": "2021-11-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ရွာဘိုကျေးရွာ",
+            "fallenCause": "Nov-1 တွင်ဖမ်းဆီးခံ၇ကာ Nov-2 တွင် အလောင်းလာထုတ်ရန်ပြော"
         }
     ]
 }
