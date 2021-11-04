@@ -12827,17 +12827,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-10-12",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ညောင်ကိုင်းကျေးရွာထိပ်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
             "fallenDay": "2021-10-13",
             "heroAge": "",
@@ -12868,6 +12857,61 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသာဆွေ",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးပို",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းသန့်",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဆွေလှိုင်ဦး",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ချပ်ပြား",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -14740,6 +14784,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မနန်းမွန်",
+            "fallenDay": "2021-10-14",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ ဂန့်ဂေါကျောင်းအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {

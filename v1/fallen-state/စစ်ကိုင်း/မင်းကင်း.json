@@ -120,6 +120,61 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးသာဆွေ",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးပို",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းသန့်",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဆွေလှိုင်ဦး",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ချပ်ပြား",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာအနီးရှိ တောတွင်း",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ လောင်းပြည့်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
