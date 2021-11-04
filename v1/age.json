@@ -3704,6 +3704,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "26": [
@@ -5091,6 +5102,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမျိုးထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအေးမင်း",
             "fallenDay": "2021-10-22",
             "heroAge": "30",
@@ -5990,6 +6012,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "36": [
@@ -10551,6 +10584,28 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဖိုကျေးရွာ အစိုးရဆေးပေးခန်းအနီး",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -16570,6 +16625,39 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်စံသူ",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘောင်ညကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -25116,6 +25204,17 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

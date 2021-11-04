@@ -12805,6 +12805,72 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်စံသူ",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘောင်ညကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအေးမင်း",
             "fallenDay": "2021-10-22",
             "heroAge": "30",
