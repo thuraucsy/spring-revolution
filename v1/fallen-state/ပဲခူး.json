@@ -758,6 +758,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖြူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

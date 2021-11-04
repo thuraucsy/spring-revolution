@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖြူးမြို့၊ ဘူတာမြောက်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်၊ တင်ပါးမှ ဆီးခုံသို့ဖောက်ကာ ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖြူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

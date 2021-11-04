@@ -2762,6 +2762,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုအကြီးကောင်",
+            "fallenDay": "2021-10-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ ဂေါင်းကွဲကျေးရွာ",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ဂေါင်းကွဲကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ဒဏ်ရာများဖြင့်သေဆုံး"
+        },
+        {
             "heroName": "ဦးစန်းလွင်",
             "fallenDay": "2021-10-28",
             "heroAge": "60",
@@ -6926,6 +6937,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖြူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "မကွေး": [
