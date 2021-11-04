@@ -12904,6 +12904,28 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်သီဟအောင်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "11",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "heroPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ဖြိုးဝေ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မှော်ဘီ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရိုက်နှက်ကာ ပစ်သတ်ခံရ"
+        },
+        {
             "heroName": "ဦးထောင်လွန်းမာန် (Pa Thawng Lun Mang)",
             "fallenDay": "2021-10-11",
             "heroAge": "29",

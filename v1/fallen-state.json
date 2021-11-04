@@ -3448,6 +3448,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်သီဟအောင်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "11",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "heroPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးကြည်သိန်း",
             "fallenDay": "2021-10-22",
             "heroAge": "",
@@ -6242,6 +6253,17 @@
             "fallenPlace": "လှည်းကူးမြို့နယ်၊ အားကစားကွင်းရှိ စစ်ကြောရေးစခန်း",
             "heroPlace": "လှည်ကူးမြို့နယ်၊ ရိပ်သာရပ်ကွက်",
             "fallenCause": "Oct-4 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေနတ်မှန်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်ဖြိုးဝေ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မှော်ဘီ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရိုက်နှက်ကာ ပစ်သတ်ခံရ"
         },
         {
             "heroName": "ကိုမင်းမင်းစိုး",
@@ -13028,6 +13050,17 @@
             "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ စံကားတိုက်နယ်၊  ထီရီကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွေးအီလ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "12",
+            "heroGender": "",
+            "fallenCity": "နမ့်ခမ်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "နမ့်ခမ်းမြို့နယ်၊ နမ့်စန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "",

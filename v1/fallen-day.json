@@ -14802,9 +14802,31 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊  ညောင်ကိုင်းနဲ့ ရုံးတောကြား",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရုံးတောကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်သီဟအောင်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "11",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "heroPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "2021-10-11": [
+        {
+            "heroName": "ကိုကျော်ဖြိုးဝေ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မှော်ဘီ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရိုက်နှက်ကာ ပစ်သတ်ခံရ"
+        },
         {
             "heroName": "ဦးထောင်လွန်းမာန် (Pa Thawng Lun Mang)",
             "fallenDay": "2021-10-11",
@@ -14826,6 +14848,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွေးအီလ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "12",
+            "heroGender": "",
+            "fallenCity": "နမ့်ခမ်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "နမ့်ခမ်းမြို့နယ်၊ နမ့်စန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "2021-10-12": [

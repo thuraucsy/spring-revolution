@@ -1596,6 +1596,28 @@
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
         },
         {
+            "heroName": "မောင်သီဟအောင်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "11",
+            "heroGender": "m",
+            "fallenCity": "ကော့သောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "heroPlace": "ကော့သောင်းမြို့နယ်၊ လုံးဖောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွေးအီလ",
+            "fallenDay": "2021-10-11",
+            "heroAge": "12",
+            "heroGender": "",
+            "fallenCity": "နမ့်ခမ်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "နမ့်ခမ်းမြို့နယ်၊ နမ့်စန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "မောင်ရွှေလုံး",
             "fallenDay": "2021-10-14",
             "heroAge": "15",
