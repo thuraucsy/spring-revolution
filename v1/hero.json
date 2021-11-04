@@ -14301,6 +14301,17 @@
             "fallenCause": "ကျည်မှန်၊ မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုအောင်နိုင်ဦး",
+            "fallenDay": "2021-10-30",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ ရွာသစ်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးသိန်းမင်း (ဦးသိန်းလင်း)",
             "fallenDay": "2021-10-30",
             "heroAge": "",
@@ -14309,6 +14320,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ အင်ငုတ်တိုကျေးရွာ",
             "heroPlace": "ကန့်ဘလူမြို့နယ်၊ အင်ငုတ်တိုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းသီဟအောင်",
+            "fallenDay": "2021-10-30",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {

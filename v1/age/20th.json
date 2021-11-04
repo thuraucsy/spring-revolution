@@ -2828,6 +2828,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအောင်နိုင်ဦး",
+            "fallenDay": "2021-10-30",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ ရွာသစ်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းသီဟအောင်",
+            "fallenDay": "2021-10-30",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်မျိုးထွန်း",
             "fallenDay": "2021-10-31",
             "heroAge": "27",
