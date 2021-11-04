@@ -766,9 +766,9 @@
             "heroGender": "m",
             "fallenCity": "ပေါင်းတည်",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပေါင်းတည်မြို့နယ်၊ ကြိုင်ကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ပေါင်းတည်မြို့နယ်၊ ကြို့ပင်သာကျေးရွာ",
+            "heroPlace": "ပေါင်းတည်မြို့နယ်၊ ကြို့ပင်သာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "စောအယ်ကော်သော",

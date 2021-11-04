@@ -6956,9 +6956,9 @@
             "heroGender": "m",
             "fallenCity": "ပေါင်းတည်",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "ပေါင်းတည်မြို့နယ်၊ ကြိုင်ကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ပေါင်းတည်မြို့နယ်၊ ကြို့ပင်သာကျေးရွာ",
+            "heroPlace": "ပေါင်းတည်မြို့နယ်၊ ကြို့ပင်သာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "စောအယ်ကော်သော",
@@ -13208,6 +13208,17 @@
             "fallenPlace": "မြန်အောင်ရဲစခန်း",
             "heroPlace": "မြန်အောင်မြို့နယ်၊ သပြေကုန်းကျေးရွာ",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဥူးကုသလ",
+            "fallenDay": "2021-10-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ငါးသိုင်းချောင်း",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ကယား": [
