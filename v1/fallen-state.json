@@ -11422,6 +11422,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုညီညီလင်း",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်မြောင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-03",
             "heroAge": "",
@@ -14356,6 +14367,17 @@
             "fallenCity": "ထန်တလန်",
             "fallenState": "ချင်း",
             "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "73",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ချင်းပြည်နယ်၊ မင်းတပ်-မတူပီလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
