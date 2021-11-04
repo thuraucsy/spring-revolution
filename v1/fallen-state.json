@@ -3415,6 +3415,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုထက်ဝေနိုင်",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းစိုးဦး",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုမင်းမင်းသူ  (ခ) ဟာနိ",
             "fallenDay": "2021-10-27",
             "heroAge": "",
@@ -11554,6 +11576,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ အင်းကျွန်းကျေးရွာအရှေ့ပိုင်း",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုငြိမ်းထွန်း",
             "fallenDay": "2021-10-29",
             "heroAge": "",
@@ -13217,7 +13250,7 @@
             "fallenCity": "ငါးသိုင်းချောင်း",
             "fallenState": "ဧရာဝတီ",
             "fallenPlace": "",
-            "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ",
+            "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ၊ ငယ်ဖြူဆရာတော်ကျောင်းတိုက်",
             "fallenCause": "ကျည်မှန်"
         }
     ],

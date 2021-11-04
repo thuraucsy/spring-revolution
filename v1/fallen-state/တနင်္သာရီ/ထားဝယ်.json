@@ -208,6 +208,28 @@
             "fallenPlace": "ထားဝယ်မြို့ စစ်ကြောရေးစခန်း",
             "heroPlace": "ထားဝယ်မြို့၊ ဥဿရံတိုးချဲ့ရပ်ကွက်",
             "fallenCause": "Sep 24 တွက် ဖမ်းဆီးခံရ၊ Sep 28 တွင် စစ်ကြောရေး၌ သေဆုံး"
+        },
+        {
+            "heroName": "ကိုထက်ဝေနိုင်",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းစိုးဦး",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

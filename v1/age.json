@@ -3174,6 +3174,28 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
+            "heroName": "ကိုထက်ဝေနိုင်",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းစိုးဦး",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဖြိုးဝေအောင်",
             "fallenDay": "2021-11-01",
             "heroAge": "23",
@@ -7473,6 +7495,17 @@
             "fallenPlace": "",
             "heroPlace": "စလင်းမြို့နယ်၊ ခင်ပလူကျေးရွာ ပုသိမ်-မုံရွာလမ်း၊ ငါးလှိုင်တွင်းရွာလမ်းဆုံအနီး",
             "fallenCause": "ကျည်မှန်၊ သေနတ်ဖြင့် အချက်များစွာပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ အင်းကျွန်းကျေးရွာအရှေ့ပိုင်း",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "46": [
@@ -16492,7 +16525,7 @@
             "fallenCity": "ငါးသိုင်းချောင်း",
             "fallenState": "ဧရာဝတီ",
             "fallenPlace": "",
-            "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ",
+            "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ၊ ငယ်ဖြူဆရာတော်ကျောင်းတိုက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -22092,6 +22125,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ အင်းကျွန်းကျေးရွာအရှေ့ပိုင်း",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုကျော်ဌေးအောင်",
             "fallenDay": "2021-10-28",
             "heroAge": "44",
@@ -24940,6 +24984,28 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထက်ဝေနိုင်",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းစိုးဦး",
+            "fallenDay": "2021-10-24",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ရေဝိုင်းတောလမ်းအနီး",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ဥတ္တရံရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
