@@ -10,6 +10,17 @@
             "fallenPlace": "ချောင်းဦးမြို့၊ ချောင်ဦးတောင် ရဲလှရပ်",
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ တောင်ရပ် ၊ ရ 21 ကွမ်းယာဆိုင်",
             "fallenCause": "ကျည်မှန်၊ ညသပိတ်တွင် ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

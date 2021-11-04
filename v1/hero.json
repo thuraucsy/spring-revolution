@@ -14324,14 +14324,47 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-10-16",
+            "fallenDay": "2021-10-13",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုသက်နိုင်ဦး",
+            "fallenDay": "2021-10-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမာယ",
+            "fallenDay": "2021-10-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Lik Swe",
+            "fallenDay": "2021-10-16",
+            "heroAge": "56",
+            "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
@@ -14341,6 +14374,39 @@
             "fallenCity": "မတ္တရာ",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်ထက်အောင်",
+            "fallenDay": "2021-10-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားတောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးကိုကို",
+            "fallenDay": "2021-10-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားတောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားတောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },

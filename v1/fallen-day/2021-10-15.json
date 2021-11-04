@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကိုရှိုင်းဝေဖြိုး",
-            "fallenDay": "2021-04-10",
-            "heroAge": "21",
-            "heroGender": "m",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ကိုသက်နိုင်ဦး",
             "fallenDay": "2021-10-15",
             "heroAge": "",
