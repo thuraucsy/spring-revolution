@@ -1160,6 +1160,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ ကသဲကျေးရွာအနီးရှိ ရထားသံလမ်းဘေး",
             "heroPlace": "ပင်လောင်းမြို့နယ် လုံးပြင်ကျေးရွာအုပ်စု ဗန်းမောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသက်နိုင်ဦး",
+            "fallenDay": "2021-10-15",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "19": [
@@ -4669,6 +4680,17 @@
             "fallenPlace": "",
             "heroPlace": "မုံရွာမြို့၊ သလ္လာရပ်ကွက်",
             "fallenCause": "Aug-24 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Aug-25 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-17",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နိဗ္ဗာန်ဆိပ်ဦးဘုရား နှင့် ဗောဓိမြိုင်တိုင်ဘုရားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "30": [
@@ -16782,17 +16804,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုသက်နိုင်ဦး",
-            "fallenDay": "2021-10-15",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ဦးမာယ",
             "fallenDay": "2021-10-15",
             "heroAge": "",
@@ -16824,17 +16835,6 @@
             "fallenPlace": "",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "fallenCause": "Oct-2 တွင် မိုင်းနင်းမိကာ ယင်းဒဏ်ရာကြောင့်သေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-10-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         },
         {
             "heroName": "ကိုဇော်ထက်အောင်",
@@ -19072,6 +19072,17 @@
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
         },
         {
+            "heroName": "ကိုသက်နိုင်ဦး",
+            "fallenDay": "2021-10-15",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇွဲဝေယံ",
             "fallenDay": "2021-10-18",
             "heroAge": "19",
@@ -20689,6 +20700,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရှိမ်းမကားရဲစခန်း",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ဖိုဝင်တပ်ကျေးရွာ",
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုသက်နိုင်ဦး",
+            "fallenDay": "2021-10-15",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုဇွဲဝေယံ",
@@ -25578,6 +25600,17 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-17",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နိဗ္ဗာန်ဆိပ်ဦးဘုရား နှင့် ဗောဓိမြိုင်တိုင်ဘုရားအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
