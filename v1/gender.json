@@ -12792,6 +12792,83 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလင်းနိုင်",
+            "fallenDay": "2021-11-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့တောင်ဘက်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ချောင်းခွကျေးရွာ စာသင်ကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ ပစ်သတ်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ချောင်းခွကျေးရွာ စာသင်ကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ ပစ်သတ်"
+        },
+        {
+            "heroName": "ကိုအောင်ကြည်လွင်",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေမင်းသူ",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်နိုင်ဝင်း",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်လင်းအောင် (ခ) ကိုဖိုးလပြည့်",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
