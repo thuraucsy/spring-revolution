@@ -5996,6 +5996,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "သခင်ဘီဘီ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုရစ်ချက်စိုး",
             "fallenDay": "2021-10-21",
             "heroAge": "",
@@ -6004,7 +6015,7 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုဝေဖြိုးသူ",
@@ -6015,7 +6026,7 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုအောင်စံသူ",

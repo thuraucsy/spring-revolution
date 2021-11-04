@@ -2762,6 +2762,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "သခင်ဘီဘီ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုအကြီးကောင်",
             "fallenDay": "2021-10-26",
             "heroAge": "",
@@ -6991,7 +7002,7 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုဝေဖြိုးသူ",
@@ -7002,7 +7013,7 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "မောင်ချစ်ရှိုင်း",
