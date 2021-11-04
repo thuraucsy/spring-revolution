@@ -10,6 +10,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၅၂C လမ်း၊ ၁၀၅/၁၀၆ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

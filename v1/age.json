@@ -49,6 +49,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ၅၂C လမ်း၊ ၁၀၅/၁၀၆ လမ်းကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "7": [
@@ -5135,6 +5146,17 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
+            "heroName": "ကိုမောင်ရန်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊  ညောင်ကိုင်းနဲ့ ရုံးတောကြား",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရုံးတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုရဲနိုင်",
             "fallenDay": "2021-10-19",
             "heroAge": "30",
@@ -8315,7 +8337,7 @@
             "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
         }
@@ -10661,6 +10683,17 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမောင်ရန်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊  ညောင်ကိုင်းနဲ့ ရုံးတောကြား",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရုံးတောကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
@@ -16815,6 +16848,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမျိုးဆွေ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျည်ထောင်ကျေးရွာထိပ်",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သဲစုကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
             "fallenDay": "2021-10-16",
             "heroAge": "",
@@ -19079,6 +19134,17 @@
             "fallenCity": "အရာတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -21625,6 +21691,17 @@
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -26194,7 +26271,7 @@
             "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
         },
@@ -26732,6 +26809,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-02",
             "heroAge": "14",
             "heroGender": "m",
@@ -26920,6 +27008,17 @@
             "fallenPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "heroPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "80th": [

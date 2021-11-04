@@ -11686,6 +11686,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမောင်ရန်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊  ညောင်ကိုင်းနဲ့ ရုံးတောကြား",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရုံးတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-10-12",
             "heroAge": "",
@@ -11739,6 +11750,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဆွေ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျည်ထောင်ကျေးရွာထိပ်",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သဲစုကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "",
@@ -15191,9 +15213,31 @@
             "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုနိုင်ထူးအောင်",

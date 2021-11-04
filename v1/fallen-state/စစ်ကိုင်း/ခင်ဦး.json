@@ -232,6 +232,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမျိုးဆွေ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျည်ထောင်ကျေးရွာထိပ်",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သဲစုကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "ကိုဇော်မင်းထွန်း",
             "fallenDay": "2021-10-24",
             "heroAge": "40",

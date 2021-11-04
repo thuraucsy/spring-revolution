@@ -1,15 +1,48 @@
 {
     "items": [
         {
+            "heroName": "ကိုမျိုးဆွေ",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျည်ထောင်ကျေးရွာထိပ်",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ သဲစုကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "Lik Swe",
             "fallenDay": "2021-10-16",
             "heroAge": "56",
             "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "6",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
