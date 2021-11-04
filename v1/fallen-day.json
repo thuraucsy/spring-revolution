@@ -14692,6 +14692,32 @@
             "fallenCause": "ကျည်မှန်"
         }
     ],
+    "2021-10-29": [
+        {
+            "heroName": "ကိုငြိမ်းထွန်း",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ်၊ လွှတ်တိုက်ကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ်၊ လွှတ်တိုက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ မီးရှို့သတ်ဖြတ်ခံရ"
+        }
+    ],
+    "2021-10-30": [
+        {
+            "heroName": "ဦးသိန်းမင်း (ဦးသိန်းလင်း)",
+            "fallenDay": "2021-10-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ အင်ငုတ်တိုကျေးရွာ",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ အင်ငုတ်တိုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
     "2021-10-31": [
         {
             "heroName": "",
@@ -14735,8 +14761,8 @@
             "heroGender": "m",
             "fallenCity": "မြောင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
+            "fallenPlace": "မြောင်မြို့နယ်၊ မြစ်ဆုံကျေးရွာ",
+            "heroPlace": "မြောင်မြို့နယ်၊ မြစ်ဆုံကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
