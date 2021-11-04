@@ -5996,7 +5996,29 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "သခင်ဘီဘီ",
+            "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
             "fallenDay": "2021-10-16",
             "heroAge": "",
             "heroGender": "m",
@@ -6060,6 +6082,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပလိုင်းကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘောင်ညကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကြည်သိန်း",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ရေဖြူမြို့နယ်၊ ဝက်ချောင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ကာ အိမ်ရှေ့တွင် အလောင်းလာစွန့်"
         },
         {
             "heroName": "ဦးနေနေ",

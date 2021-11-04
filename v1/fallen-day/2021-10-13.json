@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "မောင်သိန်းခန့်ဖြိုး",
-            "fallenDay": "2021-10-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-10-13",
             "heroAge": "",

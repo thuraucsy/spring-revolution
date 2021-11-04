@@ -2666,7 +2666,7 @@
                 "fallenCause": "သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "သခင်ဘီဘီ",
+                "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
                 "fallenDay": "2021-10-16",
                 "heroAge": "",
                 "heroGender": "m",
@@ -3510,6 +3510,17 @@
                 "fallenPlace": "ရေဖြူမြို့နယ်၊ ရလဲ့ကျေးရွာ၊ ရလဲ့ကျောင်းအနီး",
                 "heroPlace": "ရေဖြူမြို့နယ်၊ သစ်တိုထောက်ရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးကြည်သိန်း",
+                "fallenDay": "2021-10-22",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဖြူ",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "ရေဖြူမြို့နယ်၊ ဝက်ချောင်းကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ကာ အိမ်ရှေ့တွင် အလောင်းလာစွန့်"
             }
         ],
         "ပုလော": [
@@ -15457,6 +15468,28 @@
             {
                 "heroName": "မောင်သိန်းခန့်ဖြိုး",
                 "fallenDay": "2021-10-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-13",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-13",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "Unknown",
