@@ -3,13 +3,24 @@
         {
             "heroName": "",
             "fallenDay": "2021-10-13",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ကောလင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ပန်းတောင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ပန်းတောင်းမြို့နယ်၊ ပွေးကျစ်ကျေးရွာအနီး ကန်နီရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",

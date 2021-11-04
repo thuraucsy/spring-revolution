@@ -3224,6 +3224,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
             "heroName": "ကိုမောင်ရန်",
             "fallenDay": "2021-10-10",
             "heroAge": "30",
@@ -3248,13 +3259,13 @@
         {
             "heroName": "",
             "fallenDay": "2021-10-13",
-            "heroAge": "",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "ကောလင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုသန်းနိုင်",

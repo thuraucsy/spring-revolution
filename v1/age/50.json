@@ -210,6 +210,17 @@
             "fallenCause": "Oct-1 တွင် ဖမ်းဆီးခံ၇ကာ Oct-3 တွင် သေဆုံး"
         },
         {
+            "heroName": "စောမောင်တင်လင်း",
+            "fallenDay": "2021-10-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုမိုးကြီး",
             "fallenDay": "2021-10-28",
             "heroAge": "50",

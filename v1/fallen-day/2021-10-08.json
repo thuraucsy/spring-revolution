@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင်သေဆုံး"
         }
     ]
 }

@@ -2187,6 +2187,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -8110,6 +8121,17 @@
             "fallenPlace": "",
             "heroPlace": "မင်္ဂလာဒုံမြို့နယ်၊ စမ်းကြီး၀ရပ်ကွက်",
             "fallenCause": "Oct-1 တွင် ဖမ်းဆီးခံ၇ကာ Oct-3 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "စောမောင်တင်လင်း",
+            "fallenDay": "2021-10-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုမိုးကြီး",
@@ -16771,6 +16793,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+            "fallenCause": "စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
             "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
@@ -16797,11 +16830,11 @@
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ကောလင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenCity": "ကျောက်ပန်းတောင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ပန်းတောင်းမြို့နယ်၊ ပွေးကျစ်ကျေးရွာအနီး ကန်နီရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
@@ -25747,6 +25780,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-10-17",
             "heroAge": "29",
             "heroGender": "m",
@@ -26329,6 +26373,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
+        },
+        {
+            "heroName": "စောမောင်တင်လင်း",
+            "fallenDay": "2021-10-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "Lik Swe",

@@ -2287,6 +2287,17 @@
                 "fallenPlace": "ကျောက်ပန်းတောင်း မြို့မကွက်သစ်ရပ်ကွက်၊ မြို့နယ်ပညာရေးမှူးရုံးအနီး",
                 "heroPlace": "ကျောက်ပန်းတောင်းမြို့ အောင်မင်္ဂလာရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်၊ လက်မောင်းနှင့် နံရိုးကြားသို့ ကျည် ၃ချက်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-13",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ပန်းတောင်း",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ကျောက်ပန်းတောင်းမြို့နယ်၊ ပွေးကျစ်ကျေးရွာအနီး ကန်နီရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဝမ်းတွင်း": [
@@ -9990,13 +10001,13 @@
             {
                 "heroName": "",
                 "fallenDay": "2021-10-13",
-                "heroAge": "",
+                "heroAge": "20",
                 "heroGender": "m",
                 "fallenCity": "ကောလင်း",
                 "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
+                "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
                 "heroPlace": "",
-                "fallenCause": ""
+                "fallenCause": "ကျည်မှန်"
             },
             {
                 "heroName": "ကိုအောင်ကြည်လွင်",
@@ -12439,6 +12450,17 @@
                 "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တည်တောကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ထီးချိုင့်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+                "fallenCause": "စစ်ကြောရေးတွင်သေဆုံး"
             }
         ],
         "ဆားတောင်": [
@@ -14929,6 +14951,17 @@
                 "fallenState": "ကရင်",
                 "fallenPlace": "ဘားအံမြို့၊  တန် ၄၀၀၀ ဘိလပ်မြေစက်ရုံအနီးရှိ ရပ်ကွက်",
                 "heroPlace": "ဘားအံမြို့၊ မြိုင်ကလေး၊ ဘားအံ-သထုံလမ်းမအနီး",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "စောမောင်တင်လင်း",
+                "fallenDay": "2021-10-10",
+                "heroAge": "50",
+                "heroGender": "m",
+                "fallenCity": "ဘားအံ",
+                "fallenState": "ကရင်",
+                "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
+                "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
             }
         ],

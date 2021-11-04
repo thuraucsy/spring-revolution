@@ -2829,6 +2829,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-13",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့၊ မင်းတဲကြီးရပ်ကွက်ရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-10-17",
             "heroAge": "29",
             "heroGender": "m",

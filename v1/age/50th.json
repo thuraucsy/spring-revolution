@@ -474,6 +474,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
         },
         {
+            "heroName": "စောမောင်တင်လင်း",
+            "fallenDay": "2021-10-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "Lik Swe",
             "fallenDay": "2021-10-16",
             "heroAge": "56",
