@@ -3761,6 +3761,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဇော်မျိုးထွန်း (ခ) ကိုပေါက်စီ",
+            "fallenDay": "2021-10-08",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်ရဲစခန်း",
+            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "ကိုငယ်လေး",
             "fallenDay": "2021-10-21",
             "heroAge": "25",
@@ -16793,17 +16804,6 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-10-08",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ထီးချိုင့်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
-            "fallenCause": "စစ်ကြောရေးတွင်သေဆုံး"
-        },
-        {
             "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
@@ -16812,6 +16812,72 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မျိုးလွင်",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
+        },
+        {
+            "heroName": "ဦးတင်ညွန့်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ လေသာရွာအနီးရှိ PDF စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးမင်းထက်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ လေသာရွာအနီးရှိ PDF စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလွင်မိုး",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ လေသာရွာအနီးရှိ PDF စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဝင်း",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ လေသာရွာအနီးရှိ PDF စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမြင့်အောင်",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ လေသာရွာအနီးရှိ PDF စခန်း",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -16934,6 +17000,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ဂန့်ဂေါကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-14",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ဦးမာယ",
@@ -25777,6 +25854,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးထွန်း (ခ) ကိုပေါက်စီ",
+            "fallenDay": "2021-10-08",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်ရဲစခန်း",
+            "heroPlace": "ထီးချိုင့်မြို့နယ်၊ အင်းတိန်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "",

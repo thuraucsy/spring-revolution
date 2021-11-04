@@ -10,6 +10,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မျိုးလွင်",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
         }
     ]
 }

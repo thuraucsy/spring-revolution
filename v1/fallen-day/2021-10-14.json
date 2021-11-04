@@ -10,6 +10,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ဂန့်ဂေါကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-14",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
