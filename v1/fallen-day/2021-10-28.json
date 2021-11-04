@@ -1,37 +1,48 @@
 {
     "items": [
         {
-            "heroName": "",
+            "heroName": "ဦးစန်းလွင်",
             "fallenDay": "2021-10-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "ချမ်းအေးသာစံမြို့နယ်၊ NLD ရုံးရှေ့",
-            "heroPlace": "",
+            "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ သံလျှက်မော်အရှေ့ရပ်ကွက်၊ လန်ဒန်ဝင်း",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် အလောင်းအား လမ်းပေါ်တွင်စွန့်ပစ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကျော်ဌေးအောင်",
             "fallenDay": "2021-10-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "ချမ်းအေးသာစံမြို့နယ်၊ NLD ရုံးရှေ့",
-            "heroPlace": "",
+            "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ သံလျှက်မော်အရှေ့ရပ်ကွက်၊ လန်ဒန်ဝင်း",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် အလောင်းအား လမ်းပေါ်တွင်စွန့်ပစ်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမိုးကြီး",
             "fallenDay": "2021-10-28",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "ချမ်းအေးသာစံမြို့နယ်၊ NLD ရုံးရှေ့",
+            "fallenPlace": "",
+            "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ ၄၁ လမ်း ၈၇ လမ်းကြား",
+            "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုကျော်နိုင်ထွန်း (ခ) အသေးလေး",
+            "fallenDay": "2021-10-28",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် အလောင်းအား လမ်းပေါ်တွင်စွန့်ပစ်"
+            "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွား Oct-28 တွင် အလောင်းလာထုတ်ရန်ပြော၊ ဦးခေါင်းတွင်ကြေမွကာ နှိပ်စက်ဒဏ်ရာများရ"
         }
     ]
 }

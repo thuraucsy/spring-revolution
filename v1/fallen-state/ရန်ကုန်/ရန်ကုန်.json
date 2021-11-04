@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကိုငြိမ်းထွန်း",
-            "fallenDay": "2021-10-29",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကျွန်းလှ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကျွန်းလှမြို့နယ်၊ လွှတ်တိုက်ကျေးရွာ",
-            "heroPlace": "ကျွန်းလှမြို့နယ်၊ လွှတ်တိုက်ကျေးရွာ",
-            "fallenCause": "ကျည်မှန်၊ မီးရှို့သတ်ဖြတ်ခံရ"
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-10-29",
             "heroAge": "",
