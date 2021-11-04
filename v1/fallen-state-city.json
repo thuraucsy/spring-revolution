@@ -3469,6 +3469,19 @@
                 "heroPlace": "ပုလောမြို့နယ်၊ ပုလောကုန်းကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "တနင်္သာရီ": [
+            {
+                "heroName": "ကိုမင်းမင်းသူ  (ခ) ဟာနိ",
+                "fallenDay": "2021-10-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တနင်္သာရီ",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "တနင်္သာရီမြို့နယ်၊ အရှေ့မော်တုန်းကျေးရွာ",
+                "fallenCause": "Oct-25 တွင် ဖမ်းဆီးသွားကာ Oct-27 တွင် သေဆုံး"
+            }
         ]
     },
     "ရန်ကုန်": {
@@ -7092,6 +7105,19 @@
                 "fallenState": "ပဲခူး",
                 "fallenPlace": "",
                 "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
+                "fallenCause": ""
+            }
+        ],
+        "ပေါင်းတည်": [
+            {
+                "heroName": "မောင်ချစ်ရှိုင်း",
+                "fallenDay": "2021-10-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပေါင်းတည်",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "ပေါင်းတည်မြို့နယ်၊ ကြိုင်ကျေးရွာ",
+                "heroPlace": "",
                 "fallenCause": ""
             }
         ]
