@@ -12838,6 +12838,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမောင်ကျော်",
+            "fallenDay": "2021-10-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ကြီးထောင့်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကန်ကြီးထောင့်မြို့နယ်၊ ကညင်ငူရွာ ကားမှတ်တိုင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဥူးကုသလ",
             "fallenDay": "2021-10-25",
             "heroAge": "",
@@ -14809,6 +14820,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ ထီးပေါ်ဆိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဟုမ္မလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

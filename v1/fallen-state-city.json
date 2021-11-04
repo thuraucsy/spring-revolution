@@ -12078,6 +12078,19 @@
                 "fallenCause": "ကျည်မှန်"
             }
         ],
+        "ဟုမ္မလင်း": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-24",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ဟုမ္မလင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
+        ],
         "ကျွန်းလှ": [
             {
                 "heroName": "ကိုငြိမ်းထွန်း",
@@ -13567,6 +13580,19 @@
                 "fallenPlace": "မြန်အောင်ရဲစခန်း",
                 "heroPlace": "မြန်အောင်မြို့နယ်၊ သပြေကုန်းကျေးရွာ",
                 "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+            }
+        ],
+        "ကန်ကြီးထောင့်": [
+            {
+                "heroName": "ကိုမောင်ကျော်",
+                "fallenDay": "2021-10-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကန်ကြီးထောင့်",
+                "fallenState": "ဧရာဝတီ",
+                "fallenPlace": "ကန်ကြီးထောင့်မြို့နယ်၊ ကညင်ငူရွာ ကားမှတ်တိုင်အနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ငါးသိုင်းချောင်း": [
