@@ -3712,7 +3712,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
@@ -5108,7 +5108,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -6020,7 +6020,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
@@ -10593,7 +10593,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -10604,7 +10604,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
@@ -16628,6 +16628,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုအောင်စံသူ",
             "fallenDay": "2021-10-22",
             "heroAge": "",
@@ -16703,6 +16714,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-23",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ စည်ကား ၁ ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ ပင်လုံအိမ်ယာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
             "heroName": "ကိုမောင်ကျော်",
@@ -25213,7 +25246,7 @@
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },

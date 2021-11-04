@@ -483,6 +483,17 @@
             "fallenPlace": "ဖားကန့်မြို့နယ် လဝါးကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
