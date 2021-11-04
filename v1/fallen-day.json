@@ -14489,6 +14489,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့",
             "heroPlace": "",
             "fallenCause": "မိုင်းထိ"
+        },
+        {
+            "heroName": "ကိုလင်းပိုင်စိုး",
+            "fallenDay": "2021-10-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2021-10-02": [
@@ -14694,7 +14705,7 @@
     ],
     "2021-10-13": [
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -14705,7 +14716,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကိုမောင်",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -14729,6 +14740,19 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
+    "2021-10-18": [
+        {
+            "heroName": "ကိုဇွဲဝေယံ",
+            "fallenDay": "2021-10-18",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
+    ],
     "2021-10-19": [
         {
             "heroName": "ကိုရဲနိုင်",
@@ -14740,6 +14764,19 @@
             "fallenPlace": "",
             "heroPlace": "ပူတာအိုမြို့နယ်၊ အင်ရိုဘော့ကျေးရွာ",
             "fallenCause": "နှိပ်စက်ဒဏ်ရာများဖြင့် သေဆုံး"
+        }
+    ],
+    "2021-10-20": [
+        {
+            "heroName": "ကိုအောင်လင်းတင်",
+            "fallenDay": "2021-10-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2021-10-21": [

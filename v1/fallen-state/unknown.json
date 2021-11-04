@@ -12,7 +12,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -23,8 +23,19 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကိုမောင်",
             "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်လင်းတင်",
+            "fallenDay": "2021-10-20",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "Unknown",

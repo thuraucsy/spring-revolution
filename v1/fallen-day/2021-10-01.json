@@ -87,6 +87,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့",
             "heroPlace": "",
             "fallenCause": "မိုင်းထိ"
+        },
+        {
+            "heroName": "ကိုလင်းပိုင်စိုး",
+            "fallenDay": "2021-10-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

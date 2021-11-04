@@ -2751,6 +2751,17 @@
             "fallenCause": "Sep-25 တွင်ဖမ်းဆီးသွား၊ Sep-26 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
+            "heroName": "ကိုလင်းပိုင်စိုး",
+            "fallenDay": "2021-10-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုသိန်းဇော်",
             "fallenDay": "2021-10-06",
             "heroAge": "35",
@@ -8125,6 +8136,17 @@
             "fallenCity": "ရေစကြို",
             "fallenState": "မကွေး",
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ Date လက်ဖက်ရည်ဆိုင်၊ အမှတ် ရ ငါးရာပြည့်ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇွဲဝေယံ",
+            "fallenDay": "2021-10-18",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         },
@@ -15112,7 +15134,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -15123,8 +15145,19 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကိုမောင်",
             "fallenDay": "2021-10-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်လင်းတင်",
+            "fallenDay": "2021-10-20",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "Unknown",

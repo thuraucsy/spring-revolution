@@ -1712,6 +1712,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရှိမ်းမကားရဲစခန်း",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ဖိုဝင်တပ်ကျေးရွာ",
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇွဲဝေယံ",
+            "fallenDay": "2021-10-18",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "20": [
@@ -16562,6 +16573,17 @@
             "fallenCause": "မိုင်းထိ"
         },
         {
+            "heroName": "ကိုလင်းပိုင်စိုး",
+            "fallenDay": "2021-10-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ရဲဘော်ဗျတ္တ",
             "fallenDay": "2021-10-02",
             "heroAge": "",
@@ -16672,7 +16694,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုစိုးမင်းထွန်း (ခ) သီဟ",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -16683,7 +16705,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုကိုမောင်",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
@@ -16703,6 +16725,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လင်းတင်",
+            "fallenDay": "2021-10-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုရစ်ချက်စိုး",
@@ -18885,6 +18918,17 @@
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
         },
         {
+            "heroName": "ကိုဇွဲဝေယံ",
+            "fallenDay": "2021-10-18",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-02",
             "heroAge": "14",
@@ -20491,6 +20535,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ရှိမ်းမကားရဲစခန်း",
             "heroPlace": "ဝက်လက်မြို့နယ်၊ ဖိုဝင်တပ်ကျေးရွာ",
             "fallenCause": "တိုက်ပွဲတွင်း အဖမ်းခံရကာ ရဲစခန်းတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇွဲဝေယံ",
+            "fallenDay": "2021-10-18",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မကွေး",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",
