@@ -2764,7 +2764,7 @@
         {
             "heroName": "ဦးစန်းလွင်",
             "fallenDay": "2021-10-28",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
@@ -2775,7 +2775,7 @@
         {
             "heroName": "ကိုကျော်ဌေးအောင်",
             "fallenDay": "2021-10-28",
-            "heroAge": "",
+            "heroAge": "44",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
@@ -2786,7 +2786,7 @@
         {
             "heroName": "ကိုမိုးကြီး",
             "fallenDay": "2021-10-28",
-            "heroAge": "",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
@@ -11521,6 +11521,17 @@
             "fallenCause": "ကျည်မှန်၊ မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ဖိုးနီစပ် (ခ) ကိုကျော်မင်း",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်ရှိ ရေဆိုးချောင်းတခုအနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအောင်နိုင်ဦး",
             "fallenDay": "2021-10-30",
             "heroAge": "21",
@@ -12389,6 +12400,28 @@
             "fallenState": "ရှမ်း",
             "fallenPlace": "ညောင်ရွှေမြို့နယ်၊ စံကားတိုက်နယ်၊  ထီရီကျေးရွာအနီး",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ ပေါ်ဦး ၁ ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ စည်ကား ၂ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {

@@ -1003,6 +1003,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ စည်ကား ၂ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-02",
             "heroAge": "70",
             "heroGender": "f",

@@ -472,6 +472,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမိုးကြီး",
+            "fallenDay": "2021-10-28",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ ၄၁ လမ်း ၈၇ လမ်းကြား",
+            "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် သေဆုံး"
         }
     ]
 }

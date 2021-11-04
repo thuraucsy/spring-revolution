@@ -54,6 +54,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ ပေါ်ဦး ၁ ရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-29",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "မိုးဗြဲမြို့နယ်၊ စည်ကား ၂ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
