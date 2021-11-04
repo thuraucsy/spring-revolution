@@ -12794,6 +12794,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုကျော်လင်းဦး",
+            "fallenDay": "2021-11-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ လွယ်မခါးတောင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန် ဒဏ်ရာဖြင့် သေဆုံး"
+        },
+        {
             "heroName": "ကိုလင်းနိုင်",
             "fallenDay": "2021-11-02",
             "heroAge": "",
@@ -12814,6 +12825,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်မြောင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "",
@@ -13894,6 +13916,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "unknown": [

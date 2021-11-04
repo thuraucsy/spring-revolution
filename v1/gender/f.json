@@ -1000,6 +1000,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
