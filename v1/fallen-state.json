@@ -2773,6 +2773,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုဟန်ဝင်းအောင်",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Oct-8 တွင် ရိုက်နှက်ခံရကာ နောက်နေ့မနက်တွင်သေဆုံး"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-10-13",
             "heroAge": "",
@@ -11730,6 +11741,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
         },
         {
+            "heroName": "ဒေါ်မိုး",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "စစ်ကိုင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "စစ်ကိုင်းမြို့ ရဲစခန်းနှင့် ဘူတာအနီး",
+            "heroPlace": "စစ်ကိုင်းမြို့နယ်၊ ပဒူကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုကျော်မျိုးလွင်",
             "fallenDay": "2021-10-09",
             "heroAge": "",
@@ -11747,9 +11769,9 @@
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ချောင်းဦးမြို့အနောက်ဘက်၊ ကြေးနီတံတားအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "",
@@ -11758,9 +11780,9 @@
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ချောင်းဦးမြို့အနောက်ဘက်၊ ကြေးနီတံတားအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "ဦးတင်ညွန့်",

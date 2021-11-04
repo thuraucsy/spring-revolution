@@ -12838,15 +12838,15 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-10-10",
+            "heroName": "ကိုဟန်ဝင်းအောင်",
+            "fallenDay": "2021-10-09",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ချောင်းဦး",
-            "fallenState": "စစ်ကိုင်း",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "Oct-8 တွင် ရိုက်နှက်ခံရကာ နောက်နေ့မနက်တွင်သေဆုံး"
         },
         {
             "heroName": "",
@@ -12855,9 +12855,20 @@
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ချောင်းဦးမြို့အနောက်ဘက်၊ ကြေးနီတံတားအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့အနောက်ဘက်၊ ကြေးနီတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
         },
         {
             "heroName": "ဦးတင်ညွန့်",
@@ -15026,6 +15037,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ ပျဉ်ထောင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်မိုး",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "စစ်ကိုင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "စစ်ကိုင်းမြို့ ရဲစခန်းနှင့် ဘူတာအနီး",
+            "heroPlace": "စစ်ကိုင်းမြို့နယ်၊ ပဒူကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

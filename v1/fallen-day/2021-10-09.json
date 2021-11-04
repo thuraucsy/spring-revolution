@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "heroName": "ဒေါ်မိုး",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "စစ်ကိုင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "စစ်ကိုင်းမြို့ ရဲစခန်းနှင့် ဘူတာအနီး",
+            "heroPlace": "စစ်ကိုင်းမြို့နယ်၊ ပဒူကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးကျော်ဟိန်း",
             "fallenDay": "2021-10-09",
             "heroAge": "",
@@ -32,6 +43,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဟန်ဝင်းအောင်",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Oct-8 တွင် ရိုက်နှက်ခံရကာ နောက်နေ့မနက်တွင်သေဆုံး"
         }
     ]
 }
