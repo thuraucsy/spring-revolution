@@ -11884,15 +11884,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ရွှေလုံး",
             "fallenDay": "2021-10-14",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "15",
+            "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မုံရွာမြို့လယ် မီးပွိုင့်အနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ဗုံးမှန်"
         },
         {
             "heroName": "ကိုသက်နိုင်ဦး",
@@ -15383,6 +15383,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးထောင်လွန်းမာန် (Pa Thawng Lun Mang)",
+            "fallenDay": "2021-10-11",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထောင်နေမော (Salai Thawng Nei Mawi)",
+            "fallenDay": "2021-10-11",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "Lik Swe",
             "fallenDay": "2021-10-16",
             "heroAge": "56",
@@ -15517,6 +15539,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ဘေးရှောင်ပစ္စည်းပို့ရင်း ကားချောက်သို့ကျကာ သေဆုံး"
         },
         {
             "heroName": "ကိုအောင်လင်းတင်",

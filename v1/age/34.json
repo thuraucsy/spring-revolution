@@ -65,6 +65,17 @@
             "fallenPlace": "မုံရွာမြို့၊ ထန်းတောရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထောင်နေမော (Salai Thawng Nei Mawi)",
+            "fallenDay": "2021-10-11",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

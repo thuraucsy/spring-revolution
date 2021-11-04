@@ -342,6 +342,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "မောင်ရွှေလုံး",
+            "fallenDay": "2021-10-14",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့လယ် မီးပွိုင့်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-10-16",
             "heroAge": "6",
