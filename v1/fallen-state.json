@@ -7045,8 +7045,8 @@
             "fallenCity": "တောင်ငူ",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
-            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
-            "fallenCause": ""
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
         },
         {
             "heroName": "ကိုရစ်ချက်စိုး",
@@ -11687,14 +11687,36 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ညောင်ကိုင်းကျေးရွာထိပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ညောင်ကိုင်းကျေးရွာထိပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသန်းနိုင်",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
+            "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုသက်နိုင်ဦး",
@@ -11717,6 +11739,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဇော်ထက်အောင်",
@@ -11750,6 +11783,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရုံးတောကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုရဲထွန်း",
@@ -14354,6 +14398,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြ ၆မိုင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာကျေးရွာ",
+            "fallenCause": "Oct-2 တွင် မိုင်းနင်းမိကာ ယင်းဒဏ်ရာကြောင့်သေဆုံး"
         }
     ],
     "ကရင်": [

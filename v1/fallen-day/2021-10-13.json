@@ -23,15 +23,15 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုသန်းနိုင်",
             "fallenDay": "2021-10-13",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
+            "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကင်မွန်းတော်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

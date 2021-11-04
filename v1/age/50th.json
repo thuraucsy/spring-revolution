@@ -470,8 +470,8 @@
             "fallenCity": "တောင်ငူ",
             "fallenState": "ပဲခူး",
             "fallenPlace": "",
-            "heroPlace": "ဖမ်းဆီးခံရအပြီး သေဆုံး",
-            "fallenCause": ""
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
         },
         {
             "heroName": "Lik Swe",
