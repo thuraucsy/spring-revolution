@@ -16894,6 +16894,39 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဦးတင်ညွန့်",
             "fallenDay": "2021-10-10",
             "heroAge": "",
@@ -16949,6 +16982,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုစုတ်ဖွား",
+            "fallenDay": "2021-10-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ ထန်းတော ကန်ပတ်လမ်း၊ အထက ၆ အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ကားဖြတ်တိုက်ကာ ပစ်သတ်ခံရ"
+        },
+        {
             "heroName": "ကိုကျော်ဖြိုးဝေ",
             "fallenDay": "2021-10-11",
             "heroAge": "",
@@ -16977,7 +17021,7 @@
             "heroGender": "",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဆီဆိုင်တခုအနီး",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ရွှေတောင်ဦးကုန်းရှိ ဆီဆိုင်တခုအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },

@@ -9062,6 +9062,17 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
+                "heroName": "ကိုစုတ်ဖွား",
+                "fallenDay": "2021-10-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မုံရွာမြို့နယ်၊ ထန်းတော ကန်ပတ်လမ်း၊ အထက ၆ အနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ ကားဖြတ်တိုက်ကာ ပစ်သတ်ခံရ"
+            },
+            {
                 "heroName": "မနန်းမွန်",
                 "fallenDay": "2021-10-14",
                 "heroAge": "",
@@ -10102,6 +10113,28 @@
                 "fallenCause": "ကျည်မှန်၊ ညသပိတ်တွင် ကျည်မှန်"
             },
             {
+                "heroName": "",
+                "fallenDay": "2021-10-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ချောင်းဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ချောင်းဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
                 "heroName": "ကိုသန်းနိုင်",
                 "fallenDay": "2021-10-13",
                 "heroAge": "",
@@ -11106,7 +11139,7 @@
                 "heroGender": "",
                 "fallenCity": "ယင်းမာပင်",
                 "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဆီဆိုင်တခုအနီး",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ရွှေတောင်ဦးကုန်းရှိ ဆီဆိုင်တခုအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             },
@@ -15960,6 +15993,17 @@
             {
                 "heroName": "မောင်သိန်းခန့်ဖြိုး",
                 "fallenDay": "2021-10-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-10-09",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "Unknown",

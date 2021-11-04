@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
