@@ -2839,6 +2839,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်ကောင်းသီဟ",
+            "fallenDay": "2021-10-21",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုထက်ဝေနိုင်",
             "fallenDay": "2021-10-24",
             "heroAge": "23",

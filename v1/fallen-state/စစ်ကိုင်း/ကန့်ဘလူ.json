@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "heroName": "ဦးတင်ထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ကောင်းသီဟ",
+            "fallenDay": "2021-10-21",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးသိန်းမင်း (ဦးသိန်းလင်း)",
             "fallenDay": "2021-10-30",
             "heroAge": "",

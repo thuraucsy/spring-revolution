@@ -14290,15 +14290,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုရဲနိုင်",
             "fallenDay": "2021-10-19",
-            "heroAge": "",
+            "heroAge": "30",
             "heroGender": "m",
             "fallenCity": "ပူတာအို",
             "fallenState": "ကချင်",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ပူတာအိုမြို့နယ်၊ အင်ရိုဘော့ကျေးရွာ",
+            "fallenCause": "နှိပ်စက်ဒဏ်ရာများဖြင့် သေဆုံး"
         },
         {
             "heroName": "ကိုရဲထွန်း",
@@ -14343,6 +14343,50 @@
             "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်ထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ကောင်းသီဟ",
+            "fallenDay": "2021-10-21",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရစ်ချက်စိုး",
+            "fallenDay": "2021-10-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဝေဖြိုးသူ",
+            "fallenDay": "2021-10-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုအောင်စံသူ",

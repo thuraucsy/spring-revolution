@@ -1079,6 +1079,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "ဦးတင်ထွန်း",
+            "fallenDay": "2021-10-21",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-10-23",
             "heroAge": "45",
