@@ -5645,6 +5645,17 @@
             "fallenPlace": "",
             "heroPlace": "မြို့သစ်မြို့နယ်၊ လုလင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းမင်းစိုး",
+            "fallenDay": "2021-10-17",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         }
     ],
     "34": [
@@ -10618,6 +10629,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ လမိုင်းကျေးရွာ",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းမင်းစိုး",
+            "fallenDay": "2021-10-17",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုရဲနိုင်",
@@ -16576,12 +16598,12 @@
             "heroName": "ကိုလင်းပိုင်စိုး",
             "fallenDay": "2021-10-01",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင်း နှိပ်စက်ခံရာကာသေဆုံး"
         },
         {
             "heroName": "ရဲဘော်ဗျတ္တ",
@@ -16711,6 +16733,17 @@
             "heroGender": "m",
             "fallenCity": "Unknown",
             "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""

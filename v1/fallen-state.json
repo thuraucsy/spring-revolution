@@ -2754,12 +2754,12 @@
             "heroName": "ကိုလင်းပိုင်စိုး",
             "fallenDay": "2021-10-01",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင်း နှိပ်စက်ခံရာကာသေဆုံး"
         },
         {
             "heroName": "ကိုသိန်းဇော်",
@@ -6231,6 +6231,17 @@
             "fallenPlace": "လှည်းကူးမြို့နယ်၊ အားကစားကွင်းရှိ စစ်ကြောရေးစခန်း",
             "heroPlace": "လှည်ကူးမြို့နယ်၊ ရိပ်သာရပ်ကွက်",
             "fallenCause": "Oct-4 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေနတ်မှန်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုမင်းမင်းစိုး",
+            "fallenDay": "2021-10-17",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "",
@@ -15051,6 +15062,17 @@
             "fallenPlace": "ထန်တလန်မြို့အဝင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုနိုင်ထူးအောင်",

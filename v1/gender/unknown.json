@@ -485,17 +485,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုလင်းပိုင်စိုး",
-            "fallenDay": "2021-10-01",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မန္တလေး",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-10-06",
             "heroAge": "",
@@ -505,6 +494,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ ထီးပေါ်ဆိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

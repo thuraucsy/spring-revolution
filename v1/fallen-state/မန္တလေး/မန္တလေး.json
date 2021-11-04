@@ -1500,12 +1500,12 @@
             "heroName": "ကိုလင်းပိုင်စိုး",
             "fallenDay": "2021-10-01",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင်း နှိပ်စက်ခံရာကာသေဆုံး"
         },
         {
             "heroName": "ဦးစန်းလွင်",

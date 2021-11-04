@@ -14106,12 +14106,12 @@
             "heroName": "ကိုလင်းပိုင်စိုး",
             "fallenDay": "2021-10-01",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မန္တလေး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "စစ်ကြောရေးတွင်း နှိပ်စက်ခံရာကာသေဆုံး"
         },
         {
             "heroName": "ရဲဘော်ဗျတ္တ",
@@ -14323,6 +14323,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-10-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "သခင်ဘီဘီ (ခ) ကိုညီညီဖြိုး",
             "fallenDay": "2021-10-16",
             "heroAge": "",
@@ -14332,6 +14343,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းမင်းစိုး",
+            "fallenDay": "2021-10-17",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုဇွဲဝေယံ",
