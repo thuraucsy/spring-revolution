@@ -14456,6 +14456,39 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သိန္နီ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "သိန္နီမြို့နယ်၊ ဟူးလောင်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဆီဆိုင်တခုအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-11",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဖိုလ်ဝင်တောင်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-10-12",
             "heroAge": "",
             "heroGender": "m",
@@ -14464,6 +14497,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ညောင်ကိုင်းကျေးရွာထိပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-10-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မြင်းတန့်ကျေးရွာ",
+            "fallenCause": "လူသာဒိုင်းဖြင့် ခေါ်ခံရပြီး မိုင်းမိကာ ယင်းဒဏ်ရာဖြင့်သေဆုံး"
         },
         {
             "heroName": "",
