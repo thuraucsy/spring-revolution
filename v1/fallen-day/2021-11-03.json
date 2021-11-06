@@ -109,6 +109,17 @@
             "fallenPlace": "ချင်းပြည်နယ်၊ မင်းတပ်-မတူပီလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းနိုင်",
+            "fallenDay": "2021-11-03",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

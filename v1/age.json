@@ -3295,6 +3295,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းနိုင်",
+            "fallenDay": "2021-11-03",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "24": [
@@ -17840,14 +17851,14 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မမေဇင်ကျော်",
             "fallenDay": "2021-11-05",
             "heroAge": "",
-            "heroGender": "m",
+            "heroGender": "f",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ဝါးရငယ် မူးဘောင်ဘက်အနီး",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထိုက်ထိုက်ရေသန့်စက်ရုံ",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ အမှတ်၂ အထက်တန်းကျောင်းအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -26328,6 +26339,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းနိုင်",
+            "fallenDay": "2021-11-03",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
