@@ -16228,5 +16228,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-11-06": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
