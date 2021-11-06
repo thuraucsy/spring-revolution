@@ -725,6 +725,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာအနီး",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လွယ်ဝှဲကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးသံကြောင့် လန့်ဖြန့်ကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

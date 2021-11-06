@@ -17829,6 +17829,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုထိုက်",
+            "fallenDay": "2021-11-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ဝါးရငယ် မူးဘောင်ဘက်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထိုက်ထိုက်ရေသန့်စက်ရုံ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-05",
             "heroAge": "",
@@ -17837,6 +17848,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ဝါးရငယ် မူးဘောင်ဘက်အနီး",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထိုက်ထိုက်ရေသန့်စက်ရုံ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
