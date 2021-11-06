@@ -120,6 +120,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးဒါးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်အောင် (ခ) ကိုငယ်လေး",
+            "fallenDay": "2021-11-03",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကသာမြို့နယ်၊ မိုးတားလေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းဖျောက်ခဲ့"
         }
     ]
 }

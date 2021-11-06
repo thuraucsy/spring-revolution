@@ -6836,6 +6836,17 @@
             "fallenPlace": "ပုလောမြို့နယ်၊ ပုလောကုန်းကျေးရွာ ၊ အင်းမကုန်းရွာနှင့်  ကျောက်တိုအကြား",
             "heroPlace": "ပုလောမြို့နယ်၊ ပုလောကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်အောင် (ခ) ကိုငယ်လေး",
+            "fallenDay": "2021-11-03",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကသာမြို့နယ်၊ မိုးတားလေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းဖျောက်ခဲ့"
         }
     ],
     "40": [
@@ -10884,6 +10895,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်အောင် (ခ) ကိုငယ်လေး",
+            "fallenDay": "2021-11-03",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကသာမြို့နယ်၊ မိုးတားလေးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ အလောင်းဖျောက်ခဲ့"
         }
     ],
     "unknown": [
@@ -17838,6 +17860,39 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
             "heroPlace": "ကောလင်းမြို့နယ်၊ တောင်မော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ စက်မှုဇုန်ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ စက်မှုဇုန်ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ စက်မှုဇုန်ရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         },
         {
             "heroName": "ကိုထိုက်",
