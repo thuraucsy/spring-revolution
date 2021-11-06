@@ -17929,6 +17929,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-11-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပင်လည်ဘူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပင်လည်ဘူးမြို့နယ်၊ မလိမ်းတုံးကျေးရွာ နှင့် ပင်တုံးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-06",
             "heroAge": "",
             "heroGender": "m",
