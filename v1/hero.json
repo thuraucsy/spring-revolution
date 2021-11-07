@@ -15806,6 +15806,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးသန့်ဇင်ဟိန်း",
+            "fallenDay": "2021-11-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပင်လည်ဘူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပင်လည်ဘူးမြို့နယ်၊ မလိမ်းတုံးကျေးရွာ နှင့် ပင်တုံးကျေးရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
