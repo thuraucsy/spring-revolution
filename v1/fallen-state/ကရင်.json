@@ -109,6 +109,17 @@
             "fallenPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာဘုန်းကြီးကျောင်းအနီး",
             "heroPlace": "ဘားအံမြို့နယ်၊ မီးပုံကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "စစ်ကြောရေးတွင် ရရှိသောဒဏ်ရာများကြောင့် သေဆုံး"
         }
     ]
 }
