@@ -593,6 +593,17 @@
             "fallenPlace": "",
             "heroPlace": "တနင်္သာရီမြို့နယ်၊ အရှေ့မော်တုန်းကျေးရွာ",
             "fallenCause": "Oct-25 တွင် ဖမ်းဆီးသွားကာ Oct-27 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးခင်မောင်အေး",
+            "fallenDay": "2021-11-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
