@@ -6471,6 +6471,28 @@
                 "fallenPlace": "",
                 "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
                 "fallenCause": "Nov-5 တွင် ဖမ်းဆီးခံ၇၊ Nov-6 စစ်ကြောရေးတွင် သေဆုံး"
+            },
+            {
+                "heroName": "ကိုဝင်းအောင်လတ်",
+                "fallenDay": "2021-11-08",
+                "heroAge": "40",
+                "heroGender": "m",
+                "fallenCity": "ကွမ်းခြံကုန်း",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုမင်းဇော်ဦး",
+                "fallenDay": "2021-11-09",
+                "heroAge": "35",
+                "heroGender": "m",
+                "fallenCity": "ကွမ်းခြံကုန်း",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+                "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
             }
         ]
     },

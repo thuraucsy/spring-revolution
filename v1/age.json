@@ -6223,6 +6223,17 @@
             "fallenPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ ရွှေစာရေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းဇော်ဦး",
+            "fallenDay": "2021-11-09",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကွမ်းခြံကုန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+            "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "36": [
@@ -7223,6 +7234,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွား Oct-28 တွင် အလောင်းလာထုတ်ရန်ပြော၊ ဦးခေါင်းတွင်ကြေမွကာ နှိပ်စက်ဒဏ်ရာများရ"
+        },
+        {
+            "heroName": "ကိုဝင်းအောင်လတ်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကွမ်းခြံကုန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "41": [
@@ -10928,6 +10950,17 @@
             "fallenPlace": "",
             "heroPlace": "ကသာမြို့နယ်၊ မိုးတားလေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ အလောင်းဖျောက်ခဲ့"
+        },
+        {
+            "heroName": "ကိုမင်းဇော်ဦး",
+            "fallenDay": "2021-11-09",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကွမ်းခြံကုန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+            "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "unknown": [
@@ -23511,6 +23544,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွား Oct-28 တွင် အလောင်းလာထုတ်ရန်ပြော၊ ဦးခေါင်းတွင်ကြေမွကာ နှိပ်စက်ဒဏ်ရာများရ"
+        },
+        {
+            "heroName": "ကိုဝင်းအောင်လတ်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကွမ်းခြံကုန်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20th": [
