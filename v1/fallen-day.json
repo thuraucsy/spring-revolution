@@ -16369,6 +16369,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မဝေလင်းသူ",
+            "fallenDay": "2021-11-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလော (လယ်မူလား) မြို့နယ်၊ ဂျက်ဂါးကျေးရွာရှိ ရာဘာခြံ",
+            "heroPlace": "ပုလော (လယ်မူလား) မြို့နယ်၊ ဂျက်ဂါးကျေးရွာရှိ ရာဘာခြံ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
