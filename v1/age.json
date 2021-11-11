@@ -419,6 +419,17 @@
             "fallenPlace": "မုံရွာမြို့လယ် မီးပွိုင့်အနီး",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "မောင်ဖိုးချစ်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "16": [
@@ -6236,6 +6247,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုစက်အောင်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုမင်းဇော်ဦး",
             "fallenDay": "2021-11-09",
             "heroAge": "35",
@@ -7816,6 +7838,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ အင်းကျွန်းကျေးရွာအရှေ့ပိုင်း",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမြင့်ငွေ",
+            "fallenDay": "2021-11-07",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "46": [
@@ -10961,6 +10994,17 @@
             "fallenPlace": "",
             "heroPlace": "ကသာမြို့နယ်၊ မိုးတားလေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ အလောင်းဖျောက်ခဲ့"
+        },
+        {
+            "heroName": "ကိုစက်အောင်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုမင်းဇော်ဦး",
@@ -18061,39 +18105,6 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-11-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကောလင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-11-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကောလင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-11-07",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကောလင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
             "fallenDay": "2021-11-11",
             "heroAge": "",
             "heroGender": "",
@@ -19864,6 +19875,17 @@
             "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဖိုးချစ်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "10th": [
@@ -21527,6 +21549,17 @@
             "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဖိုးချစ်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "under18": [
@@ -22475,6 +22508,17 @@
             "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဖိုးချစ်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "40th": [
@@ -23610,6 +23654,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွား Oct-28 တွင် အလောင်းလာထုတ်ရန်ပြော၊ ဦးခေါင်းတွင်ကြေမွကာ နှိပ်စက်ဒဏ်ရာများရ"
+        },
+        {
+            "heroName": "ဦးမြင့်ငွေ",
+            "fallenDay": "2021-11-07",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုဝင်းအောင်လတ်",
@@ -27721,6 +27776,17 @@
             "fallenPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "heroPlace": "မြောင်မြို့နယ် မယ်မသော်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဖိုးချစ်",
+            "fallenDay": "2021-11-07",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ကောလင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "70th": [
