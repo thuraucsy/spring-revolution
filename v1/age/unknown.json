@@ -7083,6 +7083,17 @@
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-11",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

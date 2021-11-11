@@ -16357,5 +16357,18 @@
             "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
             "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
         }
+    ],
+    "2021-11-11": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-11",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }
