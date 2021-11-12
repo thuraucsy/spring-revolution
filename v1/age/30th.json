@@ -2067,6 +2067,17 @@
             "fallenPlace": "",
             "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
             "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးခွန်းလောအယ်ဖေ",
+            "fallenDay": "2021-11-11",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စထူလွှီးဘီလာနှင့်ပဒုံငံကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
