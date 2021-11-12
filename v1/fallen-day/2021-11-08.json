@@ -21,6 +21,39 @@
             "fallenPlace": "",
             "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်းနိုင် (ခ) ဦးဖိုးဇော်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

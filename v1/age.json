@@ -6031,7 +6031,7 @@
             "fallenDay": "2021-03-27",
             "heroAge": "35",
             "heroGender": "m",
-            "fallenCity": "ပုဂံ",
+            "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
@@ -7546,6 +7546,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ တောင်ဘက်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်းနိုင် (ခ) ဦးဖိုးဇော်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "43": [
@@ -7980,7 +7991,7 @@
             "fallenDay": "2021-03-27",
             "heroAge": "47",
             "heroGender": "m",
-            "fallenCity": "ပုဂံ",
+            "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
@@ -9834,7 +9845,7 @@
             "fallenDay": "2021-03-27",
             "heroAge": "35",
             "heroGender": "m",
-            "fallenCity": "ပုဂံ",
+            "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
@@ -14071,7 +14082,7 @@
             "fallenDay": "2021-05-30",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ပုဂံ",
+            "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
             "heroPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
@@ -18113,6 +18124,28 @@
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -22978,7 +23011,7 @@
             "fallenDay": "2021-03-27",
             "heroAge": "47",
             "heroGender": "m",
-            "fallenCity": "ပုဂံ",
+            "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
             "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
@@ -23698,6 +23731,17 @@
             "fallenPlace": "",
             "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်းနိုင် (ခ) ဦးဖိုးဇော်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "20th": [

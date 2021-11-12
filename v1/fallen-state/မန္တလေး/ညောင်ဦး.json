@@ -8,7 +8,7 @@
             "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
-            "heroPlace": "",
+            "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -19,8 +19,52 @@
             "fallenCity": "ညောင်ဦး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "",
-            "heroPlace": "",
+            "heroPlace": "ပုဂံ- ညောင်ဦးမြို့",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုးမြင့်အောင်",
+            "fallenDay": "2021-05-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
+            "heroPlace": "ပုဂံမြို့သစ် ပျူစောထီးတောင် ရုံးတန်းရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်းနိုင် (ခ) ဦးဖိုးဇော်",
+            "fallenDay": "2021-11-08",
+            "heroAge": "42",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ညောင်ဦး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
