@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်မိုး",
             "fallenDay": "2021-11-10",
             "heroAge": "21",
             "heroGender": "m",
@@ -9,7 +9,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
