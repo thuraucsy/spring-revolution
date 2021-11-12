@@ -14310,6 +14310,17 @@
             "fallenPlace": "နတ်မောက်မြို့ စခန်းမရွာထိပ်",
             "heroPlace": "နတ်မောက်မြို့ စခန်းမရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပြည်မြို့နယ်၊ မှော်ဇာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

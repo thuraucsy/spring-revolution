@@ -3574,6 +3574,17 @@
                 "fallenPlace": "လောင်းလုံမြို့နယ်၊ ပန္ဒလဲကျေးရွာ",
                 "heroPlace": "လောင်းလုံမြို့နယ်၊ ပန္ဒလဲကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-11",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လောင်းလုံး",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "လောင်းလုံးမြို့နယ်၊ မင်းရပ်ရွာနှင့် သာယာကုန်းရွာကြား",
+                "heroPlace": "ထားဝယ်မြို့၊ ဇလွန်းရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ရေဖြူ": [
@@ -7093,6 +7104,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ပြည်မြို့ ၊ကျောင်းကြီးအိုးတန်းရပ်ကွက်",
                 "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွားကာ ရိုက်နှက်ခံရကာသေဆုံး"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြည်",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "ပြည်မြို့နယ်၊ မှော်ဇာရပ်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ကြို့ပင်ကောက်": [

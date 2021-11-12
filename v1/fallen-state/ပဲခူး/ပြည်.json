@@ -87,6 +87,17 @@
             "fallenPlace": "",
             "heroPlace": "ပြည်မြို့ ၊ကျောင်းကြီးအိုးတန်းရပ်ကွက်",
             "fallenCause": "စစ်တပ်မှဖမ်းဆီးသွားကာ ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြည်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပြည်မြို့နယ်၊ မှော်ဇာရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
