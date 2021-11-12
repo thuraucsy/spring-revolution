@@ -3013,6 +3013,17 @@
             "fallenPlace": "",
             "heroPlace": "ဟားခါးမြို့နယ်၊ နှီယာန်လောန်ထာရ်ကျေးရွာ",
             "fallenCause": "Oct-12 တွင်ဖမ်းဆီးခံ၇၊ Nov-8 တွင် သေဆုံးကြောင်းသိရှိရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-10",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
