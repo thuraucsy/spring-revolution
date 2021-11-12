@@ -4135,6 +4135,17 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာအနီး",
             "heroPlace": "ကောလင်းမြို့နယ်၊ ရှမ်းကလုံးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဖမ်းဆီးခံရကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
