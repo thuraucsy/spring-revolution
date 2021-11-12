@@ -14313,6 +14313,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-11-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "လောင်းလုံးမြို့နယ်၊ မင်းရပ်ရွာနှင့် သာယာကုန်းရွာကြား",
+            "heroPlace": "ထားဝယ်မြို့၊ ဇလွန်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-12",
             "heroAge": "",
             "heroGender": "m",
