@@ -14299,6 +14299,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဝေသူအောင်",
+            "fallenDay": "2021-11-10",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "နတ်မောက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "နတ်မောက်မြို့ စခန်းမရွာထိပ်",
+            "heroPlace": "နတ်မောက်မြို့ စခန်းမရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
