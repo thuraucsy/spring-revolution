@@ -16089,9 +16089,20 @@
             "heroGender": "m",
             "fallenCity": "ကော့မှူး",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "ကော့မှူးမြို့နယ်၊ မကျီးကန်",
+            "fallenPlace": "ကော့မှူးမြို့နယ်၊ မကျီးကန်ရွာအနောက်ဘက် ကျိုက်ထော်ကားလမ်းပေါ်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရဲအောင်",
+            "fallenDay": "2021-11-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }
