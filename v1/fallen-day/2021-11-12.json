@@ -21,6 +21,17 @@
             "fallenPlace": "နေပြည်တော် စစ်ကြောရေးစခန်းတခု",
             "heroPlace": "နေပြည်တော်ကောင်စီနယ်မြေ၊ ဇီးကုန်းကျေးရွာ",
             "fallenCause": "Oct-15 တွင် ဖမ်းဆီးသွားပြီး Nov-12တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့မှူး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကော့မှူးမြို့နယ်၊ မကျီးကန်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

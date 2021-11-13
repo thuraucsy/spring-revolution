@@ -2741,6 +2741,17 @@
                 "fallenPlace": "မတ္တရာမြို့နယ်၊ ဇီးဖြူပင်ကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုချစ်စမ်းမောင်",
+                "fallenDay": "2021-11-09",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတ္တရာ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မတ္တရာမြို့မရဲစခန်း",
+                "heroPlace": "မတ္တရာမြို့နယ်၊ အမှတ် ၅ ဘုရင့်နောင် တောင်ရပ်ကွက်",
+                "fallenCause": "Nov-8 တွင် ဖမ်းဆီးခံ၇၊ Nov-9 ရဲစခန်းတွင် သေဆုံး"
             }
         ],
         "မြစ်ငယ်": [
@@ -6559,6 +6570,19 @@
                 "fallenPlace": "",
                 "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
                 "fallenCause": "Nov-6 တွင် ဖမ်းဆီးခံ၇၊ Nov-8 စစ်ကြောရေးတွင် သေဆုံး"
+            }
+        ],
+        "ကော့မှူး": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကော့မှူး",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "ကော့မှူးမြို့နယ်၊ မကျီးကန်",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     },
