@@ -2078,6 +2078,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စထူလွှီးဘီလာနှင့်ပဒုံငံကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးရဲအောင်",
+            "fallenDay": "2021-11-13",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

@@ -175,6 +175,17 @@
             "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
             "heroPlace": "",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ဦးရဲအောင်",
+            "fallenDay": "2021-11-13",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }
