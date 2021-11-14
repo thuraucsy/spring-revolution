@@ -13600,6 +13600,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးဖြူ",
+            "fallenDay": "2021-11-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွာငံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
+            "heroPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ကချင်": [
@@ -14341,6 +14352,17 @@
             "fallenPlace": "",
             "heroPlace": "ငါးသိုင်းချောင်းမြို့နယ်၊ ရင်းရှည်ကျေးရွာ၊ ငယ်ဖြူဆရာတော်ကျောင်းတိုက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူဝင်း",
+            "fallenDay": "2021-11-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "လပွတ္တာမြို့၊ ရ ရပ်ကွက်",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 တွင် သေဆုံး"
         }
     ],
     "ကယား": [

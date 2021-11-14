@@ -3350,6 +3350,17 @@
             "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ တကောင်းတောင်တလုံး အနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူဝင်း",
+            "fallenDay": "2021-11-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "လပွတ္တာမြို့၊ ရ ရပ်ကွက်",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 တွင် သေဆုံး"
         }
     ],
     "24": [
@@ -18311,6 +18322,17 @@
             "fallenPlace": "ကော့မှူးမြို့နယ်၊ မကျီးကန်ရွာအနောက်ဘက် ကျိုက်ထော်ကားလမ်းပေါ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးဖြူ",
+            "fallenDay": "2021-11-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွာငံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
+            "heroPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -26989,6 +27011,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူဝင်း",
+            "fallenDay": "2021-11-13",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "",
+            "heroPlace": "လပွတ္တာမြို့၊ ရ ရပ်ကွက်",
+            "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 တွင် သေဆုံး"
         }
     ],
     "50th": [
