@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
             "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးသာအေး",
+            "fallenDay": "2021-11-13",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

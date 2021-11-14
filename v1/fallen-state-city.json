@@ -10724,6 +10724,17 @@
                 "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
                 "heroPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးသာအေး",
+                "fallenDay": "2021-11-13",
+                "heroAge": "60",
+                "heroGender": "m",
+                "fallenCity": "ခင်ဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "တမူး": [
