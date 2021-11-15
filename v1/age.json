@@ -18333,6 +18333,28 @@
             "fallenPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
             "heroPlace": "ရွာငံမြို့နယ်၊ လယ်ကိုင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မောင်",
+            "fallenDay": "2021-11-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ရှမ်းတပ်ကျေးရွာ",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ပေလည်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်လုံး",
+            "fallenDay": "2021-11-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ရှမ်းတပ်ကျေးရွာ",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ဆယ့်တစ်ပေါက်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
