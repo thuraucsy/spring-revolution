@@ -18377,6 +18377,28 @@
             "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ရှမ်းတပ်ကျေးရွာ",
             "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ဆယ့်တစ်ပေါက်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဝင်း",
+            "fallenDay": "2021-11-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ရေဦးမြို့နယ်၊ ကွမ်းအုံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ စောင်းတန်းကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘိုတည်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "under20": [
