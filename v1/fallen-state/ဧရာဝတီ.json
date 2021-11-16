@@ -243,6 +243,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးထွန်းကြည်",
+            "fallenDay": "2021-11-10",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "ကျိုက်လတ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ကျိုက်လတ်မြို့နယ် မြို့မရဲစခန်း",
+            "heroPlace": "",
+            "fallenCause": "Nov-9 တွင် ဖမ်းဆီးခံ၇၊ Nov-10 ရဲစခန်းတွင် သေဆုံး"
+        },
+        {
             "heroName": "ကိုကျော်သူဝင်း",
             "fallenDay": "2021-11-13",
             "heroAge": "23",
