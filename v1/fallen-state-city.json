@@ -2083,6 +2083,17 @@
                 "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ အောင်၇တနာ အမှတ် ၁ ရပ်ကွက်",
                 "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆင်အင်းကျေးရွာ",
                 "fallenCause": "ကျည်မှန်၊ ဝမ်းဗိုက်သို့ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးဇော်မင်းအောင်",
+                "fallenDay": "2021-11-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "သပိတ်ကျင်း",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ မြင်သာကျေးရွာ",
+                "fallenCause": "Nov-17 မနက်တွင် ဖမ်းဆီးသွားပြီး စစ်ကြောရေးတွင်သေဆုံး"
             }
         ],
         "စဉ့်ကူး": [
@@ -16464,6 +16475,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-17",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ထန်တလန်": [

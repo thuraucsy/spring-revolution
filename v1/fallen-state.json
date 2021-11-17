@@ -2914,6 +2914,17 @@
             "fallenPlace": "",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
             "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဇော်မင်းအောင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သပိတ်ကျင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ မြင်သာကျေးရွာ",
+            "fallenCause": "Nov-17 မနက်တွင် ဖမ်းဆီးသွားပြီး စစ်ကြောရေးတွင်သေဆုံး"
         }
     ],
     "နေပြည်တော်": [
@@ -16173,6 +16184,17 @@
             "fallenPlace": "",
             "heroPlace": "ဟားခါးမြို့နယ်၊ နှီယာန်လောန်ထာရ်ကျေးရွာ",
             "fallenCause": "Oct-12 တွင်ဖမ်းဆီးခံ၇၊ Nov-8 တွင် သေဆုံးကြောင်းသိရှိရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "မသိရှိရသေး": [
