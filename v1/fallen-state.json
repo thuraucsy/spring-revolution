@@ -12927,6 +12927,39 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ စောင်းတန်းကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘိုတည်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရှိုင်းထက်ဇော်",
+            "fallenDay": "2021-11-16",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇော်မင်းဦး",
+            "fallenDay": "2021-11-16",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-16",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "ရှမ်း": [

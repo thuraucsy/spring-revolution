@@ -505,6 +505,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ သရက်ကန်ကျေးရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မြနန္ဒာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းဦး",
+            "fallenDay": "2021-11-16",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

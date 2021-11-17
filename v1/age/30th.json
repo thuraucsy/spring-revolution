@@ -2089,6 +2089,17 @@
             "fallenPlace": "",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
             "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းဦး",
+            "fallenDay": "2021-11-16",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ တင်းတိမ်ရံကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }
