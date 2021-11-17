@@ -14563,6 +14563,28 @@
             "fallenPlace": "",
             "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ မြင်သာကျေးရွာ",
             "fallenCause": "Nov-17 မနက်တွင် ဖမ်းဆီးသွားပြီး စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးငိုင်ကုန်း",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "မတူပီမြို့နယ်၊ ငလိုင်းကျေးရွာ",
+            "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Nov-17 တွင် သေဆုံးကြောင်း မိသားစုအားအကြောင်းကြား"
+        },
+        {
+            "heroName": "ဦးညီခင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "f": [
@@ -16259,17 +16281,6 @@
             "fallenCity": "ပင်လည်ဘူး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ပင်လည်ဘူးမြို့နယ်၊ မလိမ်းတုံးကျေးရွာ နှင့် ပင်တုံးကျေးရွာအနီး",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-11-17",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မတူပီ",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         }

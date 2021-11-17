@@ -65,6 +65,17 @@
             "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးညီခင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

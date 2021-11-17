@@ -13889,6 +13889,17 @@
                 "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးညီခင်",
+                "fallenDay": "2021-11-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဖယ်ခုံ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
+                "heroPlace": "",
+                "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
             }
         ],
         "ရွှေညောင်": [
@@ -16477,15 +16488,15 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးငိုင်ကုန်း",
                 "fallenDay": "2021-11-17",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "မတူပီ",
                 "fallenState": "ချင်း",
                 "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
+                "heroPlace": "မတူပီမြို့နယ်၊ ငလိုင်းကျေးရွာ",
+                "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Nov-17 တွင် သေဆုံးကြောင်း မိသားစုအားအကြောင်းကြား"
             }
         ],
         "ထန်တလန်": [

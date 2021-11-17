@@ -18467,15 +18467,26 @@
             "fallenCause": "Nov-17 မနက်တွင် ဖမ်းဆီးသွားပြီး စစ်ကြောရေးတွင်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးငိုင်ကုန်း",
             "fallenDay": "2021-11-17",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
             "fallenPlace": "",
+            "heroPlace": "မတူပီမြို့နယ်၊ ငလိုင်းကျေးရွာ",
+            "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Nov-17 တွင် သေဆုံးကြောင်း မိသားစုအားအကြောင်းကြား"
+        },
+        {
+            "heroName": "ဦးညီခင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "under20": [
