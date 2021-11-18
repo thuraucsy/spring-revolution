@@ -16334,6 +16334,17 @@
             "fallenPlace": "ထီးလင်းမြို့နယ်၊ ထန်းပင်ကုန်း နှင့် တောရောင်းကျေးရွာကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဉာဏ်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ပုသိမ်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "Nov-16 တွင် ဖမ်းဆီးခံ၇ပြီး Nov-17 နံနက်တွင်သေဆုံး"
         }
     ]
 }
