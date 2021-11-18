@@ -21,6 +21,50 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ Date လက်ဖက်ရည်ဆိုင်၊ အမှတ် ရ ငါးရာပြည့်ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးအေးလှိုင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်မာစီ",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "မအေးသင်း",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်စီ",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
         }
     ]
 }

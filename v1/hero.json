@@ -16279,6 +16279,50 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
             "heroPlace": "",
             "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးအေးလှိုင်",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်မာစီ",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "မအေးသင်း",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်စီ",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
+            "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
         }
     ]
 }
