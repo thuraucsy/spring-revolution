@@ -18608,6 +18608,17 @@
             "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ထန်းတပင်လမ်းနှင့် ထန်းတပင်အနောက်ပိုင်းလမ်းထောင့်",
             "heroPlace": "ကမာရွတ်မြို့နယ်၊ ထန်းတပင်လမ်းနှင့် ထန်းတပင်အနောက်ပိုင်းလမ်းထောင့်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [

@@ -21,6 +21,17 @@
             "fallenPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "heroPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
