@@ -4,7 +4,7 @@
             "heroName": "",
             "fallenDay": "2021-11-18",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ကမာရွတ်",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ထန်းတပင်လမ်းနှင့် ထန်းတပင်အနောက်ပိုင်းလမ်းထောင့်",
@@ -31,6 +31,17 @@
             "fallenState": "မကွေး",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်ဝင်း",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
+            "heroPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

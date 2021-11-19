@@ -16380,10 +16380,21 @@
             "fallenCause": "Nov-16 တွင် ဖမ်းဆီးခံ၇ပြီး Nov-17 နံနက်တွင်သေဆုံး"
         },
         {
+            "heroName": "ကိုကျော်စိုးဝင်း",
+            "fallenDay": "2021-11-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်ပန်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "အောင်ပန်းမြို့ လှည်းရိုးရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-18",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ကမာရွတ်",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ထန်းတပင်လမ်းနှင့် ထန်းတပင်အနောက်ပိုင်းလမ်းထောင့်",
@@ -16410,6 +16421,17 @@
             "fallenState": "မကွေး",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်ဝင်း",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
+            "heroPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

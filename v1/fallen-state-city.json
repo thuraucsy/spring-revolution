@@ -6645,7 +6645,7 @@
                 "heroName": "",
                 "fallenDay": "2021-11-18",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "ကမာရွတ်",
                 "fallenState": "ရန်ကုန်",
                 "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ထန်းတပင်လမ်းနှင့် ထန်းတပင်အနောက်ပိုင်းလမ်းထောင့်",
@@ -7560,6 +7560,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်၊  အလောင်းအားစစ်တပ်မှ သိမ်သွား"
+            },
+            {
+                "heroName": "ဦးမြင့်ဝင်း",
+                "fallenDay": "2021-11-18",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပခုက္ကူ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
+                "heroPlace": "ပခုက္ကူမြိုနယ်၊ ကျပ်တိုးကျေးရွာအုပ်စု၊ အနောက်တောကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "တောင်တွင်းကြီး": [
@@ -13543,6 +13554,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုကျော်စိုးဝင်း",
+                "fallenDay": "2021-11-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "အောင်ပန်း",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "အောင်ပန်းမြို့ လှည်းရိုးရပ်ကွက်",
+                "heroPlace": "",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "တောင်ကြီး": [
