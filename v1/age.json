@@ -3383,6 +3383,17 @@
             "fallenPlace": "",
             "heroPlace": "လပွတ္တာမြို့၊ ရ ရပ်ကွက်",
             "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "Mai Biak Rem Chin (ခ) ချင်းချင်း",
+            "fallenDay": "2021-11-16",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "24": [
@@ -4170,6 +4181,17 @@
             "fallenPlace": "ရေးမြို့နယ်၊ ရေးမြစ်ကူးတံတား (ချောင်းတောင်ဂိတ်) အနီး",
             "heroPlace": "ရေးမြို့နယ် ခေါဇာမြို့",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Ram Mawia",
+            "fallenDay": "2021-11-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "27": [
@@ -4436,6 +4458,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "Cher Thang Puia",
+            "fallenDay": "2021-11-16",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "28": [
@@ -18467,37 +18500,15 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးဗျက်နေဆန်း",
             "fallenDay": "2021-11-16",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲစခန်းတစ်ခု",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-11-16",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲစခန်းတစ်ခု",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "Mai Biak Rem Chin (ခ) ချင်းချင်း",
-            "fallenDay": "2021-11-16",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲစခန်းတစ်ခု",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲစခန်းတစ်ခုအနီး",
+            "heroPlace": "ကလေးမြို့ အနောက်တောင်ဘက်ချင်းတောင်ခြေအနီး စီးစံကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးဇော်မင်းအောင်",
@@ -27407,6 +27418,39 @@
             "fallenPlace": "မင်္ဂလာဒုံမြို့နယ်၊ ခရေပင်လမ်းခွဲအနီး",
             "heroPlace": "မရမ်းကုန်းမြို့နယ်၊ သမိုင်း (၁) ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Cher Thang Puia",
+            "fallenDay": "2021-11-16",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Ram Mawia",
+            "fallenDay": "2021-11-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Mai Biak Rem Chin (ခ) ချင်းချင်း",
+            "fallenDay": "2021-11-16",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50th": [
