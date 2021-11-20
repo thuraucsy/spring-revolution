@@ -16455,6 +16455,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Salai Khua Tin Thang",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

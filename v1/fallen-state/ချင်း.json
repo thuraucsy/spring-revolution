@@ -813,6 +813,17 @@
             "fallenPlace": "",
             "heroPlace": "မတူပီမြို့နယ်၊ ငလိုင်းကျေးရွာ",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Nov-17 တွင် သေဆုံးကြောင်း မိသားစုအားအကြောင်းကြား"
+        },
+        {
+            "heroName": "Salai Khua Tin Thang",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
