@@ -769,6 +769,17 @@
             "fallenPlace": "အောင်ပန်းမြို့ လှည်းရိုးရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-20",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မုံကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ အနီး",
+            "heroPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
