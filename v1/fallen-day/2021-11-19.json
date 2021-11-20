@@ -21,6 +21,17 @@
             "fallenPlace": "ထန်တလန်မြို့အနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမင်းခန့်သစ္စာ",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အောင်လံ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "အောင်လံမြို့အခြေစိုက် အောင်လံပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
