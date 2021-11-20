@@ -15763,6 +15763,28 @@
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စထူလွှီးဘီလာနှင့်ပဒုံငံကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုထွန်းထွန်းငြိမ်း",
+                "fallenDay": "2021-11-18",
+                "heroAge": "22",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+                "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "မချစ်စုဝေ",
+                "fallenDay": "2021-11-18",
+                "heroAge": "22",
+                "heroGender": "f",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+                "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဘော်လခဲ": [
@@ -16780,13 +16802,13 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "Salai Khua Tin Thang",
+                "heroName": "ဆလိုင်းဂျွန်တလွန်လျန်ထန် ( Salai John Tluang Lian Thang)",
                 "fallenDay": "2021-11-19",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "ထန်တလန်",
                 "fallenState": "ချင်း",
-                "fallenPlace": "",
+                "fallenPlace": "ထန်တလန်မြို့အနီးတိုက်ပွဲ",
                 "heroPlace": "",
                 "fallenCause": ""
             }

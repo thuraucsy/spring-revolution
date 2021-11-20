@@ -2974,6 +2974,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းထွန်းငြိမ်း",
+            "fallenDay": "2021-11-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မချစ်စုဝေ",
+            "fallenDay": "2021-11-18",
+            "heroAge": "22",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "23": [
@@ -18665,13 +18687,13 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "Salai Khua Tin Thang",
+            "heroName": "ဆလိုင်းဂျွန်တလွန်လျန်ထန် ( Salai John Tluang Lian Thang)",
             "fallenDay": "2021-11-19",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ထန်တလန်",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
+            "fallenPlace": "ထန်တလန်မြို့အနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
         },
@@ -27473,6 +27495,28 @@
             "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းထွန်းငြိမ်း",
+            "fallenDay": "2021-11-18",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မချစ်စုဝေ",
+            "fallenDay": "2021-11-18",
+            "heroAge": "22",
+            "heroGender": "f",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စံပြ ၆ မိုင်ရွာ၊ ခရစ်ယာန်ဘုရားကျောင်းအနီး",
+            "heroPlace": "ဒီးမော့ဆိုမြို့နယ် ငွေတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [
