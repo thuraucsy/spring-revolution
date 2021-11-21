@@ -17037,5 +17037,18 @@
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကျီကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-11-21": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "လောင်းလုံးမြို့နယ်တောင်ဘက်ရှိ ညင်းမော်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
