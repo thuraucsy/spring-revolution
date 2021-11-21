@@ -18753,6 +18753,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုထူးနိုင်",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာရှိ မူးမြစ်ကူးတံတားအနီး",
+            "heroPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-20",
             "heroAge": "",
@@ -18775,7 +18786,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုငြိမ်းချမ်း",
             "fallenDay": "2021-11-21",
             "heroAge": "",
             "heroGender": "m",
@@ -18784,6 +18795,17 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ်တောင်ဘက်ရှိ ညင်းမော်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [

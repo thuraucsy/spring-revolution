@@ -1198,6 +1198,17 @@
             "fallenPlace": "အောင်လံမြို့အခြေစိုက် အောင်လံပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ စခန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

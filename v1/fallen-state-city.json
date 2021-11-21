@@ -3642,7 +3642,7 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုငြိမ်းချမ်း",
                 "fallenDay": "2021-11-21",
                 "heroAge": "",
                 "heroGender": "m",
@@ -8629,6 +8629,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-21",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆော",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဆိပ်ဖြူ": [
@@ -12062,6 +12073,17 @@
                 "fallenPlace": "အရာတော်မြို့နယ်၊ ပါရမီကျေးရွာနှင့် ကြာပင်လှကျေးရွာကြား",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုထူးနိုင်",
+                "fallenDay": "2021-11-19",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "အရာတော်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာရှိ မူးမြစ်ကူးတံတားအနီး",
+                "heroPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "ကနီ": [
