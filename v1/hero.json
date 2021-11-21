@@ -16512,9 +16512,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမြင့်အောင် (ခ) ကိုဆန်နီ",
             "fallenDay": "2021-11-19",
-            "heroAge": "30",
+            "heroAge": "33",
             "heroGender": "m",
             "fallenCity": "ကျွန်းလှ",
             "fallenState": "စစ်ကိုင်း",
@@ -16523,9 +16523,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးအောင်လွင်",
             "fallenDay": "2021-11-19",
-            "heroAge": "45",
+            "heroAge": "48",
             "heroGender": "m",
             "fallenCity": "ကျွန်းလှ",
             "fallenState": "စစ်ကိုင်း",
@@ -16565,6 +16565,17 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ခင်မွန်ရွာဘောလုံးကွင်းအနီး",
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကျီကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-20",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဇရပ်နီကျေးရွာနှင့် သာဂေါင်ကျေးရွာကြား",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ သာဂေါင်ကျေးရွာ",
+            "fallenCause": "မိုင်းမိ"
         },
         {
             "heroName": "ကိုငြိမ်းချမ်း",
