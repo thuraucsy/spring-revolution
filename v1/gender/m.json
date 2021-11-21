@@ -14753,13 +14753,35 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-20",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ချောင်းဦး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ခင်မွန်ရွာဘောလုံးကွင်းအနီး",
-            "heroPlace": "",
+            "heroPlace": "ချောင်းဦးမြို့နယ်၊ ကျီကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]
