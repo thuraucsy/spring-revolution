@@ -16521,6 +16521,17 @@
             "fallenPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ အနီး",
             "heroPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ခင်မွန်ရွာဘောလုံးကွင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
