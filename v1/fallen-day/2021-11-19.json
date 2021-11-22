@@ -65,6 +65,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာရှိ မူးမြစ်ကူးတံတားအနီး",
             "heroPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

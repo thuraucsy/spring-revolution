@@ -461,6 +461,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

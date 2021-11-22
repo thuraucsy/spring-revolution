@@ -45,6 +45,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမောင်မောင်ထွေး",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ် သဲကုန်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ် သဲကုန်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုထွန်းထွန်းငြိမ်း",
             "fallenDay": "2021-11-18",
             "heroAge": "22",

@@ -18753,6 +18753,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမောင်မောင်ထွေး",
+            "fallenDay": "2021-11-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ် သဲကုန်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ် သဲကုန်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-11-19",
             "heroAge": "",
@@ -18784,6 +18795,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာရှိ မူးမြစ်ကူးတံတားအနီး",
             "heroPlace": "အရာတော်မြို့နယ်၊ သမရိုးကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",
@@ -18839,6 +18861,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးသန်းမြတ်စိုး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှည်းကူး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှည်းကူးမြို့နယ်( ဒါးပိန်တောင်) မြို့မရန်အောင်ခန်းမ သခွတ်ပင်ပိုင်း(ဂိတ်အရှေ့)အနီး",
+            "heroPlace": "လှည်းကူးမြို့နယ်၊ ဒါးပိန်တောင်အရှေ့ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [

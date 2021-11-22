@@ -813,6 +813,17 @@
             "fallenPlace": "ပြည်မြို့နယ်၊ မှော်ဇာကျေးရွာအုပ်ချုပ်ရေးမှူးရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
