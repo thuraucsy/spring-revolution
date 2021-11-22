@@ -7465,9 +7465,9 @@
             "heroGender": "m",
             "fallenCity": "ပဲခူး",
             "fallenState": "ပဲခူး",
-            "fallenPlace": "",
+            "fallenPlace": "ပဲခူးမြို့၊ ရုံးကြီးရပ်ကွက်၊ တပင်ရွှေထီး လမ်းမအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -7481,7 +7481,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုတင်မောင်အေး",
             "fallenDay": "2021-11-20",
             "heroAge": "",
             "heroGender": "m",
