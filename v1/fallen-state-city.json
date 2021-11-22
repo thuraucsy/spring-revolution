@@ -8761,6 +8761,19 @@
                 "heroPlace": "နတ်မောက်မြို့ စခန်းမရွာ",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ကျောက်ထု": [
+            {
+                "heroName": "ကိုရှိုင်းသူရအောင်",
+                "fallenDay": "2021-11-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ထု",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
         ]
     },
     "မွန်": {
