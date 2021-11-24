@@ -879,6 +879,28 @@
             "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုမင်းဇော်အောင်",
+            "fallenDay": "2021-11-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

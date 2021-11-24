@@ -1859,6 +1859,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ကိုမင်းဇော်အောင်",
+            "fallenDay": "2021-11-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုဘုန်းမြင့်အောင်",
             "fallenDay": "2021-11-23",
             "heroAge": "19",
@@ -6100,6 +6111,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "35": [
@@ -8804,6 +8826,17 @@
             "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "57": [
@@ -11346,6 +11379,17 @@
             "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "unknown": [
@@ -20724,6 +20768,17 @@
             "fallenCause": "Apr-30 တွင်ဖမ်းဆီးခံ၇၊ Nov-20 တွင် ထောင်တွင်း/စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
+            "heroName": "ကိုမင်းဇော်အောင်",
+            "fallenDay": "2021-11-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုဘုန်းမြင့်အောင်",
             "fallenDay": "2021-11-23",
             "heroAge": "19",
@@ -22473,6 +22528,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ နာနတ်တောရွာ",
             "fallenCause": "Apr-30 တွင်ဖမ်းဆီးခံ၇၊ Nov-20 တွင် ထောင်တွင်း/စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုမင်းဇော်အောင်",
+            "fallenDay": "2021-11-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဘုန်းမြင့်အောင်",
@@ -28311,6 +28377,17 @@
             "fallenPlace": "",
             "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ ၄၁ လမ်း ၈၇ လမ်းကြား",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "60th": [

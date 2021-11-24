@@ -76,6 +76,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

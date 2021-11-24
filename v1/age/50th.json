@@ -505,6 +505,17 @@
             "fallenPlace": "",
             "heroPlace": "မဟာအောင်မြေမြို့နယ်၊ ၄၁ လမ်း ၈၇ လမ်းကြား",
             "fallenCause": "Oct-27 တွင် ဖမ်းဆီးသွားကာ Oct-28 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

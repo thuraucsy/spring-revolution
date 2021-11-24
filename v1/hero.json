@@ -16644,6 +16644,28 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုမင်းဇော်အောင်",
+            "fallenDay": "2021-11-22",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇော်နိုင်ဌေး",
+            "fallenDay": "2021-11-22",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဦးသန်းမြတ်စိုး",
             "fallenDay": "2021-11-22",
             "heroAge": "",
@@ -16652,6 +16674,17 @@
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "လှည်းကူးမြို့နယ်( ဒါးပိန်တောင်) မြို့မရန်အောင်ခန်းမ သခွတ်ပင်ပိုင်း(ဂိတ်အရှေ့)အနီး",
             "heroPlace": "လှည်းကူးမြို့နယ်၊ ဒါးပိန်တောင်အရှေ့ပိုင်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

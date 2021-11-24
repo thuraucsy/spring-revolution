@@ -780,6 +780,17 @@
             "fallenPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ အနီး",
             "heroPlace": "မုံကိုးမြို့နယ်၊ ဘန်မွေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

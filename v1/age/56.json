@@ -43,6 +43,17 @@
             "fallenPlace": "မတူပီမြို့နယ်၊ လေမြိုချောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-22",
+            "heroAge": "56",
+            "heroGender": "m",
+            "fallenCity": "မူဆယ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "heroPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
