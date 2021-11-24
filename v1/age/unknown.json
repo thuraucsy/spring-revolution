@@ -7536,15 +7536,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုဘုန်းမြင့်အောင်",
+            "heroName": "",
             "fallenDay": "2021-11-23",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ရန်ကုန်",
-            "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
-            "heroPlace": "ဗိုလ်တထောင်မြို့နယ်၊ ၅၄ လမ်း",
-            "fallenCause": ""
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "fallenCause": "ခေါင်းဖြတ်သတ်ဖြတ်ခံရ"
         }
     ]
 }
