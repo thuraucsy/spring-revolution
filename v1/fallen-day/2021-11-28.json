@@ -10,6 +10,17 @@
             "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရဲသူနိုင်",
+            "fallenDay": "2021-11-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

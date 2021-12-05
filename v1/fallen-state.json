@@ -2938,6 +2938,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ဦးရဲသူနိုင်",
+            "fallenDay": "2021-11-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုသန်းထွန်းအောင်",
             "fallenDay": "2021-11-29",
             "heroAge": "25",
@@ -16017,6 +16028,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်ကြောရေးတွင် ရရှိသောဒဏ်ရာများကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ တပ်မ (၁၅၁) အနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "ချင်း": [

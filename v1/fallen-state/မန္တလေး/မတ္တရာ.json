@@ -131,6 +131,17 @@
             "fallenPlace": "",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ကျောက်တံတားကျေးရွာ",
             "fallenCause": "Nov-12 တွင် ဖမ်းဆီးခံ၇၊ Nov-13 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးရဲသူနိုင်",
+            "fallenDay": "2021-11-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -120,6 +120,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်ကြောရေးတွင် ရရှိသောဒဏ်ရာများကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘားအံ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဘားအံမြို့နယ်၊ တပ်မ (၁၅၁) အနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
