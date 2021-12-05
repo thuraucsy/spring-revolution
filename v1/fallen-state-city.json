@@ -11660,6 +11660,17 @@
                 "fallenPlace": "ရွှေဘိုမြို့နယ်၊ စောင်းတန်းကျေးရွာ",
                 "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဘိုတည်ကုန်းကျေးရွာ",
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဝင်းမင်းထွန်း",
+                "fallenDay": "2021-11-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေဘို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ယင်းမာပင်": [
@@ -14585,6 +14596,17 @@
                 "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ လွယ်မခါးတောင်အနီး",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန် ဒဏ်ရာဖြင့် သေဆုံး"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-11-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကွတ်ခိုင်",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ ကောင်းလင်းကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "နမ့်ဆန်": [

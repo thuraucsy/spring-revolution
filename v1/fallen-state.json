@@ -13523,6 +13523,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဝင်းမင်းထွန်း",
+            "fallenDay": "2021-11-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်ဝင်းထွန်း",
             "fallenDay": "2021-11-26",
             "heroAge": "",
@@ -14359,6 +14370,17 @@
             "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
             "heroPlace": "မူဆယ်မြို့နယ်၊ မော်တောင်း၊ ဇွပ်ရာကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ နှိပ်စက် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ ကောင်းလင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ကချင်": [

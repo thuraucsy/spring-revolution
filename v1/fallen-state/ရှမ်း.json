@@ -791,6 +791,17 @@
             "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
             "heroPlace": "မူဆယ်မြို့နယ်၊ မော်တောင်း၊ ဇွပ်ရာကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ နှိပ်စက် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ ကောင်းလင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

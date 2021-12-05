@@ -21,6 +21,17 @@
             "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ လွယ်မခါးတောင်အနီး",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန် ဒဏ်ရာဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကွတ်ခိုင်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကွတ်ခိုင်မြို့နယ်၊ ကောင်းလင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
