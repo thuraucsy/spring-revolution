@@ -824,6 +824,17 @@
             "fallenPlace": "ပဲခူးမြို့၊ ရုံးကြီးရပ်ကွက်၊ တပင်ရွှေထီး လမ်းမအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းမွန်ဇော်",
+            "fallenDay": "2021-11-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝေါ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ဝေါမြို့နယ်၊ ချမ်းမြသာစည်ရပ်ကွက်",
+            "fallenCause": "စစ်ကြောရေးတွင် ရရှိသောဒဏ်ရာများကြောင့် သေဆုံး"
         }
     ]
 }

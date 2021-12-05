@@ -340,6 +340,17 @@
             "fallenPlace": "ချင်းပြည်နယ်၊ မင်းတပ်-မတူပီလမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးယောငိုင်း",
+            "fallenDay": "2021-11-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "မင်းတပ်မြို့နယ်၊ ဖိုးခယိုကျေးရွာ",
+            "fallenCause": "မိုင်းနင်းမိ"
         }
     ]
 }

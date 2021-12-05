@@ -824,6 +824,17 @@
             "fallenPlace": "ထန်တလန်မြို့အနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးယောငိုင်း",
+            "fallenDay": "2021-11-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "မင်းတပ်မြို့နယ်၊ ဖိုးခယိုကျေးရွာ",
+            "fallenCause": "မိုင်းနင်းမိ"
         }
     ]
 }
