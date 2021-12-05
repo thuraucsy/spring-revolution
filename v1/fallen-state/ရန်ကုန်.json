@@ -2892,6 +2892,17 @@
             "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
             "heroPlace": "ဗိုလ်တထောင်မြို့နယ်၊ ၅၄ လမ်း",
             "fallenCause": "Nov-22 တွင် ဖမ်းဆီးခံ၇၊ Nov-23 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ ရိုးလေးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

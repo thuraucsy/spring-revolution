@@ -2936,6 +2936,28 @@
             "fallenPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "heroPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုသန်းထွန်းအောင်",
+            "fallenDay": "2021-11-29",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "စဉ့်ကိုင်",
+            "fallenCause": ""
         }
     ]
 }

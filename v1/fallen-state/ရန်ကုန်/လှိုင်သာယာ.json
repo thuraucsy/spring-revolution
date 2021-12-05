@@ -527,6 +527,17 @@
             "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ တံတားဖြူမှတ်တိုင်အနီး၊ ညောင်တုန်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ ရိုးလေးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

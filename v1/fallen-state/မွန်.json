@@ -285,6 +285,17 @@
             "fallenPlace": "သံဖြူဇရပ်မြို့နယ်၊ လမိုင်းကျေးရွာအနီး",
             "heroPlace": "မအူပင်မြို့နယ်၊ အမှတ်-၁ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျိုက်ထို",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -2059,6 +2059,17 @@
                 "fallenPlace": "မြင်းခြံမြို့နယ်၊ ဂေါင်းကွဲကျေးရွာ",
                 "heroPlace": "မြင်းခြံမြို့နယ်၊ ဂေါင်းကွဲကျေးရွာ",
                 "fallenCause": "ရိုက်နှက်ဒဏ်ရာများဖြင့်သေဆုံး"
+            },
+            {
+                "heroName": "ကိုသန်းထွန်းအောင်",
+                "fallenDay": "2021-11-29",
+                "heroAge": "25",
+                "heroGender": "m",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+                "heroPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
             }
         ],
         "သပိတ်ကျင်း": [
@@ -2616,6 +2627,17 @@
                 "fallenPlace": "",
                 "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ရွာဘိုကျေးရွာ",
                 "fallenCause": "Nov-1 တွင်ဖမ်းဆီးခံ၇ကာ Nov-2 တွင် အလောင်းလာထုတ်ရန်ပြော"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "စဉ့်ကိုင်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "စဉ့်ကိုင်",
+                "fallenCause": ""
             }
         ],
         "အမရပူရ": [
@@ -5252,6 +5274,17 @@
                 "fallenCity": "လှိုင်သာယာ",
                 "fallenState": "ရန်ကုန်",
                 "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ တံတားဖြူမှတ်တိုင်အနီး၊ ညောင်တုန်းလမ်း",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လှိုင်သာယာ",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ ရိုးလေးကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
@@ -8946,6 +8979,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ ဘိုက္ကားကျေးရွာ",
                 "fallenCause": "Sep-12 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Sep-16 တွင် အလောင်းလာထုတ်ရန်ပြော"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-02",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျိုက်ထို",
+                "fallenState": "မွန်",
+                "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "သထုံ": [
@@ -10509,7 +10553,7 @@
                 "heroName": "ကိုဇော်ထိုက်",
                 "fallenDay": "2021-12-01",
                 "heroAge": "",
-                "heroGender": "",
+                "heroGender": "m",
                 "fallenCity": "ကလေး",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ကလေးမြို့နယ် အင်းကျွန်းကျေးရွာအနီး",

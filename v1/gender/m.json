@@ -14939,6 +14939,61 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုသန်းထွန်းအောင်",
+            "fallenDay": "2021-11-29",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+            "heroPlace": "မြင်းခြံမြို့နယ်၊ ကိုင်းမြောက်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ရိုက်နှက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စဉ့်ကိုင်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "စဉ့်ကိုင်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လှိုင်သာယာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ ရိုးလေးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထိုက်",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ် အင်းကျွန်းကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျိုက်ထို",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-02",
             "heroAge": "",

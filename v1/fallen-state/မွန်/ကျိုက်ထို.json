@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ ဘိုက္ကားကျေးရွာ",
             "fallenCause": "Sep-12 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Sep-16 တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျိုက်ထို",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
