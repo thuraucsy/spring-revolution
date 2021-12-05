@@ -2708,6 +2708,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်သားထွန်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "22": [
@@ -4746,6 +4757,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်၊ မုံရွာ-အမြင့်လမ်းဘေးရှိ ပေါက်ပင်ကျေးရွာ",
             "heroPlace": "မုံရွာမြို့နယ်၊ မုံရွာ-အမြင့်လမ်းဘေးရှိ ပေါက်ပင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မှိုင်းဝေ",
+            "fallenDay": "2021-11-26",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "29": [
@@ -5854,6 +5876,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်ရဲစခန်း",
             "heroPlace": "",
             "fallenCause": "June-2 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "နောင်နောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "33": [
@@ -8396,6 +8429,17 @@
             "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပုဏ္ဏားကြီးကျေးရွာအနီး",
             "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ကံကြီးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်မောင်ဝင်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "50": [
@@ -8756,6 +8800,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဦးလှဆောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "53",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "55": [
@@ -11412,6 +11467,17 @@
             "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "နောင်နောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "unknown": [
@@ -18984,15 +19050,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးမြို့သိန်း",
             "fallenDay": "2021-11-23",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ စိန်ဒူးကျေးရွာအနီး",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ စိန်ဒူးကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "",
@@ -24875,6 +24941,17 @@
             "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးတင်မောင်ဝင်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "20th": [
@@ -27981,6 +28058,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်သားထွန်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မှိုင်းဝေ",
+            "fallenDay": "2021-11-26",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုသန်းထွန်းအောင်",
             "fallenDay": "2021-11-29",
             "heroAge": "25",
@@ -28520,6 +28619,17 @@
             "fallenPlace": "မူဆယ်မြို့နယ်၊ မန်းဟန်ကျေးရွာ",
             "heroPlace": "မူဆယ်မြို့နယ်၊ မော်တောင်း၊ ဇွပ်ရာကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ နှိပ်စက် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးလှဆောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "53",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "60th": [

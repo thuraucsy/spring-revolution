@@ -373,6 +373,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်သားထွန်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

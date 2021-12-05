@@ -142,6 +142,17 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်ရဲစခန်း",
             "heroPlace": "",
             "fallenCause": "June-2 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "နောင်နောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

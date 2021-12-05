@@ -54,6 +54,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "စစ်တပ်မှ ညင်းပန်းနှိပ်စက်ခံရကာကျဆုံး"
+        },
+        {
+            "heroName": "ဦးလှဆောင်",
+            "fallenDay": "2021-11-26",
+            "heroAge": "53",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

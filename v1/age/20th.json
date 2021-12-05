@@ -3103,6 +3103,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်သားထွန်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မှိုင်းဝေ",
+            "fallenDay": "2021-11-26",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုသန်းထွန်းအောင်",
             "fallenDay": "2021-11-29",
             "heroAge": "25",
