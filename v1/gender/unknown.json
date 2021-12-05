@@ -538,6 +538,17 @@
             "fallenPlace": "ပင်လည်ဘူးမြို့နယ်၊ မလိမ်းတုံးကျေးရွာ နှင့် ပင်တုံးကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-28",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
