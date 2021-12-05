@@ -23,6 +23,17 @@
             "fallenCause": "ခေါင်းဖြတ်သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုကျော်ကျော်ထွေး",
+            "fallenDay": "2021-11-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာနှင့် ကျောက်ပြောက်ကျေးရွာကြား",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဝါးရောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုမင်းနိုင်",
             "fallenDay": "2021-11-23",
             "heroAge": "",
@@ -32,6 +43,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ကျောက်ကုန်းကျေးရွာအနီးရှိ မြစ်သောင်ပြင်အနီး",
             "heroPlace": "အရာတော်မြို့နယ်၊ သလဲဘာကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ စိန်ဒူးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

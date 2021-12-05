@@ -1220,6 +1220,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-11-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ စိန်ဒူးကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

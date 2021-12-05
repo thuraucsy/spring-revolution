@@ -34,15 +34,15 @@
             "fallenCause": "Nov-1 တွင်ဖမ်းဆီးခံ၇ကာ Nov-2 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဖြိုးမောင်ရဲ (ခ) ဝက်ကလေး",
             "fallenDay": "2021-12-01",
-            "heroAge": "",
+            "heroAge": "25",
             "heroGender": "m",
             "fallenCity": "စဉ့်ကိုင်",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "စဉ့်ကိုင်",
-            "fallenCause": ""
+            "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဘိုကျေးရွာရှိ လုံခြုံရေးကင်းစခန်း",
+            "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ကသဲကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
