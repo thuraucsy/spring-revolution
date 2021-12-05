@@ -18951,6 +18951,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဇော်ထိုက်",
+            "fallenDay": "2021-12-01",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ် အင်းကျွန်းကျေးရွာအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ ရေရှင်ကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ သာစည်လမ်း၊ အရှေ့လယ်တီဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးမြင့်အေး",
             "fallenDay": "2021-12-03",
             "heroAge": "",
