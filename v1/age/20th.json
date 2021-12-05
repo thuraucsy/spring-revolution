@@ -3120,9 +3120,20 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဟိန်းမင်းထွန်း",
+            "fallenDay": "2021-11-27",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့်ပစ်ခတ်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုသန်းထွန်းအောင်",

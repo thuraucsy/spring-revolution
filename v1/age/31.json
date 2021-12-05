@@ -164,6 +164,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့နယ်၊ မော်ခမ်း ၂၁ လမ်း",
             "fallenCause": "Apr-9 တွင် ကျည်မှန်၊ June-4 တွင် ဆေးကုသရင်း ကျဆုံး"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်ဝင်း",
+            "fallenDay": "2021-11-28",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }

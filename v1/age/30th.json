@@ -2130,9 +2130,20 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်ဝင်း",
+            "fallenDay": "2021-11-28",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }

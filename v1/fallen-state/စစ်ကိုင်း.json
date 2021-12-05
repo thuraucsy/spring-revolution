@@ -4434,6 +4434,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဟိန်းမင်းထွန်း",
+            "fallenDay": "2021-11-27",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့်ပစ်ခတ်ခံရကာသေဆုံး"
+        },
+        {
             "heroName": "ကိုဇော်ထိုက်",
             "fallenDay": "2021-12-01",
             "heroAge": "",

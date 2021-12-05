@@ -4291,6 +4291,17 @@
             "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဟိန်းမင်းထွန်း",
+            "fallenDay": "2021-11-27",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့်ပစ်ခတ်ခံရကာသေဆုံး"
         }
     ],
     "27": [
@@ -4765,8 +4776,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
@@ -5731,6 +5742,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့နယ်၊ မော်ခမ်း ၂၁ လမ်း",
             "fallenCause": "Apr-9 တွင် ကျည်မှန်၊ June-4 တွင် ဆေးကုသရင်း ကျဆုံး"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်ဝင်း",
+            "fallenDay": "2021-11-28",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "32": [
@@ -5884,8 +5906,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
@@ -8437,8 +8459,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
@@ -8808,8 +8830,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
@@ -11475,9 +11497,20 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသိန်းဇော်ဝင်း",
+            "fallenDay": "2021-11-28",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "မိုးညှင်း",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -24949,8 +24982,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
@@ -28075,9 +28108,20 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဟိန်းမင်းထွန်း",
+            "fallenDay": "2021-11-27",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့်ပစ်ခတ်ခံရကာသေဆုံး"
         },
         {
             "heroName": "ကိုသန်းထွန်းအောင်",
@@ -28627,8 +28671,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ မောက်လင်းကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
+            "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
