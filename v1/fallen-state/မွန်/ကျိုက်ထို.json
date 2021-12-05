@@ -23,6 +23,17 @@
             "fallenCause": "Sep-12 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Sep-16 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
+            "heroName": "ဒေါ်စောကြည်",
+            "fallenDay": "2021-11-27",
+            "heroAge": "80",
+            "heroGender": "f",
+            "fallenCity": "ကျိုက်ထို",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+            "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-02",
             "heroAge": "",

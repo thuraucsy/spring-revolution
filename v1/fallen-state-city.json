@@ -9104,6 +9104,17 @@
                 "fallenCause": "Sep-12 တွင် စစ်တပ်မှဖမ်းဆီးသွား၊ Sep-16 တွင် အလောင်းလာထုတ်ရန်ပြော"
             },
             {
+                "heroName": "ဒေါ်စောကြည်",
+                "fallenDay": "2021-11-27",
+                "heroAge": "80",
+                "heroGender": "f",
+                "fallenCity": "ကျိုက်ထို",
+                "fallenState": "မွန်",
+                "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+                "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
                 "heroName": "",
                 "fallenDay": "2021-12-02",
                 "heroAge": "",
@@ -12316,6 +12327,17 @@
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "တန့်ဆည်မြို့နယ်၊ အမှတ်၂ အထက်တန်းကျောင်းအနီး",
                 "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဇော်ဝင်းထွန်း",
+                "fallenDay": "2021-11-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တန့်ဆည်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "တန့်ဆည်မြို့နယ်၊ တန့်ဆည်လမ်းဆုံ အနီး",
+                "heroPlace": "သန်လျင်မြို့နယ်",
                 "fallenCause": "ကျည်မှန်"
             }
         ],

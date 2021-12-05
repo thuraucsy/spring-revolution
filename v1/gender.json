@@ -15016,6 +15016,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုဇော်ဝင်းထွန်း",
+            "fallenDay": "2021-11-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ တန့်ဆည်လမ်းဆုံ အနီး",
+            "heroPlace": "သန်လျင်မြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဆန်းထွဋ်",
             "fallenDay": "2021-11-27",
             "heroAge": "40",
@@ -16435,6 +16446,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဇရပ်နီကျေးရွာနှင့် သာဂေါင်ကျေးရွာကြား",
             "heroPlace": "ရေစကြိုမြို့နယ်၊ သာဂေါင်ကျေးရွာ",
             "fallenCause": "မိုင်းမိ"
+        },
+        {
+            "heroName": "ဒေါ်စောကြည်",
+            "fallenDay": "2021-11-27",
+            "heroAge": "80",
+            "heroGender": "f",
+            "fallenCity": "ကျိုက်ထို",
+            "fallenState": "မွန်",
+            "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+            "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
