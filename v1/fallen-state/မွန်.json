@@ -287,6 +287,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဆန်းထွဋ်",
+            "fallenDay": "2021-11-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်တံတားအနီး",
+            "heroPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-02",
             "heroAge": "",

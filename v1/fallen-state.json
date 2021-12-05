@@ -6585,6 +6585,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုကျော်စိုးမိုး",
+            "fallenDay": "2021-11-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ ရေကြည်အိုင်စစ်ကြောရေးစခန်း",
+            "heroPlace": "လှည်းကူးမြို့နယ်၊ ညောင်တုန်းကျေးရွာ",
+            "fallenCause": "Nov-23 တွင် ဖမ်းဆီးခံ၇၊ Nov-23 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
             "heroName": "ကိုဘုန်းမြင့်အောင်",
             "fallenDay": "2021-11-23",
             "heroAge": "19",
@@ -9041,6 +9052,17 @@
             "fallenState": "မွန်",
             "fallenPlace": "သံဖြူဇရပ်မြို့နယ်၊ လမိုင်းကျေးရွာအနီး",
             "heroPlace": "မအူပင်မြို့နယ်၊ အမှတ်-၁ ရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆန်းထွဋ်",
+            "fallenDay": "2021-11-27",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်တံတားအနီး",
+            "heroPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -16789,17 +16811,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုနိုင်ထူးအောင်",
-            "fallenDay": "2021-10-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဖလမ်း",
-            "fallenState": "ချင်း",
-            "fallenPlace": "ဖလမ်းမြို့နယ်၊ လုံပီးရပ်ကွက်",
-            "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဆလိုင်းခမ့်ထောင်းလျန်",

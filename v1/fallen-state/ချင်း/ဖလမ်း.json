@@ -87,17 +87,6 @@
             "fallenPlace": "",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ထင်းရှူးစခန်းအနီး၊ သူဖယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုနိုင်ထူးအောင်",
-            "fallenDay": "2021-10-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဖလမ်း",
-            "fallenState": "ချင်း",
-            "fallenPlace": "ဖလမ်းမြို့နယ်၊ လုံပီးရပ်ကွက်",
-            "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
