@@ -123,6 +123,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-11-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံတောင်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ပျားစခန်းလမ်း ၁၁မိုင်ကုန်းအဆင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-11-29",
             "heroAge": "",
             "heroGender": "m",
