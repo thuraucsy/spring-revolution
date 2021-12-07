@@ -430,6 +430,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",

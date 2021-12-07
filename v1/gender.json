@@ -15258,6 +15258,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့မှူး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကော့မှူးမြို့နယ်၊ ဝါးဘလောက်သောက်ကျေးရွာ ရဲကင်းစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",
@@ -16633,6 +16644,17 @@
             "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
             "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -17185,6 +17207,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအေးဇော်ဝင်း",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ဇော်နိုင်",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းထက်",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }

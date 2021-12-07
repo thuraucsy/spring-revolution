@@ -2936,6 +2936,17 @@
             "fallenPlace": "လှိုင်သာယာမြို့နယ်၊ ရိုးလေးကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့မှူး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကော့မှူးမြို့နယ်၊ ဝါးဘလောက်သောက်ကျေးရွာ ရဲကင်းစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -38,6 +38,19 @@
             "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
         }
     ],
+    "5": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
     "6": [
         {
             "heroName": "မခင်မျိုးချစ်",
@@ -19435,6 +19448,39 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ကိုအေးဇော်ဝင်း",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ဇော်နိုင်",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းထက်",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "ကိုပြည့်စုံဦး (ခ) ကိုတီးတီး",
             "fallenDay": "2021-12-05",
             "heroAge": "",
@@ -19444,6 +19490,17 @@
             "fallenPlace": "",
             "heroPlace": "မြိတ်မြို့၊ နောက်လယ်ရပ်ကွက်",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့မှူး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကော့မှူးမြို့နယ်၊ ဝါးဘလောက်သောက်ကျေးရွာ ရဲကင်းစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -21294,6 +21351,17 @@
             "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
             "heroPlace": "ဗိုလ်တထောင်မြို့နယ်၊ ၅၄ လမ်း",
             "fallenCause": "Nov-22 တွင် ဖမ်းဆီးခံ၇၊ Nov-23 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်အာကာစိုး",
@@ -24191,6 +24259,17 @@
             "fallenPlace": "",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ နာနတ်တောရွာ",
             "fallenCause": "Apr-30 တွင်ဖမ်းဆီးခံ၇၊ Nov-20 တွင် ထောင်တွင်း/စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်အာကာစိုး",
@@ -29846,6 +29925,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",
@@ -30056,6 +30146,17 @@
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-06",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
+            "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ],
