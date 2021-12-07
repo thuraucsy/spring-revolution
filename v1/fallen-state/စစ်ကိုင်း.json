@@ -4489,6 +4489,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုလားရိုးမွာလ်",
+            "fallenDay": "2021-12-04",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အိုးမြေထူးကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ သံဖိုကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",

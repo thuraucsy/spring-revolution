@@ -15236,6 +15236,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ကိုလားရိုးမွာလ်",
+            "fallenDay": "2021-12-04",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အိုးမြေထူးကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ သံဖိုကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုပြည့်စုံဦး (ခ) ကိုတီးတီး",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိတ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "မြိတ်မြို့၊ နောက်လယ်ရပ်ကွက်",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",
