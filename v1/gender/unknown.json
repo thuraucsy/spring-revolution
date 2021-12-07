@@ -551,37 +551,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ကိုအေးဇော်ဝင်း",
+            "heroName": "ဒေါ်ဟုန်းအွယ်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
             "heroGender": "",
-            "fallenCity": "ဒီပဲယင်း",
-            "fallenState": "စစ်ကိုင်း",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "ကိုဇော်ဇော်နိုင်",
-            "fallenDay": "2021-12-05",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဒီပဲယင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "ကိုမျိုးမင်းထက်",
-            "fallenDay": "2021-12-05",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဒီပဲယင်း",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းနင်းမိ"
         }
     ]
 }

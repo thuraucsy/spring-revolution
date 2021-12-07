@@ -2146,6 +2146,17 @@
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဆယ်ပို",
+            "fallenDay": "2021-12-04",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုတင့်နိုင်",
             "fallenDay": "2021-12-07",
             "heroAge": "30",

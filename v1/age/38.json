@@ -153,6 +153,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ် စထူလွှီးဘီလာနှင့်ပဒုံငံကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးဆယ်ပို",
+            "fallenDay": "2021-12-04",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

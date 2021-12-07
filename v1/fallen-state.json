@@ -13611,6 +13611,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဆယ်ပို",
+            "fallenDay": "2021-12-04",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုလားရိုးမွာလ်",
             "fallenDay": "2021-12-04",
             "heroAge": "24",
@@ -13625,34 +13636,45 @@
             "heroName": "ကိုအေးဇော်ဝင်း",
             "fallenDay": "2021-12-05",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
         },
         {
             "heroName": "ကိုဇော်ဇော်နိုင်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
         },
         {
             "heroName": "ကိုမျိုးမင်းထက်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
+        },
+        {
+            "heroName": "ငွန်နေထန်း Ngun Nei Thang",
+            "fallenDay": "2021-12-06",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "မောင်အာကာစိုး",
@@ -17162,6 +17184,17 @@
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "မင်းတပ်မြို့နယ်၊ ဖိုးခယိုကျေးရွာ",
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ဒေါ်ဟုန်းအွယ်",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "မိုင်းနင်းမိ"
         }
     ],

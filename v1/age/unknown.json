@@ -7756,37 +7756,48 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "ကိုအေးဇော်ဝင်း",
+            "heroName": "ဒေါ်ဟုန်းအွယ်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
             "heroGender": "",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "ကိုအေးဇော်ဝင်း",
+            "fallenDay": "2021-12-05",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
         },
         {
             "heroName": "ကိုဇော်ဇော်နိုင်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
         },
         {
             "heroName": "ကိုမျိုးမင်းထက်",
             "fallenDay": "2021-12-05",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ဒီပဲယင်း",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
+            "fallenCause": "မိုင်းထိ"
         },
         {
             "heroName": "ကိုပြည့်စုံဦး (ခ) ကိုတီးတီး",
