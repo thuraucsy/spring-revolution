@@ -15467,13 +15467,46 @@
             "fallenCause": "Dec-3 တွင်ဖမ်းဆီးခံ၇ကာ Dec-7 စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
+            "heroName": "ဦးဌေးမောင်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်စက်မှုဇုန်အနီး",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ခင်စုရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးစိန်လွင်",
             "fallenDay": "2021-12-08",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စင်းသင်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စင်းသင်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စင်းသင်းရွာ",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
@@ -15486,18 +15519,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-12-08",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
-            "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ရိုက်နှက်မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -17336,6 +17358,17 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
             "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-07",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
