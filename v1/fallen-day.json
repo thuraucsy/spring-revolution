@@ -16398,6 +16398,17 @@
             "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုလှဝင်း",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ ကောင်ဝှက်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "2021-11-09": [
@@ -17818,6 +17829,17 @@
             "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးမင်းကျော်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2021-12-09": [
@@ -17930,10 +17952,12 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
-        },
+        }
+    ],
+    "2021-12-10": [
         {
             "heroName": "",
-            "fallenDay": "2021-12-09",
+            "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မိုးကုတ်",
@@ -17944,7 +17968,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-09",
+            "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "မိုးကုတ်",
@@ -17952,9 +17976,7 @@
             "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        }
-    ],
-    "2021-12-10": [
+        },
         {
             "heroName": "ဦးရင်မင့်ကန်",
             "fallenDay": "2021-12-10",

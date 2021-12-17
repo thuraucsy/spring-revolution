@@ -2299,7 +2299,7 @@
             },
             {
                 "heroName": "",
-                "fallenDay": "2021-12-09",
+                "fallenDay": "2021-12-10",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မိုးကုတ်",
@@ -2310,7 +2310,7 @@
             },
             {
                 "heroName": "",
-                "fallenDay": "2021-12-09",
+                "fallenDay": "2021-12-10",
                 "heroAge": "",
                 "heroGender": "f",
                 "fallenCity": "မိုးကုတ်",
@@ -12300,6 +12300,17 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဖိုလ်ဝင်တောင်အနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုမျိုးမင်းကျော်",
+                "fallenDay": "2021-12-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "စစ်ကိုင်း": [
@@ -15254,6 +15265,17 @@
                 "fallenPlace": "ဖယ်ခုံမြို့နယ်၊ စက်တော်ကျေးရွာအနီးတိုက်ပွဲ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုလှဝင်း",
+                "fallenDay": "2021-11-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဖယ်ခုံ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
+                "heroPlace": "ဖယ်ခုံမြို့နယ်၊ ကောင်ဝှက်ကျေးရွာ",
+                "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
             },
             {
                 "heroName": "ဦးညီခင်",

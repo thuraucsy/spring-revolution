@@ -7085,6 +7085,17 @@
             "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုလှဝင်း",
+            "fallenDay": "2021-11-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖယ်ခုံမြို့နယ်၊ ကောင်ဝှက်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုချစ်စမ်းမောင်",
             "fallenDay": "2021-11-09",
             "heroAge": "",
@@ -7855,6 +7866,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုမျိုးမင်းကျော်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ရဲဘော်သုတ",
             "fallenDay": "2021-12-09",
             "heroAge": "",
@@ -7878,7 +7900,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-09",
+            "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မိုးကုတ်",
@@ -7889,7 +7911,7 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-09",
+            "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "မိုးကုတ်",
