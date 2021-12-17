@@ -89,6 +89,17 @@
             "fallenCause": "မိုင်းထိ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဘုတ်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုထိန်လင်း",
             "fallenDay": "2021-12-14",
             "heroAge": "",
