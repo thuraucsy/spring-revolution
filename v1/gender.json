@@ -15478,6 +15478,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "အိုမ်ကီ",
+            "fallenDay": "2021-12-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ကန်ပက်လက်မြို့နယ် ဟိုတယ်ဇုန်အနီး",
+            "heroPlace": "ကန်ပက်လက်မြို့နယ်၊ Oakphu ရပ်",
+            "fallenCause": "Dec-11 တွင် ဖမ်းဆီးခံ၇၊ Dec-12 တွင် သတ်ဖြတ်ပြီး ကန်ပက်လက်ဟိုတယ်ဇုန်အနီးပစ်ထား"
+        },
+        {
             "heroName": "ကိုမိုးမင်းဦး",
             "fallenDay": "2021-12-13",
             "heroAge": "28",
@@ -15533,7 +15544,7 @@
             "fallenCause": "Dec-12 တွင် ဖမ်းဆီးခံ၇၊ Dec-13 တွင် စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးညွန့်လှိုင်",
             "fallenDay": "2021-12-14",
             "heroAge": "",
             "heroGender": "m",
