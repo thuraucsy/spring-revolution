@@ -1109,7 +1109,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်သန်းမြင့်အော်င",
+            "heroName": "မောင်သန်းမြင့်အောင်",
             "fallenDay": "2021-12-07",
             "heroAge": "17",
             "heroGender": "m",
@@ -4590,6 +4590,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ညောင်လှကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့်ပစ်ခတ်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုကောင်းထက်စိုး",
+            "fallenDay": "2021-12-06",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "တာမွေမြို့နယ်",
+            "fallenCause": ""
         }
     ],
     "27": [
@@ -22222,7 +22233,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်သန်းမြင့်အော်င",
+            "heroName": "မောင်သန်းမြင့်အောင်",
             "fallenDay": "2021-12-07",
             "heroAge": "17",
             "heroGender": "m",
@@ -24182,7 +24193,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်သန်းမြင့်အော်င",
+            "heroName": "မောင်သန်းမြင့်အောင်",
             "fallenDay": "2021-12-07",
             "heroAge": "17",
             "heroGender": "m",
@@ -25394,7 +25405,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်သန်းမြင့်အော်င",
+            "heroName": "မောင်သန်းမြင့်အောင်",
             "fallenDay": "2021-12-07",
             "heroAge": "17",
             "heroGender": "m",
@@ -29950,6 +29961,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အိုးမြေထူးကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သံဖိုကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကောင်းထက်စိုး",
+            "fallenDay": "2021-12-06",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "တာမွေမြို့နယ်",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဝင်းကော်",

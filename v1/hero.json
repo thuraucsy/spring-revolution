@@ -17161,6 +17161,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုကောင်းထက်စိုး",
+            "fallenDay": "2021-12-06",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "တာမွေမြို့နယ်",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-06",
             "heroAge": "5",
@@ -17194,7 +17205,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်သန်းမြင့်အော်င",
+            "heroName": "မောင်သန်းမြင့်အောင်",
             "fallenDay": "2021-12-07",
             "heroAge": "17",
             "heroGender": "m",
