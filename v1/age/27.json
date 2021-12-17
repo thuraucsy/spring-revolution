@@ -274,6 +274,28 @@
             "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ခိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးနိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

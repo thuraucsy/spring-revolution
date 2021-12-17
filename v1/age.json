@@ -676,6 +676,17 @@
             "fallenPlace": "နတ်မောက်မြို့ စခန်းမရွာထိပ်",
             "heroPlace": "နတ်မောက်မြို့ စခန်းမရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ကျော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "17": [
@@ -1107,6 +1118,28 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ဇင်မင်းထက်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးသူ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ရာဇာမင်းထွန်း",
@@ -2024,6 +2057,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20": [
@@ -2488,6 +2532,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးမြင့်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -4790,6 +4845,28 @@
             "fallenPlace": "ကလေးမြို့အနောက်တောင်ဘက်ရှိ  ကလေးပြည်သူ့ကာကွယ်ရေးတပ်ဖွဲ့ တပ်ရင်း-၃၊ တပ်ခွဲ (၃)စခန်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ခိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးနိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "28": [
@@ -9536,6 +9613,17 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "67",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -19723,6 +19811,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ရဲဘော်သုတ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ရဲဘော်ရာမ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-10",
             "heroAge": "",
@@ -21892,6 +22002,50 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်ကျော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဇင်မင်းထက်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးသူ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်ရာဇာမင်းထွန်း",
             "fallenDay": "2021-12-11",
             "heroAge": "17",
@@ -23786,6 +23940,50 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်ကျော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဇင်မင်းထက်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးသူ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်ရာဇာမင်းထွန်း",
             "fallenDay": "2021-12-11",
             "heroAge": "17",
@@ -24919,6 +25117,39 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ကျော်ထက်အောင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဇင်မင်းထက်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ပြည့်ဖြိုးသူ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ရာဇာမင်းထွန်း",
@@ -29424,6 +29655,39 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုအောင်ခိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးနိုင်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးမြင့်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုမိုးကောင်း",
             "fallenDay": "2021-12-11",
             "heroAge": "21",
@@ -30217,6 +30481,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "67",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

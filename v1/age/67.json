@@ -10,6 +10,17 @@
             "fallenPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "heroPlace": "ဆင်ပေါင်ဝဲမြို့နယ်၊ သငှားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်",
+            "fallenDay": "2021-12-09",
+            "heroAge": "67",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
