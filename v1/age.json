@@ -4192,6 +4192,17 @@
             "fallenPlace": "စဉ့်ကိုင်မြို့နယ်၊ ဖလံဘိုကျေးရွာရှိ လုံခြုံရေးကင်းစခန်း",
             "heroPlace": "စဉ့်ကိုင်မြို့နယ်၊ ကသဲကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထက်အောင်",
+            "fallenDay": "2021-12-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "26": [
@@ -4935,6 +4946,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းဦး",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့စည်သူ (ခ) ဖိုးသား",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "29": [
@@ -6876,6 +6909,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ စစ်ကြောရေးစခန်း",
             "heroPlace": "မြင်းခြံမြို့၊ ကွမ်းစိုက်ရွာ",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ဇော",
+            "fallenDay": "2021-12-13",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "37": [
@@ -11766,6 +11810,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ဇော",
+            "fallenDay": "2021-12-13",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -19587,6 +19642,39 @@
             "fallenCity": "ကော့မှူး",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "ကော့မှူးမြို့နယ်၊ ဝါးဘလောက်သောက်ကျေးရွာ ရဲကင်းစခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -28971,6 +29059,39 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းဦး",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထက်အောင်",
+            "fallenDay": "2021-12-13",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့စည်သူ (ခ) ဖိုးသား",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [

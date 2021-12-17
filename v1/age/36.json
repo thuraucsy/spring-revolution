@@ -142,6 +142,17 @@
             "fallenPlace": "မြင်းခြံမြို့၊ စစ်ကြောရေးစခန်း",
             "heroPlace": "မြင်းခြံမြို့၊ ကွမ်းစိုက်ရွာ",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်ဇော",
+            "fallenDay": "2021-12-13",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

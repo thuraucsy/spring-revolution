@@ -197,6 +197,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမိုးမင်းဦး",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းမြေ့စည်သူ (ခ) ဖိုးသား",
+            "fallenDay": "2021-12-13",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
