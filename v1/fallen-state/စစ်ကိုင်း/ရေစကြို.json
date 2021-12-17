@@ -2,36 +2,14 @@
     "items": [
         {
             "heroName": "",
-            "fallenDay": "2021-12-11",
+            "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မန္တလေး",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ၂၆လမ်း နှင့် ၇၈ လမ်းထောင့်",
-            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုမိုးကောင်း",
-            "fallenDay": "2021-12-11",
-            "heroAge": "21",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
+            "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်ရာဇာမင်းထွန်း",
-            "fallenDay": "2021-12-11",
-            "heroAge": "17",
-            "heroGender": "m",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",

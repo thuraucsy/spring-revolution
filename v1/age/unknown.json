@@ -7822,6 +7822,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ၂၆လမ်း နှင့် ၇၈ လမ်းထောင့်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "အိုမ်ကီ",
             "fallenDay": "2021-12-12",
             "heroAge": "",

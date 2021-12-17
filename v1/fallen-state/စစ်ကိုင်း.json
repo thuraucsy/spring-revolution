@@ -4676,6 +4676,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုမိုးကောင်း",
             "fallenDay": "2021-12-11",
             "heroAge": "21",
@@ -4683,7 +4694,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "heroPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -4694,7 +4705,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-            "heroPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -4702,9 +4713,9 @@
             "fallenDay": "2021-12-11",
             "heroAge": "43",
             "heroGender": "m",
-            "fallenCity": "မြောင်",
+            "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -4713,9 +4724,9 @@
             "fallenDay": "2021-12-11",
             "heroAge": "17",
             "heroGender": "m",
-            "fallenCity": "မြောင်",
+            "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -4724,9 +4735,9 @@
             "fallenDay": "2021-12-11",
             "heroAge": "18",
             "heroGender": "m",
-            "fallenCity": "မြောင်",
+            "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },

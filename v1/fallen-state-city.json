@@ -1551,6 +1551,17 @@
                 "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်၊ ၁၁၀ လမ်း၊ ၄၅x၄၆ လမ်းကြား",
                 "heroPlace": "ချမ်းမြသာစည်မြို့နယ်၊ အောင်သာယာရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-11",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မန္တလေး",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ၂၆လမ်း နှင့် ၇၈ လမ်းထောင့်",
+                "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ သီရိမာလာအနောက်ရပ်",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မြင်းခြံ": [
@@ -11823,7 +11834,7 @@
                 "fallenCity": "ရွှေဘို",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-                "heroPlace": "",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
                 "fallenCause": "ကျည်မှန်"
             },
             {
@@ -11834,7 +11845,7 @@
                 "fallenCity": "ရွှေဘို",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
-                "heroPlace": "",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
                 "fallenCause": "ကျည်မှန်"
             },
             {
@@ -14006,39 +14017,6 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
-                "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
-                "fallenDay": "2021-12-11",
-                "heroAge": "43",
-                "heroGender": "m",
-                "fallenCity": "မြောင်",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "မောင်စည်သူအောင်",
-                "fallenDay": "2021-12-11",
-                "heroAge": "17",
-                "heroGender": "m",
-                "fallenCity": "မြောင်",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "ကိုအောင်မြင့်မြတ်",
-                "fallenDay": "2021-12-11",
-                "heroAge": "18",
-                "heroGender": "m",
-                "fallenCity": "မြောင်",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
-            },
-            {
                 "heroName": "ကိုမိုးမင်းဦး",
                 "fallenDay": "2021-12-13",
                 "heroAge": "28",
@@ -14345,6 +14323,52 @@
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
                 "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "ရေစကြို": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
+                "fallenDay": "2021-12-11",
+                "heroAge": "43",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "မောင်စည်သူအောင်",
+                "fallenDay": "2021-12-11",
+                "heroAge": "17",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုအောင်မြင့်မြတ်",
+                "fallenDay": "2021-12-11",
+                "heroAge": "18",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
+                "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
         ]
