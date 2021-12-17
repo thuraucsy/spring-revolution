@@ -17787,6 +17787,28 @@
     ],
     "2021-12-11": [
         {
+            "heroName": "ကိုမိုးကောင်း",
+            "fallenDay": "2021-12-11",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရာဇာမင်းထွန်း",
+            "fallenDay": "2021-12-11",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မြင်းစီးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
             "fallenDay": "2021-12-11",
             "heroAge": "43",
@@ -17831,6 +17853,39 @@
             "fallenPlace": "ကန်ပက်လက်မြို့နယ် ဟိုတယ်ဇုန်အနီး",
             "heroPlace": "ကန်ပက်လက်မြို့နယ်၊ Oakphu ရပ်",
             "fallenCause": "Dec-11 တွင် ဖမ်းဆီးခံ၇၊ Dec-12 တွင် သတ်ဖြတ်ပြီး ကန်ပက်လက်ဟိုတယ်ဇုန်အနီးပစ်ထား"
+        },
+        {
+            "heroName": "ဦးသာဝင်း",
+            "fallenDay": "2021-12-12",
+            "heroAge": "57",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "မဆောင်းမြတ်အောင်",
+            "fallenDay": "2021-12-12",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "မခြူးသီရိနိုင်",
+            "fallenDay": "2021-12-12",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
         }
     ],
     "2021-12-13": [

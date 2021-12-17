@@ -1266,6 +1266,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မဆောင်းမြတ်အောင်",
+            "fallenDay": "2021-12-12",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "မခြူးသီရိနိုင်",
+            "fallenDay": "2021-12-12",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2021-12-14",
             "heroAge": "",

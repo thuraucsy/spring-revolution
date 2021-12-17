@@ -540,6 +540,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ဦးသာဝင်း",
+            "fallenDay": "2021-12-12",
+            "heroAge": "57",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
             "heroName": "ဦးသန်းမြင့်",
             "fallenDay": "2021-12-13",
             "heroAge": "55",
