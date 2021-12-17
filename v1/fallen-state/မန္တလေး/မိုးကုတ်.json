@@ -120,6 +120,28 @@
             "fallenPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "heroPlace": "မိုးကုတ်မြို့အရှေ့ပိုင်း ဆင်တောင်ကျောင်းအနီး",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

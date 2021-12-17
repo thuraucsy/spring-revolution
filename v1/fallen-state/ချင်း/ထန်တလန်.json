@@ -98,6 +98,39 @@
             "fallenPlace": "ထန်တလန်မြို့အနီးတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းရမ်လျန်ပဲန်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းဗန်ထာကျဲအို",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းဘွေဇာအုပ်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -52,7 +52,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ အမှတ် ၈ ရပ်ကွက် အောင်ချမ်းသာရပ်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -63,7 +63,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပြင်ဈေး မြောက်ရပ်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -74,7 +74,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ အမှတ် ၁ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -85,7 +85,7 @@
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
-            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ အမှတ် ရရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -109,6 +109,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

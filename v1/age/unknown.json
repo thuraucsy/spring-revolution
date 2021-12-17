@@ -7822,6 +7822,39 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဆလိုင်းရမ်လျန်ပဲန်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းဗန်ထာကျဲအို",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းဘွေဇာအုပ်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့၊ AG ဘုရားကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ရဲဘော်သုတ",
             "fallenDay": "2021-12-09",
             "heroAge": "",
@@ -7842,6 +7875,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မိုးကုတ်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိုးကုတ်မြို့အနောက်ပိုင်း ပန်းမရွာသစ် ကျောက်သပိတ်အထက်ကုန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
