@@ -10,6 +10,17 @@
             "fallenPlace": "သံဖြူဇရပ်မြို့နယ်၊ လမိုင်းကျေးရွာအနီး",
             "heroPlace": "မအူပင်မြို့နယ်၊ အမှတ်-၁ ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသားငယ်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံဖြူဇရပ်",
+            "fallenState": "မွန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

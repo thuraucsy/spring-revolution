@@ -2983,6 +2983,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ဝဲမြင်းနီရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
@@ -9251,6 +9262,17 @@
             "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသားငယ်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံဖြူဇရပ်",
+            "fallenState": "မွန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "စစ်ကိုင်း": [
@@ -13933,12 +13955,45 @@
             "heroName": "ကိုလှိုင်ဝင်း",
             "fallenDay": "2021-12-07",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "ကန့်ဘလူ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကန့်ဘလူမြို့၊ ၆၀၀၆ တပ်ရင်း စစ်ကြောရေး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "Dec-3 တွင်ဖမ်းဆီးခံ၇ကာ Dec-7 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးစိန်လွင်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုမျိုးမင်းကျော်",

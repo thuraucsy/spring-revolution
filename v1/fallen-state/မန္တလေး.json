@@ -2983,6 +2983,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ဝဲမြင်းနီရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
