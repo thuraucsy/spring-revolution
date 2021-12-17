@@ -17785,7 +17785,44 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
+    "2021-12-13": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
+    ],
+    "2021-12-14": [
+        {
+            "heroName": "ဂျွန်ဆင်ဗန်ဗျက်လောမ်",
+            "fallenDay": "2021-12-14",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "မင်္ဂလာဒုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မင်္ဂလာဒုံ စစ်ဆေးရုံ",
+            "heroPlace": "မြောက်ဒဂုံမြို့နယ်၊ ၃၆ ရပ်ကွက်",
+            "fallenCause": "Nov-25 တွင် ရရှိသည့် ဗုံးမှန် ဒဏ်ရာဖြင့် Dec-14 တွင် သေဆုံး"
+        }
+    ],
     "2021-12-16": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လွိုင်လင်လေးအရှေ့ဘက်၊ ကနန်းကွယ်ကျေးရွာနှင့် ရေကန်ကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
         {
             "heroName": "ကိုသီဟနိုင်",
             "fallenDay": "2021-12-16",
@@ -17793,7 +17830,7 @@
             "heroGender": "m",
             "fallenCity": "သပိတ်ကျင်း",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ ကျည်ပေါက်တော ကျေးရွာ",
+            "fallenPlace": "သပိတ်ကျင်းမြို့နယ်၊ ကျောက်ဖြူ နှင့် လိပ်ကျကျေးရွာကြား",
             "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ ဇရပ်ကွင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ အလောင်းအားစစ်တပ်မှ သိမ်းသွား"
         },
