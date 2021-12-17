@@ -9474,6 +9474,17 @@
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရင်မင့်ကန်",
+            "fallenDay": "2021-12-10",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မုံးကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
+            "heroPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "62": [
@@ -19716,11 +19727,88 @@
             "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ လယ်ပြင် သီတာထိပ် ဗျူဟာလမ်းပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသန်းထွေး",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်ဝင်း",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမိုး",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကံညွန့်",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုတိုး",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဇော်ဝင်း",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ နဂါးတွင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးမင်း",
+            "fallenDay": "2021-12-10",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြောင်မြို့နယ် သူဌေးကုန်း (ခ) သုခဒီပ ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
@@ -30129,6 +30217,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရင်မင့်ကန်",
+            "fallenDay": "2021-12-10",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မုံးကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
+            "heroPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],

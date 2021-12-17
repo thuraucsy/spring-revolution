@@ -131,6 +131,17 @@
             "fallenPlace": "",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မရမ်းအင်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရင်မင့်ကန်",
+            "fallenDay": "2021-12-10",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "မုံးကိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
+            "heroPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

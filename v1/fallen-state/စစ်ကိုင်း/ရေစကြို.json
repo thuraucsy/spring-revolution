@@ -1,15 +1,15 @@
 {
     "items": [
         {
-            "heroName": "",
+            "heroName": "ကိုဖြိုးမင်း",
             "fallenDay": "2021-12-10",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ရေစကြို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရေစကြိုမြို့ ဆင်ခြေယာကျေးရွာနဲ့ ရွှေလှံကျေးရွာကြား",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြောင်မြို့နယ် သူဌေးကုန်း (ခ) သုခဒီပ ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
