@@ -54,6 +54,17 @@
             "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ရှမ်းတပ်ကျေးရွာ",
             "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ဆယ့်တစ်ပေါက်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုလှိုင်ဝင်း",
+            "fallenDay": "2021-12-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့၊ ၆၀၀၆ တပ်ရင်း စစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

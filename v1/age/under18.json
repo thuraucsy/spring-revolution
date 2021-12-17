@@ -1068,6 +1068,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-09",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "လောင်းလုံးမြို့နယ်၊ အောက်ရေဖြူကျေးရွာ",
+            "heroPlace": "လောင်းလုံးမြို့နယ်၊ အောက်ရေဖြူကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "မောင်ကျော်ထက်အောင်",
             "fallenDay": "2021-12-09",
             "heroAge": "16",

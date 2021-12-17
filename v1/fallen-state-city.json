@@ -3761,6 +3761,17 @@
                 "fallenPlace": "လောင်းလုံးမြို့နယ်တောင်ဘက်ရှိ ညင်းမော်ကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-09",
+                "heroAge": "15",
+                "heroGender": "f",
+                "fallenCity": "လောင်းလုံး",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "လောင်းလုံးမြို့နယ်၊ အောက်ရေဖြူကျေးရွာ",
+                "heroPlace": "လောင်းလုံးမြို့နယ်၊ အောက်ရေဖြူကျေးရွာ",
+                "fallenCause": "ဗုံးမှန်"
             }
         ],
         "ရေဖြူ": [
@@ -9105,6 +9116,19 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
+            }
+        ],
+        "စေတုတ္တရာ": [
+            {
+                "heroName": "ဆလိုင်းငွေကြာ",
+                "fallenDay": "2021-12-09",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "စေတုတ္တရာ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "စေတုတ္တရာမြို့နယ်၊ သက္ကယ်တောင်ကျေးရွာ",
+                "fallenCause": "Dec-6 တွင် ဖမ်းဆီးခံ၇ကာ Dec-9 ရဲစခန်းတွင် သေဆုံး"
             }
         ]
     },
@@ -14485,6 +14509,17 @@
                 "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ရှမ်းတပ်ကျေးရွာ",
                 "heroPlace": "ကန့်ဘလူမြို့နယ်၊ ဆယ့်တစ်ပေါက်ကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုလှိုင်ဝင်း",
+                "fallenDay": "2021-12-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ကန့်ဘလူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကန့်ဘလူမြို့၊ ၆၀၀၆ တပ်ရင်း စစ်ကြောရေး",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဟုမ္မလင်း": [

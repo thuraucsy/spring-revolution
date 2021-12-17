@@ -7833,6 +7833,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုလှိုင်ဝင်း",
+            "fallenDay": "2021-12-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့၊ ၆၀၀၆ တပ်ရင်း စစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဆလိုင်းရမ်လျန်ပဲန်",
             "fallenDay": "2021-12-08",
             "heroAge": "",
@@ -7875,6 +7886,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းငွေကြာ",
+            "fallenDay": "2021-12-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "စေတုတ္တရာ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "စေတုတ္တရာမြို့နယ်၊ သက္ကယ်တောင်ကျေးရွာ",
+            "fallenCause": "Dec-6 တွင် ဖမ်းဆီးခံ၇ကာ Dec-9 ရဲစခန်းတွင် သေဆုံး"
         },
         {
             "heroName": "ရဲဘော်သုတ",
