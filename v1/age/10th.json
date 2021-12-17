@@ -1827,6 +1827,28 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်စည်သူအောင်",
+            "fallenDay": "2021-12-11",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မြင့်မြတ်",
+            "fallenDay": "2021-12-11",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုထွန်းလွင်ဦး",
             "fallenDay": "2021-12-14",
             "heroAge": "17",

@@ -142,6 +142,17 @@
             "fallenPlace": "တောင်သာမြို့နယ်၊ ဘုရားလှရွာထိပ်",
             "heroPlace": "တောင်သာမြို့နယ်၊ ဘုရားလှရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
+            "fallenDay": "2021-12-11",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ ရွှေလှံရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

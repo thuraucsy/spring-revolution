@@ -4676,9 +4676,9 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်မိုး (ခ) ဖိုးချစ်",
             "fallenDay": "2021-12-11",
-            "heroAge": "",
+            "heroAge": "43",
             "heroGender": "m",
             "fallenCity": "မြောင်",
             "fallenState": "စစ်ကိုင်း",
@@ -4687,9 +4687,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်စည်သူအောင်",
             "fallenDay": "2021-12-11",
-            "heroAge": "",
+            "heroAge": "17",
             "heroGender": "m",
             "fallenCity": "မြောင်",
             "fallenState": "စစ်ကိုင်း",
@@ -4698,9 +4698,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုအောင်မြင့်မြတ်",
             "fallenDay": "2021-12-11",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "မြောင်",
             "fallenState": "စစ်ကိုင်း",
@@ -4750,6 +4750,39 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထိန်လင်း",
+            "fallenDay": "2021-12-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်ဇော်အောင်",
+            "fallenDay": "2021-12-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုညိုတုန်း (ခ) ကိုဇော်မျိုးဦး",
+            "fallenDay": "2021-12-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မှန်သာရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
