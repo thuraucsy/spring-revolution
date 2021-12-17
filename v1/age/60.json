@@ -133,6 +133,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးမောင်ထွေး",
+            "fallenDay": "2021-12-06",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ် ဝါးဂုတ်ရွာအပြင်ဘက် အင်းကွဲတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးရင်မင့်ကန်",
             "fallenDay": "2021-12-10",
             "heroAge": "60",

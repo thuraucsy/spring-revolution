@@ -188,6 +188,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးမောင်ထွေး",
+            "fallenDay": "2021-12-06",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ် ဝါးဂုတ်ရွာအပြင်ဘက် အင်းကွဲတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ဝင်းရီ (ခ) ဒေါ်ဝင်းကြည်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "65",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးမြင့်",
             "fallenDay": "2021-12-09",
             "heroAge": "67",

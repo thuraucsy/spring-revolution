@@ -12,17 +12,6 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-12-07",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "ဆားလင်းကြီး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
-            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "မောင်အာကာစိုး",
             "fallenDay": "2021-12-07",
             "heroAge": "14",
@@ -142,6 +131,61 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်ဝင်းရီ (ခ) ဒေါ်ဝင်းကြည်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "65",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "12",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-08",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
