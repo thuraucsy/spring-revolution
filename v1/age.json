@@ -1107,6 +1107,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထွန်းလွင်ဦး",
+            "fallenDay": "2021-12-14",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့၊ ရွှေပြည့်အိမ် ဘီယာ ဆိုင်အနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "18": [
@@ -9079,6 +9090,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးသန်းမြင့်",
+            "fallenDay": "2021-12-13",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ် ရေနံ့သာကျေးရွာလမ်းခွဲအနီး၊ မဟာကုသလကာရီ နာရေးကူညီမှုအသင်း",
+            "fallenCause": "Dec-12 တွင် ဖမ်းဆီးခံ၇၊ Dec-13 တွင် စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "56": [
@@ -19570,17 +19592,6 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-13",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မတ္တရာ",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
             "fallenDay": "2021-12-16",
             "heroAge": "",
             "heroGender": "m",
@@ -21529,6 +21540,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုထွန်းလွင်ဦး",
+            "fallenDay": "2021-12-14",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့၊ ရွှေပြည့်အိမ် ဘီယာ ဆိုင်အနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဂျွန်ဆင်ဗန်ဗျက်လောမ်",
             "fallenDay": "2021-12-14",
             "heroAge": "15",
@@ -23379,6 +23401,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုထွန်းလွင်ဦး",
+            "fallenDay": "2021-12-14",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့၊ ရွှေပြည့်အိမ် ဘီယာ ဆိုင်အနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဂျွန်ဆင်ဗန်ဗျက်လောမ်",
             "fallenDay": "2021-12-14",
             "heroAge": "15",
@@ -24468,6 +24501,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထွန်းလွင်ဦး",
+            "fallenDay": "2021-12-14",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့၊ ရွှေပြည့်အိမ် ဘီယာ ဆိုင်အနီး",
+            "heroPlace": "ကောလင်းမြို့နယ်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဂျွန်ဆင်ဗန်ဗျက်လောမ်",
@@ -29468,6 +29512,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးသန်းမြင့်",
+            "fallenDay": "2021-12-13",
+            "heroAge": "55",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "မတ္တရာမြို့နယ် ရေနံ့သာကျေးရွာလမ်းခွဲအနီး၊ မဟာကုသလကာရီ နာရေးကူညီမှုအသင်း",
+            "fallenCause": "Dec-12 တွင် ဖမ်းဆီးခံ၇၊ Dec-13 တွင် စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "60th": [
