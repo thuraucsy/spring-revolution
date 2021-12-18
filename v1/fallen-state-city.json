@@ -18509,6 +18509,17 @@
                 "fallenPlace": "",
                 "heroPlace": "တာမွေမြို့နယ်",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "ဗညား",
+                "fallenDay": "2021-12-18",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     }

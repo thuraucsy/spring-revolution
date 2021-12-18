@@ -18605,5 +18605,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2021-12-18": [
+        {
+            "heroName": "ဗညား",
+            "fallenDay": "2021-12-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }
