@@ -9396,17 +9396,6 @@
                 "fallenPlace": "သထုံမြို့နယ် ဝါးဂုတ်ရွာအပြင်ဘက် အင်းကွဲတံတားအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2021-12-17",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "သထုံ",
-                "fallenState": "မွန်",
-                "fallenPlace": "သထုံခရိုင်၊ (ယိုကလား)ကြသောင်းဆိပ်ကျေးရွာ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ရေး": [
@@ -9465,6 +9454,17 @@
                 "fallenState": "မွန်",
                 "fallenPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်တံတားအနီး",
                 "heroPlace": "ဘီးလင်းမြို့နယ်၊ တောင်စွန်းကျေးရွာ၊ ဘုရင့်နောင်ရပ်ကွက်",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဘီးလင်း",
+                "fallenState": "မွန်",
+                "fallenPlace": "ဘီးလင်းမြို့နယ် ကြာသောင်းဆိပ်ကျေးရွာ",
+                "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
         ],
