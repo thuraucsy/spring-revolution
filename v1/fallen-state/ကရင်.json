@@ -142,6 +142,17 @@
             "fallenPlace": "ဘားအံမြို့နယ်၊ တပ်မ (၁၅၁) အနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

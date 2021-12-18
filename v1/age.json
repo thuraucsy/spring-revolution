@@ -4601,6 +4601,17 @@
             "fallenPlace": "",
             "heroPlace": "တာမွေမြို့နယ်",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "27": [
@@ -20392,17 +20403,6 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ် ကြာသောင်းဆိပ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ဗညား",
-            "fallenDay": "2021-12-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ],
     "under20": [
@@ -30146,6 +30146,17 @@
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လွိုင်လင်လေးအရှေ့ဘက်၊ ကနန်းကွယ်ကျေးရွာနှင့် ရေကန်ကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }

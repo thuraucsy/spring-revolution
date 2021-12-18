@@ -18630,15 +18630,15 @@
     ],
     "2021-12-18": [
         {
-            "heroName": "ဗညား",
+            "heroName": "ကိုဗညားအောင်",
             "fallenDay": "2021-12-18",
-            "heroAge": "",
+            "heroAge": "26",
             "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

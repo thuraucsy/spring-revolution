@@ -274,6 +274,17 @@
             "fallenPlace": "",
             "heroPlace": "တာမွေမြို့နယ်",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

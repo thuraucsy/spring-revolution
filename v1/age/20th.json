@@ -3299,6 +3299,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ လွိုင်လင်လေးအရှေ့ဘက်၊ ကနန်းကွယ်ကျေးရွာနှင့် ရေကန်ကျေးရွာကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဗညားအောင်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
