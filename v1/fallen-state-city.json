@@ -12416,6 +12416,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-18",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "စစ်ကိုင်း": [
