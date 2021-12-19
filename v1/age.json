@@ -3684,6 +3684,17 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ သတ်ဖြတ်"
         },
         {
+            "heroName": "ရဲဘော်ဗျတ္တ (ခ) ကိုသူရိန်လှိုင်",
+            "fallenDay": "2021-10-02",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုထက်ဝေနိုင်",
             "fallenDay": "2021-10-24",
             "heroAge": "23",
@@ -3981,6 +3992,17 @@
             "fallenPlace": "",
             "heroPlace": "ပဲခူးမြို့၊ ဟင်္သာကုန်း ၁၉ ရပ်ကွက်၊ ဇေယျာအောင်မြေလမ်း",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Sep-24 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "ရဲဘော်ကျော်ဖြိုး",
+            "fallenDay": "2021-10-02",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "Pu Rual Cung",
@@ -18018,28 +18040,6 @@
             "fallenCause": "စစ်ကြောရေးတွင်း နှိပ်စက်ခံရာကာသေဆုံး"
         },
         {
-            "heroName": "ရဲဘော်ဗျတ္တ",
-            "fallenDay": "2021-10-02",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မြောင်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "ရဲဘော်ကျော်ဖြိုး",
-            "fallenDay": "2021-10-02",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မြောင်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "ဦးရွှေဘို (ခ) ဦးဝေမိုးနိုင်",
             "fallenDay": "2021-10-02",
             "heroAge": "",
@@ -29719,6 +29719,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ကုန်းသာကျေးရွာ",
             "heroPlace": "ဖယ်ခုံမြို့နယ်၊ လယ်ထွန်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ရဲဘော်ဗျတ္တ (ခ) ကိုသူရိန်လှိုင်",
+            "fallenDay": "2021-10-02",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်ကျော်ဖြိုး",
+            "fallenDay": "2021-10-02",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဇော်မျိုးထွန်း (ခ) ကိုပေါက်စီ",
