@@ -2056,6 +2056,17 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ် အမြင့်မြို့ဟောင်း ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

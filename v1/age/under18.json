@@ -1165,6 +1165,17 @@
             "fallenPlace": "မင်္ဂလာဒုံ စစ်ဆေးရုံ",
             "heroPlace": "မြောက်ဒဂုံမြို့နယ်၊ ၃၆ ရပ်ကွက်",
             "fallenCause": "Nov-25 တွင် ရရှိသည့် ဗုံးမှန် ဒဏ်ရာဖြင့် Dec-14 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

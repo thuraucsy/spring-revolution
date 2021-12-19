@@ -1195,6 +1195,17 @@
             "fallenPlace": "ရွှေဘိုမြို့၊ ရွှေပြည့်အိမ် ဘီယာ ဆိုင်အနီး",
             "heroPlace": "ကောလင်းမြို့နယ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "18": [
@@ -20403,17 +20414,6 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ် ကြာသောင်းဆိပ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-12-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ယင်းမာပင်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -22473,6 +22473,17 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ် အမြင့်မြို့ဟောင်း ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -24433,6 +24444,17 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ် အမြင့်မြို့ဟောင်း ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -25601,6 +25623,17 @@
             "fallenPlace": "မင်္ဂလာဒုံ စစ်ဆေးရုံ",
             "heroPlace": "မြောက်ဒဂုံမြို့နယ်၊ ၃၆ ရပ်ကွက်",
             "fallenCause": "Nov-25 တွင် ရရှိသည့် ဗုံးမှန် ဒဏ်ရာဖြင့် Dec-14 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "မောင်မင်းခန့်ကျော်",
+            "fallenDay": "2021-12-18",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [

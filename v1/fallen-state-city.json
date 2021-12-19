@@ -12416,17 +12416,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2021-12-18",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "ယင်းမာပင်",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
             }
         ],
         "စစ်ကိုင်း": [
@@ -13293,6 +13282,17 @@
                 "fallenCity": "ကနီ",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ကနီ-မင်းကင်းမြို့နယ် အစပ်၊ နယ်ခြားဘုရားအနီး",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "မောင်မင်းခန့်ကျော်",
+                "fallenDay": "2021-12-18",
+                "heroAge": "17",
+                "heroGender": "m",
+                "fallenCity": "ကနီ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
