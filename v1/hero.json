@@ -18160,6 +18160,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကျွန်းရင်းကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ထောင်ဖမ်းခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်မဌေး",
+            "fallenDay": "2021-12-19",
+            "heroAge": "60",
+            "heroGender": "f",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ မာတလမ်း၊ မျိုးချစ်ဆန်စက်ရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
         }
     ]
 }

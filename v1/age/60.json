@@ -153,6 +153,17 @@
             "fallenPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
             "heroPlace": "မုံးကိုးမြို့နယ်၊ ဖောင်းဆိုင်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်မဌေး",
+            "fallenDay": "2021-12-19",
+            "heroAge": "60",
+            "heroGender": "f",
+            "fallenCity": "ပုသိမ်",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "ပုသိမ်မြို့၊ မာတလမ်း၊ မျိုးချစ်ဆန်စက်ရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ လည်ပင်းသို့ကျည်မှန်"
         }
     ]
 }
