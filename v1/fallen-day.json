@@ -18663,6 +18663,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကျွန်းရင်းကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ထောင်ဖမ်းခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
