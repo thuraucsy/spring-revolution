@@ -20394,6 +20394,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုသဲထွေးမောင်",
+            "fallenDay": "2021-12-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "ပြည်ကြီးတံခွန်မြို့နယ်၊ ၆၈ ဘီ၊ ၁၁၆/၁၁၇ လမ်း",
+            "fallenCause": "Dec-13 တွင် ဖမ်းဆီးခံ၇၊ Dec-15 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "မနန်း",
+            "fallenDay": "2021-12-15",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေးမြို့ နန်းတွင်းစစ်ကြောရေး",
+            "heroPlace": "ပြည်ကြီးတံခွန်မြို့နယ်၊ ၆၈ ဘီ၊ ၁၁၆/၁၁၇ လမ်း",
+            "fallenCause": "Dec-13 တွင် ဖမ်းဆီးခံ၇၊ Dec-15 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
             "heroName": "ကိုသီဟနိုင်",
             "fallenDay": "2021-12-16",
             "heroAge": "",
