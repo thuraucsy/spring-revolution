@@ -7663,6 +7663,17 @@
             "fallenPlace": "",
             "heroPlace": "ဝေါမြို့နယ်၊ ချမ်းမြသာစည်ရပ်ကွက်",
             "fallenCause": "စစ်ကြောရေးတွင် ရရှိသောဒဏ်ရာများကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဇီးကုန်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "မကွေး": [
@@ -17139,6 +17150,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ မျက်နှာသို့ကျည်မှန်"
         }
     ],
     "ချင်း": [
