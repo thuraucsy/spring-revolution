@@ -3332,6 +3332,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဆန်းမင်း",
+            "fallenDay": "2021-12-19",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "မိုးညို",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "မိုးညိုမြို့နယ် စစ်ဆေးရေးဂိတ်အနီး",
+            "heroPlace": "လက်ပံတန်းမြို့နယ်၊ ဆင်မနီအုပ်စု၊ မိုးဆယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
