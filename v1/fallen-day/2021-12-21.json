@@ -21,6 +21,17 @@
             "fallenPlace": "",
             "heroPlace": "နေပြည်တော်၊ လယ်ဝေးမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
             "fallenCause": "Dec-20 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ချာလီညားရယ်",
+            "fallenDay": "2021-12-21",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

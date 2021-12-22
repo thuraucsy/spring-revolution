@@ -4025,6 +4025,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အိုးမြေထူးကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သံဖိုကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ချာလီညားရယ်",
+            "fallenDay": "2021-12-21",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "25": [
@@ -30379,6 +30390,17 @@
             "fallenPlace": "မိုးညိုမြို့နယ် စစ်ဆေးရေးဂိတ်အနီး",
             "heroPlace": "လက်ပံတန်းမြို့နယ်၊ ဆင်မနီအုပ်စု၊ မိုးဆယ်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ချာလီညားရယ်",
+            "fallenDay": "2021-12-21",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "50th": [

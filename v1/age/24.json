@@ -263,6 +263,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အိုးမြေထူးကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သံဖိုကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ချာလီညားရယ်",
+            "fallenDay": "2021-12-21",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
