@@ -18790,6 +18790,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖယ်ခုံမြို့နယ် ရွေပြည်အေးရွာ",
+            "fallenCause": "Oct-28 ဖယ်ခုံတွင် လူသားဒိုင်းအဖြစ်ဖမ်းဆီးသွားပြီး Dec-21 တောင်ကြီးရဲစခန်းတွေ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ဖယ်ခုံမြို့နယ် ရွေပြည်အေးရွာ",
+            "fallenCause": "Oct-28 ဖယ်ခုံတွင် လူသားဒိုင်းအဖြစ်ဖမ်းဆီးသွားပြီး Dec-21 တောင်ကြီးရဲစခန်းတွေ ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
         }
     ]
 }
