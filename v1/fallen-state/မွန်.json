@@ -351,6 +351,17 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ် ကြာသောင်းဆိပ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "နော်ခီး",
+            "fallenDay": "2021-12-21",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ထော်ကလော်ခီးကျေးရွာ",
+            "heroPlace": "ဘီးလင်းမြို့နယ်၊ ထော်ကလော်ခီးကျေးရွာ",
+            "fallenCause": "နှိပ်စက်ညင်းပန်းကာ ပစ်သတ်ခံရ"
         }
     ]
 }
