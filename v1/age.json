@@ -20623,6 +20623,28 @@
             "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဘာဒိုကျေးရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ဘာဒိုကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [

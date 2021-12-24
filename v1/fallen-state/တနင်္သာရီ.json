@@ -692,6 +692,17 @@
             "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
             "heroPlace": "",
             "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လောင်းလုံး",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
