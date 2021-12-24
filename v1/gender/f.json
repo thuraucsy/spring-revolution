@@ -1407,6 +1407,17 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ထော်ကလော်ခီးကျေးရွာ",
             "heroPlace": "ဘီးလင်းမြို့နယ်၊ ထော်ကလော်ခီးကျေးရွာ",
             "fallenCause": "နှိပ်စက်ညင်းပန်းကာ ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-23",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ နယ်မြေ(ရ)",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
