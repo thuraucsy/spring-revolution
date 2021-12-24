@@ -18755,6 +18755,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ စီးစံရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအေး",
+            "fallenDay": "2021-12-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ၊ ဦးခေါင်းကြေမွကာ သေဆုံး"
+        },
+        {
+            "heroName": "ဒေါ်သူ",
+            "fallenDay": "2021-12-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "heroPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "2021-12-21": [
