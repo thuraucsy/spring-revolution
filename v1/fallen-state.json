@@ -3883,9 +3883,9 @@
             "heroGender": "m",
             "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "",
+            "fallenPlace": "လောင်းလုံးမြို့နယ်၊ စမ်းလှမ်းကျေးရွာ သွားရာလမ်းရှိ တောင်ခြေရင်းအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရန်ကုန်": [
@@ -9442,7 +9442,7 @@
         {
             "heroName": "နော်ခီး",
             "fallenDay": "2021-12-21",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "f",
             "fallenCity": "ဘီးလင်း",
             "fallenState": "မွန်",
@@ -14676,6 +14676,17 @@
             "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ အထက်တန်းကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
@@ -16054,6 +16065,17 @@
             "fallenState": "ကချင်",
             "fallenPlace": "ဗန်းမော်မြို့နယ်၊ မြစေတီကျေးရွာနှင့် ပါပေါင်းကျေးရွာအနီးရှိ ရှမ်းကုန်းဆိပ်အနီး",
             "heroPlace": "ဗန်းမော်မြို့နယ်၊ပါပေါင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ ဂျမ်ဂါကျေးရွာအနီး၊ ဗလခ မှော်နား",
+            "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
