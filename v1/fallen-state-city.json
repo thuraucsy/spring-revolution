@@ -17858,28 +17858,6 @@
                 "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "ကိုဗညားအောင်",
-                "fallenDay": "2021-12-18",
-                "heroAge": "26",
-                "heroGender": "m",
-                "fallenCity": "မြဝတီ",
-                "fallenState": "ကရင်",
-                "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2021-12-19",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မြဝတီ",
-                "fallenState": "ကရင်",
-                "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
-                "heroPlace": "",
-                "fallenCause": "ကျည်မှန်၊ မျက်နှာသို့ကျည်မှန်"
             }
         ],
         "သံတောင်ကြီး": [
@@ -17893,6 +17871,74 @@
                 "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ပျားစခန်းလမ်း ၁၁မိုင်ကုန်းအဆင်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+            }
+        ],
+        "လေးကေ့ကော်": [
+            {
+                "heroName": "ကိုဗညားအောင်",
+                "fallenDay": "2021-12-18",
+                "heroAge": "26",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-19",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်၊ မျက်နှာသို့ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုမှိုင်း",
+                "fallenDay": "2021-12-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုရဲထက်",
+                "fallenDay": "2021-12-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုကျုံဒိုး",
+                "fallenDay": "2021-12-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုအောင်မျိုးဇင်",
+                "fallenDay": "2021-12-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "လေးကေ့ကော်ဒေသ",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     },

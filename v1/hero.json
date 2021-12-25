@@ -18111,7 +18111,7 @@
             "fallenDay": "2021-12-18",
             "heroAge": "26",
             "heroGender": "m",
-            "fallenCity": "မြဝတီ",
+            "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
             "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
@@ -18144,7 +18144,7 @@
             "fallenDay": "2021-12-19",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မြဝတီ",
+            "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
             "fallenPlace": "မြ၀တီမြို့နယ်၊ လေးကေ့ကော်ဒေသ",
             "heroPlace": "",
@@ -18468,6 +18468,50 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ်၊ စမ်းလှမ်းကျေးရွာ သွားရာလမ်းရှိ တောင်ခြေရင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမှိုင်း",
+            "fallenDay": "2021-12-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုရဲထက်",
+            "fallenDay": "2021-12-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုကျုံဒိုး",
+            "fallenDay": "2021-12-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးဇင်",
+            "fallenDay": "2021-12-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
