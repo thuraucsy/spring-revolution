@@ -19026,7 +19026,7 @@
             "heroGender": "m",
             "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
         },
@@ -19037,29 +19037,29 @@
             "heroGender": "m",
             "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်ဒေသ",
-            "heroPlace": "",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "ဓနုဖြူမြို့နယ်",
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုကျုံဒိုး",
+            "heroName": "ကိုအောင်မျိုးဇင် (ခ) ကိုကျုံဒိုး",
             "fallenDay": "2021-12-25",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်ဒေသ",
-            "heroPlace": "",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "သာပေါင်းမြို့",
             "fallenCause": ""
         },
         {
-            "heroName": "ကိုအောင်မျိုးဇင်",
+            "heroName": "ကိုဝေလင်း",
             "fallenDay": "2021-12-25",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်ဒေသ",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
         }
