@@ -6663,6 +6663,17 @@
             "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးဇင် (ခ) အုပ်ကြီး",
+            "fallenDay": "2021-12-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "35": [
@@ -7518,6 +7529,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ ဇင်ကလဲကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုစိုင်းဝင်းအောင် (ခ) အေစိုင်းကေ",
+            "fallenDay": "2021-12-25",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "39": [
@@ -12228,6 +12250,28 @@
             "fallenPlace": "",
             "heroPlace": "နေပြည်တော်၊ လယ်ဝေးမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
             "fallenCause": "Dec-20 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုစိုင်းဝင်းအောင် (ခ) အေစိုင်းကေ",
+            "fallenDay": "2021-12-25",
+            "heroAge": "38",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးဇင် (ခ) အုပ်ကြီး",
+            "fallenDay": "2021-12-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "unknown": [
@@ -20821,17 +20865,6 @@
             "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "ကိုစိုင်းဝင်းအောင် (ခ) အေစိုင်းကေ",
-            "fallenDay": "2021-12-25",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လေးကေ့ကော်",
-            "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [

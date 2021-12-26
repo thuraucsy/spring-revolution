@@ -87,6 +87,17 @@
             "fallenPlace": "ကလေးမြို့နယ်နှင့် ဂန့်ဂေါမြို့နယ်အနီး ကျောက်ပြုတ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်မျိုးဇင် (ခ) အုပ်ကြီး",
+            "fallenDay": "2021-12-25",
+            "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
