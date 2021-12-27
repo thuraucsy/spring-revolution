@@ -6030,6 +6030,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုရန်နိုင်ထွန်း",
+            "fallenDay": "2021-12-08",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဖြိုးမောင်မောင်ဦး (ခ) ဖြိုးကြီး",
             "fallenDay": "2021-12-17",
             "heroAge": "30",
@@ -6583,6 +6594,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် လိပ်ဆင်းတောင်အုပ်စု၊ ဥသျှစ်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်းအောင်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -9304,6 +9326,17 @@
             "fallenPlace": "တန့်ဆည်မြိုနယ်၊ ဖလံချိုင်ရွာနှင့် ချောင်းဆုံရွာကြား",
             "heroPlace": "တန့်ဆည်မြိုနယ်၊ ဖလံချိုင်ရွာ",
             "fallenCause": "ကျည်မှန်၊ ဓါးဖြင့် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးညီညီစိန်",
+            "fallenDay": "2021-12-17",
+            "heroAge": "51",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "52": [
@@ -12226,6 +12259,28 @@
             "fallenCity": "နွားထိုးကြီး",
             "fallenState": "မန္တလေး",
             "fallenPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ဝဲမြင်းနီရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရန်နိုင်ထွန်း",
+            "fallenDay": "2021-12-08",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်းအောင်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
@@ -31283,6 +31338,17 @@
             "fallenPlace": "",
             "heroPlace": "မတ္တရာမြို့နယ် ရေနံ့သာကျေးရွာလမ်းခွဲအနီး၊ မဟာကုသလကာရီ နာရေးကူညီမှုအသင်း",
             "fallenCause": "Dec-12 တွင် ဖမ်းဆီးခံ၇၊ Dec-13 တွင် စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးညီညီစိန်",
+            "fallenDay": "2021-12-17",
+            "heroAge": "51",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးမြသန်း",

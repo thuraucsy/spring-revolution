@@ -21,6 +21,17 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ် ကြာသောင်းဆိပ်ကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးညီညီစိန်",
+            "fallenDay": "2021-12-17",
+            "heroAge": "51",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

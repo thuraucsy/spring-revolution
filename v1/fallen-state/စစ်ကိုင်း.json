@@ -4797,6 +4797,28 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုရန်နိုင်ထွန်း",
+            "fallenDay": "2021-12-08",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်းအောင်",
+            "fallenDay": "2021-12-08",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြောင်မြို့နယ်၊ သနပ်ကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးမြင့်",
             "fallenDay": "2021-12-09",
             "heroAge": "67",
@@ -5191,6 +5213,17 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ် အမြင့်မြို့ဟောင်း ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးညီညီစိန်",
+            "fallenDay": "2021-12-17",
+            "heroAge": "51",
+            "heroGender": "m",
+            "fallenCity": "မြောင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "မောင်မင်းခန့်ကျော်",
