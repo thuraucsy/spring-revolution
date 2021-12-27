@@ -5411,6 +5411,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
