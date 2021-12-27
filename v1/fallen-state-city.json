@@ -6924,6 +6924,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "Dec-11 တွင် ဖမ်းဆီးခံ၇၊ Dec-14 တွင် စစ်ကြောရေးတွင် သေဆုံး"
+            },
+            {
+                "heroName": "ကိုအောင်ဘုန်းကျော်",
+                "fallenDay": "2021-12-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရန်ကုန်",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+                "heroPlace": "",
+                "fallenCause": "Dec-26 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
             }
         ],
         "ကွမ်းခြံကုန်း": [
@@ -17999,6 +18010,17 @@
                 "heroName": "ကိုအောင်မျိုးဇင် (ခ) အုပ်ကြီး",
                 "fallenDay": "2021-12-25",
                 "heroAge": "34",
+                "heroGender": "m",
+                "fallenCity": "လေးကေ့ကော်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုအာကာ",
+                "fallenDay": "2021-12-27",
+                "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "လေးကေ့ကော်",
                 "fallenState": "ကရင်",

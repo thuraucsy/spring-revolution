@@ -16598,6 +16598,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအာကာ",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်ဘုန်းကျော်",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "Dec-26 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         }
     ],
     "f": [

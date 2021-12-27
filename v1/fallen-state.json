@@ -6902,6 +6902,17 @@
             "fallenPlace": "မင်္ဂလာဒုံမြို့နယ်၊ ရန်ကုန်လေဆိပ်အဝင် ဆယ်မိုင်ကုန်းထိပ်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ဘုန်းကျော်",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရန်ကုန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရန်ကုန်မြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "Dec-26 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         }
     ],
     "ပဲခူး": [
@@ -17606,6 +17617,17 @@
             "heroName": "ကိုအောင်မျိုးဇင် (ခ) အုပ်ကြီး",
             "fallenDay": "2021-12-25",
             "heroAge": "34",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအာကာ",
+            "fallenDay": "2021-12-27",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "လေးကေ့ကော်",
             "fallenState": "ကရင်",
