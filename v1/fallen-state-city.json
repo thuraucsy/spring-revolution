@@ -17810,13 +17810,13 @@
         ]
     },
     "ကရင်": {
-        "မူတြော်ခရိုင်": [
+        "ဖာပွန်": [
             {
                 "heroName": "",
                 "fallenDay": "2021-03-27",
                 "heroAge": "7",
                 "heroGender": "f",
-                "fallenCity": "မူတြော်ခရိုင်",
+                "fallenCity": "ဖာပွန်",
                 "fallenState": "ကရင်",
                 "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
                 "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
@@ -17827,7 +17827,7 @@
                 "fallenDay": "2021-03-27",
                 "heroAge": "",
                 "heroGender": "m",
-                "fallenCity": "မူတြော်ခရိုင်",
+                "fallenCity": "ဖာပွန်",
                 "fallenState": "ကရင်",
                 "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
                 "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
@@ -17838,14 +17838,12 @@
                 "fallenDay": "2021-03-27",
                 "heroAge": "",
                 "heroGender": "m",
-                "fallenCity": "မူတြော်ခရိုင်",
+                "fallenCity": "ဖာပွန်",
                 "fallenState": "ကရင်",
                 "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
                 "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
                 "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
-            }
-        ],
-        "ဖာပွန်": [
+            },
             {
                 "heroName": "1 casualty",
                 "fallenDay": "2021-04-08",
