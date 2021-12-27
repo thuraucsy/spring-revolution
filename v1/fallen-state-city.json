@@ -16607,6 +16607,19 @@
                 "heroPlace": "ပူတာအိုမြို့နယ်၊ အင်ရိုဘော့ကျေးရွာ",
                 "fallenCause": "နှိပ်စက်ဒဏ်ရာများဖြင့် သေဆုံး"
             }
+        ],
+        "ရွှေကူ": [
+            {
+                "heroName": "ကိုဇော်ဦး",
+                "fallenDay": "2021-12-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေကူ",
+                "fallenState": "ကချင်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရကာ ပစ်သတ်ခံရ"
+            }
         ]
     },
     "ဧရာဝတီ": {
