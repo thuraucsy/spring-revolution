@@ -1253,6 +1253,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဗေထိ",
+            "fallenDay": "2021-12-22",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ]
 }

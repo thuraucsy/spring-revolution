@@ -8182,6 +8182,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဗေထိ",
+            "fallenDay": "2021-12-22",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "41": [
@@ -20758,17 +20769,6 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-22",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကျွန်းလှ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
-            "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
-            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
-        },
-        {
-            "heroName": "",
             "fallenDay": "2021-12-23",
             "heroAge": "",
             "heroGender": "m",
@@ -20907,6 +20907,17 @@
             "fallenCity": "လောင်းလုံး",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "လောင်းလုံးမြို့နယ်၊ စမ်းလှမ်းကျေးရွာ သွားရာလမ်းရှိ တောင်ခြေရင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရှစ်မွှေးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
@@ -27407,6 +27418,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဗေထိ",
+            "fallenDay": "2021-12-22",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကျွန်းလှ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "20th": [

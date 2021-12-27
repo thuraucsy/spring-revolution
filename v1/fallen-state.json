@@ -14722,9 +14722,9 @@
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဗေထိ",
             "fallenDay": "2021-12-22",
-            "heroAge": "",
+            "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ကျွန်းလှ",
             "fallenState": "စစ်ကိုင်း",
@@ -18461,6 +18461,17 @@
             "fallenPlace": "ကန်ပက်လက်မြို့နယ် ဟိုတယ်ဇုန်အနီး",
             "heroPlace": "ကန်ပက်လက်မြို့နယ်၊ Oakphu ရပ်",
             "fallenCause": "Dec-11 တွင် ဖမ်းဆီးခံ၇၊ Dec-12 တွင် သတ်ဖြတ်ပြီး ကန်ပက်လက်ဟိုတယ်ဇုန်အနီးပစ်ထား"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရှစ်မွှေးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "မသိရှိရသေး": [
