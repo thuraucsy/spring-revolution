@@ -19166,5 +19166,29 @@
             "heroPlace": "",
             "fallenCause": "Dec-26 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         }
+    ],
+    "2021-12-29": [
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-29",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
+            "fallenCause": ""
+        }
     ]
 }

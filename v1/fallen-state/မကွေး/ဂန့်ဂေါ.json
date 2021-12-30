@@ -428,6 +428,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-29",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }
