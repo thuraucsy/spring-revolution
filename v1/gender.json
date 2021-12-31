@@ -18074,6 +18074,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မကရင်မ",
+            "fallenDay": "2021-12-31",
+            "heroAge": "40",
+            "heroGender": "f",
+            "fallenCity": "ကြာအင်းဆိပ်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ သံပုရာကျေးရွာ",
+            "heroPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ ဒါလီကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "unknown": [

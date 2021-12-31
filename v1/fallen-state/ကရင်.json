@@ -197,6 +197,17 @@
             "fallenPlace": "လေးကေ့ကော်ဒေသ၊ ထီးမယ့်ဝါးခီးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မကရင်မ",
+            "fallenDay": "2021-12-31",
+            "heroAge": "40",
+            "heroGender": "f",
+            "fallenCity": "ကြာအင်းဆိပ်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ သံပုရာကျေးရွာ",
+            "heroPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ ဒါလီကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
