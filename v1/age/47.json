@@ -76,6 +76,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်၊ မုံရွေးကျေးရွာ",
             "heroPlace": "မုံရွာမြို့နယ်၊ မုံရွေးကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဆီးခုံသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်လင်း",
+            "fallenDay": "2021-12-23",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

@@ -21,6 +21,17 @@
             "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
             "heroPlace": "",
             "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဌေးမောင်",
+            "fallenDay": "2021-12-23",
+            "heroAge": "57",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

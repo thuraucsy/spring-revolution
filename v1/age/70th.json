@@ -109,6 +109,17 @@
             "fallenPlace": "ကျိုက်လတ်မြို့နယ် မြို့မရဲစခန်း",
             "heroPlace": "",
             "fallenCause": "Nov-9 တွင် ဖမ်းဆီးခံ၇၊ Nov-10 ရဲစခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးထူးအောင်",
+            "fallenDay": "2021-12-23",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

@@ -582,6 +582,39 @@
             "fallenPlace": "ပုသိမ်မြို့၊ ကျောက်ဖျာကျေးရွာရှိ စမ်းချောင်းအနီး",
             "heroPlace": "ပုသိမ်မြို့၊ ကျောက်ဖျာကျေးရွာ",
             "fallenCause": "Dec-18 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးမောင်ကြည်",
+            "fallenDay": "2021-12-23",
+            "heroAge": "58",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဒေါ်ဌေးမ",
+            "fallenDay": "2021-12-23",
+            "heroAge": "55",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးဌေးမောင်",
+            "fallenDay": "2021-12-23",
+            "heroAge": "57",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

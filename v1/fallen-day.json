@@ -18939,9 +18939,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်ဝင်းမြင့်ရီ",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "60",
             "heroGender": "f",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -18952,7 +18952,7 @@
         {
             "heroName": "ဦးမောင်ကြည်",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "58",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -18963,7 +18963,7 @@
         {
             "heroName": "ဒေါ်ဌေးမ",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "55",
             "heroGender": "f",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -18974,7 +18974,7 @@
         {
             "heroName": "ကိုဖိုးအေး",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -18985,7 +18985,7 @@
         {
             "heroName": "ကိုမြင့်ဇော်",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "46",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -18996,7 +18996,7 @@
         {
             "heroName": "ဦးမင်းဒင်",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "62",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
@@ -19005,35 +19005,35 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ဦးငွေသွား",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ အထက်တန်းကျောင်းရှေ့",
+            "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ဦးဌေးမောင်",
             "fallenDay": "2021-12-23",
-            "heroAge": "",
+            "heroAge": "57",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ အထက်တန်းကျောင်းရှေ့",
+            "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမောင်ဇော်",
             "fallenDay": "2021-12-23",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ အထက်တန်းကျောင်းရှေ့",
+            "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
         },
@@ -19047,6 +19047,61 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်လင်း",
+            "fallenDay": "2021-12-23",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးထူးအောင်",
+            "fallenDay": "2021-12-23",
+            "heroAge": "72",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "မဘဲဥ",
+            "fallenDay": "2021-12-23",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးအဲပွေ",
+            "fallenDay": "2021-12-23",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "2021-12-24": [
