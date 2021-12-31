@@ -8612,6 +8612,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
