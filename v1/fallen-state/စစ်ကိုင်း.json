@@ -5433,6 +5433,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

@@ -21008,6 +21008,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြင့်ရွှေ",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာနှင့် တောင်ဘက်ကျေးရွာကြား",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "under20": [

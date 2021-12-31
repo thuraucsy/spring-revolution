@@ -296,6 +296,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျရွာ",
             "heroPlace": "",
             "fallenCause": "ရိုက်နှက်မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }
