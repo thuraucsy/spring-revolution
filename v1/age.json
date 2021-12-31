@@ -8628,6 +8628,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ရွှေလှံရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမျိုးနိုင်",
+            "fallenDay": "2021-12-27",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူအကျဉ်းထောင်",
+            "heroPlace": "",
+            "fallenCause": "Dec-15 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         }
     ],
     "44": [
@@ -27539,6 +27550,17 @@
             "fallenPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "heroPlace": "ကျွန်းလှမြို့နယ် ကန်စွန်းအင်းကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမျိုးနိုင်",
+            "fallenDay": "2021-12-27",
+            "heroAge": "43",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူအကျဉ်းထောင်",
+            "heroPlace": "",
+            "fallenCause": "Dec-15 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         },
         {
             "heroName": "",
