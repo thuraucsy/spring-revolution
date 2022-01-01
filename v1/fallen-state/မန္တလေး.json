@@ -3079,6 +3079,39 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်၊ နယ်ခြားကျေးရွာ",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ နယ်ခြားကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

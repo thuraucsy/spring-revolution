@@ -3117,6 +3117,41 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ကျောက်ဆည်": [
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ဆည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ဆည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ဆည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
         ]
     },
     "နေပြည်တော်": {
@@ -11587,6 +11622,17 @@
                 "fallenPlace": "ကောလင်းမြို့နယ်အနောက်ဘက်ခြမ်း၊ ဦးတင်ဦးကုန်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုရင်နန္ဒိယ",
+                "fallenDay": "2022-01-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကောလင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
+                "heroPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ချောင်းဦး": [
