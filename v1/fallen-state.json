@@ -15074,9 +15074,9 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးမောင်ကြီး",
             "fallenDay": "2021-12-31",
-            "heroAge": "",
+            "heroAge": "54",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
@@ -15116,6 +15116,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [

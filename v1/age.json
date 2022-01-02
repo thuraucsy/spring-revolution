@@ -9563,6 +9563,19 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
+    "54": [
+        {
+            "heroName": "ဦးမောင်ကြီး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "54",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
+            "fallenCause": ""
+        }
+    ],
     "55": [
         {
             "heroName": "ကိုစိုးမိုးလှိုင် (ခ) ကိုမဲကြီး",
@@ -21135,17 +21148,6 @@
             "fallenDay": "2021-12-31",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "တန့်ဆည်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
-            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-12-31",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "မင်းတပ်",
             "fallenState": "ချင်း",
             "fallenPlace": "",
@@ -21228,6 +21230,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Dec-31 တွင် ဒီးမော့ဆိုမြို ငွေတောင်ဆည်တိုက်ပွဲတွင် ပြင်းထန်ဒဏ်ရာ၇ကာ Jan-2 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -31832,6 +31845,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးမောင်ကြီး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "54",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
             "fallenCause": ""
         }
     ],

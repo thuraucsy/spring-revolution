@@ -13279,9 +13279,9 @@
                 "fallenCause": "ရိုက်နှက်မီးရှို့သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးမောင်ကြီး",
                 "fallenDay": "2021-12-31",
-                "heroAge": "",
+                "heroAge": "54",
                 "heroGender": "m",
                 "fallenCity": "တန့်ဆည်",
                 "fallenState": "စစ်ကိုင်း",
@@ -13976,6 +13976,17 @@
                 "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
                 "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
                 "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-02",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆားလင်းကြီး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ဝက်လက်": [

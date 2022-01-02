@@ -19325,9 +19325,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးမောင်ကြီး",
             "fallenDay": "2021-12-31",
-            "heroAge": "",
+            "heroAge": "54",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
@@ -19426,6 +19426,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Dec-31 တွင် ဒီးမော့ဆိုမြို ငွေတောင်ဆည်တိုက်ပွဲတွင် ပြင်းထန်ဒဏ်ရာ၇ကာ Jan-2 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆားလင်းကြီး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
