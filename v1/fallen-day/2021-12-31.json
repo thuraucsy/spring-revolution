@@ -76,6 +76,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ ပင်တင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူ",
+            "fallenDay": "2021-12-31",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ရွှေဒါးကန်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဝင်းမြင့်",
+            "fallenDay": "2021-12-31",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းကျေးရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ရွှေဒါးကန်ကျေးရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
