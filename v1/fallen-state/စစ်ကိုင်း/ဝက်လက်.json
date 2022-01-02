@@ -98,6 +98,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ဘုရားလေးကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

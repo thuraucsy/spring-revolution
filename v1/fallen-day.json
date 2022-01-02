@@ -19391,6 +19391,30 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
             "heroPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ဘုရားလေးကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
+    ],
+    "2022-01-02": [
+        {
+            "heroName": "ကိုဟင်နရီ",
+            "fallenDay": "2022-01-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Dec-31 တွင် ဒီးမော့ဆိုမြို ငွေတောင်ဆည်တိုက်ပွဲတွင် ပြင်းထန်ဒဏ်ရာ၇ကာ Jan-2 တွင် သေဆုံး"
         }
     ]
 }

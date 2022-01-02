@@ -10,6 +10,17 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
             "heroPlace": "ကောလင်းမြို့နယ်၊ မင်္ဂလာဇေယျကျောင်းတိုက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ဘုရားလေးကုန်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
