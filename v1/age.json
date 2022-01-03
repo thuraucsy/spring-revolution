@@ -2112,6 +2112,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-12-31",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "20": [
@@ -3372,6 +3383,17 @@
             "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရှစ်မွှေးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး ညင်းပန်းနှိပ်စက်ကာ ခန္ဒာကိုယ်အစိတ်အပိုင်းများလှီးဖြတ်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးလွင်ဦး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "23": [
@@ -21254,6 +21276,50 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအောင်ပြည့်စုံထွန်း",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြွန်တန်ဆာ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုစည်သူထွန်း",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြွန်တန်ဆာ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇင်ကို",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြွန်တန်ဆာ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုတီပွား",
+            "fallenDay": "2021-12-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပြွန်တန်ဆာ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုရင်နန္ဒိယ",
             "fallenDay": "2022-01-01",
             "heroAge": "",
@@ -23421,6 +23487,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-12-31",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "10th": [
@@ -25403,6 +25480,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-12-31",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "under18": [
@@ -31338,6 +31426,17 @@
             "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရှစ်မွှေးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး ညင်းပန်းနှိပ်စက်ကာ ခန္ဒာကိုယ်အစိတ်အပိုင်းများလှီးဖြတ်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးလွင်ဦး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         },
         {
             "heroName": "",

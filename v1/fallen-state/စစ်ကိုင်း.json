@@ -5578,6 +5578,28 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုမျိုးလွင်ဦး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုသန်းထိုက်အောင်",
+            "fallenDay": "2021-12-31",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "ကိုရင်နန္ဒိယ",
             "fallenDay": "2022-01-01",
             "heroAge": "",

@@ -373,6 +373,17 @@
             "fallenPlace": "မင်းတပ်မြို့နယ်၊ ရှစ်မွှေးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး ညင်းပန်းနှိပ်စက်ကာ ခန္ဒာကိုယ်အစိတ်အပိုင်းများလှီးဖြတ်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးလွင်ဦး",
+            "fallenDay": "2021-12-31",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }

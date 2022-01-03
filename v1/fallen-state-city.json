@@ -7989,6 +7989,52 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "ပြွန်တန်ဆာ": [
+            {
+                "heroName": "ကိုအောင်ပြည့်စုံထွန်း",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြွန်တန်ဆာ",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုစည်သူထွန်း",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြွန်တန်ဆာ",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုဇင်ကို",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြွန်တန်ဆာ",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုတီပွား",
+                "fallenDay": "2021-12-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြွန်တန်ဆာ",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            }
         ]
     },
     "မကွေး": {
@@ -14547,6 +14593,28 @@
                 "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းကျေးရွာ",
                 "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ရွှေဒါးကန်ကျေးရွာ",
                 "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုမျိုးလွင်ဦး",
+                "fallenDay": "2021-12-31",
+                "heroAge": "22",
+                "heroGender": "m",
+                "fallenCity": "ဒီပဲယင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
+            },
+            {
+                "heroName": "ကိုသန်းထိုက်အောင်",
+                "fallenDay": "2021-12-31",
+                "heroAge": "19",
+                "heroGender": "m",
+                "fallenCity": "ဒီပဲယင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
             }
         ],
         "ဂန့်ဂေါ": [
