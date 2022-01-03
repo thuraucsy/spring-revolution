@@ -32,6 +32,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကာပေါင်းကျကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဇင်မင်းထိုက်",
+            "fallenDay": "2022-01-01",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "အုတ်တွင်းမြို့နယ်",
+            "fallenCause": "ဖမ်းဆီးခံရ၊အပြီး စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

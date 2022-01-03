@@ -32,6 +32,17 @@
             "fallenPlace": "တောင်ငူမြို့ တောင်ပိုင်းတိုင်းစစ်ဌာနချုပ်",
             "heroPlace": "",
             "fallenCause": "စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇင်မင်းထိုက်",
+            "fallenDay": "2022-01-01",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "တောင်ငူ",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "အုတ်တွင်းမြို့နယ်",
+            "fallenCause": "ဖမ်းဆီးခံရ၊အပြီး စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }
