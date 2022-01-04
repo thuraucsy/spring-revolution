@@ -703,6 +703,17 @@
             "fallenPlace": "လောင်းလုံးမြို့နယ်၊ စမ်းလှမ်းကျေးရွာ သွားရာလမ်းရှိ တောင်ခြေရင်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ကဒဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

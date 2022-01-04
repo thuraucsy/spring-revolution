@@ -19616,5 +19616,18 @@
             "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
+    ],
+    "2022-01-04": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ကဒဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        }
     ]
 }

@@ -54,6 +54,17 @@
             "fallenPlace": "ပုလောမြို့နယ်၊ ဖိုးရှမ်းကမ်းခြေအနီး",
             "heroPlace": "",
             "fallenCause": "ကားဖြင့် တိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ကဒဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

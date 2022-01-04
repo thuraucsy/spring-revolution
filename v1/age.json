@@ -21428,6 +21428,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Jan-1 တွင် မိုင်းနင်းမိ၊ Jan-3 မနက်တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ကဒဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [
