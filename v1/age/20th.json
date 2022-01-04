@@ -3409,6 +3409,17 @@
             "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ ဆင်ကျွန်းကျေးရွာ",
             "heroPlace": "ထီးချိုင့်မြို့နယ်၊ ဆင်ကျွန်းကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်လျန်အုပ်",
+            "fallenDay": "2022-01-04",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမိ"
         }
     ]
 }

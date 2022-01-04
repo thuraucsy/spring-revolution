@@ -32,6 +32,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမိ"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်လျန်အုပ်",
+            "fallenDay": "2022-01-04",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမိ"
         }
     ]
 }

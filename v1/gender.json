@@ -17082,6 +17082,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမိ"
+        },
+        {
+            "heroName": "ဆလိုင်းထန်လျန်အုပ်",
+            "fallenDay": "2022-01-04",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမိ"
         }
     ],
     "f": [
@@ -19112,24 +19123,24 @@
             "fallenCause": "မိုင်းနင်းမိ"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဇော်မျိုးနောင်",
             "fallenDay": "2022-01-03",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ညောင်ပင်ကြီးတောကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးသန်းနိုင်",
             "fallenDay": "2022-01-03",
             "heroAge": "",
             "heroGender": "",
             "fallenCity": "ဝက်လက်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
+            "fallenPlace": "ဝက်လက်မြို့နယ်၊ ညောင်ပင်ကြီးတောကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
