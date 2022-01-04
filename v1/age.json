@@ -8393,6 +8393,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်စန်းစန်းအေး",
+            "fallenDay": "2022-01-03",
+            "heroAge": "41",
+            "heroGender": "f",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
+            "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "42": [
@@ -21417,17 +21428,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Jan-1 တွင် မိုင်းနင်းမိ၊ Jan-3 မနက်တွင် သေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-03",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "လေးကေ့ကော်",
-            "fallenState": "ကရင်",
-            "fallenPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
-            "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [
@@ -28058,6 +28058,17 @@
             "fallenPlace": "",
             "heroPlace": "အုတ်တွင်းမြို့နယ်",
             "fallenCause": "ဖမ်းဆီးခံရ၊အပြီး စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဒေါ်စန်းစန်းအေး",
+            "fallenDay": "2022-01-03",
+            "heroAge": "41",
+            "heroGender": "f",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
+            "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20th": [
