@@ -80,13 +80,13 @@
         {
             "heroName": "ဟရန်လျန်ဆုန်",
             "fallenDay": "2022-01-03",
-            "heroAge": "",
+            "heroAge": "40",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

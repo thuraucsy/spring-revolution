@@ -8336,6 +8336,17 @@
             "fallenPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ သံပုရာကျေးရွာ",
             "heroPlace": "ကြာအင်းဆိပ်ကြီးမြို့နယ်၊ ဒါလီကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဟရန်လျန်ဆုန်",
+            "fallenDay": "2022-01-03",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "41": [
@@ -21529,17 +21540,6 @@
             "fallenCause": "Jan-2 တွင် ဖမ်းဆီးခံ၇ Jan-3 ကျောက်မြောင်းရဲစခန်းတွင် သေဆုံး"
         },
         {
-            "heroName": "ဟရန်လျန်ဆုန်",
-            "fallenDay": "2022-01-03",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဖလမ်း",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "ကိုဖြူဖွေး",
             "fallenDay": "2022-01-04",
             "heroAge": "",
@@ -28256,6 +28256,17 @@
             "fallenPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဟရန်လျန်ဆုန်",
+            "fallenDay": "2022-01-03",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "20th": [
