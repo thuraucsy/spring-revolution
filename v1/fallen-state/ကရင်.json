@@ -219,6 +219,17 @@
             "fallenPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ကြီး",
+            "fallenDay": "2022-01-04",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
