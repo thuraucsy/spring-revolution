@@ -709,6 +709,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "16",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "17": [
@@ -6127,17 +6138,6 @@
             "fallenPlace": "",
             "heroPlace": "နေပြည်တော်၊ လယ်ဝေးမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
             "fallenCause": "Dec-20 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် စစ်ကြောရေးတွင်သေဆုံး"
-        },
-        {
-            "heroName": "မခင်ညို",
-            "fallenDay": "2022-01-04",
-            "heroAge": "30",
-            "heroGender": "f",
-            "fallenCity": "အင်းတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "31": [
@@ -6472,6 +6472,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊  တောင်တလုတ်လယ်ကွဲ-ရွာမြင်တောင်ကုန်းအနီး",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မခင်ညို",
+            "fallenDay": "2022-01-04",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "33": [
@@ -12652,7 +12663,7 @@
         {
             "heroName": "မခင်ညို",
             "fallenDay": "2022-01-04",
-            "heroAge": "30",
+            "heroAge": "32",
             "heroGender": "f",
             "fallenCity": "အင်းတော်",
             "fallenState": "စစ်ကိုင်း",
@@ -21518,6 +21529,17 @@
             "fallenCause": "Jan-2 တွင် ဖမ်းဆီးခံ၇ Jan-3 ကျောက်မြောင်းရဲစခန်းတွင် သေဆုံး"
         },
         {
+            "heroName": "ဟရန်လျန်ဆုန်",
+            "fallenDay": "2022-01-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုဖြူဖွေး",
             "fallenDay": "2022-01-04",
             "heroAge": "",
@@ -21532,7 +21554,7 @@
             "heroName": "",
             "fallenDay": "2022-01-04",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "အင်းတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
@@ -21543,29 +21565,7 @@
             "heroName": "",
             "fallenDay": "2022-01-04",
             "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "အင်းတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-04",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "အင်းတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
-            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-04",
-            "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "အင်းတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
@@ -23674,6 +23674,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "16",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "10th": [
@@ -25667,6 +25678,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "16",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "under18": [
@@ -26846,6 +26868,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "16",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ],
     "40th": [

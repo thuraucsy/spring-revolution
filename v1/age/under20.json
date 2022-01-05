@@ -2089,6 +2089,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-04",
+            "heroAge": "16",
+            "heroGender": "f",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
+            "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ]
 }

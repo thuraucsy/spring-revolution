@@ -76,6 +76,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျောက်မြောင်းမြို့ရဲစခန်း",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျောက်မြောင်းမြို့",
             "fallenCause": "Jan-2 တွင် ဖမ်းဆီးခံ၇ Jan-3 ကျောက်မြောင်းရဲစခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဟရန်လျန်ဆုန်",
+            "fallenDay": "2022-01-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
