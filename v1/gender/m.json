@@ -17137,6 +17137,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်၊ အာဇာနည်လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-05",
+            "heroAge": "48",
+            "heroGender": "m",
+            "fallenCity": "ကလော",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ကလောမြို့နယ်၊ ရေယားကျေးရွာ",
+            "heroPlace": "ကလောမြို့နယ်၊ ရေယားကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
