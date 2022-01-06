@@ -5741,6 +5741,17 @@
             "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
             "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇာလင်း",
+            "fallenDay": "2022-01-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ အာဇာနည်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }
