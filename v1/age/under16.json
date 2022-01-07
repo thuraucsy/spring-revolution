@@ -485,18 +485,18 @@
             "fallenCause": "Nov-25 တွင် ရရှိသည့် ဗုံးမှန် ဒဏ်ရာဖြင့် Dec-14 တွင် သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ချစ်ကောင်း",
             "fallenDay": "2022-01-06",
             "heroAge": "12",
             "heroGender": "m",
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
-            "heroPlace": "",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာတော်ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ခန့်ဇင်ထွေး",
             "fallenDay": "2022-01-07",
             "heroAge": "14",
             "heroGender": "m",
