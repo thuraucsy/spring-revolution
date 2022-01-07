@@ -17170,6 +17170,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်အန်ပရောရှို",
+            "fallenDay": "2022-01-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Jan-3 ငွေတောင်ဆည်တိုက်ပွဲတွင် ဒဏ်ရာ၇၊ Jan-6 တွင် သေဆုံး"
         }
     ]
 }
