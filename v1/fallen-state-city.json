@@ -13077,6 +13077,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "စစ်ကိုင်း": [
@@ -17819,7 +17830,7 @@
                 "fallenCause": "လက်နက်ကြီးမှန်"
             },
             {
-                "heroName": "",
+                "heroName": "ကိုနိုင်လင်း",
                 "fallenDay": "2022-01-07",
                 "heroAge": "",
                 "heroGender": "m",
@@ -17827,7 +17838,62 @@
                 "fallenState": "ကယား",
                 "fallenPlace": "",
                 "heroPlace": "",
-                "fallenCause": ""
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဒီးမော့ဆို": [
