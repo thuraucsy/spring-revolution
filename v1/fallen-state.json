@@ -15402,6 +15402,17 @@
             "fallenPlace": "မုံရွာမြို့နယ်၊ အာဇာနည်လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-06",
+            "heroAge": "12",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
@@ -17995,6 +18006,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Jan-1 တွင် မိုင်းနင်းမိ၊ Jan-3 မနက်တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
+            "heroPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "ကရင်": [

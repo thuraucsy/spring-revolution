@@ -582,6 +582,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ညောင်ပင်ကြီးတောကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
+            "heroPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
