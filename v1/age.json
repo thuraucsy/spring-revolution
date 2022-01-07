@@ -342,6 +342,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "15": [
@@ -1227,6 +1238,28 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -21675,7 +21708,7 @@
             "heroName": "",
             "fallenDay": "2022-01-07",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
@@ -23795,6 +23828,39 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -25810,6 +25876,39 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -27010,6 +27109,39 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -33246,6 +33378,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ ကံသစ်ရွာ",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "14",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],

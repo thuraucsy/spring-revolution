@@ -494,6 +494,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "သရက်ချောင်း",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
