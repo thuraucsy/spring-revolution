@@ -901,6 +901,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
             "heroPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
