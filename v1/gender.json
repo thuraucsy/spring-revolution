@@ -17183,6 +17183,17 @@
             "fallenCause": "Jan-3 ငွေတောင်ဆည်တိုက်ပွဲတွင် ဒဏ်ရာ၇၊ Jan-6 တွင် သေဆုံး"
         },
         {
+            "heroName": "စောထွန်းတင်",
+            "fallenDay": "2022-01-06",
+            "heroAge": "54",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-07",
             "heroAge": "",
@@ -19308,17 +19319,6 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ ညောင်ပင်ကြီးတောကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-06",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဖာပွန်",
-            "fallenState": "ကရင်",
-            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
-            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

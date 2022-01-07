@@ -9772,6 +9772,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာသုဿန်အနီး",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ကုန်းရိုးကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "စောထွန်းတင်",
+            "fallenDay": "2022-01-06",
+            "heroAge": "54",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "55": [
@@ -21706,17 +21717,6 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2022-01-06",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ဖာပွန်",
-            "fallenState": "ကရင်",
-            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
-            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "",
             "fallenDay": "2022-01-07",
             "heroAge": "",
             "heroGender": "m",
@@ -32616,6 +32616,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းကျေးရွာ",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ရွှေဒါးကန်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "စောထွန်းတင်",
+            "fallenDay": "2022-01-06",
+            "heroAge": "54",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "60th": [
