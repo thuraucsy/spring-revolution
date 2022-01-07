@@ -65,6 +65,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ မယ့်ကြည့်ခီးနှင့် နိလားကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-06",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘလယ်ပယ်ရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
