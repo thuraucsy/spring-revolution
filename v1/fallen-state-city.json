@@ -7161,6 +7161,19 @@
                 "heroPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ ၁၂၂ လမ်း",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "တိုက်ကြီး": [
+            {
+                "heroName": "ဦးထိန်လင်း",
+                "fallenDay": "2022-01-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တိုက်ကြီး",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
+                "heroPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "ပဲခူး": {
@@ -17927,6 +17940,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဒီးမော့ဆို": [
