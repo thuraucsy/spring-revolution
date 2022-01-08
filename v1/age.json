@@ -21802,6 +21802,39 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဖြိုး",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရွှေပြည့်အောင်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ယင်းတွေရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်း",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ပုဂံရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [

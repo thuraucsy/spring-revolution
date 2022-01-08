@@ -17247,6 +17247,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုး",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရွှေပြည့်အောင်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ယင်းတွေရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးဝင်း",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသည်ကားဂိတ်အနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ပုဂံရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
