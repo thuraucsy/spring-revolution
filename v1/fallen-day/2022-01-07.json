@@ -197,6 +197,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ယင်းတွေရွာမြောက်ဘက် ဧက ၁၀၀ ကွင်းရှိ မဲသည်ကားဂိတ်အနီး",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ပုဂံရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Pu Tui Dim",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

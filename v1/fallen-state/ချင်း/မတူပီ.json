@@ -76,6 +76,17 @@
             "fallenPlace": "",
             "heroPlace": "မတူပီမြို့နယ်၊ ငလိုင်းကျေးရွာ",
             "fallenCause": "Sep-23 တွင် ဖမ်းဆီးသွား၊ Nov-17 တွင် သေဆုံးကြောင်း မိသားစုအားအကြောင်းကြား"
+        },
+        {
+            "heroName": "Pu Tui Dim",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

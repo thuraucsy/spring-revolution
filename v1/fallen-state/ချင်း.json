@@ -912,6 +912,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Pu Tui Dim",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
