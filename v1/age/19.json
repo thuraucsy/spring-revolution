@@ -648,6 +648,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းခန့်ဇော်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Jan-4  တွင် ဖမ်းဆီးခံ၇ Jan-7 စစ်ကြောရေးတွင်ရရှိသည့် ဒဏ်ရာများကြောင့် သေဆုံး"
         }
     ]
 }
