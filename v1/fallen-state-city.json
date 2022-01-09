@@ -8829,8 +8829,8 @@
                 "heroGender": "m",
                 "fallenCity": "ဂန့်ဂေါ",
                 "fallenState": "မကွေး",
-                "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
-                "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
+                "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+                "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
                 "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
             },
             {
@@ -9164,7 +9164,7 @@
                 "fallenCause": "သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "ဦးထွားမောင်",
                 "fallenDay": "2021-12-29",
                 "heroAge": "45",
                 "heroGender": "m",
@@ -10458,17 +10458,6 @@
                 "fallenPlace": "မုံရွာမြို့နယ်၊ သာစည်လမ်း၊ အရှေ့လယ်တီဘုန်းကြီးကျောင်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
-            },
-            {
-                "heroName": "ကိုအာကာဖြိုး",
-                "fallenDay": "2022-01-02",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မုံရွာ",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": "Dec-31 တွင် ဖမ်းဆီးခံ၇ Jan-2 စစ်ကြောရေးတွင် သေဆုံး"
             },
             {
                 "heroName": "ကိုဇာလင်း",

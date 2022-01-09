@@ -8542,8 +8542,8 @@
             "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
-            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
-            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခေါကျေးရွာ",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးကျေးရွာ",
             "fallenCause": "ရိုက်နှက်ခံရကာသေဆုံး"
         },
         {
@@ -9306,7 +9306,7 @@
             "fallenCause": "Dec-15 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးထွားမောင်",
             "fallenDay": "2021-12-29",
             "heroAge": "45",
             "heroGender": "m",
@@ -15391,17 +15391,6 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ညောင်ပင်ကြီးကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "ကိုအာကာဖြိုး",
-            "fallenDay": "2022-01-02",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မုံရွာ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "Dec-31 တွင် ဖမ်းဆီးခံ၇ Jan-2 စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
             "heroName": "မောင်ဇော်မျိုးနောင်",
