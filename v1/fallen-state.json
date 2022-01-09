@@ -15316,6 +15316,17 @@
             "fallenCause": "သတ်ဖြတ်ကာ မီးရှို့ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-30",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးမောင်ကြီး",
             "fallenDay": "2021-12-31",
             "heroAge": "54",
@@ -15622,6 +15633,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ယင်းတွေရွာမြောက်ဘက် ဧက ၁၀၀ ကွင်းရှိ မဲသည်ကားဂိတ်အနီး",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ပုဂံရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသင်ထန်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "ရှမ်း": [

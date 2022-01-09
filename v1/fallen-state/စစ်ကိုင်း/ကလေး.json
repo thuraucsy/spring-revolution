@@ -1198,6 +1198,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အရှေ့စည်းရွာအနီး မြစ်သာမြစ်ကမ်းစပ်",
             "heroPlace": "ကလေးမြို့နယ်၊ ခုံတိုးမြို့သာရွာ",
             "fallenCause": "သတ်ဖြတ်ကာ မီးရှို့ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2021-12-30",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးသင်ထန်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

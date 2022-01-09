@@ -1442,6 +1442,17 @@
             "fallenCause": "သတ်ဖြတ်ကာ မီးရှို့ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-30",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မကရင်မ",
             "fallenDay": "2021-12-31",
             "heroAge": "40",
