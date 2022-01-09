@@ -274,6 +274,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးကျော်ရှိန်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "60",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးပေတုံး",
+            "fallenDay": "2022-01-08",
+            "heroAge": "63",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးရွာ",
+            "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
         }
     ]
 }

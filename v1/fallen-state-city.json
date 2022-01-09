@@ -9184,6 +9184,17 @@
                 "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
                 "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးပေတုံး",
+                "fallenDay": "2022-01-08",
+                "heroAge": "63",
+                "heroGender": "m",
+                "fallenCity": "ဂန့်ဂေါ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးရွာ",
+                "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
             }
         ],
         "ပေါက်": [
@@ -9513,6 +9524,17 @@
                 "fallenPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
                 "heroPlace": "ရေစကြိုမြို့၊ အမှတ်(၁) ထင်းတန်းရပ်ကွက်",
                 "fallenCause": "ပါဆယ်ဗုံးပစ်ခံရ"
+            },
+            {
+                "heroName": "ဦးအောင်ကြင်",
+                "fallenDay": "2022-01-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေစကြို",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဇီးတောရွာနှင့် ကံစွယ်ရွာကြား",
+                "heroPlace": "",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "မြို့သစ်": [
@@ -11637,17 +11659,6 @@
                 "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
-            },
-            {
-                "heroName": "ဦးပေတုံး",
-                "fallenDay": "2022-01-08",
-                "heroAge": "",
-                "heroGender": "",
-                "fallenCity": "ကလေး",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "ကလေးမြို့နယ်၊ နှမ်းခါးရွာ",
-                "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
             }
         ],
         "ကောလင်း": [
@@ -13125,10 +13136,10 @@
                 "fallenCause": ""
             },
             {
-                "heroName": "",
+                "heroName": "ဦးကျော်ရှိန်",
                 "fallenDay": "2022-01-07",
-                "heroAge": "",
-                "heroGender": "",
+                "heroAge": "60",
+                "heroGender": "m",
                 "fallenCity": "ယင်းမာပင်",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
