@@ -241,6 +241,17 @@
             "fallenPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "heroPlace": "ဗဟန်းမြို့နယ်၊ ငါးထပ်ကြီးတောင်ရပ်ကွက်၊ ဆာဖိုးသာခြံလမ်း",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "14": [
@@ -21906,14 +21917,14 @@
         },
         {
             "heroName": "Pu Tui Dim",
-            "fallenDay": "2022-01-07",
+            "fallenDay": "2022-01-08",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ရီးရယ်ထွန်းကြည် (ခ) သျှောင်ကြီးဗွေ",
@@ -24105,6 +24116,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "10th": [
@@ -26164,6 +26186,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "under18": [
@@ -27398,6 +27431,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "40th": [
@@ -33678,6 +33722,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "70th": [

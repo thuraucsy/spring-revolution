@@ -17337,6 +17337,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "Pu Tui Dim",
+            "fallenDay": "2022-01-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းလာနန်း",
+            "fallenDay": "2022-01-08",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ရီးရယ်ထွန်းကြည် (ခ) သျှောင်ကြီးဗွေ",
             "fallenDay": "2022-01-08",
             "heroAge": "",
@@ -19517,17 +19539,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "Pu Tui Dim",
-            "fallenDay": "2022-01-07",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မတူပီ",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

@@ -637,17 +637,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "Pu Tui Dim",
-            "fallenDay": "2022-01-07",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "မတူပီ",
-            "fallenState": "ချင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }
