@@ -9096,6 +9096,28 @@
             "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုစန်းထူး",
+            "fallenDay": "2022-01-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြို့နယ်၊ သက်ငယ်ပြင်ရွာ",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ သက်ငယ်ပြင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ့ဆိုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

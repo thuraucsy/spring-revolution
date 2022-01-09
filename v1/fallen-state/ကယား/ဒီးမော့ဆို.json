@@ -571,6 +571,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Jan-3 ငွေတောင်ဆည်တိုက်ပွဲတွင် ဒဏ်ရာ၇၊ Jan-6 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါ့ဆိုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
