@@ -11199,6 +11199,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဆန်းနိုင်ထွန်း",
+            "fallenDay": "2021-09-06",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဆုံရွာ",
+            "fallenCause": "Sep-5 တွင် ဖမ်းဆီးခံ၇ကာ Sep-6 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
             "heroName": "ကိုဖိုးအို",
             "fallenDay": "2021-09-06",
             "heroAge": "",
@@ -17150,6 +17161,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုမင်းခန့်ဇော်",
+            "fallenDay": "2022-01-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Jan-4  တွင် ဖမ်းဆီးခံရ ကာ စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
             "heroName": "ကိုအောင်ကိုလတ်",
             "fallenDay": "2022-01-06",
             "heroAge": "39",
@@ -17282,15 +17304,15 @@
             "fallenCause": "Jan-2 တွင် ဖမ်းဆီးခံ၇ Jan-6 စစ်ကြောရေးတွင်ရရှိသည့် ဒဏ်ရာများကြောင့် သေဆုံး"
         },
         {
-            "heroName": "ကိုမင်းခန့်ဇော်",
-            "fallenDay": "2022-01-07",
-            "heroAge": "19",
+            "heroName": "ဦးအောင်သိန်း",
+            "fallenDay": "2022-01-05",
+            "heroAge": "70",
             "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "Jan-4  တွင် ဖမ်းဆီးခံ၇ Jan-7 စစ်ကြောရေးတွင်ရရှိသည့် ဒဏ်ရာများကြောင့် သေဆုံး"
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဆုံရွာအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ အကုက္ကားရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",

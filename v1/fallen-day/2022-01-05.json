@@ -32,6 +32,28 @@
             "fallenPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
             "heroPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမင်းခန့်ဇော်",
+            "fallenDay": "2022-01-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Jan-4  တွင် ဖမ်းဆီးခံရ ကာ စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးအောင်သိန်း",
+            "fallenDay": "2022-01-05",
+            "heroAge": "70",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဆုံရွာအနီး",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ အကုက္ကားရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
