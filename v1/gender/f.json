@@ -1431,6 +1431,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ဒေါ်မိုးမိုးဌေး",
+            "fallenDay": "2021-12-29",
+            "heroAge": "48",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အရှေ့စည်းရွာအနီး မြစ်သာမြစ်ကမ်းစပ်",
+            "heroPlace": "ကလေးမြို့နယ်၊ ခုံတိုးမြို့သာရွာ",
+            "fallenCause": "သတ်ဖြတ်ကာ မီးရှို့ခံရ"
+        },
+        {
             "heroName": "မကရင်မ",
             "fallenDay": "2021-12-31",
             "heroAge": "40",
