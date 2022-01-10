@@ -10,6 +10,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့၊ မြို့မရှမ်းရပ်",
             "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ်ခုံမြို့၊ မြို့မရှမ်းရပ်",
             "fallenCause": "လက်နက်ကြီးကျသံကြောင့် နှလုံးဖောက်ကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ သက္ကယ်ကန်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ သက္ကယ်ကန်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

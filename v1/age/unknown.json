@@ -9217,6 +9217,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ သက္ကယ်ကန်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြိုင်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "မြိုင်မြို့နယ်၊ သက္ကယ်ကန်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
