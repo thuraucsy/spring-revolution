@@ -153,6 +153,17 @@
             "fallenPlace": "မြောင်မြို့နယ်၊ ခေါင်းခွဲရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝင်းနောင်",
+            "fallenDay": "2022-01-10",
+            "heroAge": "36",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိန်နန်းရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိန်နန်းရွာ",
+            "fallenCause": "ကျည်မှန်ကာ ဖမ်းဆီးခံရအပြီး နှိပ်စက်ကာသေဆုံး"
         }
     ]
 }
