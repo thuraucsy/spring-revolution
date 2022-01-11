@@ -21,6 +21,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဖြိုး",
+            "fallenDay": "2022-01-09",
+            "heroAge": "37",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ မြဘုရင်သကြားစက်နှင့် မြတောင်ရွာကြား",
+            "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ ကြာညှပ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇာနည်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ မြဘုရင်သကြားစက်နှင့် မြတောင်ရွာကြား",
+            "heroPlace": "သပိတ်ကျင်းမြို့နယ်၊ ကြာညှပ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
