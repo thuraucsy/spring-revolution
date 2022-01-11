@@ -9283,6 +9283,17 @@
             "fallenPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
             "heroPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
             "fallenCause": "ညှင်းပန်းနှိပ်စက်ကာ ရိုက်သတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
