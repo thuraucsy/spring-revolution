@@ -11727,6 +11727,17 @@
                 "fallenPlace": "ကလေးမြို့နယ်၊ ဟားခါးလေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုဖိုးထွန်း",
+                "fallenDay": "2022-01-11",
+                "heroAge": "46",
+                "heroGender": "m",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
+                "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ကောလင်း": [
@@ -15342,6 +15353,28 @@
                 "fallenPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
                 "heroPlace": "ရေဦးမြို့နယ်၊ ရေမျက်ကျေးရွာ",
                 "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
+                "heroPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
+                "fallenCause": "ညှင်းပန်းနှိပ်စက်ကာ ရိုက်သတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
+                "heroPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
+                "fallenCause": "ညှင်းပန်းနှိပ်စက်ကာ ရိုက်သတ်ခံရ"
             }
         ],
         "ပုလဲ": [
