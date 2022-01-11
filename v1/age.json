@@ -5131,6 +5131,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ကျားကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "28": [
@@ -32671,6 +32682,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမိ"
+        },
+        {
+            "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "50th": [
