@@ -15263,6 +15263,17 @@
                 "fallenPlace": "မင်းကင်းမြို့နယ်၊ ပင်တင်းကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-12",
+                "heroAge": "10",
+                "heroGender": "m",
+                "fallenCity": "မင်းကင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ရေဦး": [

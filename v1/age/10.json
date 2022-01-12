@@ -10,6 +10,17 @@
             "fallenPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်၊ ရဲစခန်းအနီး",
             "heroPlace": "ထန်တလန်မြို့၊ ပ.လ.က ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-12",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မင်းကင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
