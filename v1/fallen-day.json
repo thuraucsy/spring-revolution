@@ -20471,6 +20471,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Van Sui Lian",
+            "fallenDay": "2022-01-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }

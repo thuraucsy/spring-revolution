@@ -20350,6 +20350,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "မိုင်းမိ"
+            },
+            {
+                "heroName": "Salai Van Sui Lian",
+                "fallenDay": "2022-01-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
             }
         ]
     }
