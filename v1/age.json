@@ -133,9 +133,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "11": [
@@ -21971,6 +21971,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ခူးနိုရယ်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "စောဒီအယ်မှူး",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-07",
             "heroAge": "",
@@ -24509,9 +24531,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -26601,9 +26623,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -27857,9 +27879,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -34225,9 +34247,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "70th": [

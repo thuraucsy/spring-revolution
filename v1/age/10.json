@@ -18,9 +18,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -15762,9 +15762,9 @@
             "heroGender": "m",
             "fallenCity": "မင်းကင်း",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
@@ -18391,6 +18391,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
             "heroPlace": "လွိုင်ကော်မြို့၊ မိုင်းလုံးရပ်ကွက်",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ခူးနိုရယ်",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "စောဒီအယ်မှူး",
+            "fallenDay": "2022-01-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",

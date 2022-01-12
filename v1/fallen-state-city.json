@@ -15271,9 +15271,9 @@
                 "heroGender": "m",
                 "fallenCity": "မင်းကင်း",
                 "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနေဗျင်းရွာ",
-                "heroPlace": "",
-                "fallenCause": ""
+                "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+                "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ရေဦး": [
@@ -18896,6 +18896,30 @@
                 "fallenPlace": "",
                 "heroPlace": "ဖရူဆိုမြို့နယ်၊ နာနတ်တောရွာ",
                 "fallenCause": "Apr-30 တွင်ဖမ်းဆီးခံ၇၊ Nov-20 တွင် ထောင်တွင်း/စစ်ကြောရေးတွင် သေဆုံး"
+            }
+        ],
+        "Unknown": [
+            {
+                "heroName": "ခူးနိုရယ်",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "စောဒီအယ်မှူး",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ]
     },
