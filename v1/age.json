@@ -5696,6 +5696,17 @@
             "fallenPlace": "",
             "heroPlace": "ကွမ်းခြံကုန်းမြို့နယ်၊ ဒေးဒနောကျေးရွာ",
             "fallenCause": "Nov-5 တွင် ဖမ်းဆီးခံ၇၊ Nov-6 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဘတ်နဒဲတို (ရုအီ)",
+            "fallenDay": "2022-01-11",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "30": [
@@ -22367,17 +22378,6 @@
             "fallenCause": "မိုင်းမှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2022-01-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
             "heroName": "Salai Van Sui Lian",
             "fallenDay": "2022-01-12",
             "heroAge": "",
@@ -32847,6 +32847,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ဘတ်နဒဲတို (ရုအီ)",
+            "fallenDay": "2022-01-11",
+            "heroAge": "29",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50th": [
