@@ -9349,6 +9349,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ဗုံးကြဲခံရ"
+        },
+        {
+            "heroName": "Ngun Vung",
+            "fallenDay": "2022-01-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
