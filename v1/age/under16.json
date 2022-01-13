@@ -527,6 +527,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

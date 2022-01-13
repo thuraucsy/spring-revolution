@@ -553,6 +553,17 @@
             "fallenPlace": "မင်္ဂလာဒုံ စစ်ဆေးရုံ",
             "heroPlace": "မြောက်ဒဂုံမြို့နယ်၊ ၃၆ ရပ်ကွက်",
             "fallenCause": "Nov-25 တွင် ရရှိသည့် ဗုံးမှန် ဒဏ်ရာဖြင့် Dec-14 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "16": [
@@ -22376,6 +22387,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ဗုံးကြဲခံရ"
         }
     ],
     "under20": [
@@ -24567,6 +24589,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -26659,6 +26692,17 @@
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -27914,6 +27958,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -34282,6 +34337,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
             "heroPlace": "မင်းကင်းမြို့နယ်၊ စနဗျင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
+            "heroPlace": "အောင်မြေသာစံမြို့နယ်၊ ညောင်ကွဲရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
         }
     ],

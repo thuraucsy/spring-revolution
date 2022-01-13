@@ -17753,6 +17753,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ဗုံးကြဲခံရ"
         }
     ]
 }
