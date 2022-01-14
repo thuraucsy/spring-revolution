@@ -3515,6 +3515,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ထန်းအွမ် (Thang Awm)",
+            "fallenDay": "2022-01-14",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "23": [
@@ -32924,6 +32935,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငွေတောင်ဆည်အနီး ရွှေယောက်ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ထန်းအွမ် (Thang Awm)",
+            "fallenDay": "2022-01-14",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "50th": [
