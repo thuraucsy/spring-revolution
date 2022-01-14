@@ -20562,5 +20562,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2022-01-14": [
+        {
+            "heroName": "ကိုမန်ဒိုခုပ်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "heroPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }

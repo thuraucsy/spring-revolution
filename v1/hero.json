@@ -19975,6 +19975,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငွေတောင်ဆည်အနီး ရွှေယောက်ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမန်ဒိုခုပ်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "heroPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

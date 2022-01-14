@@ -560,6 +560,17 @@
             "fallenPlace": "",
             "heroPlace": "နေပြည်တော်၊ လယ်ဝေးမြို့နယ်၊ အမှတ် ၆ ရပ်ကွက်",
             "fallenCause": "Dec-20 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုမန်ဒိုခုပ်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "heroPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
