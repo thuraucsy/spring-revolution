@@ -109,17 +109,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "Ngun Vung",
-            "fallenDay": "2022-01-13",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

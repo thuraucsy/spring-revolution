@@ -20277,6 +20277,19 @@
                 "heroPlace": "",
                 "fallenCause": "သတ်ဖြတ်ခံရ"
             }
+        ],
+        "တွန်းဇံ": [
+            {
+                "heroName": "Ngun Vung",
+                "fallenDay": "2022-01-13",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "တွန်းဇံ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            }
         ]
     },
     "မသိရှိရသေး": {
@@ -20416,17 +20429,6 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "မိုင်းမှန်"
-            },
-            {
-                "heroName": "Ngun Vung",
-                "fallenDay": "2022-01-13",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "Unknown",
-                "fallenState": "Unknown",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ]
     }

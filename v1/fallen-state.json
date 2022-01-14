@@ -19847,6 +19847,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Ngun Vung",
+            "fallenDay": "2022-01-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တွန်းဇံ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "မသိရှိရသေး": [
@@ -19983,17 +19994,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "Ngun Vung",
-            "fallenDay": "2022-01-13",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }
