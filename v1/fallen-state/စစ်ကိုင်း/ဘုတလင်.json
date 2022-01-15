@@ -54,6 +54,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }
