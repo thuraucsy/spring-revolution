@@ -20618,6 +20618,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

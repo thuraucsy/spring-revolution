@@ -1418,6 +1418,17 @@
             "fallenPlace": "မြိုင်မြို့နယ်၊ သက္ကယ်ကန်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
