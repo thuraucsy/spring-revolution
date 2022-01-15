@@ -15833,6 +15833,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2022-01-14",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-14",
             "heroAge": "",
@@ -20076,17 +20087,6 @@
             "heroName": "Salai Van Sui Lian",
             "fallenDay": "2022-01-12",
             "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "Unknown",
-            "fallenState": "Unknown",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "ကိုသန့်ဇင်ဦး",
-            "fallenDay": "2022-01-14",
-            "heroAge": "24",
             "heroGender": "m",
             "fallenCity": "Unknown",
             "fallenState": "Unknown",

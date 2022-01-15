@@ -76,6 +76,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဖိုးကုန်းညောင်ကုန်း ကံပေါက်မကျီးခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2022-01-14",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }
