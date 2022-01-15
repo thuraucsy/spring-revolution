@@ -4245,6 +4245,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2022-01-14",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "25": [
@@ -9384,6 +9395,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးညီညီလွင်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "48": [
@@ -22268,6 +22290,17 @@
             "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ရီးရယ်ထွန်းကြည် (ခ) သျှောင်ကြီးဗွေ",
             "fallenDay": "2022-01-08",
             "heroAge": "",
@@ -22464,17 +22497,6 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ မင်္ဂလာရပ်ကွက် ဟော်ကြီးကျောင်းလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-14",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဘုတလင်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
-            "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
-            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "under20": [
@@ -29479,6 +29501,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးညီညီလွင်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "20th": [
@@ -32954,6 +32987,17 @@
             "heroGender": "m",
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2022-01-14",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"

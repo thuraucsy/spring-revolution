@@ -15800,9 +15800,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးညီညီလွင်",
             "fallenDay": "2022-01-14",
-            "heroAge": "",
+            "heroAge": "47",
             "heroGender": "m",
             "fallenCity": "ဘုတလင်",
             "fallenState": "စစ်ကိုင်း",
@@ -19871,6 +19871,17 @@
             "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "Ngun Vung",
             "fallenDay": "2022-01-13",
             "heroAge": "",
@@ -20032,6 +20043,17 @@
             "heroName": "Salai Van Sui Lian",
             "fallenDay": "2022-01-12",
             "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်ဦး",
+            "fallenDay": "2022-01-14",
+            "heroAge": "24",
             "heroGender": "m",
             "fallenCity": "Unknown",
             "fallenState": "Unknown",
