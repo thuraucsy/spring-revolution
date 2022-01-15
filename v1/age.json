@@ -2719,6 +2719,17 @@
             "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ ဆင်ကျွန်းကျေးရွာ",
             "heroPlace": "ထီးချိုင့်မြို့နယ်၊ ဆင်ကျွန်းကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းစံ",
+            "fallenDay": "2022-01-14",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "21": [
@@ -4598,6 +4609,17 @@
             "fallenState": "ပဲခူး",
             "fallenPlace": "မိုးညိုမြို့နယ် စစ်ဆေးရေးဂိတ်အနီး",
             "heroPlace": "လက်ပံတန်းမြို့နယ်၊ ဆင်မနီအုပ်စု၊ မိုးဆယ်ကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -22514,17 +22536,6 @@
             "fallenDay": "2022-01-14",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "သရက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-14",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "ရွှေဘို",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ထူးကြီးရွာ",
@@ -33045,6 +33056,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်",
+            "fallenDay": "2022-01-14",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းစံ",
+            "fallenDay": "2022-01-14",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "50th": [

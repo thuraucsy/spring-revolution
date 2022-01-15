@@ -9427,9 +9427,20 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုနိုင်",
             "fallenDay": "2022-01-14",
-            "heroAge": "",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "သရက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းစံ",
+            "fallenDay": "2022-01-14",
+            "heroAge": "20",
             "heroGender": "m",
             "fallenCity": "သရက်",
             "fallenState": "မကွေး",
