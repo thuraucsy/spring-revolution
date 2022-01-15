@@ -87,17 +87,6 @@
             "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
             "heroPlace": "",
             "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
-        },
-        {
-            "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
-            "fallenDay": "2022-01-09",
-            "heroAge": "27",
-            "heroGender": "m",
-            "fallenCity": "ဖယ်ခုံ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }

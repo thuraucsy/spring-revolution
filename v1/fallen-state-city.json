@@ -16873,17 +16873,6 @@
                 "fallenPlace": "ဖယ်ခုံမြို့၊ စကခ (ရ) စစ်ကြောရေး",
                 "heroPlace": "",
                 "fallenCause": "Nov-15 တွင် ဖမ်းဆီးသွား၊ Nov-17 စစ်ကြောရေးတွင် သေဆုံး"
-            },
-            {
-                "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
-                "fallenDay": "2022-01-09",
-                "heroAge": "27",
-                "heroGender": "m",
-                "fallenCity": "ဖယ်ခုံ",
-                "fallenState": "ရှမ်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": "မိုင်းမှန်"
             }
         ],
         "ရွှေညောင်": [
@@ -18318,6 +18307,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
+                "fallenDay": "2022-01-09",
+                "heroAge": "27",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
             },
             {
                 "heroName": "ဘတ်နဒဲတို (ရုအီ)",
@@ -20223,7 +20223,7 @@
                 "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "Pupa Sali",
                 "fallenDay": "2022-01-08",
                 "heroAge": "",
                 "heroGender": "m",

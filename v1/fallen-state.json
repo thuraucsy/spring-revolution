@@ -16713,17 +16713,6 @@
             "fallenPlace": "ကလောမြို့နယ်၊ ရေယားကျေးရွာ",
             "heroPlace": "ကလောမြို့နယ်၊ ရေယားကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
-            "fallenDay": "2022-01-09",
-            "heroAge": "27",
-            "heroGender": "m",
-            "fallenCity": "ဖယ်ခုံ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "မိုင်းမှန်"
         }
     ],
     "ကချင်": [
@@ -18591,6 +18580,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မောင်ရာဇာ (ခ) မိုးဇက်",
+            "fallenDay": "2022-01-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-10",
             "heroAge": "55",
@@ -19915,7 +19915,7 @@
             "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "Pupa Sali",
             "fallenDay": "2022-01-08",
             "heroAge": "",
             "heroGender": "m",
