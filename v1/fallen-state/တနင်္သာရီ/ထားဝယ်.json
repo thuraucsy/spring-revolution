@@ -241,6 +241,17 @@
             "fallenPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ကရပ်ပြင်ရပ်ကွက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးခင်မောင်လွင်",
+            "fallenDay": "2022-01-15",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ထားဝယ်",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ထားဝယ်မြို့နယ်၊ ရှင်မုတ္ထီးရွာ",
+            "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
         }
     ]
 }
