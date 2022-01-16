@@ -1231,6 +1231,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာအနီး၊ ကလေး-ဂန့်ဂေါလမ်းမပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ]
 }

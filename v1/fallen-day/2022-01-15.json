@@ -21,6 +21,28 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ရှင်မုတ္ထီးရွာ",
             "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာအနီး၊ ကလေး-ဂန့်ဂေါလမ်းမပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွဲဆွဲရွာတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
