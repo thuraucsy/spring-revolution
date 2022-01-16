@@ -1055,6 +1055,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "Thang Pui",
+            "fallenDay": "2022-01-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
+            "heroPlace": "",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ]
 }
