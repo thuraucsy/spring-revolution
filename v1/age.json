@@ -3537,6 +3537,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုရဲရင့်ဇော်",
+            "fallenDay": "2022-01-15",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "23": [
@@ -22558,17 +22569,6 @@
             "fallenDay": "2022-01-15",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာအနီး၊ ကလေး-ဂန့်ဂေါလမ်းမပေါ်",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-15",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွဲဆွဲရွာတံတားအနီး",
@@ -33109,6 +33109,17 @@
             "fallenCity": "သရက်",
             "fallenState": "မကွေး",
             "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရဲရင့်ဇော်",
+            "fallenDay": "2022-01-15",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
