@@ -133,7 +133,7 @@
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုမင်းကိုနိုင်",
             "fallenDay": "2022-01-12",
             "heroAge": "",
             "heroGender": "m",
@@ -141,10 +141,10 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ တလိုင်းရွာအနီး",
             "heroPlace": "",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုနှင်ဦးမောင်",
             "fallenDay": "2022-01-12",
             "heroAge": "",
             "heroGender": "m",
@@ -152,10 +152,10 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ တလိုင်းရွာအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ကိုနေလွင်လွင်",
             "fallenDay": "2022-01-12",
             "heroAge": "",
             "heroGender": "m",
@@ -163,7 +163,7 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ တလိုင်းရွာအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
