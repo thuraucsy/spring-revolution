@@ -3519,6 +3519,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်ဇင်ဝေ",
+            "fallenDay": "2022-01-16",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

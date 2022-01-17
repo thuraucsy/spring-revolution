@@ -17964,6 +17964,50 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုကျော်ဇင်ဝေ",
+            "fallenDay": "2022-01-16",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန့်ဇင်",
+            "fallenDay": "2022-01-16",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်မြင့်ဆွေ",
+            "fallenDay": "2022-01-16",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုစိုးမြင့်",
+            "fallenDay": "2022-01-16",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-17",
             "heroAge": "50",
