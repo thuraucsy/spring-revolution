@@ -17929,6 +17929,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွဲဆွဲရွာတံတားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-17",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဖရူဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
+            "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ]
 }
