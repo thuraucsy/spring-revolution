@@ -1,5 +1,5 @@
 {
-    "range": "'[MM]Detail Cases'!A1:AB1970",
+    "range": "'[MM]Detail Cases'!A1:AB1971",
     "majorDimension": "ROWS",
     "values": [
         [
@@ -22518,6 +22518,18 @@
             "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
             "",
             "ကျည်မှန်"
+        ],
+        [
+            "ဗိုလ်ဗြားကြီး",
+            "01/15/2022",
+            "",
+            "M",
+            "Unknown",
+            "Unknown",
+            "",
+            "",
+            "မိုင်းမှန်",
+            "Kyaukhtu PDF"
         ],
         [
             "",
