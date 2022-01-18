@@ -406,6 +406,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုနိုင်နှောင်းထက်",
+            "fallenDay": "2022-01-16",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ မရသိမ်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -20813,7 +20813,7 @@
         {
             "heroName": "ကိုအောင်အောင်ဦး",
             "fallenDay": "2022-01-16",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ထီးချိုင့်",
             "fallenState": "စစ်ကိုင်း",
@@ -20824,7 +20824,7 @@
         {
             "heroName": "ကိုရှိုင်းထက်အောင်",
             "fallenDay": "2022-01-16",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ထီးချိုင့်",
             "fallenState": "စစ်ကိုင်း",
@@ -20835,7 +20835,7 @@
         {
             "heroName": "ကိုစိုင်းထက်မြတ်",
             "fallenDay": "2022-01-16",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ထီးချိုင့်",
             "fallenState": "စစ်ကိုင်း",
@@ -20846,7 +20846,7 @@
         {
             "heroName": "ကိုနိုင်နှောင်းထက်",
             "fallenDay": "2022-01-16",
-            "heroAge": "",
+            "heroAge": "22",
             "heroGender": "m",
             "fallenCity": "ထီးချိုင့်",
             "fallenState": "စစ်ကိုင်း",
@@ -20857,7 +20857,18 @@
         {
             "heroName": "ကိုစိုင်းအောင်",
             "fallenDay": "2022-01-16",
-            "heroAge": "",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "ထီးချိုင့်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ မရသိမ်ကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုတိုးဝေ",
+            "fallenDay": "2022-01-16",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "ထီးချိုင့်",
             "fallenState": "စစ်ကိုင်း",
