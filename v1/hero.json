@@ -20272,6 +20272,17 @@
             "fallenPlace": "မတ္တရာမြို့နယ် သပြေကုန်းရွာအကျော် ဘိုကုန်းရွာအနီး",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ဘိုကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ထယ်ဘွေး (Thi Boi)",
+            "fallenDay": "2022-01-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီ-ပလက်၀ ကားလမ်းမဘေး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
