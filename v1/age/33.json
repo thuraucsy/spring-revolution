@@ -219,6 +219,17 @@
             "fallenPlace": "",
             "heroPlace": "မြင်းခြံမြို့၊ အမှတ် ၁၆ ရပ်",
             "fallenCause": "Jan-2 တွင် ဖမ်းဆီးခံ၇ Jan-6 စစ်ကြောရေးတွင်ရရှိသည့် ဒဏ်ရာများကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဝင်းဇော်ဦး",
+            "fallenDay": "2022-01-17",
+            "heroAge": "33",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
+            "heroPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
