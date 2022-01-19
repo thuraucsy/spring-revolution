@@ -21,6 +21,50 @@
             "fallenPlace": "ရွှေကူမြို့နယ်၊ ဟင့်အွန်ရွာ",
             "heroPlace": "ရွှေကူမြို့နယ်၊ ဟင့်အွန်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးငွေသွား",
+            "fallenDay": "2021-12-26",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးအဲပွေ",
+            "fallenDay": "2021-12-26",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-12-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအဲသား",
+            "fallenDay": "2021-12-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

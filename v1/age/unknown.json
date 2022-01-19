@@ -8483,28 +8483,6 @@
         },
         {
             "heroName": "",
-            "fallenDay": "2021-12-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2021-12-23",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကလေး",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
             "fallenDay": "2021-12-24",
             "heroAge": "",
             "heroGender": "m",
@@ -8537,25 +8515,25 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ ပစ်သတ်ခံရ"
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-12-27",
+            "heroName": "ကိုငယ်လေး",
+            "fallenDay": "2021-12-26",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "heroPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2021-12-27",
+            "heroName": "ကိုအဲသား",
+            "fallenDay": "2021-12-26",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
-            "heroPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
