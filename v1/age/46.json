@@ -76,6 +76,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်မျိုးဝင်း",
+            "fallenDay": "2022-01-19",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

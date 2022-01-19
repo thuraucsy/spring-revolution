@@ -6457,6 +6457,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "31": [
@@ -7545,6 +7556,17 @@
             "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းကျေးရွာ",
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ရွှေဒါးကန်ကျေးရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမျိုးမင်းထက်",
+            "fallenDay": "2022-01-19",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "36": [
@@ -9503,6 +9525,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ သာစည်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးကျော်မျိုးဝင်း",
+            "fallenDay": "2022-01-19",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "47": [
@@ -9604,6 +9637,17 @@
             "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
             "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမြတ်မိုး(ခ) ဦးဖိုးကြီး",
+            "fallenDay": "2022-01-19",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "48": [
@@ -10039,6 +10083,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "51": [
@@ -13365,6 +13420,28 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
             "heroPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမျိုးမင်းထက်",
+            "fallenDay": "2022-01-19",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "unknown": [
@@ -22882,6 +22959,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ သဲစားကျကျေးရွာအရှေ့ဘက်ရှိ ဆည်ဘောင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "under20": [
@@ -30095,6 +30183,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမြတ်မိုး(ခ) ဦးဖိုးကြီး",
+            "fallenDay": "2022-01-19",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးကျော်မျိုးဝင်း",
+            "fallenDay": "2022-01-19",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "20th": [
@@ -34312,6 +34422,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "60th": [

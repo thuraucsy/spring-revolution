@@ -21,6 +21,28 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ သဲစားကျကျေးရွာအရှေ့ဘက်ရှိ ဆည်ဘောင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

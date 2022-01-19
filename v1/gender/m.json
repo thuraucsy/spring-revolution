@@ -18160,6 +18160,72 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ သဲစားကျကျေးရွာအရှေ့ဘက်ရှိ ဆည်ဘောင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမြတ်မိုး(ခ) ဦးဖိုးကြီး",
+            "fallenDay": "2022-01-19",
+            "heroAge": "47",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးကျော်မျိုးဝင်း",
+            "fallenDay": "2022-01-19",
+            "heroAge": "46",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးမျိုးမင်းထက်",
+            "fallenDay": "2022-01-19",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
+            "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

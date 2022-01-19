@@ -670,6 +670,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

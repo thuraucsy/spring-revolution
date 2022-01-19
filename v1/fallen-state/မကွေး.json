@@ -1440,6 +1440,28 @@
             "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-18",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

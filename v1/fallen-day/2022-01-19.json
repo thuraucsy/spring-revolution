@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "",
-            "fallenDay": "2021-12-08",
-            "heroAge": "35",
-            "heroGender": "m",
-            "fallenCity": "နွားထိုးကြီး",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ဝဲမြင်းနီရွာ",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "ဦးမြတ်မိုး(ခ) ဦးဖိုးကြီး",
             "fallenDay": "2022-01-19",
             "heroAge": "47",
