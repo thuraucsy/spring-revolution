@@ -18259,6 +18259,28 @@
             "fallenPlace": "သထုံမြို့နယ်၊ သုဝဏ္ဏ၀တီမြို့၊ ကျိုက္ကော်ပဲခူးစု",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တောင်ကြီး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "တောင်ကြီးမြို့နယ်၊ အေးသာယာမြို့ရှိ စစ်ကြောရေးစခန်းတခု",
+            "heroPlace": "",
+            "fallenCause": "နေ့လည်တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေပြည်သာ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ၂၄ ရပ်ကွက်၊ ရွှေပြည်သာကွေ့အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
