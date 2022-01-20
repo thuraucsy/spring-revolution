@@ -837,6 +837,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-30",
+            "heroAge": "68",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဒေါတရိုးရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရပြီး"
+        },
+        {
             "heroName": "ကိုဟင်နရီ",
             "fallenDay": "2022-01-02",
             "heroAge": "",

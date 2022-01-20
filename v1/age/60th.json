@@ -276,6 +276,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2021-12-30",
+            "heroAge": "68",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဒေါတရိုးရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရပြီး"
+        },
+        {
             "heroName": "ဦးကျော်ရှိန်",
             "fallenDay": "2022-01-07",
             "heroAge": "60",
