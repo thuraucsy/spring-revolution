@@ -373,6 +373,17 @@
             "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
             "heroPlace": "ဘီးလင်းမြို့နယ်၊ ဒေါက်ရပ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သထုံ",
+            "fallenState": "မွန်",
+            "fallenPlace": "သထုံမြို့နယ်၊ သုဝဏ္ဏ၀တီမြို့၊ ကျိုက္ကော်ပဲခူးစု",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
