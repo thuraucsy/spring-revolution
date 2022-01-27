@@ -384,6 +384,39 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ သဲစားကျကျေးရွာအရှေ့ဘက်ရှိ ဆည်ဘောင်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဒေါ်တင်မာ",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအာကာမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
         }
     ]
 }

@@ -20516,6 +20516,50 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ဦးမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဒေါ်တင်မာ",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအာကာမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-25",
+            "heroAge": "98",
+            "heroGender": "f",
+            "fallenCity": "ပင်လောင်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ပင်လောင်းမြို့နယ်၊ နောင်တရားမြို့ပြည်သူ့ဆေးရုံ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်",
+            "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်းရင်း ကွယ်လွန်"
+        },
+        {
             "heroName": "ကိုဆန်းလင်း",
             "fallenDay": "2022-01-26",
             "heroAge": "37",

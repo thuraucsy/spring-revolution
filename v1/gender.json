@@ -19922,6 +19922,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-25",
+            "heroAge": "98",
+            "heroGender": "f",
+            "fallenCity": "ပင်လောင်း",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ပင်လောင်းမြို့နယ်၊ နောင်တရားမြို့ပြည်သူ့ဆေးရုံ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်",
+            "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်းရင်း ကွယ်လွန်"
         }
     ],
     "unknown": [
@@ -20573,6 +20584,39 @@
             "fallenPlace": "မတ္တရာမြို့နယ် သပြေကုန်းရွာအကျော် ဘိုကုန်းရွာအနီး",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ဘိုကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဒေါ်တင်မာ",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအာကာမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": ""
         }
     ]
 }
