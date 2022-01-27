@@ -175,6 +175,17 @@
             "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

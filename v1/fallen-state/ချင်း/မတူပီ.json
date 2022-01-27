@@ -219,6 +219,17 @@
             "fallenPlace": "မတူပီမြို့နယ်၊ ဇိုတုန်နယ်မြေ ဟုန်းလေးကျေးရွာနဲ့ ရမ်ဆိုင်းကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းဆန်တာ",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

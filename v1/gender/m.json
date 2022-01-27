@@ -18296,11 +18296,22 @@
         {
             "heroName": "Sap Din Thuamaa",
             "fallenDay": "2022-01-23",
-            "heroAge": "",
+            "heroAge": "31",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
             "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းဆန်တာ",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
             "heroPlace": "",
             "fallenCause": ""
         },
@@ -18325,6 +18336,28 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမောင်ညို",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငနွား",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုဇင်မျိုးဦး",

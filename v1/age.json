@@ -6690,6 +6690,17 @@
             "fallenPlace": "မိုးညှင်းမြို့နယ်၊ မော်ဟန်ကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "32": [
@@ -13556,6 +13567,17 @@
             "fallenPlace": "",
             "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
+            "heroAge": "31",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဆန်းလင်း",
@@ -23152,12 +23174,23 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "Sap Din Thuamaa",
+            "heroName": "ဆလိုင်းဆန်တာ",
             "fallenDay": "2022-01-23",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ဖလမ်း",
+            "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -23172,6 +23205,28 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမောင်ညို",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငနွား",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးကျော်ဝင်း",

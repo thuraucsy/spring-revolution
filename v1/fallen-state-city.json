@@ -9518,6 +9518,17 @@
                 "fallenPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာနှင့် တောင်ဘက်ကျေးရွာကြား",
                 "heroPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-23",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဆော": [
@@ -13158,6 +13169,28 @@
                 "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
                 "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
                 "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုမောင်ညို",
+                "fallenDay": "2022-01-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေဘို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုငနွား",
+                "fallenDay": "2022-01-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေဘို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ယင်းမာပင်": [
@@ -20577,7 +20610,7 @@
             {
                 "heroName": "Sap Din Thuamaa",
                 "fallenDay": "2022-01-23",
-                "heroAge": "",
+                "heroAge": "31",
                 "heroGender": "m",
                 "fallenCity": "ဖလမ်း",
                 "fallenState": "ချင်း",
@@ -20804,6 +20837,17 @@
                 "fallenCity": "မတူပီ",
                 "fallenState": "ချင်း",
                 "fallenPlace": "မတူပီမြို့နယ်၊ ဇိုတုန်နယ်မြေ ဟုန်းလေးကျေးရွာနဲ့ ရမ်ဆိုင်းကျေးရွာအနီး",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဆလိုင်းဆန်တာ",
+                "fallenDay": "2022-01-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
                 "heroPlace": "",
                 "fallenCause": ""
             }

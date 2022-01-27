@@ -164,6 +164,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာနှင့် တောင်ဘက်ကျေးရွာကြား",
             "heroPlace": "ပေါက်မြို့နယ်၊ ဇီးတောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

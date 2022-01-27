@@ -1092,11 +1092,22 @@
         {
             "heroName": "Sap Din Thuamaa",
             "fallenDay": "2022-01-23",
-            "heroAge": "",
+            "heroAge": "31",
             "heroGender": "m",
             "fallenCity": "ဖလမ်း",
             "fallenState": "ချင်း",
             "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းဆန်တာ",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
             "heroPlace": "",
             "fallenCause": ""
         }
