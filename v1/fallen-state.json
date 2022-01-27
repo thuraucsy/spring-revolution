@@ -16198,34 +16198,45 @@
         {
             "heroName": "ဦးမျိုး",
             "fallenDay": "2022-01-24",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "55",
+            "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
-            "fallenCause": ""
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဒေါ်တင်မာ",
             "fallenDay": "2022-01-24",
             "heroAge": "",
-            "heroGender": "",
+            "heroGender": "f",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
-            "fallenCause": ""
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုအာကာမျိုး",
             "fallenDay": "2022-01-24",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "26",
+            "heroGender": "m",
             "fallenCity": "တန့်ဆည်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမြင့်အောင်",
+            "fallenDay": "2022-01-24",
+            "heroAge": "69",
+            "heroGender": "m",
+            "fallenCity": "တမူး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "တမူးမြို့နယ်၊ မြို့မ ၁၂ ခရပ်",
             "fallenCause": ""
         },
         {
@@ -19128,6 +19139,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ် ဘူတာကြီးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇင်မျိုးဦး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြင် (၆)မိုင်ကျေးရွာ၊ ဟိုဖိတ်ရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ကရင်": [

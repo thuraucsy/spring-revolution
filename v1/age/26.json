@@ -287,6 +287,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုအာကာမျိုး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
+            "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-26",
             "heroAge": "26",

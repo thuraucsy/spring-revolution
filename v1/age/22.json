@@ -417,6 +417,17 @@
             "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ ကျွန်းပင်သာကျေးရွာ အနီး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇင်မျိုးဦး",
+            "fallenDay": "2022-01-24",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ စံပြင် (၆)မိုင်ကျေးရွာ၊ ဟိုဖိတ်ရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
