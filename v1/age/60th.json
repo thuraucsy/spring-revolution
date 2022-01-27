@@ -309,6 +309,17 @@
             "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
         },
         {
+            "heroName": "ဦးစိန်ဝင်း",
+            "fallenDay": "2022-01-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးမြင့်အောင်",
             "fallenDay": "2022-01-24",
             "heroAge": "69",

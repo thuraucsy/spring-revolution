@@ -76,6 +76,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဇီးတောရွာနှင့် ကံစွယ်ရွာကြား",
             "heroPlace": "",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစိန်ဝင်း",
+            "fallenDay": "2022-01-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

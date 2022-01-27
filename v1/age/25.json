@@ -362,6 +362,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဝင်းလှိုင်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုလင်း",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

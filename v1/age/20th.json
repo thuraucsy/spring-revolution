@@ -3543,6 +3543,50 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မနော်မူးနော်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "26",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ပဝတ်ဖျားရွာ",
+            "heroPlace": "ပုလောမြို့နယ်၊ ပဝတ်ဖျားရွာ",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုရွှေပို",
+            "fallenDay": "2022-01-23",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဝင်းလှိုင်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုလင်း",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုအာကာမျိုး",
             "fallenDay": "2022-01-24",
             "heroAge": "26",

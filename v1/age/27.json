@@ -307,6 +307,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုရွှေပို",
+            "fallenDay": "2022-01-23",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

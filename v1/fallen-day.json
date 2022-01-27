@@ -21103,9 +21103,44 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ၂၄ ရပ်ကွက်၊ ရွှေပြည်သာကွေ့အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးစိန်ဝင်း",
+            "fallenDay": "2022-01-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        }
+    ],
+    "2022-01-22": [
+        {
+            "heroName": "ကိုအောင်သူဟိန်း",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "2022-01-23": [
+        {
+            "heroName": "မနော်မူးနော်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "26",
+            "heroGender": "f",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ပဝတ်ဖျားရွာ",
+            "heroPlace": "ပုလောမြို့နယ်၊ ပဝတ်ဖျားရွာ",
+            "fallenCause": "မိုင်းမှန်"
+        },
         {
             "heroName": "Sap Din Thuamaa",
             "fallenDay": "2022-01-23",
@@ -21129,15 +21164,37 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုရွှေပို",
             "fallenDay": "2022-01-23",
-            "heroAge": "",
-            "heroGender": "",
+            "heroAge": "27",
+            "heroGender": "m",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဝင်းလှိုင်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုလင်း",
+            "fallenDay": "2022-01-23",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "2022-01-24": [

@@ -21,6 +21,17 @@
             "fallenPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "heroPlace": "ဆားလင်းကြီးမြို့နယ်၊ ဒုန်းတောကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးစိန်ဝင်း",
+            "fallenDay": "2022-01-20",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "heroPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
