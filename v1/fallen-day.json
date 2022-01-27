@@ -21116,7 +21116,53 @@
             "fallenCause": "ကျည်မှန်"
         }
     ],
+    "2022-01-21": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ မိုင်းလုံးရပ်ကွက်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အင်းတော်မြို့နယ်၊  ပင်ဝယ်ရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        }
+    ],
     "2022-01-22": [
+        {
+            "heroName": "ဆလိုင်းကျုံးလျန်ဆန်",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ကျေးရွာ၊ သိုင်းငင်ရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "မှုန်နို",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ကျေးရွာ၊ သိုင်းငင်ရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
         {
             "heroName": "ကိုအောင်သူဟိန်း",
             "fallenDay": "2022-01-22",

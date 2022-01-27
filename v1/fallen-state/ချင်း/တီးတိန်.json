@@ -54,6 +54,28 @@
             "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ရွာ",
             "heroPlace": "",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ဆလိုင်းကျုံးလျန်ဆန်",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ကျေးရွာ၊ သိုင်းငင်ရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "မှုန်နို",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တီးတိန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "တီးတိန်မြို့နယ်၊ ဟိန်ဇိန်ကျေးရွာ၊ သိုင်းငင်ရွာအနီးတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }

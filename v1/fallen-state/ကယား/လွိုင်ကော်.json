@@ -406,6 +406,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ် ဘူတာကြီးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ မိုင်းလုံးရပ်ကွက်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
