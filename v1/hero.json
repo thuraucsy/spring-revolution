@@ -20520,6 +20520,17 @@
             "fallenDay": "2022-01-21",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "",
+            "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးကျေးရွာ",
+            "fallenCause": "စစ်ရှောင်ရင်း ဖျားနာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ မိုင်းလုံးရပ်ကွက်တိုက်ပွဲ",
