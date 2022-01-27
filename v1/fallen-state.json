@@ -16262,6 +16262,17 @@
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "ဦးမျိုး",
             "fallenDay": "2022-01-24",
             "heroAge": "55",
@@ -20615,6 +20626,17 @@
             "fallenCity": "မတူပီ",
             "fallenState": "ချင်း",
             "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းစည်သူအောင်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         }

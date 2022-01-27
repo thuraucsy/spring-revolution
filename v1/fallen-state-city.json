@@ -15916,6 +15916,17 @@
                 "fallenPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
                 "heroPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
             }
         ],
         "ပုလဲ": [
@@ -20560,6 +20571,17 @@
                 "fallenPlace": "ကန်ပက်လက်မြို့နယ် ဟိုတယ်ဇုန်အနီး",
                 "heroPlace": "ကန်ပက်လက်မြို့နယ်၊ Oakphu ရပ်",
                 "fallenCause": "Dec-11 တွင် ဖမ်းဆီးခံ၇၊ Dec-12 တွင် သတ်ဖြတ်ပြီး ကန်ပက်လက်ဟိုတယ်ဇုန်အနီးပစ်ထား"
+            },
+            {
+                "heroName": "ဆလိုင်းစည်သူအောင်",
+                "fallenDay": "2022-01-23",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကန်ပက်လက်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဖလမ်း": [

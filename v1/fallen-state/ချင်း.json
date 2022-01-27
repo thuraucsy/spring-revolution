@@ -1110,6 +1110,17 @@
             "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းစည်သူအောင်",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

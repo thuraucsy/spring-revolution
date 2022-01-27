@@ -131,6 +131,17 @@
             "fallenPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
             "heroPlace": "ရေဦးမြို့နယ်၊ ချမ်းသာရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }
