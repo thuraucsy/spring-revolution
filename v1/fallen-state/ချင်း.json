@@ -1088,6 +1088,17 @@
             "fallenPlace": "မတူပီမြို့နယ်၊ ဇိုတုန်နယ်မြေ ဟုန်းလေးကျေးရွာနဲ့ ရမ်ဆိုင်းကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

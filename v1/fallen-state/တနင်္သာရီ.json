@@ -771,15 +771,15 @@
             "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးကျော်ဝင်း",
             "fallenDay": "2022-01-27",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ရွှေဖြူ",
+            "fallenCity": "ရေဖြူ",
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

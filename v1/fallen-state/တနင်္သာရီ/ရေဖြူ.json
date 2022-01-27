@@ -32,6 +32,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ဝက်ချောင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ကာ အိမ်ရှေ့တွင် အလောင်းလာစွန့်"
+        },
+        {
+            "heroName": "ဦးကျော်ဝင်း",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

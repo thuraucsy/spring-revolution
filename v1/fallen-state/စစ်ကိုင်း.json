@@ -6236,6 +6236,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ လက်ပံလှရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ လက်ပံလှရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

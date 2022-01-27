@@ -76,6 +76,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ကျောက်ကုန်းကျေးရွာအနီးရှိ မြစ်သောင်ပြင်အနီး",
             "heroPlace": "အရာတော်မြို့နယ်၊ သလဲဘာကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

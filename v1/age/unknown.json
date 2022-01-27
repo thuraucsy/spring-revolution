@@ -9582,15 +9582,37 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2022-01-27",
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ရွှေဖြူ",
-            "fallenState": "တနင်္သာရီ",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးကျော်ဝင်း",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -98,6 +98,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Sap Din Thuamaa",
+            "fallenDay": "2022-01-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
