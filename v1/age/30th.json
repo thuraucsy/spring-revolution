@@ -2421,6 +2421,17 @@
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
+            "heroName": "ကိုအောင်သူဟိန်း",
+            "fallenDay": "2022-01-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "Sap Din Thuamaa",
             "fallenDay": "2022-01-23",
             "heroAge": "31",

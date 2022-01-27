@@ -6556,6 +6556,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုအောင်သူဟိန်း",
+            "fallenDay": "2022-01-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "31": [
@@ -13622,6 +13633,17 @@
             "fallenPlace": "",
             "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုအောင်သူဟိန်း",
+            "fallenDay": "2022-01-22",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "Sap Din Thuamaa",
@@ -23227,17 +23249,6 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ၂၄ ရပ်ကွက်၊ ရွှေပြည်သာကွေ့အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ကိုအောင်သူဟိန်း",
-            "fallenDay": "2022-01-22",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကနီ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
-            "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
-            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
