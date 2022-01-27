@@ -20811,6 +20811,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းခွာသင်ထန်း",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ထန်တလန်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ထန်တလန်မြို့တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
