@@ -160,7 +160,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကုလား",
+            "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
             "fallenDay": "2022-01-26",
             "heroAge": "10",
             "heroGender": "m",
@@ -4388,6 +4388,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုဝေလင်းအောင်",
+            "fallenDay": "2022-01-26",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "25": [
@@ -5085,17 +5096,6 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-26",
-            "heroAge": "26",
-            "heroGender": "m",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
-            "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
         }
     ],
     "27": [
@@ -25673,7 +25673,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကုလား",
+            "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
             "fallenDay": "2022-01-26",
             "heroAge": "10",
             "heroGender": "m",
@@ -27853,7 +27853,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကုလား",
+            "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
             "fallenDay": "2022-01-26",
             "heroAge": "10",
             "heroGender": "m",
@@ -29164,7 +29164,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကုလား",
+            "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
             "fallenDay": "2022-01-26",
             "heroAge": "10",
             "heroGender": "m",
@@ -34272,9 +34272,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ကိုဝေလင်းအောင်",
             "fallenDay": "2022-01-26",
-            "heroAge": "26",
+            "heroAge": "24",
             "heroGender": "m",
             "fallenCity": "အရာတော်",
             "fallenState": "စစ်ကိုင်း",
@@ -35895,7 +35895,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ကုလား",
+            "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
             "fallenDay": "2022-01-26",
             "heroAge": "10",
             "heroGender": "m",
