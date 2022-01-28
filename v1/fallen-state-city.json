@@ -14185,7 +14185,7 @@
                 "heroName": "ကိုဆန်းလင်း",
                 "fallenDay": "2022-01-26",
                 "heroAge": "37",
-                "heroGender": "m",
+                "heroGender": "c",
                 "fallenCity": "အရာတော်",
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
@@ -15927,6 +15927,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "မိုင်းမှန်"
+            },
+            {
+                "heroName": "ကိုအောင်ကြီး",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
+                "heroPlace": "ရေဦးမြိုနယ်၊ ပုဏ္ဏကားပင်စီရွာ",
+                "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
             }
         ],
         "ပုလဲ": [
@@ -18936,6 +18947,50 @@
                 "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ မိုင်းလုံးရပ်ကွက်တိုက်ပွဲ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ခူးယူဂျင်း",
+                "fallenDay": "2022-01-27",
+                "heroAge": "17",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကျော်ကျော်",
+                "fallenDay": "2022-01-27",
+                "heroAge": "16",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဂျွန်ပေါ",
+                "fallenDay": "2022-01-27",
+                "heroAge": "16",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဒေးလယ်",
+                "fallenDay": "2022-01-27",
+                "heroAge": "16",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
             }
         ],
         "ဒီးမော့ဆို": [

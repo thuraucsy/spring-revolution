@@ -208,6 +208,39 @@
             "fallenPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
             "heroPlace": "အင်းတော်မြို့နယ်၊ ဂဟဲကျေးရွာ",
             "fallenCause": "စစ်ရဟတ်ယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "ကျော်ကျော်",
+            "fallenDay": "2022-01-27",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဂျွန်ပေါ",
+            "fallenDay": "2022-01-27",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေးလယ်",
+            "fallenDay": "2022-01-27",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -142,6 +142,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကြီး",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
+            "heroPlace": "ရေဦးမြိုနယ်၊ ပုဏ္ဏကားပင်စီရွာ",
+            "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
