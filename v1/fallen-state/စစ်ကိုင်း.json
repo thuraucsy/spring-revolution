@@ -6242,6 +6242,17 @@
             "fallenDay": "2022-01-21",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "အင်းတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အင်းတော်မြို့နယ်၊  ပင်ဝယ်ရွာအနီး",
@@ -6378,6 +6389,28 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

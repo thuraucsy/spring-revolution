@@ -9559,6 +9559,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးချစ်ကို",
+            "fallenDay": "2022-01-18",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ပခုက္ကူမြို့နယ်၊ ကမ္မမြို့",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-01-18",
             "heroAge": "30",
@@ -16255,6 +16266,17 @@
             "fallenDay": "2022-01-21",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-21",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "အင်းတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အင်းတော်မြို့နယ်၊  ပင်ဝယ်ရွာအနီး",
@@ -16391,6 +16413,28 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -19326,6 +19370,28 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ကရင်": [

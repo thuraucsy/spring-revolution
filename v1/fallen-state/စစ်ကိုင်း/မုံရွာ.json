@@ -505,6 +505,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မနက်ပိုင်းတွင် ဖမ်းဆီးခံရအပြီး ညနေတွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

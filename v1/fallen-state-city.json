@@ -8374,6 +8374,17 @@
                 "fallenPlace": "ပခုက္ကူအကျဉ်းထောင်",
                 "heroPlace": "",
                 "fallenCause": "Dec-15 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+            },
+            {
+                "heroName": "ဦးချစ်ကို",
+                "fallenDay": "2022-01-18",
+                "heroAge": "40",
+                "heroGender": "m",
+                "fallenCity": "ပခုက္ကူ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "",
+                "heroPlace": "ပခုက္ကူမြို့နယ်၊ ကမ္မမြို့",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "တောင်တွင်းကြီး": [
@@ -10759,6 +10770,28 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "မနက်ပိုင်းတွင် ဖမ်းဆီးခံရအပြီး ညနေတွင် အလောင်းလာထုတ်ရန်ပြော"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+                "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မုံရွာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+                "heroPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ကလေး": [
@@ -15919,6 +15952,17 @@
             },
             {
                 "heroName": "",
+                "fallenDay": "2022-01-21",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
                 "fallenDay": "2022-01-23",
                 "heroAge": "",
                 "heroGender": "m",
@@ -18991,6 +19035,28 @@
                 "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
                 "heroPlace": "",
                 "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဒီးမော့ဆို": [

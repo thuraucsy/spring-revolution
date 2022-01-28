@@ -472,6 +472,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "heroPlace": "ဖလမ်းမြို့နယ်၊ ပါမွန်ချောင်းကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးချစ်ကို",
+            "fallenDay": "2022-01-18",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ပခုက္ကူမြို့နယ်၊ ကမ္မမြို့",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

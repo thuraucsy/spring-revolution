@@ -76,6 +76,17 @@
             "fallenPlace": "ပခုက္ကူအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "Dec-15 တွင် ဖမ်းဆီးခံ၇၊ Dec-27 တွင် စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးချစ်ကို",
+            "fallenDay": "2022-01-18",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "ပခုက္ကူမြို့နယ်၊ ကမ္မမြို့",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
