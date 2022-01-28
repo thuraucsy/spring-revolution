@@ -67,6 +67,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းလှ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အဖမ်းမခံပဲ အဆုံးစီရင်"
+        },
+        {
             "heroName": "ဦးမြင့်အောင်",
             "fallenDay": "2022-01-24",
             "heroAge": "69",

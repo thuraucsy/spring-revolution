@@ -439,6 +439,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမိ"
+        },
+        {
+            "heroName": "စောဒါးထူး",
+            "fallenDay": "2022-01-28",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

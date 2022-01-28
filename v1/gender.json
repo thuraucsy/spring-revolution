@@ -18525,6 +18525,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းလှ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အဖမ်းမခံပဲ အဆုံးစီရင်"
+        },
+        {
             "heroName": "ဦးမြင့်အောင်",
             "fallenDay": "2022-01-24",
             "heroAge": "69",
@@ -18534,6 +18545,28 @@
             "fallenPlace": "",
             "heroPlace": "တမူးမြို့နယ်၊ မြို့မ ၁၂ ခရပ်",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဆန်းလင်း",
+            "fallenDay": "2022-01-26",
+            "heroAge": "37",
+            "heroGender": "m",
+            "fallenCity": "အရာတော်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "မောင်ဖြိုးဝေစိုး (ခ) မောင်ကုလား",
@@ -18569,9 +18602,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးကျော်ဝင်း",
+            "heroName": "ဦးကျော်ဝင်း (ခ) ဦးဖပလက်",
             "fallenDay": "2022-01-27",
-            "heroAge": "",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "ရေဖြူ",
             "fallenState": "တနင်္သာရီ",
@@ -18668,26 +18701,15 @@
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "စောဒါးထူး",
             "fallenDay": "2022-01-28",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-01-28",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "f": [
@@ -20285,6 +20307,17 @@
             "fallenPlace": "ပင်လောင်းမြို့နယ်၊ နောင်တရားမြို့ပြည်သူ့ဆေးရုံ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်",
             "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်းရင်း ကွယ်လွန်"
+        },
+        {
+            "heroName": "ဒေါ်မူတ",
+            "fallenDay": "2022-01-28",
+            "heroAge": "63",
+            "heroGender": "f",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "unknown": [
@@ -20935,19 +20968,6 @@
             "fallenState": "မန္တလေး",
             "fallenPlace": "မတ္တရာမြို့နယ် သပြေကုန်းရွာအကျော် ဘိုကုန်းရွာအနီး",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ဘိုကုန်းရွာ",
-            "fallenCause": "ကျည်မှန်"
-        }
-    ],
-    "c": [
-        {
-            "heroName": "ကိုဆန်းလင်း",
-            "fallenDay": "2022-01-26",
-            "heroAge": "37",
-            "heroGender": "c",
-            "fallenCity": "အရာတော်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
-            "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ]

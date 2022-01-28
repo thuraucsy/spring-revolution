@@ -1517,6 +1517,28 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းလှ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အဖမ်းမခံပဲ အဆုံးစီရင်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

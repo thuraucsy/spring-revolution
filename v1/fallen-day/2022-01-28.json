@@ -12,26 +12,26 @@
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "စောဒါးထူး",
             "fallenDay": "2022-01-28",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်မူတ",
             "fallenDay": "2022-01-28",
-            "heroAge": "",
-            "heroGender": "m",
+            "heroAge": "63",
+            "heroGender": "f",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -20758,6 +20758,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မင်းလှ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "အဖမ်းမခံပဲ အဆုံးစီရင်"
+        },
+        {
             "heroName": "ဦးမြင့်အောင်",
             "fallenDay": "2022-01-24",
             "heroAge": "69",
@@ -20780,10 +20791,21 @@
             "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်းရင်း ကွယ်လွန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ကိုဆန်းလင်း",
             "fallenDay": "2022-01-26",
             "heroAge": "37",
-            "heroGender": "c",
+            "heroGender": "m",
             "fallenCity": "အရာတော်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
@@ -20824,9 +20846,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးကျော်ဝင်း",
+            "heroName": "ဦးကျော်ဝင်း (ခ) ဦးဖပလက်",
             "fallenDay": "2022-01-27",
-            "heroAge": "",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "ရေဖြူ",
             "fallenState": "တနင်္သာရီ",
@@ -20923,26 +20945,26 @@
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "စောဒါးထူး",
             "fallenDay": "2022-01-28",
-            "heroAge": "",
+            "heroAge": "23",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်မူတ",
             "fallenDay": "2022-01-28",
-            "heroAge": "",
-            "heroGender": "m",
+            "heroAge": "63",
+            "heroGender": "f",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
