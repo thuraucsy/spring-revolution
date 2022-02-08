@@ -142,6 +142,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကသာမြို့နယ်၊ နမ့်စမ်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ခြေထောက်ရိုက်ချိုးခံရပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

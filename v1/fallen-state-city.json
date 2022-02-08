@@ -12039,6 +12039,17 @@
                 "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ အောင်ချမ်းသာရွာနှင့် ချောင်းခွရွာကြား",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ကောလင်း": [
@@ -15316,6 +15327,17 @@
                 "fallenPlace": "ကသာမြို့နယ်၊ မိုးတားလေးတိုက်နယ်၊ ဥယျာဉ်စုကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-06",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကသာ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကသာမြို့နယ်၊ နမ့်စမ်းရွာ",
+                "heroPlace": "",
+                "fallenCause": "ခြေထောက်ရိုက်ချိုးခံရပြီး သတ်ဖြတ်ခံရ"
             }
         ],
         "ဒီပဲယင်း": [
@@ -21466,7 +21488,18 @@
             {
                 "heroName": "",
                 "fallenDay": "2022-02-07",
-                "heroAge": "",
+                "heroAge": "25",
+                "heroGender": "m",
+                "fallenCity": "မောင်တော",
+                "fallenState": "ရခိုင်",
+                "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
+                "heroPlace": "မောင်တောမြို့နယ်၊ ငန်းချောင်းရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဒေါ်စောခင်လှ",
+                "fallenDay": "2022-02-07",
+                "heroAge": "40",
                 "heroGender": "f",
                 "fallenCity": "မောင်တော",
                 "fallenState": "ရခိုင်",

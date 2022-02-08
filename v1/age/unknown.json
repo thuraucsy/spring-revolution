@@ -9781,14 +9781,25 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-06",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကသာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကသာမြို့နယ်၊ နမ့်စမ်းရွာ",
+            "heroPlace": "",
+            "fallenCause": "ခြေထောက်ရိုက်ချိုးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "မောင်တော",
-            "fallenState": "ရခိုင်",
-            "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
-            "heroPlace": "မောင်တောမြို့နယ်၊ ဖားဝမ်းချောင်းရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အောင်ချမ်းသာရွာနှင့် ချောင်းခွရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "",

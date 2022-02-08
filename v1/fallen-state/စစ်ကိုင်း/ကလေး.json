@@ -1220,6 +1220,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အောင်မြေမာန်ရပ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ အောင်ချမ်းသာရွာနှင့် ချောင်းခွရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
