@@ -879,6 +879,17 @@
             "fallenPlace": "ပင်လောင်းမြို့နယ်၊ နောင်တရားမြို့ပြည်သူ့ဆေးရုံ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်",
             "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်ရင်း ကွယ်လွန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမိတ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

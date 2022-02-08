@@ -703,6 +703,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးအောင်လွင်ဦး",
+            "fallenDay": "2022-02-07",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ် စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ အောင်ဇေယျရပ်ကွက်",
+            "fallenCause": "Feb-01 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-07 စစ်ကြောရေးတွင်သေဆုံး"
         }
     ]
 }

@@ -18713,6 +18713,28 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမိတ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဂွမ်ဇော်",
+            "fallenDay": "2022-02-06",
+            "heroAge": "66",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ပူတာအိုမြို့နယ်၊ လုံရှာယာန်ရွာ",
+            "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-06",
             "heroAge": "",
             "heroGender": "m",
@@ -18721,6 +18743,17 @@
             "fallenPlace": "ကသာမြို့နယ်၊ နမ့်စမ်းရွာ",
             "heroPlace": "",
             "fallenCause": "ခြေထောက်ရိုက်ချိုးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးအောင်လွင်ဦး",
+            "fallenDay": "2022-02-07",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ် စစ်ကြောရေးစခန်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ အောင်ဇေယျရပ်ကွက်",
+            "fallenCause": "Feb-01 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-07 စစ်ကြောရေးတွင်သေဆုံး"
         },
         {
             "heroName": "",

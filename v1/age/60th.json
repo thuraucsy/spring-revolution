@@ -351,6 +351,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဂွမ်ဇော်",
+            "fallenDay": "2022-02-06",
+            "heroAge": "66",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ပူတာအိုမြို့နယ်၊ လုံရှာယာန်ရွာ",
+            "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
         }
     ]
 }

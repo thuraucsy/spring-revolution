@@ -10,6 +10,17 @@
             "fallenPlace": "",
             "heroPlace": "ပူတာအိုမြို့နယ်၊ အင်ရိုဘော့ကျေးရွာ",
             "fallenCause": "နှိပ်စက်ဒဏ်ရာများဖြင့် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဂွမ်ဇော်",
+            "fallenDay": "2022-02-06",
+            "heroAge": "66",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "",
+            "heroPlace": "ပူတာအိုမြို့နယ်၊ လုံရှာယာန်ရွာ",
+            "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
         }
     ]
 }

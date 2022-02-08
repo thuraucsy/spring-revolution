@@ -9781,6 +9781,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးမိတ်",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-06",
             "heroAge": "",
             "heroGender": "m",
