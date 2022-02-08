@@ -20318,6 +20318,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-07",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မောင်တော",
+            "fallenState": "ရခိုင်",
+            "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
+            "heroPlace": "မောင်တောမြို့နယ်၊ ဖားဝမ်းချောင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -20969,6 +20980,28 @@
             "fallenPlace": "မတ္တရာမြို့နယ် သပြေကုန်းရွာအကျော် ဘိုကုန်းရွာအနီး",
             "heroPlace": "မတ္တရာမြို့နယ်၊ ဘိုကုန်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

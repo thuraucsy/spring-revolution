@@ -1605,6 +1605,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-07",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မောင်တော",
+            "fallenState": "ရခိုင်",
+            "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
+            "heroPlace": "မောင်တောမြို့နယ်၊ ဖားဝမ်းချောင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

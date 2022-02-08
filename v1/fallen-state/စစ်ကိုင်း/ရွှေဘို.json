@@ -472,6 +472,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ရွာစိုးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
