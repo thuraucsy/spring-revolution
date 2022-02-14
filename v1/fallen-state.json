@@ -9656,6 +9656,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ချမ်းအေး",
+            "fallenDay": "2022-02-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒီးဒုတ်ကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကျအိုးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "မွန်": [
@@ -21094,6 +21105,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုကျော်လမင်း",
+            "fallenDay": "2022-02-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "KNU  တပ်မဟာ ၁ နယ်မြေ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "ရခိုင်": [

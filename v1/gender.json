@@ -18798,6 +18798,28 @@
             "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
             "heroPlace": "မောင်တောမြို့နယ်၊ ငန်းချောင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ချမ်းအေး",
+            "fallenDay": "2022-02-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ်၊ ဒီးဒုတ်ကွင်းကျေးရွာ",
+            "heroPlace": "ပေါက်မြို့နယ်၊ ကျအိုးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်လမင်း",
+            "fallenDay": "2022-02-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "KNU  တပ်မဟာ ၁ နယ်မြေ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "f": [
