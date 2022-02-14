@@ -1242,6 +1242,28 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အောင်ချမ်းသာရွာနှင့် ချောင်းခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Ceu Cin Lian",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

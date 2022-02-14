@@ -318,6 +318,17 @@
             "fallenPlace": "ထီးချိုင့်မြို့နယ်၊ ကျွန်းပင်သာကျေးရွာ အနီး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Ceu Cin Lian",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
