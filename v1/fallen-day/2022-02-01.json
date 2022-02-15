@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်နိုင်",
             "fallenDay": "2022-02-01",
             "heroAge": "32",
@@ -96,8 +107,8 @@
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",

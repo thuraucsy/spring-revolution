@@ -112,6 +112,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-03",
             "heroAge": "9",
             "heroGender": "m",

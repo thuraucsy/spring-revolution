@@ -10,6 +10,17 @@
             "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -1618,6 +1618,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မချစ်ချစ်ထွန်း",
+            "fallenDay": "2022-01-31",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မနန်းဝေမာ",
             "fallenDay": "2022-02-01",
             "heroAge": "39",
@@ -1636,8 +1647,8 @@
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",

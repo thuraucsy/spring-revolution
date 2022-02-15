@@ -86,6 +86,17 @@
             "fallenPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "heroPlace": "မူတြော်ခရိုင် တပ်မဟာ ၅",
             "fallenCause": "စစ်လေယာဉ်ဖြင့် ပစ်ခတ်ခြင်းကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "8": [
@@ -2444,6 +2455,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ခူးညေးရယ်",
+            "fallenDay": "2022-01-30",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုထက်မင်းလွင်",
             "fallenDay": "2022-02-10",
             "heroAge": "19",
@@ -4276,6 +4298,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မချစ်ချစ်ထွန်း",
+            "fallenDay": "2022-01-31",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "24": [
@@ -9482,8 +9515,8 @@
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "43": [
@@ -26588,6 +26621,28 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ခူးညေးရယ်",
+            "fallenDay": "2022-01-30",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုကျော်မင်းနိုင်",
             "fallenDay": "2022-02-03",
             "heroAge": "17",
@@ -28911,6 +28966,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ခူးညေးရယ်",
+            "fallenDay": "2022-01-30",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ကိုကျော်မင်းနိုင်",
             "fallenDay": "2022-02-03",
             "heroAge": "17",
@@ -30352,6 +30418,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုကျော်မင်းနိုင်",
@@ -31914,8 +31991,8 @@
             "fallenCity": "ကလေး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
@@ -35583,6 +35660,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မချစ်ချစ်ထွန်း",
+            "fallenDay": "2022-01-31",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုချမ်းသာ",
             "fallenDay": "2022-02-01",
             "heroAge": "25",
@@ -37383,6 +37471,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-03",
             "heroAge": "9",
             "heroGender": "m",
@@ -37670,6 +37769,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",

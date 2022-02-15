@@ -925,6 +925,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "မချစ်ချစ်ထွန်း",
+            "fallenDay": "2022-01-31",
+            "heroAge": "23",
+            "heroGender": "f",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "heroPlace": "ပဲခူးမြို့၊ နန်းတော်ရာရပ်၊ အင်းဝင် ၁၀ လမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဖြိုးကျော်ဟန်",
             "fallenDay": "2022-02-05",
             "heroAge": "21",

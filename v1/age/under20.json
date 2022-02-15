@@ -2333,6 +2333,28 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ခူးညေးရယ်",
+            "fallenDay": "2022-01-30",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "7",
+            "heroGender": "m",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "heroPlace": "မြစ်ကြီးနားမြို့၊ လယ်ကုန်းရပ်၊",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုကျော်မင်းနိုင်",
             "fallenDay": "2022-02-03",
             "heroAge": "17",
