@@ -5549,6 +5549,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ထန်းတောရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကောင်းထက်ပိုင်",
+            "fallenDay": "2022-02-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ ဗိုလ်မူးဗထူးလမ်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "28": [
@@ -9575,6 +9586,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-02",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်မဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ကျောက်မဲမြို့နယ်၊ ရပ်ကွက် ၉ တိလင်ရပ်",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ],
@@ -23738,6 +23760,28 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-08",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-10",
             "heroAge": "",
             "heroGender": "m",
@@ -31357,6 +31401,17 @@
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
         },
         {
+            "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-02",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်မဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ကျောက်မဲမြို့နယ်၊ ရပ်ကွက် ၉ တိလင်ရပ်",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးစင်လယ်ဆင်ဆာ",
             "fallenDay": "2022-02-03",
             "heroAge": "45",
@@ -35019,6 +35074,17 @@
             "fallenState": "ရခိုင်",
             "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
             "heroPlace": "မောင်တောမြို့နယ်၊ ငန်းချောင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကောင်းထက်ပိုင်",
+            "fallenDay": "2022-02-09",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "မြောက်ဒဂုံ",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ ဗိုလ်မူးဗထူးလမ်း",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

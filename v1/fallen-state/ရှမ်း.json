@@ -890,6 +890,17 @@
             "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-02",
+            "heroAge": "44",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်မဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ကျောက်မဲမြို့နယ်၊ ရပ်ကွက် ၉ တိလင်ရပ်",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }
