@@ -23807,11 +23807,55 @@
             "fallenDay": "2022-02-01",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "မိုးမိတ်",
             "fallenState": "ရှမ်း",
             "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးသီဟဇင်",
+            "fallenDay": "2022-02-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",

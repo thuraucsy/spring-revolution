@@ -3250,6 +3250,28 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ဗုံးမှန်"
+            },
+            {
+                "heroName": "ကိုဖြိုးသီဟဇင်",
+                "fallenDay": "2022-02-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ဆည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+                "heroPlace": "",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျောက်ဆည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+                "heroPlace": "",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ]
     },
@@ -6445,6 +6467,28 @@
                 "fallenPlace": "အင်းစိန်ထောင်",
                 "heroPlace": "သန်လျင်မြို့နယ်၊ ရန်ကုန်မြို့။",
                 "fallenCause": "အင်းစိန်ထောင်တွင် ကွယ်လွန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "အင်းစိန်",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဗုံးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "အင်းစိန်",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ဗုံးမှန်"
             }
         ],
         "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)": [

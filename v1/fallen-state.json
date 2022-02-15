@@ -3211,6 +3211,28 @@
             "fallenPlace": "",
             "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဖြိုးသီဟဇင်",
+            "fallenDay": "2022-02-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ဆည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ကျောက်ဆည်မြို့နယ်၊ မြို့ရှောင်လမ်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "နေပြည်တော်": [
@@ -7177,6 +7199,28 @@
             "fallenPlace": "ရွှေပြည်သာမြို့နယ်၊ ၂၄ ရပ်ကွက်၊ ရွှေပြည်သာကွေ့အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အင်းစိန်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         },
         {
             "heroName": "ကိုကောင်းထက်ပိုင်",
