@@ -1607,6 +1607,28 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ဒေါ်ခင်ဝင်း",
+            "fallenDay": "2022-01-31",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်ဝဂျယ်ထုရာ",
+            "fallenDay": "2022-02-06",
+            "heroAge": "50",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားပြည်သူ့ဆေးရုံကြီး",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဒေါ်စောခင်လှ",
             "fallenDay": "2022-02-07",
             "heroAge": "40",

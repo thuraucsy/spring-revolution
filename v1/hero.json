@@ -20956,37 +20956,37 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးမျိုးချစ်",
             "fallenDay": "2022-01-31",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးခင်မောင်စိုး",
             "fallenDay": "2022-01-31",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်ခင်ဝင်း",
             "fallenDay": "2022-01-31",
             "heroAge": "",
-            "heroGender": "m",
+            "heroGender": "f",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -21042,6 +21042,17 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ ရွှေတွင်းရွာရှိ ဗုံးခိုကျင်း",
             "heroPlace": "",
             "fallenCause": "Jan-29 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-05 တွင် အလောင်းတွေ့"
+        },
+        {
+            "heroName": "ဒေါ်ဝဂျယ်ထုရာ",
+            "fallenDay": "2022-02-06",
+            "heroAge": "50",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားပြည်သူ့ဆေးရုံကြီး",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
+            "fallenCause": ""
         },
         {
             "heroName": "ဦးဂွမ်ဇော်",
