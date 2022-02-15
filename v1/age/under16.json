@@ -585,6 +585,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",

@@ -123,6 +123,17 @@
             "fallenPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "heroPlace": "မုံးကိုးမြို့နယ်၊ မန်းခါးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "10": [
@@ -1423,9 +1434,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "18": [
@@ -2958,9 +2969,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ မဓုရကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "21": [
@@ -4572,9 +4583,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "25": [
@@ -5291,9 +5302,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         }
     ],
     "27": [
@@ -10501,6 +10512,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရွှေအ",
+            "fallenDay": "2022-01-29",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ သံလမ်းဘေးအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "အဓမ္မပြုကျင့်ခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးဂျပန်",
@@ -26440,8 +26462,19 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": ""
         },
         {
@@ -28752,9 +28785,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -30195,8 +30228,19 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": ""
         },
         {
@@ -35402,9 +35446,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုကျော်သူအောင်",
@@ -35413,9 +35457,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုဇော်မျိုးအောင်",
@@ -35424,9 +35468,9 @@
             "heroGender": "m",
             "fallenCity": "မြင်းမူ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ မဓုရကျေးရွာ",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုဖြိုးကျော်ဟန်",
@@ -36166,6 +36210,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးရွှေအ",
+            "fallenDay": "2022-01-29",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ သံလမ်းဘေးအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "အဓမ္မပြုကျင့်ခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးဂျပန်",
@@ -37163,6 +37218,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",
@@ -37439,6 +37505,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-03",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "80th": [

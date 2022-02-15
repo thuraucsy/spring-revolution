@@ -287,6 +287,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးရွှေအ",
+            "fallenDay": "2022-01-29",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ သံလမ်းဘေးအနီး",
+            "heroPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "အဓမ္မပြုကျင့်ခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးဂျပန်",
             "fallenDay": "2022-02-05",
             "heroAge": "50",
