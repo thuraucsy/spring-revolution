@@ -9696,6 +9696,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဆော",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ဆောမြို့နယ်၊ လောင်းရှည်ကျေးရွာ မီးသတ်ကုန်းအနီး",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဆိပ်ဖြူ": [
@@ -18170,6 +18181,17 @@
                 "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
                 "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
                 "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-05",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဖားကန့်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
+                "heroPlace": "",
+                "fallenCause": "လေကြောင်းတိုက်ခိုက်မှုကြောင့် ဗုံးထိမှန်"
             }
         ],
         "မိုးညှင်း": [
@@ -21828,6 +21850,17 @@
     },
     "ရခိုင်": {
         "မောင်တော": [
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-04",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မောင်တော",
+                "fallenState": "ရခိုင်",
+                "fallenPlace": "မောင်တောမြို့နယ်၊ မီးတပ်ကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            },
             {
                 "heroName": "",
                 "fallenDay": "2022-02-07",

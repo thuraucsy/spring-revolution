@@ -1552,6 +1552,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-04",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဆော",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆောမြို့နယ်၊ လောင်းရှည်ကျေးရွာ မီးသတ်ကုန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "မောင်ချမ်းအေး",
             "fallenDay": "2022-02-11",
             "heroAge": "",
