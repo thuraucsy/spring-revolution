@@ -2455,6 +2455,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "Thang Muan Khual",
+            "fallenDay": "2022-01-29",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ သဇင်ရပ်ကွက်",
+            "fallenCause": "Jan-27 တွင်ဖမ်းဆီးခံ၇ပြီး Jan-29 တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
             "heroName": "ခူးညေးရယ်",
             "fallenDay": "2022-01-30",
             "heroAge": "19",
@@ -5936,6 +5947,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "စိုင်းမောင်ညို (ခ) စိုင်းနော်ခမ်း",
+            "fallenDay": "2022-01-29",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မိုင်းရှူး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုင်းရှူးမြို့နယ်၊ ခလ၇  ၁၄၉ တပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
         }
     ],
     "29": [
@@ -26720,6 +26742,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "Thang Muan Khual",
+            "fallenDay": "2022-01-29",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ သဇင်ရပ်ကွက်",
+            "fallenCause": "Jan-27 တွင်ဖမ်းဆီးခံ၇ပြီး Jan-29 တွင် အလောင်းလာထုတ်ရန်ပြော"
+        },
+        {
             "heroName": "ခူးညေးရယ်",
             "fallenDay": "2022-01-30",
             "heroAge": "19",
@@ -29063,6 +29096,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Thang Muan Khual",
+            "fallenDay": "2022-01-29",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ကလေးမြို့နယ်၊ သဇင်ရပ်ကွက်",
+            "fallenCause": "Jan-27 တွင်ဖမ်းဆီးခံ၇ပြီး Jan-29 တွင် အလောင်းလာထုတ်ရန်ပြော"
         },
         {
             "heroName": "ခူးညေးရယ်",
@@ -35768,6 +35812,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စိုင်းမောင်ညို (ခ) စိုင်းနော်ခမ်း",
+            "fallenDay": "2022-01-29",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မိုင်းရှူး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုင်းရှူးမြို့နယ်၊ ခလ၇  ၁၄၉ တပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
         },
         {
             "heroName": "မချစ်ချစ်ထွန်း",

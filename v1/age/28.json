@@ -241,6 +241,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းကျေးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "စိုင်းမောင်ညို (ခ) စိုင်းနော်ခမ်း",
+            "fallenDay": "2022-01-29",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "မိုင်းရှူး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုင်းရှူးမြို့နယ်၊ ခလ၇  ၁၄၉ တပ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
         }
     ]
 }
