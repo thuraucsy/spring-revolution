@@ -2985,6 +2985,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ကိုဇော်မျိုးအောင်",
             "fallenDay": "2022-02-03",
             "heroAge": "20",
@@ -23792,6 +23803,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ရဲဘော်ကိုနားပြတ်",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်ကိုရဲပြေး",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဆလိုင်းကျုံးလျန်ဆန်",
             "fallenDay": "2022-01-22",
             "heroAge": "",
@@ -23977,6 +24010,17 @@
             "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
             "heroPlace": "ရေဦးမြိုနယ်၊ ပုဏ္ဏကားပင်စီရွာ",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးမျိုးချစ်",
@@ -35693,6 +35737,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "မချစ်ချစ်ထွန်း",
             "fallenDay": "2022-01-31",
             "heroAge": "23",
@@ -37922,6 +37977,19 @@
             "fallenPlace": "ပင်လောင်းမြို့နယ်၊ နောင်တရားမြို့ပြည်သူ့ဆေးရုံ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်",
             "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်ရင်း ကွယ်လွန်"
+        }
+    ],
+    "month": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "month",
+            "heroGender": "",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

@@ -2509,6 +2509,17 @@
                 "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ သဲတော (၁)၊ နန်းအောင်မြေရပ်ကွက်",
                 "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ သဲတော (၁)၊ နန်းအောင်မြေရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်၊ လည်ပင်းနှင့် ကျောသို့ ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-29",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဝမ်းတွင်း",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+                "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မိတ္ထီလာ": [
@@ -4079,6 +4090,28 @@
                 "fallenPlace": "",
                 "heroPlace": "ရေဖြူမြို့နယ်၊ ဝက်ချောင်းကျေးရွာ",
                 "fallenCause": "သတ်ဖြတ်ကာ အိမ်ရှေ့တွင် အလောင်းလာစွန့်"
+            },
+            {
+                "heroName": "ရဲဘော်ကိုနားပြတ်",
+                "fallenDay": "2022-01-22",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဖြူ",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ရဲဘော်ကိုရဲပြေး",
+                "fallenDay": "2022-01-22",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဖြူ",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             },
             {
                 "heroName": "ဦးကျော်ဝင်း (ခ) ဦးဖပလက်",
@@ -20562,6 +20595,28 @@
                 "fallenPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
                 "heroPlace": "ဖာပွန်မြို့နယ်၊ ရွှေညောင်ပင်ကျေးရွာ",
                 "fallenCause": "တိုက်လေယာဉ်ဖြင့် ဗုံးကြဲခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-29",
+                "heroAge": "month",
+                "heroGender": "",
+                "fallenCity": "ဖာပွန်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+                "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-29",
+                "heroAge": "20",
+                "heroGender": "f",
+                "fallenCity": "ဖာပွန်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+                "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဘားအံ": [

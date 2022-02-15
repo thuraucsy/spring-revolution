@@ -20560,6 +20560,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ရဲဘော်ကိုနားပြတ်",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်ကိုရဲပြေး",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဆလိုင်းကျုံးလျန်ဆန်",
             "fallenDay": "2022-01-22",
             "heroAge": "",
@@ -20989,6 +21011,28 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "month",
+            "heroGender": "",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ဦးရွှေအ",
             "fallenDay": "2022-01-29",
             "heroAge": "50",
@@ -20998,6 +21042,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ သံလမ်းဘေးအနီး",
             "heroPlace": "ကလေးမြို့နယ်၊ မှန်တောရွာ",
             "fallenCause": "အဓမ္မပြုကျင့်ခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ခူးညေးရယ်",

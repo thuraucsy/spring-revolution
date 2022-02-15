@@ -3214,6 +3214,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-01",
             "heroAge": "",
             "heroGender": "m",
@@ -4139,6 +4150,28 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ရှင်မုတ္ထီးရွာ",
             "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
+        },
+        {
+            "heroName": "ရဲဘော်ကိုနားပြတ်",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်ကိုရဲပြေး",
+            "fallenDay": "2022-01-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဖြူ",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "မနော်မူးနော်",
@@ -20340,6 +20373,28 @@
             "fallenPlace": "",
             "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးကျေးရွာ",
             "fallenCause": "စစ်ရှောင်ရင်း ဖျားနာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "month",
+            "heroGender": "",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "ချင်း": [

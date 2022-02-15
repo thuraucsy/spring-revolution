@@ -274,6 +274,28 @@
             "fallenPlace": "",
             "heroPlace": "လေးကေ့ကော်မြို့နယ်၊ ဖလူးကြီးကျေးရွာ",
             "fallenCause": "စစ်ရှောင်ရင်း ဖျားနာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "month",
+            "heroGender": "",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

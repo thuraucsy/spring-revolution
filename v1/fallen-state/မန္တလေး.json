@@ -3214,6 +3214,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဝမ်းတွင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-01",
             "heroAge": "",
             "heroGender": "m",
