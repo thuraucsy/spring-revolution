@@ -604,6 +604,28 @@
             "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မာရီယားနို",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစအောင်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

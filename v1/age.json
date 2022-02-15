@@ -6721,6 +6721,28 @@
             "fallenPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ မုဌောအရှေ့ရွာ",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မာရီယားနို",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစအောင်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "31": [
@@ -10426,6 +10448,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဂျပန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဒေါ်ဝဂျယ်ထုရာ",
             "fallenDay": "2022-02-06",
             "heroAge": "50",
@@ -10434,7 +10467,7 @@
             "fallenState": "ကချင်",
             "fallenPlace": "မြစ်ကြီးနားပြည်သူ့ဆေးရုံကြီး",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
-            "fallenCause": ""
+            "fallenCause": "Feb-05  ဖားကန့်မြို့နယ်တွင် လေကြောင်းတိုက်ခိုက်မှုကြောင့် ဗုံးထိမှန်ကာ ခြေထောက်တဖက်ပြတ်ပြီး Feb-06 တွင် သေဆုံး"
         },
         {
             "heroName": "ဦးအောင်လွင်ဦး",
@@ -13921,6 +13954,28 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မာရီယားနို",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစအောင်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "unknown": [
@@ -35871,6 +35926,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးဂျပန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဒေါ်ဝဂျယ်ထုရာ",
             "fallenDay": "2022-02-06",
             "heroAge": "50",
@@ -35879,7 +35945,7 @@
             "fallenState": "ကချင်",
             "fallenPlace": "မြစ်ကြီးနားပြည်သူ့ဆေးရုံကြီး",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
-            "fallenCause": ""
+            "fallenCause": "Feb-05  ဖားကန့်မြို့နယ်တွင် လေကြောင်းတိုက်ခိုက်မှုကြောင့် ဗုံးထိမှန်ကာ ခြေထောက်တဖက်ပြတ်ပြီး Feb-06 တွင် သေဆုံး"
         },
         {
             "heroName": "ဦးအောင်လွင်ဦး",

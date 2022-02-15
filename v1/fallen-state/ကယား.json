@@ -1209,6 +1209,39 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဂျပန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မာရီယားနို",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစအောင်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

@@ -21668,6 +21668,39 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ ရွှေတွင်းရွာရှိ ဗုံးခိုကျင်း",
             "heroPlace": "",
             "fallenCause": "Jan-29 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-05 တွင် အလောင်းတွေ့"
+        },
+        {
+            "heroName": "ဦးဂျပန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မာရီယားနို",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုစအောင်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "30",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2022-02-06": [
@@ -21680,7 +21713,7 @@
             "fallenState": "ကချင်",
             "fallenPlace": "မြစ်ကြီးနားပြည်သူ့ဆေးရုံကြီး",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
-            "fallenCause": ""
+            "fallenCause": "Feb-05  ဖားကန့်မြို့နယ်တွင် လေကြောင်းတိုက်ခိုက်မှုကြောင့် ဗုံးထိမှန်ကာ ခြေထောက်တဖက်ပြတ်ပြီး Feb-06 တွင် သေဆုံး"
         },
         {
             "heroName": "ဦးဂွမ်ဇော်",
