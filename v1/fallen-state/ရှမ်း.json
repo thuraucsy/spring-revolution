@@ -912,6 +912,17 @@
             "fallenPlace": "",
             "heroPlace": "ကျောက်မဲမြို့နယ်၊ ရပ်ကွက် ၉ တိလင်ရပ်",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သိန္နီ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "သိန္နီမြို့နယ် (မူပန်ခရိုင်)၊ လုံဂျီအရှေ့ဘက်ခြမ်း",
+            "fallenCause": ""
         }
     ]
 }

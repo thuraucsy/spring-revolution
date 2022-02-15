@@ -5960,7 +5960,7 @@
             "fallenCause": "ကားဖြင့်တိုက်သတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "စောကလိုစေးဝါး",
             "fallenDay": "2022-02-10",
             "heroAge": "28",
             "heroGender": "m",
@@ -24516,6 +24516,17 @@
             "fallenPlace": "KNU  တပ်မဟာ ၁ နယ်မြေ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-13",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သိန္နီ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "သိန္နီမြို့နယ် (မူပန်ခရိုင်)၊ လုံဂျီအရှေ့ဘက်ခြမ်း",
+            "fallenCause": ""
         }
     ],
     "under20": [
@@ -36023,7 +36034,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "စောကလိုစေးဝါး",
             "fallenDay": "2022-02-10",
             "heroAge": "28",
             "heroGender": "m",
