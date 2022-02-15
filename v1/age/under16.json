@@ -582,6 +582,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

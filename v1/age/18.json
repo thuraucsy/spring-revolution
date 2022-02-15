@@ -329,6 +329,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စိုင်းကို",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -608,6 +608,17 @@
             "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
             "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "16": [
@@ -1714,6 +1725,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စိုင်းကို",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "19": [
@@ -2375,6 +2397,28 @@
             "fallenState": "တနင်္သာရီ",
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထက်မင်းလွင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်မိုးနိုင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
@@ -26047,6 +26091,50 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်စိုင်းကို",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထက်မင်းလွင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်မိုးနိုင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -28282,6 +28370,50 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ကြံသာကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်စိုင်းကို",
+            "fallenDay": "2022-02-10",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထက်မင်းလွင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချစ်မိုးနိုင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -29637,6 +29769,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -36455,6 +36598,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ချစ်စမ်းမောင်",
+            "fallenDay": "2022-02-10",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],
