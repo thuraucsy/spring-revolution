@@ -386,6 +386,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုချမ်းသာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ ချင်းတွင်းမြစ်အနီး",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "25",

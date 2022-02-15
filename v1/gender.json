@@ -18525,6 +18525,17 @@
             "fallenCause": "အဖမ်းမခံပဲ အဆုံးစီရင်"
         },
         {
+            "heroName": "ဦး မောင်ညွန့်",
+            "fallenDay": "2022-01-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန့်ဘလူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကန့်ဘလူမြို့နယ်၊ ပလူသာရွာ",
+            "heroPlace": "ကန့်ဘလူမြို့နယ်၊မကျည်းကုန်းရွာ",
+            "fallenCause": "ခေါင်းဖြတ်ခံရကာ မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ဦးမြင့်အောင်",
             "fallenDay": "2022-01-24",
             "heroAge": "69",
@@ -18732,6 +18743,28 @@
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ငါန်းဇွန်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ငါန်းဇွန်မြိုနယ်၊ မြိုသာအနောက်ရွာ",
+            "heroPlace": "ငါန်းဇွန်မြိုနယ်၊ မြိုသာအနောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုချမ်းသာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ ချင်းတွင်းမြစ်အနီး",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
