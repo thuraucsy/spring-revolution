@@ -71,6 +71,17 @@
             "fallenDay": "2022-01-27",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဘာဒိုရွာ၊ စစ္စတာရ်ဘုရားကျောင်းအတွင်း",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-27",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "မုံရွာ",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "မုံရွာမြို့နယ်၊ လယ်ဇင်ရွာ",

@@ -10263,6 +10263,17 @@
                 "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ ရွှေဂဲရိုးကျေးရွာအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုအောင်မျိုးထက်",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကျိုက်ထို",
+                "fallenState": "မွန်",
+                "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ သိမ်ဇရပ်လမ်းခွဲအနီး",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "သထုံ": [
@@ -19760,6 +19771,17 @@
                 "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
             },
             {
+                "heroName": "",
+                "fallenDay": "2022-01-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ဘာဒိုရွာ၊ စစ္စတာရ်ဘုရားကျောင်းအတွင်း",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
                 "heroName": "စောဒါးထူး",
                 "fallenDay": "2022-01-28",
                 "heroAge": "23",
@@ -21912,6 +21934,39 @@
                 "fallenCity": "မတူပီ",
                 "fallenState": "ချင်း",
                 "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "Salai Tung Mang",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မတူပီမြို့နယ်၊ မတူပီ-ပလက်၀လမ်းအနီး ထယ်ဘွေတပ်စခန်း",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "Salai Lian Aung",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မတူပီမြို့နယ်၊ မတူပီ-ပလက်၀လမ်းအနီး ထယ်ဘွေတပ်စခန်း",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဆိုင်းလျန်",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မတူပီမြို့နယ်၊ မတူပီ-ပလက်၀လမ်းအနီး ထယ်ဘွေတပ်စခန်း",
                 "heroPlace": "",
                 "fallenCause": ""
             },
