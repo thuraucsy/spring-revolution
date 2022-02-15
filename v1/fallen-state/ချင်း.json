@@ -1157,6 +1157,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-01-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",

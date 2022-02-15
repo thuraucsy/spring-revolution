@@ -6359,6 +6359,28 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ကိုမျိုးဇော်",
+            "fallenDay": "2022-01-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုမြင့်မိုး",
+            "fallenDay": "2022-01-25",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဆန်းလင်း",
             "fallenDay": "2022-01-26",
             "heroAge": "37",

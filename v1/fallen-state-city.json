@@ -13593,6 +13593,28 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
+                "heroName": "ကိုမျိုးဇော်",
+                "fallenDay": "2022-01-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေဘို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုမြင့်မိုး",
+                "fallenDay": "2022-01-25",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရွှေဘို",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+                "heroPlace": "ရွှေဘိုမြို့နယ်၊ ပေါက်ချိုင်းရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
                 "heroName": "",
                 "fallenDay": "2022-02-08",
                 "heroAge": "",
@@ -21424,6 +21446,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကန်ပက်လက်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဖလမ်း": [
