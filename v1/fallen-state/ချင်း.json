@@ -1154,6 +1154,17 @@
             "fallenPlace": "ထန်တလန်မြို့တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးလောင်နိုး",
+            "fallenDay": "2022-02-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မတူပီ-ပလက်၀ လမ်းပေါ်၊ ထယ်ဘွေးကျေးရွာအနီး",
+            "heroPlace": "မတူပီမြို့နယ်၊ ခြန်းပြန်းကျေးရွာအနီး",
+            "fallenCause": "မိုင်းနင်းမိ"
         }
     ]
 }
