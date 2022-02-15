@@ -15334,6 +15334,50 @@
                 "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
                 "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုကျော်မင်းထွန်း",
+                "fallenDay": "2022-02-03",
+                "heroAge": "26",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+                "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုကျော်သူအောင်",
+                "fallenDay": "2022-02-03",
+                "heroAge": "24",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုကျော်မင်းနိုင်",
+                "fallenDay": "2022-02-03",
+                "heroAge": "17",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုဇော်မျိုးအောင်",
+                "fallenDay": "2022-02-03",
+                "heroAge": "20",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "မြင်းမူမြို့နယ်၊ မဓုရကျေးရွာ",
+                "fallenCause": ""
             }
         ],
         "ဘုတလင်": [

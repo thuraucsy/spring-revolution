@@ -296,6 +296,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူအောင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }

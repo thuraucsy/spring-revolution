@@ -1415,6 +1415,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်မင်းနိုင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "18": [
@@ -2939,6 +2950,17 @@
             "fallenPlace": "သရက်ခရိုင်၊ ကံမမြို့နယ် ရခိုင်ရိုးမအတွင်းမှာရှိတဲ့ ယာယီစစ်ရှောင်စခန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးအောင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ မဓုရကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "21": [
@@ -4542,6 +4564,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကျော်သူအောင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "25": [
@@ -5250,6 +5283,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ကျွန်လည်ရွာအနီး",
             "heroPlace": "တန်ဆည်မြို့နယ်၊ မဟာမြိုင်ရပ်ကွက်",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်မင်းထွန်း",
+            "fallenDay": "2022-02-03",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "27": [
@@ -26390,6 +26434,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုကျော်မင်းနိုင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
@@ -28691,6 +28746,17 @@
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုကျော်မင်းနိုင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
@@ -30121,6 +30187,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်မင်းနိုင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
         },
         {
             "heroName": "",
@@ -35317,6 +35394,39 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကျော်မင်းထွန်း",
+            "fallenDay": "2022-02-03",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုကျော်သူအောင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇော်မျိုးအောင်",
+            "fallenDay": "2022-02-03",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "မြင်းမူမြို့နယ်၊ မဓုရကျေးရွာ",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဖြိုးကျော်ဟန်",
