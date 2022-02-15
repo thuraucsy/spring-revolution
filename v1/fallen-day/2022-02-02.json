@@ -12,6 +12,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ဇီးလင်းတော",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
             "fallenDay": "2022-02-02",
             "heroAge": "44",

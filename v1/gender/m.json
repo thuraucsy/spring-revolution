@@ -18767,6 +18767,17 @@
             "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုအောင်အောင်",
+            "fallenDay": "2022-02-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကျောက်ပန်းတောင်း",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "ကျောက်ပန်းတောင်းမြို့နယ်၊ ပြည်တော်သာရပ်၊ ရွှေတန်ဆာလမ်း",
+            "fallenCause": "မိမိကိုယ်ကို မီးရှို့ဆန္ဒပြ"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-01",
             "heroAge": "",
@@ -18798,6 +18809,17 @@
             "fallenPlace": "မိုးမိတ်မြို့နယ်တရားရုံးအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘီးလင်း",
+            "fallenState": "မွန်",
+            "fallenPlace": "ဘီးလင်းမြို့နယ်၊ ဇီးလင်းတော",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         },
         {
             "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
