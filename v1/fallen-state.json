@@ -3219,9 +3219,9 @@
             "heroGender": "m",
             "fallenCity": "မတ္တရာ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုဖြိုးသီဟဇင်",
@@ -4139,6 +4139,17 @@
             "fallenPlace": "",
             "heroPlace": "ရေဖြူမြို့နယ်၊ ပရဒတ်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဂျင်း (SC-202087)",
+            "fallenDay": "2022-02-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဆားခဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "ရန်ကုန်": [

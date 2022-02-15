@@ -21731,9 +21731,9 @@
             "heroGender": "m",
             "fallenCity": "မတ္တရာ",
             "fallenState": "မန္တလေး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ကိုမျိုးဝင်းသန်း",
@@ -21745,6 +21745,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဂျင်း (SC-202087)",
+            "fallenDay": "2022-02-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "ပုလောမြို့နယ်၊ ဆားခဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဦးစင်လယ်ဆင်ဆာ",
