@@ -513,8 +513,8 @@
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "heroPlace": "",
             "fallenCause": ""
         },
         {
@@ -524,8 +524,8 @@
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
-            "fallenPlace": "",
-            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "heroPlace": "",
             "fallenCause": ""
         }
     ]
