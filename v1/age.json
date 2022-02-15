@@ -3348,6 +3348,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ငွေတောင်ဆည်အနီး ရွှေယောက်ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးကျော်ဟန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကြို့ပင်ကောက်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ကြို့ပင်ကောက်မြို့နယ်၊ စိုင်ဂေါင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "22": [
@@ -6731,7 +6742,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုစအောင်",
@@ -6742,7 +6753,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "31": [
@@ -11296,6 +11307,17 @@
             "fallenPlace": "",
             "heroPlace": "တမူးမြို့နယ်၊ မြို့မ ၁၂ ခရပ်",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "69",
+            "heroGender": "f",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "70": [
@@ -13964,7 +13986,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုစအောင်",
@@ -13975,7 +13997,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "unknown": [
@@ -35198,6 +35220,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုဖြိုးကျော်ဟန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကြို့ပင်ကောက်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ကြို့ပင်ကောက်မြို့နယ်၊ စိုင်ဂေါင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-07",
             "heroAge": "25",
@@ -36311,6 +36344,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "69",
+            "heroGender": "f",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးဂွမ်ဇော်",

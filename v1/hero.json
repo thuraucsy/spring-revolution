@@ -21000,6 +21000,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "69",
+            "heroGender": "f",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုစိုင်းထွန်းထွန်းဝင်း",
             "fallenDay": "2022-02-02",
             "heroAge": "44",
@@ -21020,6 +21031,17 @@
             "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
             "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
             "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖြိုးကျော်ဟန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကြို့ပင်ကောက်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ကြို့ပင်ကောက်မြို့နယ်၊ စိုင်ဂေါင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးစိုးမင်းသူ",
@@ -21063,7 +21085,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုစအောင်",
@@ -21074,7 +21096,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ဒေါ်ဝဂျယ်ထုရာ",

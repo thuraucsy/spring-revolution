@@ -1541,6 +1541,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "69",
+            "heroGender": "f",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်ချမ်းအေး",
             "fallenDay": "2022-02-11",
             "heroAge": "",

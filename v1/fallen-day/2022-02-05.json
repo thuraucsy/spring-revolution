@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "heroName": "ကိုဖြိုးကျော်ဟန်",
+            "fallenDay": "2022-02-05",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "ကြို့ပင်ကောက်",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "ကြို့ပင်ကောက်မြို့နယ်၊ စိုင်ဂေါင်ရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးစိုးမင်းသူ",
             "fallenDay": "2022-02-05",
             "heroAge": "",
@@ -42,7 +53,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုစအောင်",
@@ -53,7 +64,7 @@
             "fallenState": "ကယား",
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

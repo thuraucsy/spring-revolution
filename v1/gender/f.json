@@ -1618,6 +1618,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-02",
+            "heroAge": "69",
+            "heroGender": "f",
+            "fallenCity": "ဆိပ်ဖြူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "heroPlace": "ဆိပ်ဖြူမြို့နယ်၊ ရှားလှရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ဒေါ်ဝဂျယ်ထုရာ",
             "fallenDay": "2022-02-06",
             "heroAge": "50",
