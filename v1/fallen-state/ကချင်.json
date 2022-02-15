@@ -604,6 +604,17 @@
             "fallenPlace": "",
             "heroPlace": "ပူတာအိုမြို့နယ်၊ လုံရှာယာန်ရွာ",
             "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-11",
+            "heroAge": "24",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ စီတာပူ မနောကွင်းအဝိုင်းပတ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

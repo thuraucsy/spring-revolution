@@ -19546,6 +19546,17 @@
             "fallenPlace": "",
             "heroPlace": "သိန္နီမြို့နယ် (မူပန်ခရိုင်)၊ လုံဂျီအရှေ့ဘက်ခြမ်း",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇင်မင်းခိုင်",
+            "fallenDay": "2022-02-14",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ရွာငံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "ရွာငံမြို့နယ်၊ နွားဘန်းကြီရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -21241,6 +21252,17 @@
             "fallenState": "ရခိုင်",
             "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
             "heroPlace": "မောင်တောမြို့နယ်၊ ဖားဝမ်းချောင်းရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-11",
+            "heroAge": "24",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ စီတာပူ မနောကွင်းအဝိုင်းပတ်အနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

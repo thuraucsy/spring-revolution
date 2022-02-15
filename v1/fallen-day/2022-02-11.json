@@ -32,6 +32,17 @@
             "fallenPlace": "မတူပီ-ပလက်၀ လမ်းပေါ်၊ ထယ်ဘွေးကျေးရွာအနီး",
             "heroPlace": "မတူပီမြို့နယ်၊ ခြန်းပြန်းကျေးရွာအနီး",
             "fallenCause": "မိုင်းနင်းမိ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-11",
+            "heroAge": "24",
+            "heroGender": "f",
+            "fallenCity": "မြစ်ကြီးနား",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ စီတာပူ မနောကွင်းအဝိုင်းပတ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
