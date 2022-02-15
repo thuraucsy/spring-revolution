@@ -16116,6 +16116,17 @@
                 "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
                 "heroPlace": "ရေဦးမြိုနယ်၊ ပုဏ္ဏကားပင်စီရွာ",
                 "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုရဲမြင့်",
+                "fallenDay": "2022-02-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ရေဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ရေဦးမြို့နယ်၊ ဂါဝီလမ်း",
+                "heroPlace": "ရေဦးမြို့နယ်၊ အောင်ဆန်းရပ်ကွက်၊ ဂါဝီလမ်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ပုလဲ": [
@@ -20789,6 +20800,17 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-07",
+                "heroAge": "13",
+                "heroGender": "m",
+                "fallenCity": "မင်းတပ်",
+                "fallenState": "ချင်း",
+                "fallenPlace": "မင်းတပ်-မတူပီလမ်းကြား ၉ မိုင်ဝန်းကျင်",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "တီးတိန်": [

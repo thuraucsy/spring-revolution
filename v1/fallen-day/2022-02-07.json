@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "heroName": "",
+            "fallenDay": "2022-02-07",
+            "heroAge": "13",
+            "heroGender": "m",
+            "fallenCity": "မင်းတပ်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "မင်းတပ်-မတူပီလမ်းကြား ၉ မိုင်ဝန်းကျင်",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ဦးအောင်လွင်ဦး",
             "fallenDay": "2022-02-07",
             "heroAge": "50",
@@ -21,6 +32,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အောင်ချမ်းသာရွာနှင့် ချောင်းခွရွာကြား",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရဲမြင့်",
+            "fallenDay": "2022-02-07",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရေဦးမြို့နယ်၊ ဂါဝီလမ်း",
+            "heroPlace": "ရေဦးမြို့နယ်၊ အောင်ဆန်းရပ်ကွက်၊ ဂါဝီလမ်း",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
