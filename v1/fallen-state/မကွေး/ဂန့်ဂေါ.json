@@ -461,6 +461,17 @@
             "fallenPlace": "",
             "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးရွာ",
             "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
+        },
+        {
+            "heroName": "ဒုရဲမှူးခင်မောင်ထွေး",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

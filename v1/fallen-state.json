@@ -9823,6 +9823,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ဒုရဲမှူးခင်မောင်ထွေး",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-02",
             "heroAge": "69",
@@ -20377,7 +20388,7 @@
         {
             "heroName": "",
             "fallenDay": "2022-01-29",
-            "heroAge": "month",
+            "heroAge": "3 months",
             "heroGender": "",
             "fallenCity": "ဖာပွန်",
             "fallenState": "ကရင်",
@@ -21550,6 +21561,17 @@
             "fallenCity": "ထန်တလန်",
             "fallenState": "ချင်း",
             "fallenPlace": "ထန်တလန်မြို့တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းဘွေကုန်း (Salai Bawi Kung)",
+            "fallenDay": "2022-01-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
         },

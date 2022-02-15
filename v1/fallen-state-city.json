@@ -9540,6 +9540,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ဂန့်ဂေါမြို့နယ်၊ နှမ်းခါးရွာ",
                 "fallenCause": "Dec-29 တွင်ရရှိသော ရိုက်နှက်ဒဏ်ရာများကြောင့် သေဆုံး"
+            },
+            {
+                "heroName": "ဒုရဲမှူးခင်မောင်ထွေး",
+                "fallenDay": "2022-01-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဂန့်ဂေါ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ပေါက်": [
@@ -20599,7 +20610,7 @@
             {
                 "heroName": "",
                 "fallenDay": "2022-01-29",
-                "heroAge": "month",
+                "heroAge": "3 months",
                 "heroGender": "",
                 "fallenCity": "ဖာပွန်",
                 "fallenState": "ကရင်",
@@ -21855,6 +21866,17 @@
                 "fallenCity": "မတူပီ",
                 "fallenState": "ချင်း",
                 "fallenPlace": "မတူပီမြို့နယ်၊ ရေဇွာမြို့",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဆလိုင်းဘွေကုန်း (Salai Bawi Kung)",
+                "fallenDay": "2022-01-30",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတူပီ",
+                "fallenState": "ချင်း",
+                "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
             },

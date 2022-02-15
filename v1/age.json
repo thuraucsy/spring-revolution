@@ -24001,6 +24001,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဒုရဲမှူးခင်မောင်ထွေး",
+            "fallenDay": "2022-01-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုအောင်ကြီး",
             "fallenDay": "2022-01-28",
             "heroAge": "",
@@ -24021,6 +24032,17 @@
             "fallenPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
             "heroPlace": "ဝမ်းတွင်းမြို့နယ်၊ တဲစုကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းဘွေကုန်း (Salai Bawi Kung)",
+            "fallenDay": "2022-01-30",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတူပီ",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ဦးမျိုးချစ်",
@@ -37979,11 +38001,11 @@
             "fallenCause": "လွိုင်ကော်မြို့နယ်မှ စစ်ရှောင်ရင်း ကွယ်လွန်"
         }
     ],
-    "month": [
+    "3 months": [
         {
             "heroName": "",
             "fallenDay": "2022-01-29",
-            "heroAge": "month",
+            "heroAge": "3 months",
             "heroGender": "",
             "fallenCity": "ဖာပွန်",
             "fallenState": "ကရင်",
