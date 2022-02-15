@@ -16604,6 +16604,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်းဦးမြို့နယ်၊ ကုလားလူးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-11",
             "heroAge": "",
             "heroGender": "m",
@@ -18057,6 +18068,17 @@
             "fallenPlace": "ရွှေကူမြို့နယ်၊ ဟင့်အွန်ရွာ",
             "heroPlace": "ရွှေကူမြို့နယ်၊ ဟင့်အွန်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရကာ ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစင်လယ်ဆင်ဆာ",
+            "fallenDay": "2022-02-03",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
             "heroName": "ဦးဂွမ်ဇော်",

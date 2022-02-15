@@ -551,6 +551,17 @@
             "fallenCause": "ဖမ်းဆီးခံရကာ ပစ်သတ်ခံရ"
         },
         {
+            "heroName": "ဦးစင်လယ်ဆင်ဆာ",
+            "fallenDay": "2022-02-03",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
+        },
+        {
             "heroName": "ဦးဂွမ်ဇော်",
             "fallenDay": "2022-02-06",
             "heroAge": "66",

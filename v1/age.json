@@ -9710,6 +9710,17 @@
             "fallenPlace": "",
             "heroPlace": "ထားဝယ်မြို့နယ်၊ ရှင်မုတ္ထီးရွာ",
             "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
+        },
+        {
+            "heroName": "ဦးစင်လယ်ဆင်ဆာ",
+            "fallenDay": "2022-02-03",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "46": [
@@ -23705,6 +23716,17 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ခင်းဦးမြို့နယ်၊ ကုလားလူးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-11",
             "heroAge": "",
             "heroGender": "m",
@@ -31278,6 +31300,17 @@
             "fallenPlace": "",
             "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးစင်လယ်ဆင်ဆာ",
+            "fallenDay": "2022-02-03",
+            "heroAge": "45",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "heroPlace": "ဖားကန့်မြိုနယ် ဆိုင်းဖရာကျေးရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
             "heroName": "ဒေါ်စောခင်လှ",
