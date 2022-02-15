@@ -621,6 +621,17 @@
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         },
         {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "မောင်ချစ်စမ်းမောင်",
             "fallenDay": "2022-02-10",
             "heroAge": "15",
@@ -23672,6 +23683,39 @@
         },
         {
             "heroName": "",
+            "fallenDay": "2022-01-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-31",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းမူ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
             "fallenDay": "2022-02-01",
             "heroAge": "",
             "heroGender": "m",
@@ -23759,26 +23803,15 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးလှထွန်း",
             "fallenDay": "2022-02-08",
             "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ရွှေဘို",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-02-08",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ရွှေဘို",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": ""
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "",
@@ -26181,6 +26214,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "Ceu Cin Lian",
             "fallenDay": "2022-02-10",
             "heroAge": "18",
@@ -28471,6 +28515,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "Ceu Cin Lian",
             "fallenDay": "2022-02-10",
             "heroAge": "18",
@@ -29890,6 +29945,17 @@
             "fallenPlace": "မင်းတပ်-မတူပီလမ်းကြား ၉ မိုင်ဝန်းကျင်",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "မောင်ချစ်စမ်းမောင်",
@@ -36764,6 +36830,17 @@
             "fallenPlace": "မင်းတပ်-မတူပီလမ်းကြား ၉ မိုင်ဝန်းကျင်",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "မောင်ချစ်စမ်းမောင်",

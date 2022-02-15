@@ -2344,6 +2344,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+            "fallenDay": "2022-02-08",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "Ceu Cin Lian",
             "fallenDay": "2022-02-10",
             "heroAge": "18",

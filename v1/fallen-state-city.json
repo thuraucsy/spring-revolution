@@ -12729,6 +12729,28 @@
                 "fallenCause": "ကျည်မှန်"
             },
             {
+                "heroName": "မောင်ပိုင်ဇေရဲထွန်း",
+                "fallenDay": "2022-02-08",
+                "heroAge": "15",
+                "heroGender": "m",
+                "fallenCity": "ခင်ဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+                "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးလှထွန်း",
+                "fallenDay": "2022-02-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ခင်ဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+                "heroPlace": "ခင်ဦးမြို့နယ်၊ မဒေါင်းကြီးကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
                 "heroName": "",
                 "fallenDay": "2022-02-10",
                 "heroAge": "",
@@ -13402,28 +13424,6 @@
                 "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
                 "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
                 "fallenCause": "သတ်ဖြတ်ခံရ"
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2022-02-08",
-                "heroAge": "",
-                "heroGender": "",
-                "fallenCity": "ရွှေဘို",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
-            },
-            {
-                "heroName": "",
-                "fallenDay": "2022-02-08",
-                "heroAge": "",
-                "heroGender": "",
-                "fallenCity": "ရွှေဘို",
-                "fallenState": "စစ်ကိုင်း",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ],
         "ယင်းမာပင်": [
@@ -15213,6 +15213,39 @@
                 "fallenPlace": "မြင်းမူမြို့လယ်စျေးထောင့်ကွေ့",
                 "heroPlace": "မြင်းမူမြို့၊ ဘုရင့်နောင်ရပ်ကွက်",
                 "fallenCause": "ကျည်မှန် ဂျိုင်းအောက်ကနေရင်ဘတ်ထိ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-01-31",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းမူ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ဘုတလင်": [
