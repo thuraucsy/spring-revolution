@@ -230,6 +230,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ မအူပင်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မနန်းဝေမာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "39",
+            "heroGender": "f",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }

@@ -164,6 +164,17 @@
             "fallenPlace": "ညောင်ဦးမြို့နယ်၊ ယက်စမ်းကျေးရွာအနီးရှိ ယာတော",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်ရီရီခိုင် (ခ) Nu Tem Boih",
+            "fallenDay": "2022-02-01",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

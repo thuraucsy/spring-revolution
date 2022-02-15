@@ -428,6 +428,28 @@
             "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ ချင်းတွင်းမြစ်အနီး",
             "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
             "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မနန်းဝေမာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "39",
+            "heroGender": "f",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဦးစန်းအောင်",
+            "fallenDay": "2022-02-01",
+            "heroAge": "52",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

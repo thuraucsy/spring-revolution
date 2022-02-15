@@ -18745,6 +18745,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုဇော်နိုင်",
+            "fallenDay": "2022-02-01",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "သန်လျင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သန်လျင်မြို့နယ်၊ ဗဟိုကျောင်းရှေ့",
+            "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့သစ်အလယ်ရပ်၊ ဟံသာ၀တီလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-01",
             "heroAge": "",
@@ -18765,6 +18776,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ ချင်းတွင်းမြစ်အနီး",
             "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
             "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစန်းအောင်",
+            "fallenDay": "2022-02-01",
+            "heroAge": "52",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုအောင်အောင်",
@@ -20890,6 +20912,28 @@
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ဘဒတ္ထိုင်းကျေးရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မနန်းဝေမာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "39",
+            "heroGender": "f",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်ရီရီခိုင် (ခ) Nu Tem Boih",
+            "fallenDay": "2022-02-01",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",

@@ -1618,6 +1618,28 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မနန်းဝေမာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "39",
+            "heroGender": "f",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်ရီရီခိုင် (ခ) Nu Tem Boih",
+            "fallenDay": "2022-02-01",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-02-02",
             "heroAge": "69",

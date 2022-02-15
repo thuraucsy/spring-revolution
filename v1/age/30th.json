@@ -2454,6 +2454,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဇော်နိုင်",
+            "fallenDay": "2022-02-01",
+            "heroAge": "32",
+            "heroGender": "m",
+            "fallenCity": "သန်လျင်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "သန်လျင်မြို့နယ်၊ ဗဟိုကျောင်းရှေ့",
+            "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့သစ်အလယ်ရပ်၊ ဟံသာ၀တီလမ်း",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မနန်းဝေမာ",
+            "fallenDay": "2022-02-01",
+            "heroAge": "39",
+            "heroGender": "f",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "မာရီယားနို",
             "fallenDay": "2022-02-05",
             "heroAge": "30",

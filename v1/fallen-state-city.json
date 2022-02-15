@@ -6934,6 +6934,17 @@
                 "fallenPlace": "",
                 "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့ဟောင်းအရှေ့ရပ်ကွက်",
                 "fallenCause": "Sep-8 တွင် စစ်တပ်မှဖမ်းဆီးသွားကာ Sep-9 တွင် အလောင်းလာထုတ်ရန် မိသားစုအားပြော"
+            },
+            {
+                "heroName": "ကိုဇော်နိုင်",
+                "fallenDay": "2022-02-01",
+                "heroAge": "32",
+                "heroGender": "m",
+                "fallenCity": "သန်လျင်",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "သန်လျင်မြို့နယ်၊ ဗဟိုကျောင်းရှေ့",
+                "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့သစ်အလယ်ရပ်၊ ဟံသာ၀တီလမ်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မရမ်းကုန်း": [
@@ -12208,6 +12219,17 @@
                 "fallenCause": "အဓမ္မပြုကျင့်ခံရအပြီး သတ်ဖြတ်ခံရ"
             },
             {
+                "heroName": "ဒေါ်ရီရီခိုင် (ခ) Nu Tem Boih",
+                "fallenDay": "2022-02-01",
+                "heroAge": "42",
+                "heroGender": "f",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
                 "heroName": "ဦးအောင်လွင်ဦး",
                 "fallenDay": "2022-02-07",
                 "heroAge": "50",
@@ -15000,6 +15022,28 @@
                 "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ ချင်းတွင်းမြစ်အနီး",
                 "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
                 "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "မနန်းဝေမာ",
+                "fallenDay": "2022-02-01",
+                "heroAge": "39",
+                "heroGender": "f",
+                "fallenCity": "ကနီ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+                "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+                "fallenCause": "ဗုံးမှန်"
+            },
+            {
+                "heroName": "ဦးစန်းအောင်",
+                "fallenDay": "2022-02-01",
+                "heroAge": "52",
+                "heroGender": "m",
+                "fallenCity": "ကနီ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+                "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "ဆားလင်းကြီး": [
