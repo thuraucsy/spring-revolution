@@ -7278,6 +7278,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကမာရွတ်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "heroPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်နိုင်",
             "fallenDay": "2022-02-01",
             "heroAge": "32",
@@ -18873,6 +18884,17 @@
             "fallenPlace": "ပုသိမ်မြို့၊ ကျောက်ဖျာကျေးရွာရှိ စမ်းချောင်းအနီး",
             "heroPlace": "ပုသိမ်မြို့၊ ကျောက်ဖျာကျေးရွာ",
             "fallenCause": "Dec-18 တွင် ဖမ်းဆီးခံ၇၊ Dec-21 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "လပွတ္တာ-မြောင်းမြလမ်း ၇ မိုင် ၈ဖာလုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "ကယား": [

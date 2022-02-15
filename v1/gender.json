@@ -18595,6 +18595,17 @@
             "fallenDay": "2022-01-26",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "လပွတ္တာ-မြောင်းမြလမ်း ၇ မိုင် ၈ဖာလုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
@@ -18765,6 +18776,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ထူဒူငံသရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကမာရွတ်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "heroPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "ဦးရွှေအ",

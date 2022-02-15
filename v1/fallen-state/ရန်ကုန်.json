@@ -3070,6 +3070,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကမာရွတ်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "heroPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုဇော်နိုင်",
             "fallenDay": "2022-02-01",
             "heroAge": "32",

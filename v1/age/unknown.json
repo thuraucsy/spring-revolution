@@ -9773,6 +9773,17 @@
             "fallenDay": "2022-01-26",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "လပွတ္တာ",
+            "fallenState": "ဧရာဝတီ",
+            "fallenPlace": "လပွတ္တာ-မြောင်းမြလမ်း ၇ မိုင် ၈ဖာလုံအနီး",
+            "heroPlace": "",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-26",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
             "fallenPlace": "ပေါက်မြို့နယ်၊ ကုက္ကိုစုကျေးရွာ",
@@ -9833,6 +9844,17 @@
             "fallenPlace": "ရေဦးမြို့နယ်၊ ပုဏ္ဏကားလေးရွာ",
             "heroPlace": "ရေဦးမြိုနယ်၊ ပုဏ္ဏကားပင်စီရွာ",
             "fallenCause": "ရိုက်နှက်နှိပ်စက်ခံရပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-01-29",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကမာရွတ်",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "heroPlace": "ကမာရွတ်မြို့နယ်၊ ရွှေပိတော်ရိပ်မွန်အိမ်ယာ",
+            "fallenCause": "ကျည်မှန်"
         },
         {
             "heroName": "",
