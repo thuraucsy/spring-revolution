@@ -9562,6 +9562,17 @@
                 "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဂန့်ဂေါ",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မင်းရွာ",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ပေါက်": [
@@ -19812,6 +19823,28 @@
                 "fallenState": "ကယား",
                 "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
                 "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-10",
+                "heroAge": "28",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-10",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
                 "fallenCause": ""
             }
         ],

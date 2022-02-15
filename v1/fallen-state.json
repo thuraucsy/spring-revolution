@@ -9867,6 +9867,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မင်းရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "မောင်ချမ်းအေး",
             "fallenDay": "2022-02-11",
             "heroAge": "",
@@ -20173,6 +20184,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenCause": ""
         }
     ],
     "ကရင်": [

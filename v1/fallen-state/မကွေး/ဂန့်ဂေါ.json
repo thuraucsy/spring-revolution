@@ -472,6 +472,17 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်ရဲစခန်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မင်းရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

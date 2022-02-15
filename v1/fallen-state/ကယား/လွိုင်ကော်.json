@@ -505,6 +505,28 @@
             "fallenPlace": "လွိုင်ကော်မြို ကုန်းဆွတ်ကျေးရွာအနီး တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-10",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "fallenCause": ""
         }
     ]
 }
