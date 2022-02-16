@@ -320,7 +320,7 @@
             "fallenCause": "လူသားဒိုင်းအဖြစ်ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",
@@ -10699,6 +10699,17 @@
             "fallenPlace": "ကလေးမြို့နယ် စစ်ကြောရေးစခန်း",
             "heroPlace": "ကလေးမြို့နယ်၊ အောင်ဇေယျရပ်ကွက်",
             "fallenCause": "Feb-01 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-07 စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဇွဲ",
+            "fallenDay": "2022-02-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "51": [
@@ -24467,17 +24478,6 @@
             "fallenDay": "2022-02-10",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-02-10",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မင်းရွာ",
@@ -24507,7 +24507,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်ချမ်းအေး",
+            "heroName": "မောင်ချမ်းထက်",
             "fallenDay": "2022-02-11",
             "heroAge": "",
             "heroGender": "m",
@@ -26962,7 +26962,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",
@@ -29296,7 +29296,7 @@
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",
@@ -30761,7 +30761,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",
@@ -36870,6 +36870,17 @@
             "fallenPlace": "ကလေးမြို့နယ် စစ်ကြောရေးစခန်း",
             "heroPlace": "ကလေးမြို့နယ်၊ အောင်ဇေယျရပ်ကွက်",
             "fallenCause": "Feb-01 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-07 စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဇွဲ",
+            "fallenDay": "2022-02-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "60th": [
@@ -37855,7 +37866,7 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",

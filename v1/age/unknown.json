@@ -10224,17 +10224,6 @@
             "fallenDay": "2022-02-10",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
-            "heroPlace": "",
-            "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-02-10",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "ဂန့်ဂေါ",
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ မင်းရွာ",
@@ -10264,7 +10253,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်ချမ်းအေး",
+            "heroName": "မောင်ချမ်းထက်",
             "fallenDay": "2022-02-11",
             "heroAge": "",
             "heroGender": "m",

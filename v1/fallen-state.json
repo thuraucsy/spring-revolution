@@ -9878,7 +9878,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "မောင်ချမ်းအေး",
+            "heroName": "မောင်ချမ်းထက်",
             "fallenDay": "2022-02-11",
             "heroAge": "",
             "heroGender": "m",
@@ -20252,9 +20252,9 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ဦးဇွဲ",
             "fallenDay": "2022-02-10",
-            "heroAge": "",
+            "heroAge": "50",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
@@ -21774,7 +21774,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မောင်ဟုန်ကီး",
             "fallenDay": "2022-02-07",
             "heroAge": "13",
             "heroGender": "m",

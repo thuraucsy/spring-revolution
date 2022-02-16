@@ -329,6 +329,17 @@
             "fallenPlace": "ကလေးမြို့နယ် စစ်ကြောရေးစခန်း",
             "heroPlace": "ကလေးမြို့နယ်၊ အောင်ဇေယျရပ်ကွက်",
             "fallenCause": "Feb-01 တွင်ဖမ်းဆီးခံ၇ပြီး Feb-07 စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "ဦးဇွဲ",
+            "fallenDay": "2022-02-10",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
