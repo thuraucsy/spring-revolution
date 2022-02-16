@@ -19557,6 +19557,17 @@
             "fallenPlace": "",
             "heroPlace": "ရွာငံမြို့နယ်၊ နွားဘန်းကြီရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -21263,6 +21274,17 @@
             "fallenState": "ကချင်",
             "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ စီတာပူ မနောကွင်းအဝိုင်းပတ်အနီး",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-15",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
             "fallenCause": "ကျည်မှန်"
         }
     ],

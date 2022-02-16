@@ -24549,6 +24549,28 @@
             "fallenPlace": "သိန္နီမြို့နယ် (မူပန်ခရိုင်)၊ လုံဂျီအရှေ့ဘက်ခြမ်း",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-15",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
