@@ -6717,6 +6717,17 @@
                 "fallenPlace": "မင်္ဂလာတောင်ညွန့်မြို့နယ်၊ ၁၂၂ လမ်း နှင့် ၁၂၁ လမ်းကြား",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2021-12-18",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မင်္ဂလာတောင်ညွန့်",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ တောင်လုံးပြန်ရပ်ကွက်၊ အထက်ပုဇွန်တောင်လမ်း၊ ဆုတောင်းပြည့်ကျောင်းတိုက်ရှေ့",
+                "heroPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ ၁၂၂ လမ်း",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "တောင်ဥက္ကလာပ": [
@@ -7456,19 +7467,6 @@
                 "fallenState": "ရန်ကုန်",
                 "fallenPlace": "",
                 "heroPlace": "လမ်းမတော်မြို့နယ်၊ အမှတ် ၉ ရပ်ကွက်၊ ဇော်ဂျီလမ်း",
-                "fallenCause": "ကျည်မှန်"
-            }
-        ],
-        "မင်္ဂလာတောင်ညွှန့်": [
-            {
-                "heroName": "",
-                "fallenDay": "2021-12-18",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "မင်္ဂလာတောင်ညွှန့်",
-                "fallenState": "ရန်ကုန်",
-                "fallenPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ တောင်လုံးပြန်ရပ်ကွက်၊ အထက်ပုဇွန်တောင်လမ်း၊ ဆုတောင်းပြည့်ကျောင်းတိုက်ရှေ့",
-                "heroPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ ၁၂၂ လမ်း",
                 "fallenCause": "ကျည်မှန်"
             }
         ],
@@ -15690,6 +15688,17 @@
                 "fallenPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
                 "heroPlace": "ဘုတလင်မြို့နယ်၊ မောင်းထောင်ကျေးရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုတောက်တဲ့",
+                "fallenDay": "2022-02-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဘုတလင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "",
+                "heroPlace": "ဘုတလင်မြိုနယ်၊ သစ်ခဲကျေးရွာ",
+                "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
             }
         ],
         "ကသာ": [
@@ -20578,13 +20587,35 @@
                 "fallenCause": "လက်နက်ကြီးထိမှန်"
             }
         ],
-        "Unkown": [
+        "Unknown": [
             {
                 "heroName": "ကိုကျော်မြတ်",
                 "fallenDay": "2021-08-19",
                 "heroAge": "",
                 "heroGender": "m",
-                "fallenCity": "Unkown",
+                "fallenCity": "Unknown",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ခူးနိုရယ်",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "စောဒီအယ်မှူး",
+                "fallenDay": "2022-01-07",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
                 "fallenState": "ကယား",
                 "fallenPlace": "",
                 "heroPlace": "",
@@ -20646,30 +20677,6 @@
                 "fallenPlace": "ဖရူဆိုမြို့နယ်အနောက်ဘက်ရှိ စစ်ရှောင်စခန်း",
                 "heroPlace": "ဖရူဆိုမြို့နယ်၊ မိုဆိုကျေးရွာ",
                 "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
-            }
-        ],
-        "Unknown": [
-            {
-                "heroName": "ခူးနိုရယ်",
-                "fallenDay": "2022-01-07",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "Unknown",
-                "fallenState": "ကယား",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
-            },
-            {
-                "heroName": "စောဒီအယ်မှူး",
-                "fallenDay": "2022-01-07",
-                "heroAge": "",
-                "heroGender": "m",
-                "fallenCity": "Unknown",
-                "fallenState": "ကယား",
-                "fallenPlace": "",
-                "heroPlace": "",
-                "fallenCause": ""
             }
         ]
     },
@@ -22240,15 +22247,15 @@
             }
         ]
     },
-    "မသိရှိရသေး": {
-        "Unkown": [
+    "Unknown": {
+        "Unknown": [
             {
                 "heroName": "ကိုမင်းသူ",
                 "fallenDay": "2021-08-18",
                 "heroAge": "22",
                 "heroGender": "m",
-                "fallenCity": "Unkown",
-                "fallenState": "မသိရှိရသေး",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
@@ -22258,16 +22265,12 @@
                 "fallenDay": "2021-08-20",
                 "heroAge": "",
                 "heroGender": "m",
-                "fallenCity": "Unkown",
-                "fallenState": "မသိရှိရသေး",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": ""
-            }
-        ]
-    },
-    "Unknown": {
-        "Unknown": [
+            },
             {
                 "heroName": "မောင်သိန်းခန့်ဖြိုး",
                 "fallenDay": "2021-10-07",

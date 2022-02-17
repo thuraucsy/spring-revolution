@@ -7205,7 +7205,7 @@
             "fallenDay": "2021-12-18",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "မင်္ဂလာတောင်ညွှန့်",
+            "fallenCity": "မင်္ဂလာတောင်ညွန့်",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ တောင်လုံးပြန်ရပ်ကွက်၊ အထက်ပုဇွန်တောင်လမ်း၊ ဆုတောင်းပြည့်ကျောင်းတိုက်ရှေ့",
             "heroPlace": "မင်္ဂလာတောင်ညွှန့်မြို့နယ်၊ ၁၂၂ လမ်း",
@@ -17085,6 +17085,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုတောက်တဲ့",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဘုတလင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "ဘုတလင်မြိုနယ်၊ သစ်ခဲကျေးရွာ",
+            "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
         }
     ],
     "ရှမ်း": [
@@ -19464,7 +19475,7 @@
             "fallenDay": "2021-08-19",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "Unkown",
+            "fallenCity": "Unknown",
             "fallenState": "ကယား",
             "fallenPlace": "",
             "heroPlace": "",
@@ -21796,14 +21807,14 @@
             "fallenCause": "မိုင်းနင်းမိ"
         }
     ],
-    "မသိရှိရသေး": [
+    "Unknown": [
         {
             "heroName": "ကိုမင်းသူ",
             "fallenDay": "2021-08-18",
             "heroAge": "22",
             "heroGender": "m",
-            "fallenCity": "Unkown",
-            "fallenState": "မသိရှိရသေး",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
@@ -21813,14 +21824,12 @@
             "fallenDay": "2021-08-20",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "Unkown",
-            "fallenState": "မသိရှိရသေး",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
-        }
-    ],
-    "Unknown": [
+        },
         {
             "heroName": "မောင်သိန်းခန့်ဖြိုး",
             "fallenDay": "2021-10-07",
