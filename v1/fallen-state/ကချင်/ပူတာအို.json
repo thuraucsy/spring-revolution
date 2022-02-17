@@ -23,26 +23,26 @@
             "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
         },
         {
-            "heroName": "",
+            "heroName": "ဦးငွားဒီဘာ",
             "fallenDay": "2022-02-15",
-            "heroAge": "",
+            "heroAge": "28",
             "heroGender": "m",
             "fallenCity": "ပူတာအို",
             "fallenState": "ကချင်",
             "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
             "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်ဂျာလီဒွေ",
             "fallenDay": "2022-02-15",
-            "heroAge": "",
+            "heroAge": "25",
             "heroGender": "f",
             "fallenCity": "ပူတာအို",
             "fallenState": "ကချင်",
             "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
             "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "fallenCause": "ကျည်မှန်"
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ]
 }

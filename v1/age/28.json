@@ -263,6 +263,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးငွားဒီဘာ",
+            "fallenDay": "2022-02-15",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ]
 }

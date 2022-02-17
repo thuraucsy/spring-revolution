@@ -5072,6 +5072,17 @@
             "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
             "heroPlace": "မောင်တောမြို့နယ်၊ ငန်းချောင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ဂျာလီဒွေ",
+            "fallenDay": "2022-02-15",
+            "heroAge": "25",
+            "heroGender": "f",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ],
     "26": [
@@ -5991,6 +6002,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးငွားဒီဘာ",
+            "fallenDay": "2022-02-15",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ],
     "29": [
@@ -24549,28 +24571,6 @@
             "fallenPlace": "သိန္နီမြို့နယ် (မူပန်ခရိုင်)၊ လုံဂျီအရှေ့ဘက်ခြမ်း",
             "heroPlace": "",
             "fallenCause": ""
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-02-15",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ပူတာအို",
-            "fallenState": "ကချင်",
-            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-02-15",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "ပူတာအို",
-            "fallenState": "ကချင်",
-            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
-            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -36109,6 +36109,28 @@
             "fallenPlace": "",
             "heroPlace": "ရွာငံမြို့နယ်၊ နွားဘန်းကြီရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးငွားဒီဘာ",
+            "fallenDay": "2022-02-15",
+            "heroAge": "28",
+            "heroGender": "m",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်ဂျာလီဒွေ",
+            "fallenDay": "2022-02-15",
+            "heroAge": "25",
+            "heroGender": "f",
+            "fallenCity": "ပူတာအို",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "heroPlace": "ပူတာအိုမြို့၊ ဖတ်မာရွာ",
+            "fallenCause": "ကျည်မှန်၊ ရင်ဘတ်သို့ကျည်မှန်"
         }
     ],
     "50th": [
