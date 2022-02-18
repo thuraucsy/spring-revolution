@@ -2331,6 +2331,72 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရွှေဘုန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလင်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းမင်းထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျောက်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

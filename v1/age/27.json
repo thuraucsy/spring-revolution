@@ -329,6 +329,17 @@
             "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ ဗိုလ်မူးဗထူးလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးသားကြီး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

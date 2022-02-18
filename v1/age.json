@@ -685,6 +685,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "16": [
@@ -1813,6 +1835,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုရွှေဘုန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလင်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "19": [
@@ -2519,6 +2563,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းမင်းထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျောက်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20": [
@@ -3903,6 +3969,28 @@
         },
         {
             "heroName": "ကိုဇော်လှိုင်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မိုက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလှိုင်း",
             "fallenDay": "2022-02-17",
             "heroAge": "22",
             "heroGender": "m",
@@ -5437,6 +5525,17 @@
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းထွန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "27": [
@@ -5769,6 +5868,17 @@
             "fallenPlace": "မြောက်ဒဂုံမြို့နယ်၊ ဗိုလ်မူးဗထူးလမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးသားကြီး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "28": [
@@ -8884,6 +8994,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ ကင်းစံပြကျေးရွာ",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "40": [
@@ -9381,6 +9502,17 @@
             "fallenPlace": "မောင်တောမြို့နယ်၊ ခမောင်းဆိပ်ရွာ",
             "heroPlace": "မောင်တောမြို့နယ်၊ ဖားဝမ်းချောင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "41": [
@@ -10466,6 +10598,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ အရှေ့စည်းရွာအနီး မြစ်သာမြစ်ကမ်းစပ်",
             "heroPlace": "ကလေးမြို့နယ်၊ ခုံတိုးမြို့သာရွာ",
             "fallenCause": "သတ်ဖြတ်ကာ မီးရှို့ခံရ"
+        },
+        {
+            "heroName": "ဦးစောထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50": [
@@ -14426,6 +14569,17 @@
             "fallenState": "ရှမ်း",
             "fallenPlace": "လားရှိုးမြို့နယ်၊ လုံတက်ကျေးရွာအဝင်အနီး",
             "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျော်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
@@ -27268,6 +27422,72 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရွှေဘုန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလင်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းမင်းထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျောက်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -29602,6 +29822,72 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရွှေဘုန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလင်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုစိုင်းမင်းထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုကျောက်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [
@@ -31045,6 +31331,28 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "40th": [
@@ -32598,6 +32906,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးစောထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "နော်ဖုတင်",
@@ -36417,6 +36747,50 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဖိုးသားကြီး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မင်းထွန်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဇော်မိုက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလှိုင်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50th": [
@@ -38282,6 +38656,28 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "မောင်မင်းသက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်အောင်ထက်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "15",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "70th": [

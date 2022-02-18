@@ -1552,6 +1552,28 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးစောထွေး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "နော်ဖုတင်",
             "fallenDay": "2022-02-18",
             "heroAge": "48",
