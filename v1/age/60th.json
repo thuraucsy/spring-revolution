@@ -373,6 +373,28 @@
             "fallenPlace": "",
             "heroPlace": "ပူတာအိုမြို့နယ်၊ လုံရှာယာန်ရွာ",
             "fallenCause": "စစ်ရှောင်ရင်းသေဆုံး"
+        },
+        {
+            "heroName": "ဦးလှရွှေ",
+            "fallenDay": "2022-02-14",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးသန်းဆွေ",
+            "fallenDay": "2022-02-14",
+            "heroAge": "66",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

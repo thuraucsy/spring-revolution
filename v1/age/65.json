@@ -32,6 +32,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
             "heroPlace": "ရေစကြိုမြို့နယ်၊ နေရင်းရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးလှရွှေ",
+            "fallenDay": "2022-02-14",
+            "heroAge": "65",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

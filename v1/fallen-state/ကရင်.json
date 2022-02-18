@@ -298,6 +298,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+            "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
             "heroName": "နော်ဖုတင်",
             "fallenDay": "2022-02-18",
             "heroAge": "48",

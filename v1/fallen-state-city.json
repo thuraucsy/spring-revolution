@@ -14108,6 +14108,17 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
                 "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကောင်းဆင့်ရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-16",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စားတော်ပြင်ကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ဖမ်းဆီးခံရပြီး ရိုက်နှက်သတ်ဖြတ်ခံရ"
             }
         ],
         "စစ်ကိုင်း": [
@@ -16745,6 +16756,50 @@
                 "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးဖိုးညို",
+                "fallenDay": "2022-02-14",
+                "heroAge": "41",
+                "heroGender": "m",
+                "fallenCity": "ပုလဲ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးလှရွှေ",
+                "fallenDay": "2022-02-14",
+                "heroAge": "65",
+                "heroGender": "m",
+                "fallenCity": "ပုလဲ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးသန်းဆွေ",
+                "fallenDay": "2022-02-14",
+                "heroAge": "66",
+                "heroGender": "m",
+                "fallenCity": "ပုလဲ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဒေါ်တင်စု",
+                "fallenDay": "2022-02-14",
+                "heroAge": "55",
+                "heroGender": "m",
+                "fallenCity": "ပုလဲ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "မြောင်": [
@@ -20949,6 +21004,17 @@
                 "fallenPlace": "မြ၀တီမြို့၊ အမှတ်(၄)ရပ်ကွက်အုပ်ချုပ်ရေးမှူးရုံးရှေ့",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-16",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "မြဝတီ",
+                "fallenState": "ကရင်",
+                "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+                "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+                "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
             }
         ],
         "သံတောင်ကြီး": [

@@ -681,6 +681,28 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ ဆိပ်ခွန်ရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စားတော်ပြင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရပြီး ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+            "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
         }
     ]
 }
