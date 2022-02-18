@@ -13057,6 +13057,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ခင်းဦးမြို့နယ်၊ ကုလားလူးကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဇော်လှိုင်မိုး",
+                "fallenDay": "2022-02-17",
+                "heroAge": "19",
+                "heroGender": "m",
+                "fallenCity": "ခင်ဦး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "တမူး": [
@@ -18105,6 +18116,28 @@
                 "fallenPlace": "",
                 "heroPlace": "မိုးဗြဲမြို့နယ်၊ စည်ကား ၂ရပ်ကွက်",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုမြတ်မင်းခန့်",
+                "fallenDay": "2022-02-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးဗြဲ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
+                "fallenDay": "2022-02-17",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးဗြဲ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "ဖယ်ခုံ": [

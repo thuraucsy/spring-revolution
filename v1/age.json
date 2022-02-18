@@ -2519,6 +2519,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်လှိုင်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20": [
@@ -24681,6 +24692,28 @@
             "fallenPlace": "",
             "heroPlace": "ဘုတလင်မြိုနယ်၊ သစ်ခဲကျေးရွာ",
             "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမြတ်မင်းခန့်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [
@@ -27169,6 +27202,17 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "ကိုဇော်လှိုင်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -29503,6 +29547,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇော်လှိုင်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [

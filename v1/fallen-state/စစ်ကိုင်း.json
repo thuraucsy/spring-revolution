@@ -6797,6 +6797,17 @@
             "fallenPlace": "",
             "heroPlace": "ဘုတလင်မြိုနယ်၊ သစ်ခဲကျေးရွာ",
             "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဇော်လှိုင်မိုး",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာနှင့် ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

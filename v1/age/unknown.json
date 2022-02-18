@@ -10306,6 +10306,28 @@
             "fallenPlace": "",
             "heroPlace": "ဘုတလင်မြိုနယ်၊ သစ်ခဲကျေးရွာ",
             "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမြတ်မင်းခန့်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
