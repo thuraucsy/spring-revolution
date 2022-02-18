@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "",
-            "fallenDay": "2022-01-08",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ကော့ကရိတ်",
-            "fallenState": "ကရင်",
-            "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
-            "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
             "heroName": "နော်ဖုတင်",
             "fallenDay": "2022-02-18",
             "heroAge": "48",
