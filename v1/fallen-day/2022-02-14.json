@@ -54,6 +54,50 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုညွန့်ဝင်းမောင်",
+            "fallenDay": "2022-02-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ရွာရှည်မရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ရွာရှည်မရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ရွာရှည်မရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထန်းပင်ဆိပ်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ရွာရှည်မရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထန်းပင်ဆိပ်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရကာ အလောင်းဖျောက်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ရွာရှည်မရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ထန်းပင်ဆိပ်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရကာ အလောင်းဖျောက်"
         }
     ]
 }
