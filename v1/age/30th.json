@@ -2496,6 +2496,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကယောပိုင်းရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်အေးမြ",
+            "fallenDay": "2022-02-17",
+            "heroAge": "30",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "လားရှိုးမြို့နယ်၊ လုံတက်ကျေးရွာအဝင်အနီး",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်အေးကျော်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "30",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "လားရှိုးမြို့နယ်၊ လုံတက်ကျေးရွာအဝင်အနီး",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

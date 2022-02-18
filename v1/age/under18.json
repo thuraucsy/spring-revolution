@@ -1418,6 +1418,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ တောင်ယမားဆည်ဘောင်အောက်ဖက်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွေးအေးကျမ်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "လားရှိုးမြို့နယ်၊ လုံတက်ကျေးရွာအဝင်အနီး",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မရွှေရည်ဝင်း",
+            "fallenDay": "2022-02-17",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "သံတွဲ",
+            "fallenState": "ရခိုင်",
+            "fallenPlace": "သံတွဲအကျဉ်းထောင်",
+            "heroPlace": "",
+            "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
         }
     ]
 }

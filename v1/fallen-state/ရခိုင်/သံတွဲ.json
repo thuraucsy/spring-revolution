@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "",
-            "fallenDay": "2021-07-06",
-            "heroAge": "2",
-            "heroGender": "",
-            "fallenCity": "ကနီ",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "လက်ကျန် လက်နက်ကြီးပေါက်ကွဲ မှန်ကာ သေဆုံး"
-        },
-        {
             "heroName": "မရွှေရည်ဝင်း",
             "fallenDay": "2022-02-17",
             "heroAge": "2",
