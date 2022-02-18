@@ -989,6 +989,17 @@
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

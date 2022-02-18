@@ -32,6 +32,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

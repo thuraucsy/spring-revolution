@@ -22695,6 +22695,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+            "heroPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "2022-02-17": [
@@ -22951,6 +22962,17 @@
             "fallenState": "ကရင်",
             "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]

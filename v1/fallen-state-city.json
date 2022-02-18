@@ -16943,6 +16943,17 @@
                 "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
                 "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-16",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပုလဲ",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+                "heroPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "မြောင်": [
@@ -18334,6 +18345,17 @@
                 "fallenCity": "မိုးဗြဲ",
                 "fallenState": "ရှမ်း",
                 "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-18",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မိုးဗြဲ",
+                "fallenState": "ရှမ်း",
+                "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "လက်နက်ကြီးမှန်"
             }
