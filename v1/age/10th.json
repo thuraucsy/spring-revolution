@@ -2397,6 +2397,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စောမူဒေး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

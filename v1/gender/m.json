@@ -19878,6 +19878,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ဦးလပါ",
+            "fallenDay": "2022-02-18",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မောင်သန့်စင်အောင်",
             "fallenDay": "2022-02-18",
             "heroAge": "",
@@ -19891,7 +19913,7 @@
         {
             "heroName": "မောင်စောမူဒေး",
             "fallenDay": "2022-02-18",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "မိုးဗြဲ",
             "fallenState": "ရှမ်း",

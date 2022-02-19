@@ -1857,6 +1857,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စောမူဒေး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "19": [
@@ -8227,6 +8238,17 @@
             "fallenPlace": "",
             "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
             "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဦးလပါ",
+            "fallenDay": "2022-02-18",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "36": [
@@ -9625,6 +9647,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "42": [
@@ -14581,6 +14614,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးလပါ",
+            "fallenDay": "2022-02-18",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -24991,6 +25035,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-02-18",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "မောင်သန့်စင်အောင်",
             "fallenDay": "2022-02-18",
             "heroAge": "",
@@ -25000,17 +25055,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "မောင်စောမူဒေး",
-            "fallenDay": "2022-02-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မိုးဗြဲ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ],
     "under20": [
@@ -27565,6 +27609,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စောမူဒေး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "10th": [
@@ -29965,6 +30020,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စောမူဒေး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under18": [
@@ -33016,6 +33082,17 @@
             "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20th": [

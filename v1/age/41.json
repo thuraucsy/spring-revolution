@@ -109,6 +109,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

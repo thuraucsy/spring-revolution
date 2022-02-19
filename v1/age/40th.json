@@ -1583,6 +1583,17 @@
             "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

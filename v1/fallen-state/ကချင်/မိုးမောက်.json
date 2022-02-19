@@ -131,6 +131,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးလပါ",
+            "fallenDay": "2022-02-18",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဘောက်နော်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "41",
+            "heroGender": "m",
+            "fallenCity": "မိုးမောက်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
