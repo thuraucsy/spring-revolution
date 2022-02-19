@@ -3126,6 +3126,17 @@
             "fallenPlace": "",
             "heroPlace": "ရွာငံမြို့နယ်၊ နွားဘန်းကြီရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "လွေးအေးမန်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "လားရှိုးစစ်ဆေးရုံ",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
         }
     ],
     "21": [
@@ -25035,17 +25046,6 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
-            "fallenDay": "2022-02-18",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "လားရှိုး",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
             "heroName": "မောင်သန့်စင်အောင်",
             "fallenDay": "2022-02-18",
             "heroAge": "",
@@ -36945,6 +36945,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "လွေးအေးမန်",
+            "fallenDay": "2022-02-18",
+            "heroAge": "20",
+            "heroGender": "f",
+            "fallenCity": "လားရှိုး",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "လားရှိုးစစ်ဆေးရုံ",
+            "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
         }
     ],
     "50th": [
