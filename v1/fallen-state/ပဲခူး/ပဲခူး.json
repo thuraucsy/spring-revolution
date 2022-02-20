@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကိုမျိုးမင်းထွန်း",
-            "fallenDay": "",
-            "heroAge": "44",
-            "heroGender": "m",
-            "fallenCity": "ပဲခူး",
-            "fallenState": "ပဲခူး",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ဆန္ဒပြပွဲတွင် မူးလဲကာ ကွယ်လွန်"
-        },
-        {
             "heroName": "မောင်ကြည်လှိုင်မင်း (ခ) ခေါင်းကြီး",
             "fallenDay": "2021-02-28",
             "heroAge": "18",

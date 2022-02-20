@@ -1,17 +1,6 @@
 {
     "items": [
         {
-            "heroName": "ကရင်တိုင်းရင်းသားတစ်ဦး",
-            "fallenDay": "2021-02-28",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "ထားဝယ်",
-            "fallenState": "တနင်္သာရီ",
-            "fallenPlace": "ဥတ္တတားကြီးလမ်းဆုံနဲ့ ကရပ်ပြင်လမ်းဆုံ",
-            "heroPlace": "မေတ္တာမြို့၊ ဖောင်းတောကျေးရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
             "heroName": "",
             "fallenDay": "2021-03-15",
             "heroAge": "",
