@@ -89,6 +89,28 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုစိုင်းခန့်ဇော် (ခ) မောင်ညို",
+            "fallenDay": "2022-02-17",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
+            "heroName": "ရဲဘော်ထက်လင်း (ခ) ဝိုင်းချစ်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
             "heroName": "ဒိုမဲနီကို",
             "fallenDay": "2022-02-17",
             "heroAge": "27",
@@ -151,6 +173,17 @@
             "fallenCity": "မိုးဗြဲ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့အနီး ကျားပါးစပ်တောင်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
         }

@@ -10385,6 +10385,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ရဲဘော်ထက်လင်း (ခ) ဝိုင်းချစ်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+        },
+        {
             "heroName": "ကိုမြတ်မင်းခန့်",
             "fallenDay": "2022-02-17",
             "heroAge": "",
@@ -10427,6 +10438,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ ဒင်ပေါက်ရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ ဒင်ပေါက်ရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့အနီး ကျားပါးစပ်တောင်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "",
