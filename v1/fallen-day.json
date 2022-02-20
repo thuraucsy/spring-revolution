@@ -23087,5 +23087,18 @@
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
+    ],
+    "2022-02-20": [
+        {
+            "heroName": "ဦးမျိုး",
+            "fallenDay": "2022-02-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူမြို့၊ ဧရာ၀တီတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }

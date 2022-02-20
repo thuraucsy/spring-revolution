@@ -1594,6 +1594,17 @@
             "fallenPlace": "ပေါက်မြို့နယ်၊ ဒီးဒုတ်ကွင်းကျေးရွာ",
             "heroPlace": "ပေါက်မြို့နယ်၊ ကျအိုးကျေးရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးမျိုး",
+            "fallenDay": "2022-02-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပခုက္ကူ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပခုက္ကူမြို့၊ ဧရာ၀တီတံတားအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
