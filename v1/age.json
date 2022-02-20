@@ -25046,7 +25046,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "မောင်သန့်စင်အောင်",
+            "heroName": "မောင်သန့်စင်အောင်  (စောအလက်ဇန္ဒား (ခ) လုလူ)",
             "fallenDay": "2022-02-18",
             "heroAge": "",
             "heroGender": "m",
@@ -25055,6 +25055,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ အောင်ချမ်းသာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [

@@ -22386,7 +22386,7 @@
             "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
         },
         {
-            "heroName": "မောင်သန့်စင်အောင်",
+            "heroName": "မောင်သန့်စင်အောင်  (စောအလက်ဇန္ဒား (ခ) လုလူ)",
             "fallenDay": "2022-02-18",
             "heroAge": "",
             "heroGender": "m",
@@ -22406,6 +22406,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-19",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့၊ အောင်ချမ်းသာရပ်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
