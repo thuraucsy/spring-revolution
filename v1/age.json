@@ -1492,6 +1492,17 @@
             "fallenPlace": "မြင်းမူမြို့နယ်၊ ကျော့ရွာမြောက်ဘက် တာပေါင်အခြေရွာခြေအနီး",
             "heroPlace": "မြင်းမူမြို့နယ်၊ ညောင်ပင်ဝန်းကျေးရွာ",
             "fallenCause": "နှိပ်စက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်အောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "စစ်ကိုင်းမြို့",
+            "fallenCause": ""
         }
     ],
     "18": [
@@ -27719,6 +27730,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်အောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "စစ်ကိုင်းမြို့",
+            "fallenCause": ""
         }
     ],
     "10th": [
@@ -30130,6 +30152,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်အောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "စစ်ကိုင်းမြို့",
+            "fallenCause": ""
         }
     ],
     "under18": [
@@ -31595,6 +31628,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်အောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "စစ်ကိုင်းမြို့",
+            "fallenCause": ""
         }
     ],
     "40th": [

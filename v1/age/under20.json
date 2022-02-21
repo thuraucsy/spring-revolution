@@ -2562,6 +2562,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်အောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "စစ်ကိုင်းမြို့",
+            "fallenCause": ""
         }
     ]
 }
