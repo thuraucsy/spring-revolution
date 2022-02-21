@@ -461,6 +461,17 @@
             "fallenPlace": "ကနီမြို့နယ်၊ ဒင်ပေါက်ရွာ",
             "heroPlace": "ကနီမြို့နယ်၊ ဒင်ပေါက်ရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုချောထွန်း",
+            "fallenDay": "2022-02-20",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ အိုင်တောင် အနောက်ရွာ ဘုန်းကြီးကျောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": "လည်လှီးသတ်ဖြတ်ခံရ"
         }
     ]
 }
