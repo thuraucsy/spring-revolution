@@ -3590,6 +3590,17 @@
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "Cle Men Te (ခ)မိုးလွင်",
+            "fallenDay": "2022-02-20",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "22": [
@@ -37132,6 +37143,17 @@
             "fallenPlace": "လားရှိုးစစ်ဆေးရုံ",
             "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
             "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "Cle Men Te (ခ)မိုးလွင်",
+            "fallenDay": "2022-02-20",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "50th": [

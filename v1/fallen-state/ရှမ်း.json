@@ -1077,6 +1077,17 @@
             "fallenPlace": "မိုးဗြဲမြို့အနီး ကျားပါးစပ်တောင်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "Cle Men Te (ခ)မိုးလွင်",
+            "fallenDay": "2022-02-20",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
