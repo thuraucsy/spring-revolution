@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "heroName": "မောင်သန့်စင်အောင်  (စောအလက်ဇန္ဒား (ခ) လုလူ)",
+            "fallenDay": "2022-02-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စောမူဒေး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "နော်ဖုတင်",
             "fallenDay": "2022-02-18",
             "heroAge": "48",
@@ -43,28 +65,6 @@
             "fallenPlace": "လားရှိုးစစ်ဆေးရုံ",
             "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
             "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
-        },
-        {
-            "heroName": "မောင်သန့်စင်အောင်  (စောအလက်ဇန္ဒား (ခ) လုလူ)",
-            "fallenDay": "2022-02-18",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မိုးဗြဲ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
-            "heroName": "မောင်စောမူဒေး",
-            "fallenDay": "2022-02-18",
-            "heroAge": "18",
-            "heroGender": "m",
-            "fallenCity": "မိုးဗြဲ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

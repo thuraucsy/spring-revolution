@@ -10708,6 +10708,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50": [
@@ -25101,17 +25112,6 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
-            "fallenDay": "2022-02-17",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "မိုးဗြဲ",
-            "fallenState": "ရှမ်း",
-            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
-        },
-        {
             "heroName": "မောင်သန့်စင်အောင်  (စောအလက်ဇန္ဒား (ခ) လုလူ)",
             "fallenDay": "2022-02-18",
             "heroAge": "",
@@ -33223,6 +33223,17 @@
             "fallenCity": "ခင်ဦး",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါက်တာစွမ်းထက်အောင်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "49",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
