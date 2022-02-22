@@ -3904,6 +3904,28 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုပါစကွာလယ်အောင်ဆန်း",
+            "fallenDay": "2022-02-21",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊  ဆင်တောင်ကျေးရွာအုပ်စု၊ ဝီသဲကူးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုစိန်မောင်",
+            "fallenDay": "2022-02-21",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊  ဆင်တောင်ကျေးရွာအုပ်စု၊ ဝီသဲကူးကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
