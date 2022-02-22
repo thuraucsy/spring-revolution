@@ -186,6 +186,17 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
             "heroPlace": "ပုလဲမြို့နယ်၊ ကျေးသမျှားရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

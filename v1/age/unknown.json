@@ -10471,6 +10471,17 @@
             "fallenPlace": "ပခုက္ကူမြို့၊ ဧရာ၀တီတံတားအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-21",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ပုလဲ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
