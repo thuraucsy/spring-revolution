@@ -7116,6 +7116,28 @@
             "fallenPlace": "ပုလဲမြို့နယ်၊ ဇီးဖြူကုန်းရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးအောင်ထွန်း",
+            "fallenDay": "2022-02-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးသန်းလှ",
+            "fallenDay": "2022-02-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
+            "heroPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
