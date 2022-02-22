@@ -91,24 +91,46 @@
         {
             "heroName": "ကိုစိုင်းခန့်ဇော် (ခ) မောင်ညို",
             "fallenDay": "2022-02-17",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုထက်လင်း (ခ) ဝိုင်းချစ်",
+            "fallenDay": "2022-02-17",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုရဲလင်း",
+            "fallenDay": "2022-02-17",
             "heroAge": "21",
             "heroGender": "m",
             "fallenCity": "မိုးဗြဲ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "ရဲဘော်ထက်လင်း (ခ) ဝိုင်းချစ်",
+            "heroName": "ကိုသန့်ဇင်ထွေး (ခ) ငွေပု",
             "fallenDay": "2022-02-17",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "မိုးဗြဲ",
             "fallenState": "ရှမ်း",
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်၊ အလောင်းအား စစ်တပ်မှသိမ်းသွား"
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "ဒိုမဲနီကို",
