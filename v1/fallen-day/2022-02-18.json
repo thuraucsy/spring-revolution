@@ -65,6 +65,17 @@
             "fallenPlace": "လားရှိုးစစ်ဆေးရုံ",
             "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
             "fallenCause": "Feb-17 လားရှိုးမြို့နယ် လုံတက်ကျေးရွာတွင်လက်နက်ကြီးမှန်ကာ Feb-18 တွင်သေဆုံး"
+        },
+        {
+            "heroName": "ရဲဘော်ကျော်ကြီး",
+            "fallenDay": "2022-02-18",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့တယ်၊ မြသိန်းတန်ဘုရားကုန်းတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
