@@ -7138,6 +7138,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
             "heroPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဗိုလ်ငယ်လေး(ခ) ကိုထွန်းထွန်းဝင်း",
+            "fallenDay": "2022-02-22",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
