@@ -65,6 +65,39 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ် အမြင့်မြို့ဟောင်း ရဲစခန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဒီမို",
+            "fallenDay": "2022-02-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဇော်ဇော်အောင်",
+            "fallenDay": "2022-02-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုဟိန်းထက်",
+            "fallenDay": "2022-02-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ကံကြီးကုန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
