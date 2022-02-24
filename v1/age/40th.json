@@ -1605,6 +1605,17 @@
             "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "နူးလျန်ခမ် Nu Len Kum",
+            "fallenDay": "2022-02-23",
+            "heroAge": "40",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

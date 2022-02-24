@@ -12456,6 +12456,39 @@
                 "fallenPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
                 "heroPlace": "ကလေးမြို့နယ်၊ ငါးဖားရွာ",
                 "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "နူးလျန်ခမ် Nu Len Kum",
+                "fallenDay": "2022-02-23",
+                "heroAge": "40",
+                "heroGender": "f",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+                "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-23",
+                "heroAge": "15",
+                "heroGender": "f",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+                "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-23",
+                "heroAge": "13",
+                "heroGender": "f",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+                "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
         "ကောလင်း": [
@@ -16538,6 +16571,17 @@
                 "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ ယင်းတွေရွာမြောက်ဘက် ဧက ၁၀၀ ကွင်းရှိ မဲသည်ကားဂိတ်အနီး",
                 "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ပုဂံရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီပဲယင်း",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ စိုင်ပြင်မြို့မီးသတ်ရုံအနီး",
+                "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ ဂွေးပင်ကုန်းရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
             }
         ],
         "ဂန့်ဂေါ": [

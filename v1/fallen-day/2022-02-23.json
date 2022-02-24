@@ -87,6 +87,39 @@
             "fallenPlace": "ကောလင်းမြို့နယ်၊ မင်းကုန်းကျေးရွာထိပ်တောင်ကုန်းအနီး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး မုဒိန်းကျင့်ကာသတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "နူးလျန်ခမ် Nu Len Kum",
+            "fallenDay": "2022-02-23",
+            "heroAge": "40",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "13",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

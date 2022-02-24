@@ -505,6 +505,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မြို့သစ်ရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နူးလျန်ခမ် Nu Len Kum",
+            "fallenDay": "2022-02-23",
+            "heroAge": "40",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

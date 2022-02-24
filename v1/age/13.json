@@ -76,6 +76,17 @@
             "fallenPlace": "မင်းတပ်-မတူပီလမ်းကြား ၉ မိုင်ဝန်းကျင်",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "13",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

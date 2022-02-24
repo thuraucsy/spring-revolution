@@ -1473,6 +1473,28 @@
             "fallenPlace": "",
             "heroPlace": "စစ်ကိုင်းမြို့",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "13",
+            "heroGender": "f",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
+            "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }
