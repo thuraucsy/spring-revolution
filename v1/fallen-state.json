@@ -3299,6 +3299,17 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
             "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-23",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိတ္ထီလာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မိတ္တီလာမြို့၊ အင်း၀ဘဏ်အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "နေပြည်တော်": [
