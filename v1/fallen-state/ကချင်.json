@@ -659,6 +659,17 @@
             "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုကိုဦး",
+            "fallenDay": "2022-02-24",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -12469,7 +12469,7 @@
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "ငွန်ဇသျန် Ngun Za Thian",
                 "fallenDay": "2022-02-23",
                 "heroAge": "15",
                 "heroGender": "f",
@@ -12480,7 +12480,7 @@
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             },
             {
-                "heroName": "",
+                "heroName": "Thain Nun Cwai",
                 "fallenDay": "2022-02-23",
                 "heroAge": "13",
                 "heroGender": "f",
@@ -19317,6 +19317,17 @@
                 "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကပ်မှော်ရွာ",
                 "heroPlace": "",
                 "fallenCause": "လေကြောင်းတိုက်ခိုက်မှုကြောင့် ဗုံးထိမှန်"
+            },
+            {
+                "heroName": "ကိုကိုဦး",
+                "fallenDay": "2022-02-24",
+                "heroAge": "40",
+                "heroGender": "m",
+                "fallenCity": "ဖားကန့်",
+                "fallenState": "ကချင်",
+                "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+                "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မိုးညှင်း": [

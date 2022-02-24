@@ -353,7 +353,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "Thain Nun Cwai",
             "fallenDay": "2022-02-23",
             "heroAge": "13",
             "heroGender": "f",
@@ -720,7 +720,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ငွန်ဇသျန် Ngun Za Thian",
             "fallenDay": "2022-02-23",
             "heroAge": "15",
             "heroGender": "f",
@@ -9689,6 +9689,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကိုဦး",
+            "fallenDay": "2022-02-24",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "41": [
@@ -28007,7 +28018,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ငွန်ဇသျန် Ngun Za Thian",
             "fallenDay": "2022-02-23",
             "heroAge": "15",
             "heroGender": "f",
@@ -28018,7 +28029,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "Thain Nun Cwai",
             "fallenDay": "2022-02-23",
             "heroAge": "13",
             "heroGender": "f",
@@ -30473,7 +30484,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ငွန်ဇသျန် Ngun Za Thian",
             "fallenDay": "2022-02-23",
             "heroAge": "15",
             "heroGender": "f",
@@ -30484,7 +30495,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "Thain Nun Cwai",
             "fallenDay": "2022-02-23",
             "heroAge": "13",
             "heroGender": "f",
@@ -31971,7 +31982,7 @@
             "fallenCause": ""
         },
         {
-            "heroName": "",
+            "heroName": "ငွန်ဇသျန် Ngun Za Thian",
             "fallenDay": "2022-02-23",
             "heroAge": "15",
             "heroGender": "f",
@@ -31982,7 +31993,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "Thain Nun Cwai",
             "fallenDay": "2022-02-23",
             "heroAge": "13",
             "heroGender": "f",
@@ -33610,6 +33621,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုကိုဦး",
+            "fallenDay": "2022-02-24",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20th": [
@@ -39439,7 +39461,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ငွန်ဇသျန် Ngun Za Thian",
             "fallenDay": "2022-02-23",
             "heroAge": "15",
             "heroGender": "f",
@@ -39450,7 +39472,7 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "Thain Nun Cwai",
             "fallenDay": "2022-02-23",
             "heroAge": "13",
             "heroGender": "f",
