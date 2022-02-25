@@ -21,6 +21,17 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-24",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ နန်းမယ့်ခုံမြို့၊ သာယာရွာ",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }
