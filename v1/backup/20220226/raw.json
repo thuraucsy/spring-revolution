@@ -1,5 +1,5 @@
 {
-    "range": "'[MM]Detail Cases'!A1:AB2194",
+    "range": "'[MM]Detail Cases'!A1:AB2195",
     "majorDimension": "ROWS",
     "values": [
         [
@@ -25401,6 +25401,18 @@
             "",
             "လက်နက်ကြီးမှန်",
             "KDF"
+        ],
+        [
+            "Van Ro ဗန်ရို",
+            "02/24/2022",
+            "",
+            "M",
+            "Unknown",
+            "Unknown",
+            "",
+            "",
+            "",
+            "CNF/ CNA"
         ],
         [
             "",
