@@ -23506,5 +23506,18 @@
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         }
+    ],
+    "2022-02-26": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကနီမြို့နယ်၊ အင်ပေါင်းရွာ",
+            "heroPlace": "ကနီမြို့နယ်၊ အင်ပေါင်းရွာ",
+            "fallenCause": ""
+        }
     ]
 }
