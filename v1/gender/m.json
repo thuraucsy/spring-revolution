@@ -20296,14 +20296,14 @@
             "fallenCause": "ဖမ်းဆီးခံရပြီး သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "ရဲဘော်ချဲလေး",
             "fallenDay": "2022-02-26",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ကနီ",
             "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ကနီမြို့နယ်၊ အင်းပေါင်းရွာ",
-            "heroPlace": "ကနီမြို့နယ်၊ အင်းပေါင်းရွာ",
+            "fallenPlace": "ကနီမြို့နယ်၊ အင်းပေါင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
             "fallenCause": ""
         }
     ]
