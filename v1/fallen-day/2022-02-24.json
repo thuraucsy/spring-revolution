@@ -54,6 +54,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "\bဗုံးမှန်"
+        },
+        {
+            "heroName": "စောရီဘိုး",
+            "fallenDay": "2022-02-24",
+            "heroAge": "25",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရကာ သေဆုံး"
         }
     ]
 }

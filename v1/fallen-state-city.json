@@ -2273,9 +2273,9 @@
                 "heroGender": "m",
                 "fallenCity": "ချမ်းမြသာစည်",
                 "fallenState": "မန္တလေး",
-                "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ မြို့သစ်(၁)ရပ်",
+                "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ မြို့သစ်(၁)ရပ်၊ ၇၃ လမ်းနှင့် ၁၀၇ လမ်းထောင့်",
                 "heroPlace": "",
-                "fallenCause": ""
+                "fallenCause": "ဗုံးမှန်"
             }
         ],
         "သပိတ်ကျင်း": [
@@ -3859,6 +3859,17 @@
                 "fallenPlace": "",
                 "heroPlace": "ထားဝယ်မြို့နယ်၊ ရှင်မုတ္ထီးရွာ",
                 "fallenCause": "Jan-11 တွင် ဖမ်းဆီးခံ၇၊ Jan-15 တွင် အလောင်းလာပို့"
+            },
+            {
+                "heroName": "ကိုနန်း",
+                "fallenDay": "2022-02-25",
+                "heroAge": "30",
+                "heroGender": "m",
+                "fallenCity": "ထားဝယ်",
+                "fallenState": "တနင်္သာရီ",
+                "fallenPlace": "ထားဝယ်မြို့၊ အိမ်ရှေ့ပြင်စစ်ဆေးဂိတ်အနီး",
+                "heroPlace": "ထားဝယ်မြို့နယ်၊ မောင်မယ်ရှောင်ရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "ပြည်ကြီးမဏ္ဍိုင်": [
@@ -20826,6 +20837,17 @@
                 "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ စံပြသုံးမိုင် ပါကျဲကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "စောရီဘိုး",
+                "fallenDay": "2022-02-24",
+                "heroAge": "25",
+                "heroGender": "m",
+                "fallenCity": "လွိုင်ကော်",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရကာ သေဆုံး"
             }
         ],
         "ဒီးမော့ဆို": [
