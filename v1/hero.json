@@ -22857,6 +22857,39 @@
             "fallenPlace": "ကနီမြို့နယ်၊ အင်းပေါင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးအောင်မောင်း",
+            "fallenDay": "2022-02-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုထွန်းထွန်း",
+            "fallenDay": "2022-02-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုမျိုးညွှန့်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
+            "fallenCause": ""
         }
     ]
 }

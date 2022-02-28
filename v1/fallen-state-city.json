@@ -14470,6 +14470,39 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စားတော်ပြင်ကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "ဖမ်းဆီးခံရပြီး ရိုက်နှက်သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးအောင်မောင်း",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုထွန်းထွန်း",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ကိုမျိုးညွှန့်",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
+                "fallenCause": ""
             }
         ],
         "စစ်ကိုင်း": [
