@@ -263,6 +263,17 @@
             "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ ထွန်တုံးရပ်၊ ၅၄လမ်း/ ၁၁၁လမ်းအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-27",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချမ်းမြသာစည်",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ မြို့သစ်(၁)ရပ်",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

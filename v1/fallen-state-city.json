@@ -1988,6 +1988,17 @@
                 "fallenPlace": "မန္တလေးမြို့၊ ပြည်ကြီးတံခွန်၊ စက်မှုရပ်၊ ၆၂/၆၃ ကြား၊ ၁၂၅လမ်း",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ပြည်ကြီးတံခွန်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ပြည်ကြီးတံခွန်မြို့နယ်၊ တောင်မြင့်ရပ်၊ ရန်ကုန်-မန္တလေးကားလမ်းဟောင်း၊ ရတနာပုံမီးပွိုင့်အနီး",
+                "heroPlace": "",
+                "fallenCause": "ဗုံးမှန်"
             }
         ],
         "ချမ်းမြသာစည်": [
@@ -2254,6 +2265,17 @@
                 "fallenPlace": "မန္တလေးမြို့၊ ချမ်းမြသာစည်မြို့နယ်၊ ထွန်တုံးရပ်၊ ၅၄လမ်း/ ၁၁၁လမ်းအနီး",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-27",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ချမ်းမြသာစည်",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ မြို့သစ်(၁)ရပ်",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "သပိတ်ကျင်း": [
@@ -7533,6 +7555,19 @@
                 "fallenPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
                 "heroPlace": "တိုက်ကြီးမြို့နယ်၊ ငါးအိမ်စုကျေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            }
+        ],
+        "Unknown": [
+            {
+                "heroName": "ဗိုလ်ထက်လင်း",
+                "fallenDay": "2022-02-24",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "ရန်ကုန်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "\bဗုံးမှန်"
             }
         ]
     },
@@ -14470,6 +14505,50 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ စားတော်ပြင်ကျေးရွာ",
                 "heroPlace": "",
                 "fallenCause": "ဖမ်းဆီးခံရပြီး ရိုက်နှက်သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ဦးကြီးညို",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ မူကြိုကျောင်းဝင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ အင်ကြင်းပင်ရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဦးဌေးရှင်း",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ မူကြိုကျောင်းဝင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ အင်ကြင်းပင်ရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဦးဇော်မျိုးအောင်",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ မူကြိုကျောင်းဝင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ အင်ကြင်းပင်ရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "မကြည်ကြည်ဝင်း",
+                "fallenDay": "2022-02-26",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ မူကြိုကျောင်းဝင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ အင်ကြင်းပင်ရွာ",
+                "fallenCause": ""
             },
             {
                 "heroName": "ဦးအောင်မောင်း",
