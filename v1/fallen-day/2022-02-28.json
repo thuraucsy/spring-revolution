@@ -9,7 +9,7 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ကိုဝေယံဦး",
@@ -20,10 +20,10 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "ဦးဇော်မျိုးအောင်",
+            "heroName": "ကိုဇင်မင်းထွဋ် (ခ) ပြာတာမောင်",
             "fallenDay": "2022-02-28",
             "heroAge": "",
             "heroGender": "m",
@@ -31,10 +31,10 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မကြည်ကြည်ဝင်း",
+            "heroName": "ကိုလှစိုး",
             "fallenDay": "2022-02-28",
             "heroAge": "",
             "heroGender": "m",
@@ -42,10 +42,10 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "ဦးအောင်မောင်း",
+            "heroName": "ကိုသားညီ",
             "fallenDay": "2022-02-28",
             "heroAge": "",
             "heroGender": "m",
@@ -53,7 +53,29 @@
             "fallenState": "မကွေး",
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုဝင်းစိုး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုထွန်းဇော်",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဂန့်ဂေါ",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
