@@ -109,6 +109,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ဖလမ်း-ဟားခါးလမ်းမ၊ တားလ်ရွာနှင့် တလန်ဇာရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         }
     ]
 }
