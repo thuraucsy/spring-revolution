@@ -529,6 +529,50 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ဦးသိန်း",
+            "fallenDay": "2022-02-25",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးစိုးလွင်",
+            "fallenDay": "2022-02-25",
+            "heroAge": "90",
+            "heroGender": "m",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဒေါ်ခင်သန်း",
+            "fallenDay": "2022-02-25",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မရင်ရင်စန်း",
+            "fallenDay": "2022-02-25",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ရွှေဘို",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ဗိုလ်မာယာ",
             "fallenDay": "2022-02-25",
             "heroAge": "",
