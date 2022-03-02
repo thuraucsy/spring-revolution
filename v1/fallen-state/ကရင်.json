@@ -322,13 +322,13 @@
         {
             "heroName": "စောဖာလာမွှေး",
             "fallenDay": "2022-02-28",
-            "heroAge": "",
+            "heroAge": "26",
             "heroGender": "m",
             "fallenCity": "မြဝတီ",
             "fallenState": "ကရင်",
-            "fallenPlace": "",
+            "fallenPlace": "မဲဆောက်မြို့ မယ်တော်ဆေးခန်း",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "Feb-02 မြ၀တီမြို့နယ်၊ ဖလူးသုံးထပ်ကွေ့တိုက်ပွဲတွင် ဒဏ်ရာ၇က Feb-28 တွင် သေဆုံး"
         }
     ]
 }
