@@ -1953,6 +1953,17 @@
                 "fallenPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
                 "heroPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
                 "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ရဲဘော်ဟိန်းဇင်ဖြိုး(ခေါင်းရှည်)",
+                "fallenDay": "2022-02-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "မိုင်းမှန်"
             }
         ],
         "ပြည်ကြီးတံခွန်": [
@@ -14758,6 +14769,17 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
                 "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
                 "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-02-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "စစ်ကိုင်း": [
@@ -19111,15 +19133,15 @@
                 "fallenCause": ""
             },
             {
-                "heroName": "",
+                "heroName": "ရဲဘော်မောင်ဘဲ",
                 "fallenDay": "2022-03-02",
                 "heroAge": "",
                 "heroGender": "m",
                 "fallenCity": "မိုးဗြဲ",
                 "fallenState": "ရှမ်း",
-                "fallenPlace": "",
+                "fallenPlace": "မိုးဗြဲမြို့နယ်၊ လွယ်ယင်းမင်္ဂလာအနီး",
                 "heroPlace": "",
-                "fallenCause": ""
+                "fallenCause": "နှိပ်စက်ညှင်းပမ်းပြီး ရင်၀ဓားထိုးသတ်ဖြတ်ခဲ့"
             }
         ],
         "ဖယ်ခုံ": [
@@ -22030,6 +22052,17 @@
                 "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
                 "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
                 "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+            },
+            {
+                "heroName": "စောဖာလာမွှေး",
+                "fallenDay": "2022-02-28",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြဝတီ",
+                "fallenState": "ကရင်",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "သံတောင်ကြီး": [

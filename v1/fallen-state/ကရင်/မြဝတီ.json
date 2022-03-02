@@ -21,6 +21,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "စောဖာလာမွှေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

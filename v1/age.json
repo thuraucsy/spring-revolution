@@ -25730,6 +25730,39 @@
             "fallenCause": "ဗုံးမှန်"
         },
         {
+            "heroName": "ရဲဘော်ဟိန်းဇင်ဖြိုး(ခေါင်းရှည်)",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "စောဖာလာမွှေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြဝတီ",
+            "fallenState": "ကရင်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ကိုငြိမ်းချမ်းမောင်",
             "fallenDay": "2022-02-28",
             "heroAge": "",
@@ -25862,15 +25895,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ရဲဘော်မောင်ဘဲ",
             "fallenDay": "2022-03-02",
             "heroAge": "",
             "heroGender": "m",
             "fallenCity": "မိုးဗြဲ",
             "fallenState": "ရှမ်း",
-            "fallenPlace": "",
+            "fallenPlace": "မိုးဗြဲမြို့နယ်၊ လွယ်ယင်းမင်္ဂလာအနီး",
             "heroPlace": "",
-            "fallenCause": ""
+            "fallenCause": "နှိပ်စက်ညှင်းပမ်းပြီး ရင်၀ဓားထိုးသတ်ဖြတ်ခဲ့"
         }
     ],
     "under20": [

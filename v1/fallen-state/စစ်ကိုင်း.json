@@ -7446,6 +7446,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ချင်းပုန်းရွာ",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ပန်းပထုံးရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -571,6 +571,17 @@
             "fallenPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
             "heroPlace": "မြင်းခြံမြို့နယ်၊ ညောင်တိုကျေးရွာ",
             "fallenCause": "ရိုက်နှက်သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ရဲဘော်ဟိန်းဇင်ဖြိုး(ခေါင်းရှည်)",
+            "fallenDay": "2022-02-28",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
         }
     ]
 }
