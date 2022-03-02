@@ -23811,5 +23811,18 @@
             "heroPlace": "",
             "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         }
+    ],
+    "2022-03-02": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မန္တလေး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မန္တလေး နန်တွင်း စစ်ကြောရေး",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာ သေဆုံး"
+        }
     ]
 }
