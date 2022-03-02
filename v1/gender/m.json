@@ -20591,6 +20591,50 @@
             "fallenPlace": "မန္တလေး နန်တွင်း စစ်ကြောရေး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာ သေဆုံး"
+        },
+        {
+            "heroName": "Salai Van Bawi Bik",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြိုနယ် ဖလမ်း-ဟားခါးကြားကားလမ်းပေါ်ရှိ ရမ်ထလိုကျေးရွာနဲ့ ဒုတ်ထစ်ကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "Salai Za Hnin",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြိုနယ် ဖလမ်း-ဟားခါးကြားကားလမ်းပေါ်ရှိ ရမ်ထလိုကျေးရွာနဲ့ ဒုတ်ထစ်ကျေးရွာကြား",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အမရပူရ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အမရပူရမြို့နယ်၊ မှန်တန်းရပ်ကွက်၊ နန်းတော်ရာစံပြကွက်သစ်၊ နယ်မြေ(၅)",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

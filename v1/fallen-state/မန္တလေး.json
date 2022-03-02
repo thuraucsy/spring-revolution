@@ -3343,6 +3343,17 @@
             "fallenPlace": "မန္တလေး နန်တွင်း စစ်ကြောရေး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး စစ်ကြောရေးတွင် နှိပ်စက်ခံရကာ သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-02",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "အမရပူရ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အမရပူရမြို့နယ်၊ မှန်တန်းရပ်ကွက်၊ နန်းတော်ရာစံပြကွက်သစ်၊ နယ်မြေ(၅)",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
