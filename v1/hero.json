@@ -23134,6 +23134,28 @@
             "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ရဲဘော် ဒီးဒီး",
+            "fallenDay": "2022-03-01",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ရဲဘော်နောက်ဖြူ",
+            "fallenDay": "2022-03-01",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ပုလော",
+            "fallenState": "တနင်္သာရီ",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "မိုင်းမှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-02",
             "heroAge": "",
