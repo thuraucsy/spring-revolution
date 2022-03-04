@@ -2617,6 +2617,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "Salai Thiang Bik Lian",
+            "fallenDay": "2022-03-03",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
