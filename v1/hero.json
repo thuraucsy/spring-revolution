@@ -23233,6 +23233,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးစိုးမိုးဇော်",
+            "fallenDay": "2022-03-02",
+            "heroAge": "39",
+            "heroGender": "m",
+            "fallenCity": "ဖားကန့်",
+            "fallenState": "ကချင်",
+            "fallenPlace": "ဖားကန့်မြို၊ အေးမြသာယာရပ်ကွက်၊ ညောင်ပင်ကုန်းအတက်",
+            "heroPlace": "ဖားကန့်မြို၊ အေးမြသာယာရပ်ကွက်၊ ညောင်ပင်ကုန်းအတက်",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "ရဲဘော်မောင်ဘဲ",
             "fallenDay": "2022-03-02",
             "heroAge": "",
@@ -23253,6 +23264,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-03",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့အနောက်ဘက်ရှိ စိန်ပန်းပင်တံတားအနီး",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မဲသယ်ရွာ",
+            "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         }
     ]
 }
