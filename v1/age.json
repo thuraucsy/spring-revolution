@@ -973,6 +973,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့နယ်၊ ရေယိုရွာ၊ စိန်မာတင် ဘိုးဘွားရိပ်သာနောက်လမ်း",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်အေးချမ်းဇော်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ],
     "17": [
@@ -28625,6 +28636,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်အေးချမ်းဇော်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "Salai Thiang Bik Lian",
             "fallenDay": "2022-03-03",
             "heroAge": "19",
@@ -31102,6 +31124,17 @@
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "မောင်အေးချမ်းဇော်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
+        },
+        {
             "heroName": "Salai Thiang Bik Lian",
             "fallenDay": "2022-03-03",
             "heroAge": "19",
@@ -32609,6 +32642,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်အေးချမ်းဇော်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ],
     "40th": [

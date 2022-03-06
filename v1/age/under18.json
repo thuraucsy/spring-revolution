@@ -1495,6 +1495,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်အေးချမ်းဇော်",
+            "fallenDay": "2022-02-26",
+            "heroAge": "16",
+            "heroGender": "m",
+            "fallenCity": "ကနီ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ဗုံးမှန်"
         }
     ]
 }
