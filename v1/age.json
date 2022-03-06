@@ -4131,6 +4131,17 @@
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဆလိုင်းတွန်နယ်ဆုမ်း",
+            "fallenDay": "2022-03-01",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ဖလမ်း-ဟားခါးလမ်းမ၊ တားလ်ရွာနှင့် တလန်ဇာရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "23": [
@@ -25877,17 +25888,6 @@
             "fallenDay": "2022-03-01",
             "heroAge": "",
             "heroGender": "m",
-            "fallenCity": "ဖလမ်း",
-            "fallenState": "ချင်း",
-            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ဖလမ်း-ဟားခါးလမ်းမ၊ တားလ်ရွာနှင့် တလန်ဇာရွာကြား",
-            "heroPlace": "",
-            "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-03-01",
-            "heroAge": "",
-            "heroGender": "m",
             "fallenCity": "တိုက်ကြီး",
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "တိုက်ကြီးမြိုနယ် ဗောဓိကုန်းရက်ကွက်",
@@ -38212,6 +38212,17 @@
             "fallenPlace": "မဲဆောက်မြို့ မယ်တော်ဆေးခန်း",
             "heroPlace": "",
             "fallenCause": "Feb-02 မြ၀တီမြို့နယ်၊ ဖလူးသုံးထပ်ကွေ့တိုက်ပွဲတွင် ဒဏ်ရာ၇က Feb-28 တွင် သေဆုံး"
+        },
+        {
+            "heroName": "ဆလိုင်းတွန်နယ်ဆုမ်း",
+            "fallenDay": "2022-03-01",
+            "heroAge": "22",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ဖလမ်း-ဟားခါးလမ်းမ၊ တားလ်ရွာနှင့် တလန်ဇာရွာကြား",
+            "heroPlace": "",
+            "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
         },
         {
             "heroName": "ရဲဘော် ဒီးဒီး",
