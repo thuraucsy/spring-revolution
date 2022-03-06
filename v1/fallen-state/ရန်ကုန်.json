@@ -3156,6 +3156,28 @@
             "fallenPlace": "မရမ်းကုန်းမြို့နယ်၊ ၃ ရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တိုက်ကြီး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တိုက်ကြီးမြိုနယ် ဗောဓိကုန်းရက်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တိုက်ကြီး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "Mar-01 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေဆုံး"
         }
     ]
 }

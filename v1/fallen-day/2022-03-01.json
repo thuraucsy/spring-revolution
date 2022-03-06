@@ -32,6 +32,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တိုက်ကြီး",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "တိုက်ကြီးမြိုနယ် ဗောဓိကုန်းရက်ကွက်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
