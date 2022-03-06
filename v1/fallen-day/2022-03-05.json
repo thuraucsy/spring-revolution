@@ -120,6 +120,17 @@
             "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
             "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးရန်းဟူ Rang Hu",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဟားခါး",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
+            "heroPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
