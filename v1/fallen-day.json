@@ -24027,6 +24027,116 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Mar-01 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်အယ်မူး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "22",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ဖောဝါး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စောဒေးဖိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စောကေ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုမျိုးကျော်",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန်းငွေ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးတင့်",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }

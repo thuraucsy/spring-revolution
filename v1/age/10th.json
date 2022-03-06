@@ -2485,6 +2485,28 @@
             "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စောဒေးဖိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

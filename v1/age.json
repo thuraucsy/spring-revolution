@@ -34,6 +34,17 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "4": [
@@ -70,6 +81,17 @@
             "fallenState": "ရှမ်း",
             "fallenPlace": "လားရှိုးမြို့နယ်၊ လုံတက်ကျေးရွာအဝင်အနီး",
             "heroPlace": "လားရှိုးမြို့နယ်၊ ပန်နန်းရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
@@ -474,6 +496,17 @@
             "fallenPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "heroPlace": "သရက်ချောင်းမြို့နယ်၊ ကင်းရှေ့ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "15": [
@@ -2673,6 +2706,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "စောဒေးဖိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20": [
@@ -4153,6 +4197,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ်၊ ဖလမ်း-ဟားခါးလမ်းမ၊ တားလ်ရွာနှင့် တလန်ဇာရွာကြား",
             "heroPlace": "",
             "fallenCause": "နှိပ်စက်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "နော်အယ်မူး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "22",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "23": [
@@ -7737,6 +7792,17 @@
             "fallenPlace": "သန်လျင်မြို့နယ်၊ ဗဟိုကျောင်းရှေ့",
             "heroPlace": "သန်လျင်မြို့နယ်၊ မြို့သစ်အလယ်ရပ်၊ ဟံသာ၀တီလမ်း",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "နော်ဖောဝါး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "33": [
@@ -9799,6 +9865,17 @@
             "fallenPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
             "heroPlace": "ဖားကန့်မြို့နယ်၊ ကာမိုင်း- လဝါ လမ်းဆုံအနီး",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "စောကေ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "41": [
@@ -14968,6 +15045,17 @@
             "fallenPlace": "ဖားကန့်မြို၊ အေးမြသာယာရပ်ကွက်၊ ညောင်ပင်ကုန်းအတက်",
             "heroPlace": "ဖားကန့်မြို၊ အေးမြသာယာရပ်ကွက်၊ ညောင်ပင်ကုန်းအတက်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "နော်ဖောဝါး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "32",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "unknown": [
@@ -26014,6 +26102,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "Mar-01 တွင် ဖမ်းဆီးခံရကာ စစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုမျိုးကျော်",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသန်းငွေ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမျိုးတင့်",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ခင်ဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "heroPlace": "ခင်ဦးမြို့နယ်၊ မှန်တောရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "under20": [
@@ -28656,6 +28777,50 @@
             "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စောဒေးဖိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -31144,6 +31309,28 @@
             "fallenPlace": "ဖလမ်းမြို့နယ် ဒုတ်ထစ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "စောဒေးဖိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [
@@ -32653,6 +32840,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "40th": [
@@ -34294,6 +34514,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဇုံ ရွာ တောင်ပိုင်း",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဇုံ ရွာ တောင်ပိုင်း",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "စောကေ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20th": [
@@ -38289,6 +38520,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "နော်အယ်မူး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "22",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "50th": [
@@ -40209,6 +40451,39 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်တင်နီလာဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "14",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "70th": [
@@ -40510,6 +40785,28 @@
             "fallenPlace": "သံတွဲအကျဉ်းထောင်",
             "heroPlace": "",
             "fallenCause": "မိခင်ဖမ်းဆီးခံရသည့် ထောင်တွင် ချွဲပိတ်ကာ ကွယ်လွန်"
+        },
+        {
+            "heroName": "နော်တာလူ",
+            "fallenDay": "2022-03-05",
+            "heroAge": "2",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "နော်ထူးဖော",
+            "fallenDay": "2022-03-05",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ဖာပွန်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "80th": [
