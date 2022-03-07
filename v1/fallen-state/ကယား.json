@@ -1352,6 +1352,17 @@
             "fallenPlace": "ဘော်လခဲမြို့နယ်၊ နန်းဖဲကျေးရွာအုပ်စု သာယာကုန်းကျေးရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
         }
     ]
 }

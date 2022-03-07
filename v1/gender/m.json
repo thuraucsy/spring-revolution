@@ -20833,6 +20833,17 @@
             "fallenPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
             "heroPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
         }
     ]
 }
