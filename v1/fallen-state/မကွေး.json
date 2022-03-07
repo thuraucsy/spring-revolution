@@ -1684,9 +1684,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "",
+            "heroName": "ဒေါ်အေးအေးဝင်း",
             "fallenDay": "2022-03-05",
-            "heroAge": "",
+            "heroAge": "42",
             "heroGender": "f",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
@@ -1695,7 +1695,7 @@
             "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",

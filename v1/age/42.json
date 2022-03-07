@@ -175,6 +175,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်အေးအေးဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         }
     ]
 }

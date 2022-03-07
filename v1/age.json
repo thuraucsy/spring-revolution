@@ -49,7 +49,7 @@
     ],
     "3": [
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",
@@ -10223,6 +10223,17 @@
             "fallenPlace": "",
             "heroPlace": "ကလေးမြို့နယ်၊ တောင်ဖီလာရပ်",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဒေါ်အေးအေးဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "43": [
@@ -26302,17 +26313,6 @@
             "fallenPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
             "heroPlace": "ဟားခါးမြို့နယ်၊ ခွန်ကျုံးရွာ",
             "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-03-05",
-            "heroAge": "",
-            "heroGender": "f",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
-            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
-            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "under20": [
@@ -29001,7 +29001,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",
@@ -33064,7 +33064,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",
@@ -34725,6 +34725,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်အေးအေးဝင်း",
+            "fallenDay": "2022-03-05",
+            "heroAge": "42",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         }
     ],
     "20th": [
@@ -40730,7 +40741,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",
@@ -41064,7 +41075,7 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "",
+            "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
             "heroGender": "m",
