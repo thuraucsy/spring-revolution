@@ -3345,6 +3345,17 @@
             "fallenCause": "မိုင်းမှန်"
         },
         {
+            "heroName": "ကိုဝေဖြိုးအောင်",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာတံတားအနီး",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-02",
             "heroAge": "",

@@ -351,6 +351,28 @@
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

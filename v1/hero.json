@@ -23057,6 +23057,39 @@
             "fallenCause": "ဗုံးမှန်"
         },
         {
+            "heroName": "ဦးဌေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "ရဲဘော်ဟိန်းဇင်ဖြိုး(ခေါင်းရှည်)",
             "fallenDay": "2022-02-28",
             "heroAge": "",
@@ -23208,6 +23241,17 @@
             "fallenState": "ရန်ကုန်",
             "fallenPlace": "တိုက်ကြီးမြိုနယ် ဗောဓိကုန်းရက်ကွက်",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဝေဖြိုးအောင်",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာတံတားအနီး",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {

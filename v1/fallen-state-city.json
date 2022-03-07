@@ -3180,6 +3180,17 @@
                 "fallenPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
                 "heroPlace": "မတ္တရာမြို့နယ်၊ လွန်းတောင်ရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ကိုဝေဖြိုးအောင်",
+                "fallenDay": "2022-03-01",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မတ္တရာ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာတံတားအနီး",
+                "heroPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာ",
+                "fallenCause": "ကျည်မှန်"
             }
         ],
         "မြစ်ငယ်": [
@@ -8646,6 +8657,39 @@
                 "fallenPlace": "နတ်တလင်းမြို့နယ်၊ သက်ငယ်ပြင်ရွာ",
                 "heroPlace": "နတ်တလင်းမြို့နယ်၊ သက်ငယ်ပြင်ရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ဦးဌေး",
+                "fallenDay": "2022-02-28",
+                "heroAge": "50",
+                "heroGender": "m",
+                "fallenCity": "နတ်တလင်း",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုအောင်ကိုဦး",
+                "fallenDay": "2022-02-28",
+                "heroAge": "27",
+                "heroGender": "m",
+                "fallenCity": "နတ်တလင်း",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုအောင်လေး",
+                "fallenDay": "2022-02-28",
+                "heroAge": "27",
+                "heroGender": "m",
+                "fallenCity": "နတ်တလင်း",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "",
+                "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+                "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
             }
         ]
     },

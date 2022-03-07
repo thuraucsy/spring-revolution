@@ -945,6 +945,39 @@
             "fallenPlace": "",
             "heroPlace": "ကြို့ပင်ကောက်မြို့နယ်၊ စိုင်ဂေါင်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဌေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ]
 }

@@ -6165,6 +6165,28 @@
             "fallenPlace": "မိုးဗြဲမြို့နယ်၊ ဟိုက်ကွီဆည်နှင့် ဝါရီဆူးဖလိုင်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "28": [
@@ -11381,6 +11403,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဌေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "51": [
@@ -25994,6 +26027,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ကိုဝေဖြိုးအောင်",
+            "fallenDay": "2022-03-01",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မတ္တရာ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာတံတားအနီး",
+            "heroPlace": "မတ္တရာမြို့နယ်၊ ကွေ့ကြီးကျေးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-02",
             "heroAge": "",
@@ -38500,6 +38544,28 @@
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရကာ သေဆုံး"
         },
         {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "စောဖာလာမွှေး",
             "fallenDay": "2022-02-28",
             "heroAge": "26",
@@ -39369,6 +39435,17 @@
             "fallenPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
             "heroPlace": "ရွှေဘိုမြို့နယ်၊ နှမစားရစ်ရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ဦးဌေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "50",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
         }
     ],
     "60th": [

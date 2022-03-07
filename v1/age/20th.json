@@ -3950,6 +3950,28 @@
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရကာ သေဆုံး"
         },
         {
+            "heroName": "ကိုအောင်ကိုဦး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုအောင်လေး",
+            "fallenDay": "2022-02-28",
+            "heroAge": "27",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "",
+            "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
             "heroName": "စောဖာလာမွှေး",
             "fallenDay": "2022-02-28",
             "heroAge": "26",
