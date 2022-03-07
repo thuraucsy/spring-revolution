@@ -10184,6 +10184,28 @@
             "fallenPlace": "ဂန့်ဂေါမြို့နယ်၊ ရွှေဘိုရွာသစ်အနောက်ရွာနှင့် ရွှေဘိုရွာကြား",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-05",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-05",
+            "heroAge": "3",
+            "heroGender": "m",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ],
     "မွန်": [
@@ -21695,7 +21717,7 @@
         {
             "heroName": "မောင်ဝိလ်ဖရက်",
             "fallenDay": "2022-03-05",
-            "heroAge": "",
+            "heroAge": "22",
             "heroGender": "m",
             "fallenCity": "ဒီးမော့ဆို",
             "fallenState": "ကယား",

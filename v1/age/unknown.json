@@ -11188,15 +11188,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မောင်ဝိလ်ဖရက်",
+            "heroName": "",
             "fallenDay": "2022-03-05",
             "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ဒီးမော့ဆို",
-            "fallenState": "ကယား",
-            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
-            "heroPlace": "",
-            "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
         }
     ]
 }
