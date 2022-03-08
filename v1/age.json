@@ -8592,6 +8592,17 @@
             "fallenPlace": "မိုးမောက်မြို့ ၄၃၇ တပ်ရင်းရှေ့",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုဇာနည်လင်း",
+            "fallenDay": "2022-03-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့စစ်ကြောရေး",
+            "heroPlace": "က၀မြို့နယ်၊ မမောက်ရွာ",
+            "fallenCause": "Mar-05 က၀မြို့တွင် ဖမ်းခံ၇ကာ Mar-07 ပဲခူးစစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "36": [
@@ -15124,6 +15135,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုဇာနည်လင်း",
+            "fallenDay": "2022-03-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့စစ်ကြောရေး",
+            "heroPlace": "က၀မြို့နယ်၊ မမောက်ရွာ",
+            "fallenCause": "Mar-05 က၀မြို့တွင် ဖမ်းခံ၇ကာ Mar-07 ပဲခူးစစ်ကြောရေးတွင် သေဆုံး"
         }
     ],
     "unknown": [
@@ -41217,6 +41239,19 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ထီးလော်သိထားကျေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        }
+    ],
+    "15 months": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-06",
+            "heroAge": "15 months",
+            "heroGender": "",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
         }
     ]
 }

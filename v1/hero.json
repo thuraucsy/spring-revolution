@@ -23629,6 +23629,28 @@
             "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-03-06",
+            "heroAge": "15 months",
+            "heroGender": "",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုဇာနည်လင်း",
+            "fallenDay": "2022-03-07",
+            "heroAge": "35",
+            "heroGender": "m",
+            "fallenCity": "ပဲခူး",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "ပဲခူးမြို့စစ်ကြောရေး",
+            "heroPlace": "က၀မြို့နယ်၊ မမောက်ရွာ",
+            "fallenCause": "Mar-05 က၀မြို့တွင် ဖမ်းခံ၇ကာ Mar-07 ပဲခူးစစ်ကြောရေးတွင် သေဆုံး"
+        },
+        {
             "heroName": "ရဲဘော် Rihanna",
             "fallenDay": "2022-03-08",
             "heroAge": "",

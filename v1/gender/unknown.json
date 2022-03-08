@@ -692,6 +692,17 @@
             "fallenPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "heroPlace": "မြ၀တီမြို့နယ်၊ ဖလူးကြီးရွာ",
             "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-06",
+            "heroAge": "15 months",
+            "heroGender": "",
+            "fallenCity": "လေးကေ့ကော်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
+            "heroPlace": "",
+            "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
         }
     ]
 }
