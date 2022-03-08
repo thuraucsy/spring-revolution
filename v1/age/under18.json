@@ -1541,15 +1541,37 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
-            "heroName": "မရတီမိုး",
-            "fallenDay": "2022-03-05",
-            "heroAge": "3",
-            "heroGender": "m",
+            "heroName": "မသင်းသင်းမိုး",
+            "fallenDay": "2022-03-06",
+            "heroAge": "11",
+            "heroGender": "f",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
             "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မရတီမိုး",
+            "fallenDay": "2022-03-05",
+            "heroAge": "3",
+            "heroGender": "f",
+            "fallenCity": "ပေါက်",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်မြတ်ဘုန်းနိုင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "5",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

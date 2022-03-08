@@ -20967,15 +20967,15 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "မရတီမိုး",
+            "heroName": "Salai Van Than Simeon",
             "fallenDay": "2022-03-05",
-            "heroAge": "3",
+            "heroAge": "21",
             "heroGender": "m",
-            "fallenCity": "ပေါက်",
-            "fallenState": "မကွေး",
-            "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
-            "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
-            "fallenCause": "သတ်ဖြတ်ခံရ"
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "မောင်ဝိလ်ဖရက်",
@@ -21009,6 +21009,39 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "ဇန်နဝါရီလကုန်တွင် ကျည်မှန်ဒဏ်ရာ၇ကာ Mar-08 တွင် ကျဆုံး"
+        },
+        {
+            "heroName": "ကိုထက်နိုင်ဇော်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကလေး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်မြတ်ဘုန်းနိုင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "5",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဦးသန်းမောင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ]
 }

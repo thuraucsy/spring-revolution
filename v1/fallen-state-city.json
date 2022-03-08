@@ -10137,10 +10137,21 @@
                 "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
             },
             {
+                "heroName": "မသင်းသင်းမိုး",
+                "fallenDay": "2022-03-06",
+                "heroAge": "11",
+                "heroGender": "f",
+                "fallenCity": "ပေါက်",
+                "fallenState": "မကွေး",
+                "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+                "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
+                "fallenCause": "သတ်ဖြတ်ခံရ"
+            },
+            {
                 "heroName": "မရတီမိုး",
                 "fallenDay": "2022-03-05",
                 "heroAge": "3",
-                "heroGender": "m",
+                "heroGender": "f",
                 "fallenCity": "ပေါက်",
                 "fallenState": "မကွေး",
                 "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
@@ -12788,6 +12799,17 @@
                 "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
                 "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ကိုထက်နိုင်ဇော်",
+                "fallenDay": "2022-03-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကလေး",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ကလေးမြို့နယ်၊ နတ်ချောင်းရွာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ကောလင်း": [
@@ -14923,6 +14945,50 @@
                 "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
                 "heroPlace": "ယင်းမာပင်မြို့နယ်၊ သပြေအေးရွာ",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "မောင်မြတ်ဘုန်းနိုင်",
+                "fallenDay": "2022-03-08",
+                "heroAge": "5",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဒေါ်တင်ညွန့်",
+                "fallenDay": "2022-03-08",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဦးသန်းမောင်",
+                "fallenDay": "2022-03-08",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "ဒေါ်သန်းလှ",
+                "fallenDay": "2022-03-08",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "ယင်းမာပင်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+                "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+                "fallenCause": "လက်နက်ကြီးမှန်"
             }
         ],
         "စစ်ကိုင်း": [
@@ -24093,6 +24159,17 @@
                 "heroName": "Van Ro ဗန်ရို",
                 "fallenDay": "2022-02-24",
                 "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "Unknown",
+                "fallenState": "Unknown",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "Salai Van Than Simeon",
+                "fallenDay": "2022-03-05",
+                "heroAge": "21",
                 "heroGender": "m",
                 "fallenCity": "Unknown",
                 "fallenState": "Unknown",

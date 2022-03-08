@@ -133,6 +133,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "Salai Van Than Simeon",
+            "fallenDay": "2022-03-05",
+            "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "ဒေါ်အေးအေးဝင်း",
             "fallenDay": "2022-03-05",
             "heroAge": "42",
@@ -147,7 +158,7 @@
             "heroName": "မရတီမိုး",
             "fallenDay": "2022-03-05",
             "heroAge": "3",
-            "heroGender": "m",
+            "heroGender": "f",
             "fallenCity": "ပေါက်",
             "fallenState": "မကွေး",
             "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
