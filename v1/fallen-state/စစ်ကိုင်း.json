@@ -7690,6 +7690,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ဦးသန်းမောင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "80",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ဦးအုန်းလှိုင်",
             "fallenDay": "2022-03-08",
             "heroAge": "",
@@ -7712,15 +7723,15 @@
             "fallenCause": ""
         },
         {
-            "heroName": "ဦးသန်မောင်",
+            "heroName": "ဦးသိန်းမောင်",
             "fallenDay": "2022-03-08",
-            "heroAge": "80",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
-            "fallenCause": "လက်နက်ကြီးမှန်"
+            "fallenCause": ""
         }
     ]
 }

@@ -12575,14 +12575,14 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးသန်မောင်",
+            "heroName": "ဦးသန်းမောင်",
             "fallenDay": "2022-03-08",
             "heroAge": "80",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
-            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
@@ -26475,6 +26475,17 @@
             "fallenDay": "2022-03-08",
             "heroAge": "",
             "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးသိန်းမောင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
@@ -41464,14 +41475,14 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ဦးသန်မောင်",
+            "heroName": "ဦးသန်းမောင်",
             "fallenDay": "2022-03-08",
             "heroAge": "80",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
-            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
