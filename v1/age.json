@@ -270,6 +270,17 @@
             "fallenPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "heroPlace": "အရာတော်မြို့နယ်၊ ဘော်ကုန်းကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "11": [
@@ -1626,6 +1637,17 @@
             "fallenPlace": "",
             "heroPlace": "စစ်ကိုင်းမြို့",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "18": [
@@ -26513,6 +26535,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "under20": [
@@ -29254,6 +29287,28 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "10th": [
@@ -31786,6 +31841,28 @@
             "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "fallenCause": "သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "under18": [
@@ -33383,6 +33460,28 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "40th": [
@@ -41115,6 +41214,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ],
     "70th": [

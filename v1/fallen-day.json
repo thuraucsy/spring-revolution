@@ -24495,6 +24495,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "2022-03-09": [
@@ -24508,6 +24519,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မောင်လားစရု",
+            "fallenDay": "2022-03-09",
+            "heroAge": "10",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ]
 }

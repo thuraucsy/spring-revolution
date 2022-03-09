@@ -560,6 +560,17 @@
             "fallenPlace": "",
             "heroPlace": "စစ်ကိုင်းမြို့",
             "fallenCause": ""
+        },
+        {
+            "heroName": "မောင်ဩဂတ်စတင်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "17",
+            "heroGender": "m",
+            "fallenCity": "မိုးဗြဲ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
+            "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
+            "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         }
     ]
 }
