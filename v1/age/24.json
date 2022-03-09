@@ -318,6 +318,17 @@
             "fallenPlace": "မြစ်ကြီးနားမြို့နယ်၊ စီတာပူ မနောကွင်းအဝိုင်းပတ်အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဗိုလ်ဆော်ရယ်(ခ) ဇော်လင်းထွန်း",
+            "fallenDay": "2022-03-09",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
