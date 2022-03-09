@@ -1563,15 +1563,26 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
-            "heroName": "မောင်မြတ်ဘုန်းနိုင်",
+            "heroName": "မောင်မြတ်ဘုန်းနိုင် (ခ) မောင်မှတ်ကြီး",
             "fallenDay": "2022-03-08",
-            "heroAge": "5",
+            "heroAge": "4",
             "heroGender": "m",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မောင်စွမ်းထက်နိုင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "9",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
