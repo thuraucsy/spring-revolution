@@ -24430,5 +24430,18 @@
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
         }
+    ],
+    "2022-03-09": [
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        }
     ]
 }
