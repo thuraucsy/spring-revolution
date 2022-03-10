@@ -11252,6 +11252,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဖောင်တော်ဦးရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံတောင်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "heroPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

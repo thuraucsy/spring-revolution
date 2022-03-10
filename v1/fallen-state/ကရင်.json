@@ -417,6 +417,17 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံတောင်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "heroPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

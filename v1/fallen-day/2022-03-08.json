@@ -142,6 +142,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဆောင်ဒူလာရွာ",
             "heroPlace": "",
             "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-08",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "သံတောင်ကြီး",
+            "fallenState": "ကရင်",
+            "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "heroPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
