@@ -1981,6 +1981,17 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "ဒေါ်အေးသောင်း",
+            "fallenDay": "2022-03-08",
+            "heroAge": "62",
+            "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "ဒေါ်သိန်းလှ",
             "fallenDay": "2022-03-08",
             "heroAge": "70",
@@ -1994,24 +2005,57 @@
         {
             "heroName": "ဒေါ်မို့မို့ဝင်း",
             "fallenDay": "2022-03-08",
-            "heroAge": "30",
+            "heroAge": "31",
             "heroGender": "f",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
-            "fallenCause": ""
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်အုန်းလှိုင်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "82",
+            "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "ဒေါ်လှပြည့်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "77",
+            "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်သန်းညွန့်",
+            "fallenDay": "2022-03-08",
+            "heroAge": "76",
+            "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ဒေါ်မိတင်",
             "fallenDay": "2022-03-08",
             "heroAge": "",
             "heroGender": "f",
             "fallenCity": "ယင်းမာပင်",
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
-            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
-            "fallenCause": ""
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
             "heroName": "မအဲလစ်စ်ဘတ်",
