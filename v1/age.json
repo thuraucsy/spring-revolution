@@ -2796,6 +2796,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ကိုလင်းခန့်ကျော်",
+            "fallenDay": "2022-03-11",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "20": [
@@ -26640,17 +26651,6 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-03-11",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "ယင်းမာပင်",
-            "fallenState": "စစ်ကိုင်း",
-            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
-            "heroPlace": "",
-            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under20": [
@@ -29414,6 +29414,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
             "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုလင်းခန့်ကျော်",
+            "fallenDay": "2022-03-11",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "10th": [
@@ -31968,6 +31979,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
             "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုလင်းခန့်ကျော်",
+            "fallenDay": "2022-03-11",
+            "heroAge": "19",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
         }
     ],
     "under18": [
