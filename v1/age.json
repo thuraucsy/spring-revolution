@@ -819,6 +819,17 @@
             "fallenPlace": "ကလေးမြို့နယ်၊ သံဖိုရွာ ယာတောအတွင်း",
             "heroPlace": "ကလေးမြို့နယ်၊ ချောင်းခွရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "16": [
@@ -10054,6 +10065,17 @@
             "fallenPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "heroPlace": "ဖာပွန်မြို့နယ်၊ ဘူးသိုမြို့၊ ကလော်ဒေးရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ရဲဘော်ဘိုကြည်",
+            "fallenDay": "2022-03-10",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "41": [
@@ -12554,6 +12576,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "72": [
@@ -26651,6 +26684,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့ကရိတ်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under20": [
@@ -29425,6 +29469,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -31990,6 +32045,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "under18": [
@@ -33609,6 +33675,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
             "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "40th": [
@@ -35272,6 +35349,17 @@
             "fallenPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "heroPlace": "ပေါက်မြို့နယ် အင်းငယ်ဒေါင့်ရွာ",
             "fallenCause": "မုဒိန်းကျင့်ကာ သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ရဲဘော်ဘိုကြည်",
+            "fallenDay": "2022-03-10",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "20th": [
@@ -41374,6 +41462,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
             "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "70th": [
@@ -41552,6 +41651,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်တောရွာဘုန်းကြီးကျောင်း",
             "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကံသာရွာ",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "0th": [

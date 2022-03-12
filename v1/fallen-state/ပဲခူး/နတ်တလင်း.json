@@ -43,6 +43,17 @@
             "fallenPlace": "",
             "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ရဲဘော်ဘိုကြည်",
+            "fallenDay": "2022-03-10",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

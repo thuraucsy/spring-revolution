@@ -428,6 +428,17 @@
             "fallenPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
             "heroPlace": "သံတောင်ကြီးမြို့နယ်၊ ကဆောပလိုအောက်ရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့ကရိတ်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

@@ -8736,6 +8736,17 @@
                 "fallenPlace": "",
                 "heroPlace": "နတ်တလင်းမြို့နယ်၊ ရေကြည်ရွာ",
                 "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "ရဲဘော်ဘိုကြည်",
+                "fallenDay": "2022-03-10",
+                "heroAge": "40",
+                "heroGender": "m",
+                "fallenCity": "နတ်တလင်း",
+                "fallenState": "ပဲခူး",
+                "fallenPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ]
     },
@@ -15711,6 +15722,28 @@
                 "fallenState": "စစ်ကိုင်း",
                 "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဇုံ ရွာ တောင်ပိုင်း",
                 "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းဇုံ ရွာ တောင်ပိုင်း",
+                "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+            },
+            {
+                "heroName": "မသဲအိဖြူ",
+                "fallenDay": "2022-03-12",
+                "heroAge": "15",
+                "heroGender": "f",
+                "fallenCity": "တန့်ဆည်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+                "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+                "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-12",
+                "heroAge": "70",
+                "heroGender": "f",
+                "fallenCity": "တန့်ဆည်",
+                "fallenState": "စစ်ကိုင်း",
+                "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+                "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
                 "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
             }
         ],
@@ -22876,6 +22909,17 @@
                 "fallenPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
                 "heroPlace": "ကော့ကရိတ်မြို့နယ်၊ ကမိုင်ကုန်းရွာ",
                 "fallenCause": "လက်နက်ကြီးမှန်"
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ကော့ကရိတ်",
+                "fallenState": "ကရင်",
+                "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
             }
         ]
     },

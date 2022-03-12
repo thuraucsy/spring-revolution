@@ -21132,6 +21132,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ရဲဘော်ဘိုကြည်",
+            "fallenDay": "2022-03-10",
+            "heroAge": "40",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-11",
             "heroAge": "",
@@ -21174,6 +21185,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကော့ကရိတ်",
+            "fallenState": "ကရင်",
+            "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "f": [
@@ -23244,6 +23266,28 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဆောင်ဒူလာရွာ",
             "heroPlace": "",
             "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ],
     "unknown": [

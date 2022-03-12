@@ -7787,6 +7787,28 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "မသဲအိဖြူ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "15",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "70",
+            "heroGender": "f",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }
