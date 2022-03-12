@@ -43,6 +43,17 @@
             "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ နတ္တောင့်ရွာ အရှေ့ပိုင်း",
             "heroPlace": "",
             "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
+            "heroName": "ရဲဘော်ဇေယျ",
+            "fallenDay": "2022-03-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြစ်သား",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

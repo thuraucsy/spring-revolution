@@ -3439,6 +3439,19 @@
                 "heroPlace": "",
                 "fallenCause": "Feb-01 တွင် ဗုံးမှန်ကာ Feb-03 တွင် ကျဆုံး"
             }
+        ],
+        "မြစ်သား": [
+            {
+                "heroName": "ရဲဘော်ဇေယျ",
+                "fallenDay": "2022-03-11",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြစ်သား",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "နေပြည်တော်": {
