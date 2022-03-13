@@ -21121,6 +21121,17 @@
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ရဲဘော်ကလိုစေး",
+            "fallenDay": "2022-03-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-10",
             "heroAge": "",
@@ -24005,6 +24016,19 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
+        }
+    ],
+    "​ြ": [
+        {
+            "heroName": "ကိုသီဟကိုကို",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "​ြ",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

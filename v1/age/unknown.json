@@ -11243,6 +11243,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ရဲဘော်ကလိုစေး",
+            "fallenDay": "2022-03-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-10",
             "heroAge": "",
@@ -11307,6 +11318,17 @@
             "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟကိုကို",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "​ြ",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

@@ -3355,6 +3355,17 @@
                 "fallenPlace": "",
                 "heroPlace": "နွားထိုးကြီးမြို့နယ်၊ လက်ပံစံပြကျေးရွာ",
                 "fallenCause": "Jan-18 တွင် ဖမ်းဆီးခံ၇ကာ Jan-19 စစ်ကြောရေးတွင် သေဆုံး"
+            },
+            {
+                "heroName": "ကိုသီဟကိုကို",
+                "fallenDay": "2022-03-12",
+                "heroAge": "",
+                "heroGender": "​ြ",
+                "fallenCity": "နွားထိုးကြီး",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ကျောက်ဆည်": [
@@ -22339,6 +22350,17 @@
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
+            },
+            {
+                "heroName": "ရဲဘော်ကလိုစေး",
+                "fallenDay": "2022-03-09",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             },
             {
                 "heroName": "",

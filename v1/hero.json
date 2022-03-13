@@ -23893,6 +23893,17 @@
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ရဲဘော်ကလိုစေး",
+            "fallenDay": "2022-03-09",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-10",
             "heroAge": "",
@@ -24001,6 +24012,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသီဟကိုကို",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "​ြ",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
