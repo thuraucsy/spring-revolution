@@ -21209,6 +21209,17 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
+            "heroName": "ဦးမိုးဟိန်း",
+            "fallenDay": "2022-03-11",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-12",
             "heroAge": "",
@@ -21218,6 +21229,17 @@
             "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသီဟကိုကို",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နွားထိုးကြီး",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
+            "heroPlace": "",
+            "fallenCause": "Jan-18 မြင်းမူတွင် ဖမ်းဆီးခံ၇ကာ Mar-12 တွင် အလောင်းတွေ့"
         }
     ],
     "f": [
@@ -23290,6 +23312,17 @@
             "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
         },
         {
+            "heroName": "ဒေါ်စုစုလှိုင်",
+            "fallenDay": "2022-03-11",
+            "heroAge": "",
+            "heroGender": "f",
+            "fallenCity": "မြင်းခြံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "မသဲအိဖြူ",
             "fallenDay": "2022-03-12",
             "heroAge": "15",
@@ -24016,19 +24049,6 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
-        }
-    ],
-    "​ြ": [
-        {
-            "heroName": "ကိုသီဟကိုကို",
-            "fallenDay": "2022-03-12",
-            "heroAge": "",
-            "heroGender": "​ြ",
-            "fallenCity": "နွားထိုးကြီး",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
-            "heroPlace": "",
-            "fallenCause": ""
         }
     ]
 }

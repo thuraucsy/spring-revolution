@@ -1964,6 +1964,28 @@
                 "fallenPlace": "",
                 "heroPlace": "",
                 "fallenCause": "မိုင်းမှန်"
+            },
+            {
+                "heroName": "ဦးမိုးဟိန်း",
+                "fallenDay": "2022-03-11",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "ဒေါ်စုစုလှိုင်",
+                "fallenDay": "2022-03-11",
+                "heroAge": "",
+                "heroGender": "f",
+                "fallenCity": "မြင်းခြံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "",
+                "heroPlace": "",
+                "fallenCause": ""
             }
         ],
         "ပြည်ကြီးတံခွန်": [
@@ -3360,12 +3382,12 @@
                 "heroName": "ကိုသီဟကိုကို",
                 "fallenDay": "2022-03-12",
                 "heroAge": "",
-                "heroGender": "​ြ",
+                "heroGender": "m",
                 "fallenCity": "နွားထိုးကြီး",
                 "fallenState": "မန္တလေး",
                 "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
                 "heroPlace": "",
-                "fallenCause": ""
+                "fallenCause": "Jan-18 မြင်းမူတွင် ဖမ်းဆီးခံ၇ကာ Mar-12 တွင် အလောင်းတွေ့"
             }
         ],
         "ကျောက်ဆည်": [
