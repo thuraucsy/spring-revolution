@@ -10,6 +10,50 @@
             "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ကိုပေါလူ",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "fallenCause": "Mar-10 တွင် ဖမ်းဆီးခံ၇ကာ Mar-14 စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "fallenCause": "Mar-10 တွင် ဖမ်းဆီးခံ၇ကာ Mar-14 စစ်ကြောရေးတွင်သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "နတ်တလင်း",
+            "fallenState": "ပဲခူး",
+            "fallenPlace": "နတ်တလင်းမြို့ စစ်ကြောရေးစခန်း",
+            "heroPlace": "နတ်တလင်းမြိုနယ် တောင်ညိုမြိုသစ်၊ ဖောင်အိုင်ကျေးရွာ",
+            "fallenCause": "Mar-10 တွင် ဖမ်းဆီးခံ၇ကာ Mar-14 စစ်ကြောရေးတွင်သေဆုံး"
         }
     ]
 }
