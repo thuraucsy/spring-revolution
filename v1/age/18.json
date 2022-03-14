@@ -384,6 +384,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
+            "fallenDay": "2022-03-14",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

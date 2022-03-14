@@ -21712,9 +21712,9 @@
                 "fallenCause": "တိုက်လေယာဉ်ဖြင့် ပစ်ခတ်ခံရကာ သေဆုံး"
             },
             {
-                "heroName": "ရဲဘော်မျိုးအောင် (ခ) ကိုပေါလူ",
+                "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
                 "fallenDay": "2022-03-14",
-                "heroAge": "",
+                "heroAge": "18",
                 "heroGender": "m",
                 "fallenCity": "လွိုင်ကော်",
                 "fallenState": "ကယား",
@@ -22470,6 +22470,39 @@
                 "fallenState": "ကယား",
                 "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါရောက်ခူကျေးရွာ",
                 "heroPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ဒေါရောက်ခူကျေးရွာ",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+                "heroPlace": "",
+                "fallenCause": ""
+            },
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-12",
+                "heroAge": "",
+                "heroGender": "m",
+                "fallenCity": "ဒီးမော့ဆို",
+                "fallenState": "ကယား",
+                "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+                "heroPlace": "",
                 "fallenCause": ""
             }
         ],

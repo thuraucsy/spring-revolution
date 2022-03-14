@@ -2046,6 +2046,17 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝီသဲကူး(မြောက်ရွာ)",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
+            "fallenDay": "2022-03-14",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "19": [
@@ -26745,6 +26756,39 @@
             "fallenDay": "2022-03-12",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ကော့ကရိတ်",
             "fallenState": "ကရင်",
             "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
@@ -26793,17 +26837,6 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
             "heroPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
-            "fallenCause": "ကျည်မှန်"
-        },
-        {
-            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ကိုပေါလူ",
-            "fallenDay": "2022-03-14",
-            "heroAge": "",
-            "heroGender": "m",
-            "fallenCity": "လွိုင်ကော်",
-            "fallenState": "ကယား",
-            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
-            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -29623,6 +29656,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
+            "fallenDay": "2022-03-14",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "10th": [
@@ -32198,6 +32242,17 @@
             "fallenState": "စစ်ကိုင်း",
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
+            "fallenDay": "2022-03-14",
+            "heroAge": "18",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
+            "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
         }
     ],

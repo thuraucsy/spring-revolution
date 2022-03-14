@@ -24718,6 +24718,39 @@
             "fallenDay": "2022-03-12",
             "heroAge": "",
             "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒီးမော့ဆို",
+            "fallenState": "ကယား",
+            "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
             "fallenCity": "ကော့ကရိတ်",
             "fallenState": "ကရင်",
             "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
@@ -24793,9 +24826,9 @@
             "fallenCause": "ကျည်မှန်"
         },
         {
-            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ကိုပေါလူ",
+            "heroName": "ရဲဘော်မျိုးအောင် (ခ) ပေါလု",
             "fallenDay": "2022-03-14",
-            "heroAge": "",
+            "heroAge": "18",
             "heroGender": "m",
             "fallenCity": "လွိုင်ကော်",
             "fallenState": "ကယား",
