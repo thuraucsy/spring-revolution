@@ -1451,6 +1451,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ဦးဆန်းဝင်း",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "လွိုင်ကော်",
+            "fallenState": "ကယား",
+            "fallenPlace": "",
+            "heroPlace": "လွိုင်ကော်မြို့နယ်၊ ပန်ကန်းရွာ",
+            "fallenCause": "သတ်ဖြတ်ခံရ"
         }
     ]
 }
