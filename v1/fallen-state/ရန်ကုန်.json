@@ -975,9 +975,9 @@
             "heroGender": "m",
             "fallenCity": "လှိုင်",
             "fallenState": "ရန်ကုန်",
-            "fallenPlace": "",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
+            "fallenPlace": "လှိုင်မြို့နယ်၊ သံဈေး အင်းစိန်လမ်း",
+            "heroPlace": "မြိတ်မြို့နယ်",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         },
         {
             "heroName": "ကိုဝဏ္ဏအောင်",
