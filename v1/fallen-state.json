@@ -18528,6 +18528,28 @@
             "fallenCause": "လက်နက်ကြီးမှန်"
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
             "heroName": "မသဲအိဖြူ",
             "fallenDay": "2022-03-12",
             "heroAge": "15",
@@ -18548,6 +18570,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
+            "heroPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "ရှမ်း": [
@@ -24023,6 +24056,17 @@
             "heroName": "Salai Van Than Simeon",
             "fallenDay": "2022-03-05",
             "heroAge": "21",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဆလိုင်းယေရှဲ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
             "heroGender": "m",
             "fallenCity": "Unknown",
             "fallenState": "Unknown",

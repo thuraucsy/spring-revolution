@@ -24003,6 +24003,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "ဆလိုင်းယေရှဲ",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-12",
             "heroAge": "",
@@ -24011,6 +24022,28 @@
             "fallenState": "ကရင်",
             "fallenPlace": "ကော့ကရိတ်-မြ၀တီ အာရှလမ်းမကြီးပေါ်",
             "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-12",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "တန့်ဆည်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
+            "heroPlace": "တန့်ဆည်မြို့နယ်၊ ချောင်းရိုးရွာ",
             "fallenCause": "ကျည်မှန်"
         },
         {
@@ -24045,6 +24078,17 @@
             "fallenPlace": "နွားထိုးကြီးမြို့နယ် သာယာကုန်းရွာ မြင်းခြံ-နွားထိုးကြီး လမ်းပိုင်း",
             "heroPlace": "",
             "fallenCause": "Jan-18 မြင်းမူတွင် ဖမ်းဆီးခံ၇ကာ Mar-12 တွင် အလောင်းတွေ့"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ချောင်းဦး",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
+            "heroPlace": "ချောင်းဦးမြို့နယ်၊ ရွှေလှေရွာ",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
