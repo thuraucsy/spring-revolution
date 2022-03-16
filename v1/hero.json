@@ -24375,6 +24375,17 @@
             "fallenPlace": "",
             "heroPlace": "အရာတော်မြို့နယ်၊ ညောင်ပင်ကန်ရွာ",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး စစ်တပ်အတွင်း ညင်းပန်းနှိပ်စက်ခံရကာသေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ကန်ပက်လက်မြို့နယ်၊ စမ္မသားရွာဟောင်းအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
