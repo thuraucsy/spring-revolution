@@ -98,6 +98,17 @@
             "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၆၂ လမ်း",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုငြိမ်းချမ်း",
+            "fallenDay": "2022-03-14",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ဒဂုံဆိပ်ကမ်း",
+            "fallenState": "ရန်ကုန်",
+            "fallenPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ၁၆၈ ရပ်ကွက်",
+            "heroPlace": "ဒဂုံဆိပ်ကမ်းမြို့နယ်၊ ၁၆၈ ရပ်ကွက်၊ သီရိကျော်ထင်လမ်း",
+            "fallenCause": "ရိုက်သတ်ခံရ"
         }
     ]
 }
