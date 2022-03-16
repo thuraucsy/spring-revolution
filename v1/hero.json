@@ -23376,6 +23376,17 @@
             "fallenCause": "သတ်ဖြတ်ခံရ"
         },
         {
+            "heroName": "ကိုကျော်ဝင်းအောင်",
+            "fallenDay": "2022-03-04",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "",
             "fallenDay": "2022-03-04",
             "heroAge": "",
@@ -23671,6 +23682,17 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "ကိုအာကာစိုး",
+            "fallenDay": "2022-03-07",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "ကိုဇာနည်လင်း",

@@ -4016,6 +4016,17 @@
             "fallenCause": "မိုင်းမှန်"
         },
         {
+            "heroName": "ကိုကျော်ဝင်းအောင်",
+            "fallenDay": "2022-03-04",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
             "heroName": "နော်အယ်မူး",
             "fallenDay": "2022-03-05",
             "heroAge": "22",
@@ -4047,6 +4058,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကျောက်ဆည်ကန်တိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "လေကြောင်းဖြင့် တိုက်ခိုက်ခံရ"
+        },
+        {
+            "heroName": "ကိုအာကာစိုး",
+            "fallenDay": "2022-03-07",
+            "heroAge": "24",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "မအဲလစ်စ်ဘတ်",
