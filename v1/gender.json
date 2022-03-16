@@ -23629,6 +23629,17 @@
             "fallenPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "heroPlace": "တန့်ဆည်မြို့နယ်၊ စိမ်းစားရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "မနုနုဝင်း",
+            "fallenDay": "2022-03-15",
+            "heroAge": "24",
+            "heroGender": "f",
+            "fallenCity": "အောင်မြေသာစံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း၊ လမ်း ၈၀ နှင့် ၁၂လမ်း အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ],
     "unknown": [
@@ -24335,17 +24346,6 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
-        },
-        {
-            "heroName": "",
-            "fallenDay": "2022-03-15",
-            "heroAge": "",
-            "heroGender": "",
-            "fallenCity": "အောင်မြေသာစံ",
-            "fallenState": "မန္တလေး",
-            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း",
-            "heroPlace": "",
-            "fallenCause": "ကျည်မှန်"
         }
     ]
 }

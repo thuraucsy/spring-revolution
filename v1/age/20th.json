@@ -4069,6 +4069,17 @@
             "fallenPlace": "ဒီးမော့ဆိုမြို့နယ်၊ ကုန်းသာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "မနုနုဝင်း",
+            "fallenDay": "2022-03-15",
+            "heroAge": "24",
+            "heroGender": "f",
+            "fallenCity": "အောင်မြေသာစံ",
+            "fallenState": "မန္တလေး",
+            "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း၊ လမ်း ၈၀ နှင့် ၁၂လမ်း အနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
