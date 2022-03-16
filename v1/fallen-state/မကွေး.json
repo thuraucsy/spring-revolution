@@ -1726,6 +1726,17 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဖောင်တော်ဦးရပ်ကွက်",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ရေစကြို",
+            "fallenState": "မကွေး",
+            "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဝက်ခုတ်ရွာ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
