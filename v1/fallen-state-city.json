@@ -3496,6 +3496,19 @@
                 "heroPlace": "",
                 "fallenCause": "ကျည်မှန်"
             }
+        ],
+        "အောင်မြေသာစံ": [
+            {
+                "heroName": "",
+                "fallenDay": "2022-03-15",
+                "heroAge": "",
+                "heroGender": "",
+                "fallenCity": "အောင်မြေသာစံ",
+                "fallenState": "မန္တလေး",
+                "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း",
+                "heroPlace": "",
+                "fallenCause": "ကျည်မှန်"
+            }
         ]
     },
     "နေပြည်တော်": {
