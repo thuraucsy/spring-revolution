@@ -21471,6 +21471,28 @@
             "fallenPlace": "ရေစကြိုမြို့နယ်၊ ဝက်ခုတ်ရွာ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးသိန်းလင်း",
+            "fallenDay": "2022-03-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ မုံရွာယာကြီး ကလေး၀လမ်းပိုင်း ၅ မိုင်တိုးဂိတ်အနီး",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ ကွေ့ချောင်းရွာ",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဦးသိန်းနိုင်",
+            "fallenDay": "2022-03-15",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်ရွာရေကန်အနီး",
+            "heroPlace": "ယင်းမာပင်မြို့နယ်၊ လက်ပန်ရွာ",
+            "fallenCause": "ကျည်မှန်၊ ဦးခေါင်းသို့ကျည်မှန်"
         }
     ],
     "f": [
