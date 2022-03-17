@@ -32,6 +32,39 @@
             "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "ဗိုလ်ထွန်းတောက်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဗိုလ်ချစ်မွှေး",
+            "fallenDay": "2022-03-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ဗိုလ်ဉာဏ်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "Unknown",
+            "fallenState": "Unknown",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
