@@ -373,6 +373,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

@@ -1143,6 +1143,28 @@
             "fallenPlace": "မိုးဗြဲမြို့၊ ဝါရီဆူးပလိုင်ကျေးရွာ",
             "heroPlace": "မိုးဗြဲမြို့၊ ပွဲကုန်း (၁) ရပ်ကွက်",
             "fallenCause": "Feb-6 တွင် ဖမ်းဆီးခံ၇ကာ Feb-9 တွင် သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုသိန်းထူး",
+            "fallenDay": "2022-03-16",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

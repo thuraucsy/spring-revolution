@@ -3392,6 +3392,17 @@
             "fallenPlace": "ချမ်းမြသာစည်မြို့နယ်၊ ၇၈ လမ်း၊ ပိတောက်လမ်းနှင့် သိပ္ပံလမ်းကြား",
             "heroPlace": "မန္တလေးမြို့၊ စက်မှု ၁ ရပ်",
             "fallenCause": "ဗုံးမှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းထူး",
+            "fallenDay": "2022-03-16",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "21": [
@@ -6033,6 +6044,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": "မိုင်းမှန်"
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ],
     "27": [
@@ -39949,6 +39971,28 @@
             "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း၊ လမ်း ၈၀ နှင့် ၁၂လမ်း အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "ကိုသိန်းထူး",
+            "fallenDay": "2022-03-16",
+            "heroAge": "20",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
+        },
+        {
+            "heroName": "ကိုအောင်ကျော်",
+            "fallenDay": "2022-03-16",
+            "heroAge": "26",
+            "heroGender": "m",
+            "fallenCity": "ဖယ်ခုံ",
+            "fallenState": "ရှမ်း",
+            "fallenPlace": "ဖယ်ခုံမြိုနယ်၊ဆောင်ကန်းရွာတိုက်ပွဲ",
+            "heroPlace": "",
+            "fallenCause": ""
         },
         {
             "heroName": "Salai Lal Ro Pui",
