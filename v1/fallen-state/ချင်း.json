@@ -1299,6 +1299,17 @@
             "fallenCause": ""
         },
         {
+            "heroName": "",
+            "fallenDay": "2022-03-16",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "ကန်ပက်လက်",
+            "fallenState": "ချင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": "လက်နက်ကြီးမှန်"
+        },
+        {
             "heroName": "Salai Lal Ro Pui",
             "fallenDay": "2022-03-17",
             "heroAge": "23",
