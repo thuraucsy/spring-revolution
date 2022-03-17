@@ -2793,6 +2793,17 @@
             "fallenPlace": "လွိုင်ကော်မြို့၊ ကယန်းသာယာရွာနှင့် ထီတရိကျေးရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-17",
+            "heroAge": "5",
+            "heroGender": "f",
+            "fallenCity": "ယင်းမာပင်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ယင်းမာပင်မြို့နယ်၊ ဖိုလ်ဝင်တောင်လမ်းခွဲအနီး",
+            "heroPlace": "",
+            "fallenCause": "ကျည်မှန်"
         }
     ]
 }
