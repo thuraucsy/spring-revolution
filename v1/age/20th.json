@@ -4124,6 +4124,17 @@
             "fallenPlace": "အောင်မြေသာစံမြို့နယ်၊ ကျုံးမြောက်ဘက်ခြမ်း၊ လမ်း ၈၀ နှင့် ၁၂လမ်း အနီး",
             "heroPlace": "",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "Salai Lal Ro Pui",
+            "fallenDay": "2022-03-17",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ရိခေါ်ဒါရ်မြို့ တပ်စခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

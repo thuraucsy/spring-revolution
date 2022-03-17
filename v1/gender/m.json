@@ -21592,6 +21592,17 @@
             "fallenPlace": "ကန်ပက်လက်မြို့နယ်၊ စမ္မသားရွာဟောင်းအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "Salai Lal Ro Pui",
+            "fallenDay": "2022-03-17",
+            "heroAge": "23",
+            "heroGender": "m",
+            "fallenCity": "ဖလမ်း",
+            "fallenState": "ချင်း",
+            "fallenPlace": "ဖလမ်းမြို့နယ်၊ ရိခေါ်ဒါရ်မြို့ တပ်စခန်းအနီး",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }
