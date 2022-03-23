@@ -703,6 +703,17 @@
             "fallenPlace": "လေးကေ့ကော်ဒုက္ခသည်စခန်း",
             "heroPlace": "",
             "fallenCause": "ဒုက္ခသည်စခန်းတွင် သေဆုံး"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-17",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

@@ -11681,6 +11681,17 @@
             "fallenPlace": "",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-17",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

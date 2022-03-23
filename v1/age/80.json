@@ -21,6 +21,17 @@
             "fallenPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
             "heroPlace": "ကျိုက်ထိုမြို့နယ်၊ မုပ္ပလင်ကျေးရွာ",
             "fallenCause": "ကျည်မှန်"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-18",
+            "heroAge": "80",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မရကန်ရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မရကန်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }

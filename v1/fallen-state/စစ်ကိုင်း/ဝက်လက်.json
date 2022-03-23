@@ -164,6 +164,17 @@
             "fallenPlace": "ဝက်လက်မြို့နယ်၊ တလိုင်းရွာအနီး",
             "heroPlace": "",
             "fallenCause": "ဖမ်းဆီးခံရအပြီး သတ်ဖြတ်ခံရ"
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-17",
+            "heroAge": "",
+            "heroGender": "",
+            "fallenCity": "ဝက်လက်",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "",
+            "heroPlace": "",
+            "fallenCause": ""
         }
     ]
 }

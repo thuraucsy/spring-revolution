@@ -21669,6 +21669,17 @@
             "fallenPlace": "ဖလမ်းမြို့နယ်၊ ရိခေါ်ဒါရ်မြို့ တပ်စခန်းအနီး",
             "heroPlace": "",
             "fallenCause": ""
+        },
+        {
+            "heroName": "",
+            "fallenDay": "2022-03-18",
+            "heroAge": "80",
+            "heroGender": "m",
+            "fallenCity": "ဒီပဲယင်း",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "ဒီပဲယင်းမြို့နယ်၊ မရကန်ရွာ",
+            "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မရကန်ရွာ",
+            "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
     ]
 }
