@@ -25231,5 +25231,62 @@
             "heroPlace": "ဒီပဲယင်းမြို့နယ်၊ မရကန်ရွာ",
             "fallenCause": "မီးရှို့သတ်ဖြတ်ခံရ"
         }
+    ],
+    "2022-04-17": [
+        {
+            "heroName": "ကိုဇွဲမာန်အောင်",
+            "fallenDay": "2022-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ တောပုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းသန့်ကျော်",
+            "fallenDay": "2022-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ တောပုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုရာဇာထွန်း",
+            "fallenDay": "2022-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ တောပုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုနိုင်ဝဏ္ဏ",
+            "fallenDay": "2022-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ တောပုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ပစ်သတ်ခံရ"
+        },
+        {
+            "heroName": "ကိုမင်းခန့် (ခ) မိုးဒီ",
+            "fallenDay": "2022-04-17",
+            "heroAge": "",
+            "heroGender": "m",
+            "fallenCity": "မုံရွာ",
+            "fallenState": "စစ်ကိုင်း",
+            "fallenPlace": "မုံရွာမြို့နယ်၊ တောပုရွာ",
+            "heroPlace": "",
+            "fallenCause": "ဖမ်းဆီးခံရအပြီး ပစ်သတ်ခံရ"
+        }
     ]
 }
